@@ -31,15 +31,15 @@ This repository starts from its outputs.
 
 Strains are always processed and plotted in this phylogenetic order. *B. minutum* (clade B) is separated from the *Symbiodinium* strains (clade A) in all figures.
 
-| Key | Species | Clade | Proteome source | ID namespace note |
+| Key | Species | Clade | Proteome source | Assembly accession |
 |---|---|---|---|---|
-| `Spil` | *Symbiodinium pilosum* | A | GCA_905231905.1 (Spil_CCMP2461)  | |
-| `Snat` | *Symbiodinium natans* | A | GCA_905221605.1 (Snat_CCMP2548) | |
-| `Stri` | *Symbiodinium tridacnidorum* | A | GCA_905221615.1 (Stri_CCMP2592) | |
-| `Slin` | *Symbiodinium linucheae* | A | GCA_905221635.1 (Slin_CCMP2456) | |
-| `Snec` | *Symbiodinium necroappetens* | A | GCA_905231915.1 (Snec_CCMP2469) | |
-| `Smic` | *Symbiodinium microadriaticum* | A | GCA_001939145.1 (ASM193914v1) | Key `Smic_jgi` is used in all folder and file names; IDs follow `jgi\|Symmic1\|NUM_rnaNUM` |
-| `Bmin` | *Breviolum minutum* | B | GCA_000507305.1 (ASM50730v1) | Canonical ID `symbB.v1.2.NNNNNN.tN` is extracted by regex because FASTA headers and annotation files differ |
+| `Spil` | *Symbiodinium pilosum* | A | JGI PhycoCosm | GCA_905231905.1 (Spil_CCMP2461)  |
+| `Snat` | *Symbiodinium natans* | A | NCBI Genome | GCA_905221605.1 (Snat_CCMP2548) |
+| `Stri` | *Symbiodinium tridacnidorum* | A | NCBI Genome | GCA_905221615.1 (Stri_CCMP2592) |
+| `Slin` | *Symbiodinium linucheae* | A | NCBI Genome | GCA_905221635.1 (Slin_CCMP2456) |
+| `Snec` | *Symbiodinium necroappetens* | A | NCBI Genome | GCA_905231915.1 (Snec_CCMP2469) |
+| `Smic` | *Symbiodinium microadriaticum* | A | NCBI Genome | GCA_001939145.1 (ASM193914v1) |
+| `Bmin` | *Breviolum minutum* | B | NCBI Genome | GCA_000507305.1 (ASM50730v1) |
 
 Strain keys, plotting order, and colours are defined once in [`config/strains.tsv`](config/strains.tsv) and read by every script and notebook.
 
