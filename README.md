@@ -60,13 +60,13 @@ symbiodiniaceae-secretome-analysis/
 │   ├── config.yaml                # root paths (relative to the repository)
 │   └── strains.tsv                # strain keys, order, clade, colours
 ├── 01_secretome_prediction/       # how pipeline outputs were generated and collected
-├── 02_functional_annotation/      # eggNOG-mapper + InterProScan + Foldseek union → GO_final / Pfam_final;
-│                                  # dbCAN, MEROPS, EffectorP, lectin classification
-├── 03_orthology/                  # OrthoFinder inference; orthogroup secretome tagging
+├── 02_orthology/                  # OrthoFinder inference; orthogroup secretome tagging
 │                                  # (Secretome only / Non-secretome only / Mixed)
+├── 03_functional_annotation/      # eggNOG-mapper + InterProScan + Foldseek union → GO_final / Pfam_final;
+│                                  # dbCAN and MEROPS classification
 ├── 04_pfam_enrichment/            # Fisher's exact tests with BH correction, pooled and per strain
-├── 05_secretion_evolution/        # gene trees and parsimony reconstruction of signal-peptide gain/loss
-├── 06_exoproteome_overlap/        # prediction vs. LC-MS/MS detection overlap (Smic, Snat, Bmin)
+├── 05_exoproteome_overlap/        # prediction vs. LC-MS/MS detection overlap (Smic, Snat, Bmin)
+├── 06_secretion_evolution/        # gene trees and parsimony reconstruction of signal-peptide gain/loss
 ├── 07_figures_tables/             # one notebook or script per main/supplementary figure and table
 └── data/
     ├── README.md                  # where the large input and intermediate files are archived
@@ -85,7 +85,7 @@ Inside each numbered folder:
 
 | Context | Used for | Environment |
 |---|---|---|
-| HPC cluster (PBS Pro, NVIDIA A100) | annotation, OrthoFinder/MMseqs2-GPU, Foldseek | `envs/annotation.yml`, `envs/orthology.yml` |
+| HPC cluster (PBS Pro, NVIDIA A100) | annotation, OrthoFinder, Foldseek | `envs/annotation.yml`, `envs/orthology.yml` |
 | Google Colab or local machine (tested on Apple M2) | enrichment, overlap, gene-tree analyses, figures | `envs/analysis.yml` |
 
 ```bash
@@ -95,7 +95,7 @@ conda activate secretome-analysis
 
 The PBS scripts assume a PBS Pro scheduler. Edit the resource lines (`#PBS -l …`) and module/conda activation lines for your cluster.
 
-Several tools need separate licences or databases (SignalP 6.0, TargetP 2.0 and DeepLoc 2.1 from DTU Health Tech; eggNOG, InterPro, AlphaFold/Swiss-Prot Foldseek and dbCAN databases). See each folder's `README.md`.
+Several tools need separate licences or databases (eggNOG, InterProScan, Foldseek, dbCAN and MEROPS databases). See each folder's `README.md`.
 
 ---
 
@@ -105,7 +105,7 @@ Large files are **not** stored in this repository:
 
 | Data | Location |
 |---|---|
-| Input proteomes (7 strains) | <!-- TODO: original sources / accessions --> |
+| Input proteomes (7 strains) | See [`data/README.md`](data/README.md) |
 | Predicted secretomes (SP+ and SP−, FASTA) | <!-- TODO: Zenodo DOI --> |
 | Annotation tables, OrthoFinder results | <!-- TODO: Zenodo DOI --> |
 | LC-MS/MS exoproteome raw data | <!-- TODO: PRIDE / jPOST accession --> |
@@ -125,11 +125,11 @@ Large files are **not** stored in this repository:
 
 1. **Download** the archived data into `data/` (see [`data/README.md`](data/README.md)) and set `root` in `config/config.yaml`.
 2. **Predict secretomes** with [secretome_pipeline_repo](https://github.com/Ruiyuan-Kirk-LIU/secretome_pipeline_repo) (CD-HIT → SignalP 6.0 → DeepLoc 2.1 → DeepTMHMM → TargetP 2.0 → ASAFind 2.0 → ER-retention filter), or use the archived secretome FASTA files. Collect them with `01_secretome_prediction/`.
-3. **Annotate** whole proteomes on the HPC (`02_functional_annotation/hpc/`). Then merge eggNOG-mapper, InterProScan and Foldseek outputs into `GO_final` / `Pfam_final` (`02_functional_annotation/scripts/`).
-4. **Infer orthogroups** with OrthoFinder (`03_orthology/hpc/`), then tag them by secretion status (`03_orthology/scripts/`). The manuscript uses the MCL-level orthogroups in `Orthogroups.tsv`, not the N0 hierarchical orthogroups.
+3. **Infer orthogroups** with OrthoFinder (`02_orthology/hpc/`), then tag them by secretion status (`03_orthology/scripts/`). The manuscript uses the MCL-level orthogroups in `Orthogroups.tsv`.
+4. **Annotate** whole proteomes on the HPC (`03_functional_annotation/hpc/`). Then merge eggNOG-mapper, InterProScan and Foldseek outputs into `GO_final` / `Pfam_final` (`03_functional_annotation/scripts/`).
 5. **Test Pfam enrichment** in secretome vs. non-secretome proteins (`04_pfam_enrichment/`).
-6. **Reconstruct secretion evolution** on gene trees of selected orthogroups (`05_secretion_evolution/`).
-7. **Compare** predictions with exoproteome detections (`06_exoproteome_overlap/`).
+6. **Compare** predictions with exoproteome detections (`05_exoproteome_overlap/`).
+7. **Reconstruct secretion evolution** on gene trees of selected orthogroups (`06_secretion_evolution/`).
 8. **Generate figures and tables** (`07_figures_tables/`). Figures are written as PDF, SVG and PNG (600 dpi).
 
 Steps 5–8 run from `data/processed/` alone.
@@ -138,19 +138,23 @@ Steps 5–8 run from `data/processed/` alone.
 
 ## Figure and table map
 
-<!-- TODO: update numbers to the final manuscript -->
 
 | Item | Content | Script / notebook | Main input |
 |---|---|---|---|
-| Fig. 1 | Secretome sizes (SP+ / SP−) | `07_figures_tables/fig1_…` | secretome FASTA files |
-| Fig. 2 | Functional classification (CAZymes, peptidases, effector-like candidates, lectins) | `07_figures_tables/fig2_…` | annotation tables |
-| Fig. 3 | Orthogroup membership and conservation | `07_figures_tables/fig3_…` | `orthogroup_secretome_tagging_wide.tsv` |
-| Fig. 4 | Pfam domain enrichment | `07_figures_tables/fig4_…` | `pfam_enrichment_secretome_vs_background.tsv` |
-| Fig. 5 | Secretion evolution of representative enzyme orthogroups | `07_figures_tables/fig5_…` | gene trees |
-| Fig. 6 | Summary schematic | — (drawn manually) | — |
-| Table 1 | Candidate orthogroups | `07_figures_tables/table1_…` | |
-| Fig. S… | | | |
-| Table S1 | Secretome-associated orthogroups | `07_figures_tables/tableS1_…` | |
+| Fig. 1  | Proteome sizes, completeness and predicted secretome sizes (SP+ / SP−) | `07_figures_tables/fig1_…` | proteomes, secretome FASTA files |
+| Fig. S1 | | `07_figures_tables/figS1_…` | |
+| Fig. 2  | Orthogroups and secretion status | `07_figures_tables/fig2_…` | `orthogroup_secretome_tagging_wide.tsv` |
+| Fig. S2 | | `07_figures_tables/figS2_…` | |
+| Fig. 3  | Pfam domain enrichment | `07_figures_tables/fig3_…` | `pfam_enrichment_secretome_vs_background.tsv` |
+| Fig. S3 | | `07_figures_tables/figS3_…` | |
+| Fig. 4  | Functional classification (CAZymes and peptidases) | `07_figures_tables/fig4_…` | annotation tables |
+| Fig. 5  | Prediction and detection overlaps | `07_figures_tables/fig5_…` | secretome FASTA files, LC-MS/MS raw data, annotation tables |
+| Fig. S5 | | `07_figures_tables/figS5_…` | |
+| Fig. 6  | Secretion evolution of representative enzyme orthogroups | `07_figures_tables/fig6_…` | orthogroup, gene trees |
+| Fig. S6 | | `07_figures_tables/figS6_…` | |
+| Fig. 7  | Summary schematic | — (drawn manually) | — |
+| Table S1 | Candidate orthogroups | `07_figures_tables/table1_…` | |
+| Table S2 | Secretome-associated orthogroups | `07_figures_tables/tableS1_…` | |
 
 ---
 
@@ -160,12 +164,13 @@ Steps 5–8 run from `data/processed/` alone.
 
 | Tool | Version | Step | Reference |
 |---|---|---|---|
-| CD-HIT | <!-- TODO --> | redundancy removal | Fu *et al.* (2012) *Bioinformatics* 28:3150–3152 |
+| CD-HIT | 4.8.1 | redundancy removal | Fu *et al.* (2012) *Bioinformatics* 28:3150–3152 |
 | SignalP | 6.0 | signal peptides | Teufel *et al.* (2022) *Nat Biotechnol* 40:1023–1025 |
 | DeepLoc | 2.1 | localisation | Ødum *et al.* (2024) *Nucleic Acids Res* 52:W215–W220 |
-| DeepTMHMM | <!-- TODO --> | transmembrane helices | Hallgren *et al.* (2022) bioRxiv 2022.04.08.487609 |
+| DeepTMHMM | 1.0 | transmembrane helices | Hallgren *et al.* (2022) bioRxiv 2022.04.08.487609 |
 | TargetP | 2.0 | organelle targeting | Almagro Armenteros *et al.* (2019) *Life Sci Alliance* 2:e201900429 |
 | ASAFind | 2.0 | plastid targeting | Gruber *et al.* (2015) *Plant J* 81:519–528 |
+| NetGPI  | 1.1 | GPI-anchored | G'islason *et al.* (2015) *Curr Res Biotechnol* 3:6-13 |
 | eggNOG-mapper | 2.1.12 | annotation | Cantalapiedra *et al.* (2021) *Mol Biol Evol* 38:5825–5829 |
 | InterProScan | 5.75-106.0 | annotation | Jones *et al.* (2014) *Bioinformatics* 30:1236–1240 |
 | Foldseek | 10.941cd33 | structure-based annotation (`afdb_swissprot`) | van Kempen *et al.* (2024) *Nat Biotechnol* 42:243–246 |
@@ -173,7 +178,7 @@ Steps 5–8 run from `data/processed/` alone.
 | MEROPS | <!-- TODO: release --> | peptidases | Rawlings *et al.* (2018) *Nucleic Acids Res* 46:D624–D632 |
 | EffectorP | 3.0 | effector-like candidates | Sperschneider & Dodds (2022) *Mol Plant Microbe Interact* 35:146–156 |
 | OrthoFinder | 3.1.2 | orthogroups | <!-- TODO: citation for v3 --> |
-| MMseqs2 (GPU) | <!-- TODO --> | sequence search for OrthoFinder | Kallenborn *et al.* (2025) *Nat Methods* <!-- TODO: check --> |
+| MMseqs2 |  | sequence search for OrthoFinder | Kallenborn *et al.* (2025) *Nat Methods* <!-- TODO: check --> |
 | <!-- TODO: alignment, tree and parsimony tools --> | | secretion evolution | |
 | Python | <!-- TODO --> | analyses and figures | |
 
