@@ -2,7 +2,7 @@
 
 Analysis code for a comparative secretome study of seven Symbiodiniaceae strains (six *Symbiodinium* species and *Breviolum minutum*): functional annotation, orthogroup classification, Pfam domain enrichment, secretion-evolution gene trees, exoproteome overlap, and generation of all figures and tables in the manuscript.
 
-> **Manuscript:**  *Comparative secretomics reveals conserved enzymatic repertoires with divergent secretion in Symbiodiniaceae.* Liu R. *et al.* (under review).
+> **Manuscript:**  *Comparative secretomics reveals conserved enzymatic repertoires with divergent secretion in Symbiodiniaceae.* Liu, Y. *et al.* (under review).
 >
 > **Archived version of this repository:** <!-- Zenodo DOI of all versions after v0.0.1 release --> doi:10.5281/zenodo.24098913.
 
@@ -170,17 +170,17 @@ Steps 5–8 run from `data/processed/` alone.
 | DeepTMHMM | 1.0 | transmembrane helices | Hallgren *et al.* (2022) bioRxiv 2022.04.08.487609 |
 | TargetP | 2.0 | organelle targeting | Almagro Armenteros *et al.* (2019) *Life Sci Alliance* 2:e201900429 |
 | ASAFind | 2.0 | plastid targeting | Gruber *et al.* (2015) *Plant J* 81:519–528 |
-| NetGPI  | 1.1 | GPI-anchored | G'islason *et al.* (2015) *Curr Res Biotechnol* 3:6-13 |
+| NetGPI  | 1.1 | GPI-anchored | Gíslason *et al.* (2015) *Curr Res Biotechnol* 3:6-13 |
+| OrthoFinder | 3.1.2 | orthogroups | Emms *et al.* (2019) *Genome Biol* 20:238 |
+| MMseqs2 |  | sequence search for OrthoFinder | Steinegger *et al.* (2017) *Nat Biotechnol* 35:1026-1028 |
+| DendroBLAST | | gene tree for OrthoFinder | Kelly *et al.* (2013) *PLoS ONE* 8:e58537 |
 | eggNOG-mapper | 2.1.12 | annotation | Cantalapiedra *et al.* (2021) *Mol Biol Evol* 38:5825–5829 |
-| InterProScan | 5.75-106.0 | annotation | Jones *et al.* (2014) *Bioinformatics* 30:1236–1240 |
+| InterProScan | 5.75-106.0 | annotation | Blumn *et al.* (2025) *Nucleic Acids Res* 54:D444-D456 |
 | Foldseek | 10.941cd33 | structure-based annotation (`afdb_swissprot`) | van Kempen *et al.* (2024) *Nat Biotechnol* 42:243–246 |
-| dbCAN | 5 | CAZymes | <!-- TODO --> |
-| MEROPS | <!-- TODO: release --> | peptidases | Rawlings *et al.* (2018) *Nucleic Acids Res* 46:D624–D632 |
-| EffectorP | 3.0 | effector-like candidates | Sperschneider & Dodds (2022) *Mol Plant Microbe Interact* 35:146–156 |
-| OrthoFinder | 3.1.2 | orthogroups | <!-- TODO: citation for v3 --> |
-| MMseqs2 |  | sequence search for OrthoFinder | Kallenborn *et al.* (2025) *Nat Methods* <!-- TODO: check --> |
-| <!-- TODO: alignment, tree and parsimony tools --> | | secretion evolution | |
-| Python | <!-- TODO --> | analyses and figures | |
+| dbCAN | 5 | CAZymes | Zheng *et al.* (2023) *Nucleic Acids Res* 51:W115-W121 |
+| MEROPS | | peptidases | Rawlings *et al.* (2018) *Nucleic Acids Res* 46:D624–D632 |
+| IQ-TREE | 3 | secretion evolution | Wong *et al.* (2026) *Mol Biol Evol* 43:msag117 |
+| Python | 3.12 | analyses and figures | |
 
 ---
 
@@ -189,8 +189,7 @@ Steps 5–8 run from `data/processed/` alone.
 If you use this code, please cite the paper and the archived release:
 
 ```
-Liu R. et al. (YEAR) <title>. BMC Biology. doi:<!-- TODO -->
-Liu R. (YEAR) symbiodiniaceae-secretome-analysis v1.0.0. Zenodo. doi:10.5281/zenodo.XXXXXXX
+Liu, Y. et al. (2026) Symbiodiniaceae secretome analysis. Zenodo. Available at: https://doi.org/10.5281/zenodo.24098913.
 ```
 
 See also [`CITATION.cff`](CITATION.cff).
@@ -201,4 +200,4 @@ Released under the [MIT Licence](LICENSE).
 
 ## Contact
 
-Ruiyuan Liu, The University of Tokyo – <!-- TODO: email --> · issues and questions via [GitHub Issues](../../issues)
+Yuxin Liu, The University of Tokyo – [Email](ruiyuanliu0723@gmail.com).
