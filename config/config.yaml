@@ -1,0 +1,83 @@
+# Central configuration for symbiodiniaceae-secretome-analysis
+#
+# All paths are relative to `root`. By default `root` is the repository itself.
+# To run on Google Colab with data on Google Drive, override `root` in the first
+# notebook cell instead of editing paths here, e.g.
+#   CFG["root"] = "/content/drive/MyDrive/<your_folder>"
+
+root: "."
+
+strains_table: "config/strains.tsv"
+
+# ---------------------------------------------------------------------------
+# Data locations
+# ---------------------------------------------------------------------------
+data:
+  raw: "data/raw"                       # input proteomes (downloaded, not in git)
+  intermediate: "data/intermediate"     # large tool outputs (archived on Zenodo, not in git)
+  processed: "data/processed"           # small tables in git; enough to redraw all figures
+
+# Whole proteomes:      {raw}/proteomes/{file_prefix}.faa
+# Non-redundant (99%):  {intermediate}/proteomes_nr/{file_prefix}_nr99.faa
+proteomes:
+  dir: "data/raw/proteomes"
+  pattern: "{file_prefix}.faa"
+  nr_dir: "data/intermediate/proteomes_nr"
+  nr_pattern: "{file_prefix}_nr99.faa"
+
+# Final secretomes from secretome_pipeline_repo
+secretomes:
+  dir: "data/intermediate/secretomes"
+  sp_pos_pattern: "{file_prefix}/09_final/{file_prefix}_SP_pos_secretome_final.faa"
+  sp_neg_pattern: "{file_prefix}/09_final/{file_prefix}_SP_neg_secretome_final.faa"
+
+# ---------------------------------------------------------------------------
+# Analysis inputs and outputs
+# ---------------------------------------------------------------------------
+annotation:
+  dir: "data/intermediate/annotation"
+  pfam_final: "data/processed/ALL_whole_proteome_Pfam_final.tsv"   # comma-delimited domains
+  # TODO: add GO_final, dbCAN, MEROPS, EffectorP, lectin tables
+
+orthology:
+  orthofinder_dir: "data/intermediate/orthofinder"
+  orthogroups: "data/intermediate/orthofinder/Orthogroups/Orthogroups.tsv"   # MCL level used in the manuscript
+  species_tree: "data/intermediate/orthofinder/Species_Tree/SpeciesTree_Bmin_rooted.txt"
+  tagging_wide: "data/processed/orthogroup_secretome_tagging_wide.tsv"       # semicolon-delimited
+
+enrichment:
+  pfam_results: "data/processed/pfam_enrichment_secretome_vs_background.tsv"
+  alpha: 0.05
+  correction: "fdr_bh"            # statsmodels multipletests method
+
+exoproteome:
+  dir: "data/intermediate/exoproteome_overlap"
+  strains: ["Smic", "Snat", "Bmin"]
+  primary_threshold: "none"       # no-threshold overlap is primary
+  sensitivity_threshold: "moderate"
+
+secretion_evolution:
+  dir: "data/intermediate/secretion_evolution"   # TODO: gene trees, alignments, parsimony output
+
+# ---------------------------------------------------------------------------
+# Outputs
+# ---------------------------------------------------------------------------
+output:
+  figures: "results/figures"
+  tables: "results/tables"
+  figure_formats: ["pdf", "svg", "png"]
+  dpi: 600
+
+# ---------------------------------------------------------------------------
+# HPC (used only by */hpc/*.pbs job scripts)
+# ---------------------------------------------------------------------------
+hpc:
+  scheduler: "pbspro"
+  conda_module: ""                # e.g. the cluster's conda module; set locally
+  databases:
+    eggnog: ""                    # eggNOG data directory
+    interproscan_bin: ""          # path to interproscan.sh
+    foldseek_afdb_swissprot: ""
+    dbcan: ""
+    merops_pepunit: ""
+    effectorp_dir: ""

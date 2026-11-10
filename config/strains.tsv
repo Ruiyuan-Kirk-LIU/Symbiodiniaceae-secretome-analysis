@@ -1,0 +1,8 @@
+order	key	file_prefix	species	genus	clade	colour	ms_detected	id_regex	notes
+1	Spil	Spil	Symbiodinium pilosum	Symbiodinium	A	#2C7A7B	no		
+2	Snat	Snat	Symbiodinium natans	Symbiodinium	A	#2C7A7B	yes
+3	Stri	Stri	Symbiodinium tridacnidorum	Symbiodinium	A	#2C7A7B	no		
+4	Slin	Slin	Symbiodinium linucheae	Symbiodinium	A	#2C7A7B	no		
+5	Snec	Snec	Symbiodinium necroappetens	Symbiodinium	A	#2C7A7B	no		
+6	Smic	Smic_jgi	Symbiodinium microadriaticum	Symbiodinium	A	#2C7A7B	yes	jgi\|Symmic1\|\d+_rna\d+	Smic_jgi used as namespace key in all files
+7	Bmin	Bmin	Breviolum minutum	Breviolum	B	#7C4A6E	yes	symbB\.v1\.2\.\d{6}\.t\d+	canonical token extracted by regex; FASTA headers and annotation files differ

@@ -1,0 +1,36 @@
+# Downstream analysis and figure environment (Google Colab or local)
+# Used by: 01-07
+#
+# Local:   conda env create -f envs/analysis.yml
+#          conda activate secretome-analysis
+# Colab:   the same packages are installed with pip in the first cell of each notebook;
+#          record the versions actually used with
+#            !pip list --format=freeze | grep -iE "pandas|numpy|scipy|statsmodels|matplotlib|seaborn|biopython|logomaker|scikit-posthocs|ete3|pyyaml"
+#          and copy them into the pins below before tagging a release.
+
+name: secretome-analysis
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.12
+  # data handling
+  - pandas
+  - numpy
+  - pyyaml
+  - openpyxl               # Excel export of supplementary tables
+  - biopython              # FASTA parsing
+  # statistics
+  - scipy                  # Fisher's exact test, Mann-Whitney U
+  - statsmodels            # Benjamini-Hochberg correction
+  - scikit-posthocs        # Dunn's post-hoc tests
+  # plotting
+  - matplotlib
+  - seaborn
+  - logomaker              # signal-peptide cleavage-site logos
+  # trees (05_secretion_evolution)
+  - ete3                   # TODO: confirm; replace/add the tree and parsimony tools actually used
+  # notebooks
+  - jupyterlab
+  - ipykernel

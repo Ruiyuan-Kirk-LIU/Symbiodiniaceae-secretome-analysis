@@ -1,0 +1,29 @@
+# Orthology inference environment (HPC, NVIDIA A100)
+# Used by: 02_orthology/
+#
+# Create:  conda env create -f envs/orthology.yml
+# Record exact versions after creation:
+#          conda env export -n secretome-orthology --no-builds > envs/orthology.lock.yml
+#
+# MMseqs2 with GPU support: the conda build may be CPU-only. If so, use the official
+# GPU binary and put it first on PATH inside the job script:
+#   wget https://mmseqs.com/latest/mmseqs-linux-gpu.tar.gz
+#   tar xzf mmseqs-linux-gpu.tar.gz && export PATH="$PWD/mmseqs/bin:$PATH"
+# Record the exact version with `mmseqs version` and add it to the README table.
+#
+# The MMseqs2-GPU wrapper used with OrthoFinder is in 03_orthology/scripts/.
+
+name: secretome-orthology
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.11
+  - orthofinder=3.1.2
+  - mmseqs2
+  - diamond                # OrthoFinder default search tool, kept for completeness
+  - mafft                  # OrthoFinder MSA option
+  - dendroblast            # OrthoFinder MSA option
+  - fasttree               # OrthoFinder gene-tree option
+  - pandas

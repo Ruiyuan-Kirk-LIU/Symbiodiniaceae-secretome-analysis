@@ -1,0 +1,36 @@
+# Functional annotation environment (HPC)
+# Used by: 03_functional_annotation/
+#
+# Create:  conda env create -f envs/annotation.yml
+# Record exact versions after creation:
+#          conda env export -n secretome-annotation --no-builds > envs/annotation.lock.yml
+#
+# Not installable through conda; install separately and note the path in config/config.yaml:
+#   - InterProScan 5.75-106.0: download the release tarball from EBI
+#       https://www.ebi.ac.uk/interpro/download/InterProScan/
+#     (requires Java 11+, provided below)
+#
+# Databases (download once, paths set in config/config.yaml):
+#   - eggNOG 5 database      : download_eggnog_data.py
+#   - Foldseek afdb_swissprot: foldseek databases Alphafold/Swiss-Prot afdb_swissprot tmp
+#   - dbCAN v5 database      : run_dbcan database --db_dir <dir>
+#   - MEROPS peptidase units : pepunit.lib from https://www.ebi.ac.uk/merops/download_list.shtml
+#
+# If the solver struggles, split eggnog-mapper and dbcan into separate environments.
+
+name: secretome-annotation
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.11
+  - eggnog-mapper=2.1.12
+  - foldseek=10.941cd33
+  - dbcan=5
+  - diamond=2.1.22         # MEROPS searches
+  - openjdk=11             # InterProScan runtime
+  - perl                   # InterProScan helper scripts
+  - pandas
+  - biopython
+  - pyyaml
