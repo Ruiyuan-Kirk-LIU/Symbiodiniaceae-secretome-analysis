@@ -1,0 +1,42 @@
+cff-version: 0.0.2
+title: "Symbiodiniaceae secretome analysis"
+version: "0.0.2"
+type: publication
+license: "MIT"
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: "Liu"
+    given-names: "Yuxin"
+    affiliation: "The University of Tokyo"
+    orcid: "https://orcid.org/0000-0001-7252-5381"
+  - family-names: "Murakami"
+    given-names: "Swapnil Eishraq"
+    affiliation: "The University of Tokyo"
+  - family-names: "Nishimura"
+    given-names: "Yuki"
+    affiliation: "The University of Tokyo"
+    orcid: "https://orcid.org/0000-0002-7990-1316"
+  - family-names: "Tanifuji"
+    given-names: "Naoko"
+    affiliation: "The University of Tokyo"
+  - family-names: "Genot"
+    given-names: "Baptiste"
+    affiliation: "The University of Tokyo"
+    orcid: "https://orcid.org/0000-0001-9070-1772"
+  - family-names: "Matsunaga"
+    given-names: "Sachihiro"
+    affiliation: "The University of Tokyo"
+    orcid: "https://orcid.org/0000-0003-3024-3559"
+  - family-names: "Maruyama"
+    given-names: "Shinichiro"
+    affiliation: "The University of Tokyo"
+    orcid: "https://orcid.org/0000-0002-1128-5916"
+abstract: "Analysis code for a comparative secretome study of seven Symbiodiniaceae strains."
+keywords:
+  - Symbiodiniaceae
+  - free-living stage
+  - secretome prediction
+  - orthogroups
+  - carbohydrate-active enzymes
+  - secretion gain and loss
+  
