@@ -4,7 +4,7 @@ Analysis code for a comparative secretome study of seven Symbiodiniaceae strains
 
 > **Manuscript:**  *Comparative secretomics reveals conserved enzymatic repertoires with divergent secretion in Symbiodiniaceae.* Liu, Y. *et al.* (under review).
 >
-> **Archived version of this repository:** <!-- Zenodo DOI of all versions after v0.0.1 release --> doi:10.5281/zenodo.24098913.
+> **Archived version of this repository:** doi:[10.5281/zenodo.24098913.](https://doi.org/10.5281/zenodo.24098913)
 
 Secreted proteins were predicted with a separate, reusable pipeline:
 Liu, Y. (2026). **Secretome Prediction Pipeline (Version v0.1.1)** [Computer software]. *Zenodo*. https://doi.org/10.5281/zenodo.20712666.
@@ -106,8 +106,6 @@ Large files are **not** stored in this repository:
 | Data | Location |
 |---|---|
 | Input proteomes (7 strains) | See [`data/README.md`](data/README.md) |
-| Predicted secretomes (SP+ and SP−, FASTA) | <!-- TODO: Zenodo DOI --> |
-| Annotation tables, OrthoFinder results | <!-- TODO: Zenodo DOI --> |
 | LC-MS/MS exoproteome raw data | <!-- TODO: PRIDE / jPOST accession --> |
 
 `data/processed/` contains the small summary tables needed to regenerate every figure without rerunning the HPC steps. Key files:
