@@ -1,0 +1,11 @@
+Gene ID	EC#	dbCAN_hmm	dbCAN_sub	DIAMOND	#ofTools	Recommend Results	Substrate
+symbB.v1.2.001400.t1|scaffold75.1|size348941|\1	-	GH162(34-537)	GH162_e1(34-532)	GH162	3	GH162_e1	beta-glucan
+symbB.v1.2.002361.t1|scaffold110.1|size325157|\1	-	GT92(1243-1471)	-	-	1	-	-
+symbB.v1.2.009782.t1|scaffold574.1|size185248|\1	-	GH158(40-172)	GH158_e9(42-172)	-	2	GH158_e9	beta-glucan
+symbB.v1.2.011308.t1|scaffold755.1|size165019|\1	3.2.1.37:92;3.2.1.55:39	GH3(326-570)	GH3_e0(328-570)	-	2	GH3_e0	arabinan;xylan
+symbB.v1.2.019654.t1|scaffold1584.1|size110534|\1	3.2.1.1:2	GH13_32(51-326)	GH13_e23(51-326)	CBM20+GH13_32	3	GH13_32	alpha-glucan
+symbB.v1.2.021942.t1|scaffold1929.1|size95800|\1	-	CE1(60-211)	-	-	1	-	-
+symbB.v1.2.023972.t1|scaffold2236.1|size84961|\1	-	GH5_24(36-249)	GH5_e496(36-326)	-	2	GH5_24	-
+symbB.v1.2.029903.t1|scaffold3322.1|size91521|\1	-	GH2_1(19-665)	GH2_e237(141-665)	GH2_1	3	GH2_1	-
+symbB.v1.2.030764.t1|scaffold3497.1|size55369|\1	-	GH16_2(74-260)	GH16_e464(73-260)	-	2	GH16_2	-
+symbB.v1.2.036844.t1|scaffold5297.1|size28705|\1	-	GT47(165-316)	-	-	1	-	-

@@ -1,0 +1,47 @@
+Gene ID	EC#	dbCAN_hmm	dbCAN_sub	DIAMOND	#ofTools	Recommend Results	Substrate
+symbB.v1.2.002063.t1|scaffold76.1|size347525|\1	3.2.1.21:33;3.2.1.37:3;3.2.1.-:3	GH3(368-562)	GH3_e165(369-523)	-	2	GH3_e165	beta-glucan;xylan;xyloglucan
+symbB.v1.2.002449.t1|scaffold99.1|size346285|\1	-	GH16_1(144-370)	GH16_e580(141-372)	-	2	GH16_1	-
+symbB.v1.2.004044.t1|scaffold228.1|size260974|\1	-	GH123_3(338-558)	GH123_e38(85-555)	-	2	GH123_3	host glycan
+symbB.v1.2.005186.t1|scaffold298.1|size236510|\1	3.2.1.4:18	-	GH7_e3(92-300)	-	1	-	cellulose
+symbB.v1.2.006744.t1|scaffold407.1|size210838|\1	3.2.1.14:2	GH18(51-473)	GH18_e334(52-473)	-	2	GH18_e334	chitin
+symbB.v1.2.007002.t1|scaffold419.1|size210307|\1	-	GH16_1(240-451)	GH16_e270(241-450)	-	2	GH16_1	-
+symbB.v1.2.007384.t1|scaffold446.1|size204660|\1	-	GH13_22(98-377)	GH13_e332(98-487)	GH13_22	3	GH13_22	-
+symbB.v1.2.008520.t1|scaffold527.1|size293072|\1	3.2.1.20:2	GH31_1(349-863)	GH31_e22(349-863)	GH31_1	3	GH31_1	alpha-glucan
+symbB.v1.2.009309.t1|scaffold591.1|size328851|\1	-	GH128(39-228)	GH128_e65(41-228)	-	2	GH128_e65	beta-glucan
+symbB.v1.2.010481.t1|scaffold662.1|size175323|\1	-	GT92(185-407)	GT92_e24(186-408)	-	2	GT92_e24	-
+symbB.v1.2.010754.t1|scaffold708.1|size170785|\1	-	AA2(105-329)	-	-	1	-	-
+symbB.v1.2.011002.t1|scaffold687.1|size172701|\1	-	GH152(193-358)	-	-	1	-	-
+symbB.v1.2.012024.t1|scaffold791.1|size175533|\1	-	GH18(23-244)	-	-	1	-	-
+symbB.v1.2.013607.t1|scaffold968.1|size148170|\1	-	GH17(163-384)+GT25(536-714)	GT25_e193(536-715)	-	2	GH17|GT25_e193	-
+symbB.v1.2.014569.t1|scaffold1068.1|size140200|\1	-	GT47(166-458)	GT47_e2(168-458)	-	2	GT47_e2	-
+symbB.v1.2.014665.t1|scaffold1075.1|size141427|\1	3.2.1.146:3	GH5_13(52-273)	GH5_e221(52-270)	-	2	GH5_13	arabinogalactan
+symbB.v1.2.015076.t1|scaffold1096.1|size138270|\1	-	GT77(1256-1473)	-	-	1	-	-
+symbB.v1.2.015415.t1|scaffold1150.1|size135223|\1	2.4.1.149:8	GT31(63-274)	GT31_e11(62-275)	-	2	GT31_e11	-
+symbB.v1.2.017277.t3|scaffold1325.1|size176917|\1	-	-	-	GH18	1	-	-
+symbB.v1.2.017303.t1|scaffold1350.1|size123852|\1	-	GH128(114-345)	GH128_e65(117-345)	-	2	GH128_e65	beta-glucan
+symbB.v1.2.017934.t1|scaffold1406.1|size338231|\1	-	GH158(31-170)	-	-	1	-	-
+symbB.v1.2.018492.t1|scaffold1477.1|size133841|\1	3.2.1.91:4	GH6(274-599)	GH6_e42(272-598)	-	2	GH6_e42	cellulose
+symbB.v1.2.019025.t1|scaffold1541.1|size112753|\1	3.2.1.39:2	GH16_3(169-421)	GH16_e252(175-427)	-	2	GH16_3	beta-glucan
+symbB.v1.2.020752.t1|scaffold1763.1|size102666|\1	-	-	CE1_e74(41-222)	-	1	-	-
+symbB.v1.2.021772.t1|scaffold1821.1|size219240|\1	-	GT17(85-376)	GT17_e17(90-312)	-	2	GT17_e17	-
+symbB.v1.2.022116.t1|scaffold1904.1|size96468|\1	3.2.1.37:92;3.2.1.55:39	GH3(84-331)	GH3_e0(82-334)	GH3	3	GH3_e0	arabinan;xylan
+symbB.v1.2.024326.t1|scaffold2287.1|size83372|\1	-	GH15(108-482)	GH15_e48(115-482)	-	2	GH15_e48	-
+symbB.v1.2.024887.t1|scaffold2388.1|size114014|\1	3.2.1.46:2	GH59(25-547)	GH59_e12(25-547)	GH59	3	GH59_e12	glycolipid
+symbB.v1.2.025531.t1|scaffold2483.1|size114807|\1	-|-	GH13_1(93-660)	GH13_e435(93-201)+GH13_e332(437-659)	GH13_22	3	GH13_1	-
+symbB.v1.2.026151.t1|scaffold2591.1|size75417|\1	3.1.1.-:2	CE13(31-317)	CE13_e0(32-315)	-	2	CE13_e0	pectin
+symbB.v1.2.026678.t1|scaffold2684.1|size75764|\1	3.2.1.50:13	GH89(83-779)	GH89_e3(84-779)	GH89	3	GH89_e3	host glycan
+symbB.v1.2.026947.t1|scaffold2734.1|size73225|\1	3.2.1.4:2;3.2.1.132:6;3.2.1.176:83|-	GH7(24-255)+GH7(332-771)	GH7_e0(25-255)+GH7_e8(323-771)	CBM1+GH7+GH7	3	GH7_e0|GH7_e8	cellulose;chitosan
+symbB.v1.2.027249.t1|scaffold2780.1|size77252|\1	-	GH15(84-300)	GH15_e76(85-303)	-	2	GH15_e76	-
+symbB.v1.2.027552.t1|scaffold2836.1|size124613|\1	-	CBM13(49-176)	CBM13_e314(49-172)	-	2	CBM13_e314	xylan
+symbB.v1.2.027552.t2|scaffold2836.1|size124613|\1	-	CBM13(49-177)	CBM13_e314(49-172)	-	2	CBM13_e314	xylan
+symbB.v1.2.028072.t1|scaffold2936.1|size66856|\1	-	GH55_1(326-597)	GH55_e10(327-598)	-	2	GH55_1	-
+symbB.v1.2.028120.t1|scaffold2946.1|size66664|\1	3.2.1.1:3	GH13_22(104-347)	GH13_e160(105-347)	-	2	GH13_22	alpha-glucan
+symbB.v1.2.029224.t1|scaffold3173.1|size63673|\1	-	AA1(63-296)	-	-	1	-	-
+symbB.v1.2.029500.t1|scaffold3238.1|size60479|\1	3.2.1.28:15	GH37(45-300)	GH37_e10(46-293)	-	2	GH37_e10	trehalose
+symbB.v1.2.029703.t1|scaffold3180.1|size61892|\1	-	GT92(199-432)	-	-	1	-	-
+symbB.v1.2.029919.t1|scaffold3323.1|size59064|\1	-	GH29(28-349)	GH29_e181(28-347)	-	2	GH29_e181	host glycan
+symbB.v1.2.031919.t1|scaffold3673.1|size52203|\1	-	GT92(186-407)	-	-	1	-	-
+symbB.v1.2.034847.t1|scaffold4572.1|size43354|\1	3.2.1.25:5	GH2_13(52-410)	GH2_e24(42-410)	-	2	GH2_13	beta-mannan
+symbB.v1.2.035813.t1|scaffold4908.1|size33077|\1	-	CE13(40-291)	CE13_e3(40-215)	-	2	CE13_e3	pectin
+symbB.v1.2.035963.t1|scaffold4768.1|size35182|\1	-	GH194(198-378)	-	-	1	-	-
+symbB.v1.2.036138.t1|scaffold5033.1|size31628|\1	-	GH55_1(281-542)	GH55_e32(279-536)	-	2	GH55_1	-

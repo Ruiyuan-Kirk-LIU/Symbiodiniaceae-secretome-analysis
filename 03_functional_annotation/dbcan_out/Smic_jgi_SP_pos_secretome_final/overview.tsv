@@ -1,0 +1,38 @@
+Gene ID	EC#	dbCAN_hmm	dbCAN_sub	DIAMOND	#ofTools	Recommend Results	Substrate
+jgi_Symmic1_12808_rna38742	3.2.1.26:80;3.2.1.80:7;3.2.1.153:13;3.2.1.154:4	GH32(42-345)	GH32_e69(44-353)	-	2	GH32_e69	fructan
+jgi_Symmic1_13803_rna39179	3.2.1.-:4	GH125(49-452)	GH125_e1(49-452)	GH125	3	GH125_e1	-
+jgi_Symmic1_13847_rna156	-	GH16_21(168-336)	-	-	1	-	-
+jgi_Symmic1_1408_rna31569	-	GH172(83-319)	-	-	1	-	-
+jgi_Symmic1_1488_rna6775	-	GH7(20-461)	GH7_e8(12-461)	GH7	3	GH7_e8	-
+jgi_Symmic1_16695_rna12358	-	GH16_1(164-362)	GH16_e356(147-360)	-	2	GH16_1	-
+jgi_Symmic1_17370_rna2044	-	GT47(796-1096)	GT47_e2(812-1096)	-	2	GT47_e2	-
+jgi_Symmic1_17911_rna2137	-	GH49(212-507)	-	-	1	-	-
+jgi_Symmic1_20310_rna14673	-	GH16_3(77-325)	GH16_e378(77-325)	-	2	GH16_3	-
+jgi_Symmic1_2111_rna6919	-	GH5_31(51-324)	GH5_e483(51-324)	-	2	GH5_31	-
+jgi_Symmic1_21329_rna2659	-	GT90(257-540)	GT90_e1(389-539)	-	2	GT90_e1	-
+jgi_Symmic1_21409_rna15378	-	-	GH26_e188(152-334)	-	1	-	-
+jgi_Symmic1_2273_rna32162	-	GT15(682-895)	GT15_e7(615-894)	-	2	GT15_e7	-
+jgi_Symmic1_2334_rna7000	-	GH29(23-344)	GH29_e181(24-344)	-	2	GH29_e181	host glycan
+jgi_Symmic1_24120_rna17294	-	GT8(57-339)	GT8_e209(64-337)	-	2	GT8_e209	-
+jgi_Symmic1_25541_rna18205	-	-	GH141_e36(90-512)	-	1	-	-
+jgi_Symmic1_29212_rna20732	3.2.1.39:5|1.1.99.18:3	AA3_1(193-692)	CBM13_e183(32-184)+AA3_e37(197-475)	-	2	CBM13_e183|AA3_1	cellulose;xylan
+jgi_Symmic1_30314_rna4035	-	CE2(167-395)	CE2_e34(167-363)	-	2	CE2_e34	xylan
+jgi_Symmic1_32403_rna22910	3.2.1.113:20	-	GH47_e12(110-405)	-	1	-	host glycan
+jgi_Symmic1_32696_rna23110	3.2.1.1:4	GH13_32(347-640)	GH13_e381(347-643)	-	2	GH13_32	alpha-glucan
+jgi_Symmic1_33554_rna23746	-	-	-	GT3	1	-	-
+jgi_Symmic1_33_rna32	3.2.1.146:3	GH5_13(880-1184)	GH5_e221(881-1184)	-	2	GH5_13	arabinogalactan
+jgi_Symmic1_3480_rna33042	3.2.1.2:129	GH14(53-230)	GH14_e0(53-395)	-	2	GH14_e0	alpha-glucan
+jgi_Symmic1_36415_rna25765	-	GT8(298-575)	GT8_e209(400-575)	-	2	GT8_e209	-
+jgi_Symmic1_37174_rna5215	-	GT47(63-357)	GT47_e37(220-357)	-	2	GT47_e37	-
+jgi_Symmic1_39450_rna5640	-	GH162(35-534)	GH162_e1(35-534)	GH162	3	GH162_e1	beta-glucan
+jgi_Symmic1_40276_rna5817	-	-	GT34_e12(33-150)	-	1	-	-
+jgi_Symmic1_42230_rna6183	-	GH13_1(74-301)	GH13_e286(74-300)	-	2	GH13_1	-
+jgi_Symmic1_42474_rna29991	-	AA3_2(190-715)	AA3_e110(190-718)	-	2	AA3_2	-
+jgi_Symmic1_42651_rna30128	-	GH5_4(108-382)	GH5_e534(120-383)	-	2	GH5_4	-
+jgi_Symmic1_42986_rna6398	-	GH72(137-494)	GH72_e12(139-493)	-	2	GH72_e12	beta-glucan
+jgi_Symmic1_6345_rna34958	-	GH2_17(282-733)	GH2_e223(57-739)	-	2	GH2_17	-
+jgi_Symmic1_6796_rna35244	-	-	-	GH141	1	-	-
+jgi_Symmic1_7595_rna8473	-	GH51_4(262-676)	GH51_e20(262-674)	-	2	GH51_4	-
+jgi_Symmic1_799_rna6606	-	GH152(106-362)	GH152_e34(106-359)	-	2	GH152_e34	beta-glucan
+jgi_Symmic1_8339_rna8725	-	GH187(916-1259)	GH187_e1(917-1234)	-	2	GH187_e1	fucoidan
+jgi_Symmic1_8769_rna36460	2.4.1.183:3;2.4.1.-:2|2.4.1.183:22;2.4.1.-:6	-	GT5_e44(56-286)+GT5_e25(299-470)	-	1	-	-

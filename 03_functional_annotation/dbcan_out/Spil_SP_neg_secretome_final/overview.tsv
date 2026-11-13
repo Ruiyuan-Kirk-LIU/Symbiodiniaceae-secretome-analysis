@@ -1,0 +1,5 @@
+Gene ID	EC#	dbCAN_hmm	dbCAN_sub	DIAMOND	#ofTools	Recommend Results	Substrate
+CAE7217221.1	-	-	-	GH13_31	1	-	-
+CAE7594530.1	3.2.1.4:18	-	GH7_e3(79-285)	-	1	-	cellulose
+CAE7648486.1	-	GH78(328-806)	GH78_e140(409-790)	-	2	GH78_e140	-
+CAE7766258.1	-	GH158(509-641)	GH158_e0(509-641)	-	2	GH158_e0	beta-glucan
