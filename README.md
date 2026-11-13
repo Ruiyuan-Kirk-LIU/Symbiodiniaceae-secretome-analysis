@@ -106,6 +106,7 @@ Large files are **not** stored in this repository:
 | Data | Location |
 |---|---|
 | Input proteomes (7 strains) | See [`data/README.md`](data/README.md) |
+| Functional annotation of Symbiodiniaceae proteome | Liu, Y. et al. (2026) “Functional annotation of Symbiodiniaceae proteome”. Zenodo. Available at: [https://doi.org/10.5281/zenodo.24190496](https://doi.org/10.5281/zenodo.24190496). |
 
 
 `data/processed/` contains the small summary tables needed to regenerate every figure without rerunning the HPC steps. Key files:
