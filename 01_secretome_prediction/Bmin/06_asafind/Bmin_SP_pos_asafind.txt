@@ -1,0 +1,1070 @@
+Identifier	TargetP-2.0	ASAFind cleavage position	ASAFind cleavage site sequence	ASAFind/TargetP-2.0 cleavage site offset	ASAFind 20aa score, default scoring table with small sample correction	ASAFind 2.0 Prediction, score threshold = 0.3100298026055153, with FWYL check
+symbB.v1.2.000027.t1_scaffold12.1_size699752_7	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.000068.t1_scaffold2.1_size812218_22	SP	23	CWA-YNQ	0	0.115821003	Plastid, low confidence
+symbB.v1.2.000068.t2_scaffold2.1_size812218_22	SP	23	CWA-YNQ	0	0.115821003	Plastid, low confidence
+symbB.v1.2.000071.t2_scaffold2.1_size812218_25	SP	18	ALA-EKD	0	0.100835529	Not plastid, signal peptide identified
+symbB.v1.2.000071.t3_scaffold2.1_size812218_25	SP	18	ALA-EKD	0	0.100835529	Not plastid, signal peptide identified
+symbB.v1.2.000252.t1_scaffold18.1_size444001_9	SP	21	QVA-QPG	-2	0.101421029	Not plastid, signal peptide identified
+symbB.v1.2.000269.t1_scaffold20.1_size571870_14	SP	21	ISA-TEE	0	0.105388044	Not plastid, signal peptide identified
+symbB.v1.2.000355.t1_scaffold10.1_size534768_8	SP	22	SQA-EEA	0	0.083259477	Not plastid, signal peptide identified
+symbB.v1.2.000405.t1_scaffold30.1_size407774_21	SP	24	TQL-TAC	2	0.176322453	Not plastid, signal peptide identified
+symbB.v1.2.000445.t1_scaffold32.1_size405148_18	SP	27	GSG-GTS	1	0.180330032	Not plastid, signal peptide identified
+symbB.v1.2.000465.t1_scaffold11.1_size528188_14	SP	20	VAA-DIL	0	0.129465746	Not plastid, signal peptide identified
+symbB.v1.2.000533.t1_scaffold31.1_size418471_29	SP	21	QWG-QDV	0	0.117664340	Not plastid, signal peptide identified
+symbB.v1.2.000640.t1_scaffold7.1_size571927_8	SP	28	VTV-GLP	-1	0.271041705	Not plastid, signal peptide identified
+symbB.v1.2.000642.t1_scaffold7.1_size571927_10	SP	26	PCT-FAT	-2	0.666827140	Plastid, low confidence
+symbB.v1.2.000661.t1_scaffold35.1_size400642_5	SP	21	VHG-HKP	0	0.172439673	Not plastid, signal peptide identified
+symbB.v1.2.000669.t1_scaffold35.1_size400642_13	SP	16	AMG-FDC	0	0.565977220	Plastid, high confidence
+symbB.v1.2.000676.t1_scaffold35.1_size400642_20	SP	20	VAA-VRP	0	0.242699473	Not plastid, signal peptide identified
+symbB.v1.2.000696.t1_scaffold41.1_size391900_13	SP	23	GSY-GAS	2	0.186878986	Not plastid, signal peptide identified
+symbB.v1.2.000724.t1_scaffold29.1_size409896_4	SP	23	SGA-FTS	-2	0.694526260	Plastid, low confidence
+symbB.v1.2.000777.t1_scaffold42.1_size391715_6	SP	29	ANA-VAT	2	0.162075651	Not plastid, signal peptide identified
+symbB.v1.2.000786.t1_scaffold42.1_size391715_15	SP	18	HLA-HSS	-2	0.133073879	Not plastid, signal peptide identified
+symbB.v1.2.000802.t1_scaffold44.1_size390916_15	SP	20	GPA-FTE	-2	0.631063852	Plastid, low confidence
+symbB.v1.2.000824.t1_scaffold49.1_size384103_8	SP	23	CKE-LHR	2	0.147684972	Plastid, low confidence
+symbB.v1.2.000857.t1_scaffold37.1_size397765_29	SP	21	LSS-RVT	1	0.167101971	Not plastid, signal peptide identified
+symbB.v1.2.000909.t1_scaffold27.1_size414596_17	SP	37	VSA-EHG	0	0.086876647	Not plastid, signal peptide identified
+symbB.v1.2.000913.t1_scaffold27.1_size414596_21	SP	20	VVA-DVE	0	0.164486040	Not plastid, signal peptide identified
+symbB.v1.2.000992.t1_scaffold43.1_size391093_21	SP	20	SAA-PLR	1	0.120081233	Not plastid, signal peptide identified
+symbB.v1.2.001013.t1_scaffold52.1_size380577_3	SP	28	KCD-RSG	1	0.157931767	Not plastid, signal peptide identified
+symbB.v1.2.001028.t1_scaffold52.1_size380577_18	SP	29	VVA-QET	0	0.145807868	Not plastid, signal peptide identified
+symbB.v1.2.001052.t1_scaffold33.1_size517934_4	SP	22	GKG-GTG	2	0.266869187	Not plastid, signal peptide identified
+symbB.v1.2.001065.t1_scaffold33.1_size517934_17	SP	17	GVA-TDL	0	0.133244729	Not plastid, signal peptide identified
+symbB.v1.2.001074.t1_scaffold33.1_size517934_26	SP	18	PWG-ETI	-2	0.141943382	Not plastid, signal peptide identified
+symbB.v1.2.001090.t1_scaffold33.1_size517934_42	SP	18	AKA-SES	0	0.126861106	Not plastid, signal peptide identified
+symbB.v1.2.001132.t1_scaffold46.1_size430244_23	SP	20	VNG-HGV	0	0.146774836	Not plastid, signal peptide identified
+symbB.v1.2.001148.t1_scaffold47.1_size388503_3	SP	20	SQA-YGR	0	0.115239014	Plastid, low confidence
+symbB.v1.2.001191.t1_scaffold50.1_size381796_6	SP	16	GLA-DIL	0	0.136870924	Not plastid, signal peptide identified
+symbB.v1.2.001243.t1_scaffold63.1_size477159_14	SP	20	SLA-QVQ	0	0.099044726	Not plastid, signal peptide identified
+symbB.v1.2.001275.t1_scaffold64.1_size360880_7	SP	26	NGS-NDW	1	0.114461049	Not plastid, signal peptide identified
+symbB.v1.2.001283.t1_scaffold68.1_size354569_5	SP	17	AIA-FVC	0	0.646676916	Plastid, high confidence
+symbB.v1.2.001300.t1_scaffold57.1_size370615_9	SP	30	GLM-AAT	2	0.181490036	Not plastid, signal peptide identified
+symbB.v1.2.001342.t1_scaffold73.1_size366217_6	SP	33	AVV-YGE	-2	0.166093415	Plastid, low confidence
+symbB.v1.2.001353.t1_scaffold69.1_size353428_8	SP	21	LVA-SMD	-1	0.086272374	Not plastid, signal peptide identified
+symbB.v1.2.001373.t1_scaffold71.1_size352893_16	SP	26	ALA-LSL	0	0.248384161	Plastid, low confidence
+symbB.v1.2.001484.t1_scaffold48.1_size388161_17	SP	15	TLA-YGA	-2	0.106339575	Plastid, low confidence
+symbB.v1.2.001490.t1_scaffold48.1_size388161_23	SP	21	SNS-YPP	0	0.226690133	Plastid, low confidence
+symbB.v1.2.001518.t1_scaffold83.1_size345278_2	SP	19	LQG-CDN	0	0.077955778	Not plastid, signal peptide identified
+symbB.v1.2.001558.t1_scaffold70.1_size352959_8	SP	19	TQG-TCD	-2	0.079611940	Not plastid, signal peptide identified
+symbB.v1.2.001589.t1_scaffold88.1_size340390_24	SP	19	QSA-YDA	0	0.141881183	Plastid, low confidence
+symbB.v1.2.001697.t1_scaffold93.1_size335462_12	SP	22	SLA-LGR	-2	0.152905489	Plastid, low confidence
+symbB.v1.2.001705.t1_scaffold61.1_size362833_4	SP	21	SAA-FQE	2	0.617255477	Plastid, low confidence
+symbB.v1.2.001824.t1_scaffold97.1_size333048_28	SP	17	SMA-FGS	-2	0.582963848	Plastid, low confidence
+symbB.v1.2.001847.t1_scaffold77.1_size347087_18	SP	23	AAS-FCD	2	0.631728884	Plastid, low confidence
+symbB.v1.2.001943.t2_scaffold55.1_size374282_25	SP	18	EFL-FAV	-2	0.674307777	Plastid, low confidence
+symbB.v1.2.002031.t1_scaffold104.1_size473687_9	SP	23	LAA-GET	-1	0.129278952	Not plastid, signal peptide identified
+symbB.v1.2.002055.t1_scaffold76.1_size347525_4	SP	18	GRS-FAK	2	0.622636444	Plastid, low confidence
+symbB.v1.2.002063.t1_scaffold76.1_size347525_12	SP	19	SGG-VSE	-2	0.120465130	Not plastid, signal peptide identified
+symbB.v1.2.002113.t1_scaffold106.1_size366728_1	SP	21	VEA-SSA	-2	0.167174486	Not plastid, signal peptide identified
+symbB.v1.2.002131.t1_scaffold106.1_size366728_19	SP	27	FTA-SSP	-1	0.273184683	Not plastid, signal peptide identified
+symbB.v1.2.002146.t1_scaffold116.1_size325063_3	SP	22	LGA-SGI	1	0.122246089	Not plastid, signal peptide identified
+symbB.v1.2.002201.t1_scaffold96.1_size336774_18	SP	15	ALA-NAD	-2	0.190696585	Not plastid, signal peptide identified
+symbB.v1.2.002329.t1_scaffold123.1_size315817_14	SP	19	ISA-EDI	0	0.142124735	Not plastid, signal peptide identified
+symbB.v1.2.002443.t1_scaffold126.1_size312799_7	SP	25	VLG-EEA	0	0.063596420	Not plastid, signal peptide identified
+symbB.v1.2.002443.t2_scaffold126.1_size312799_7	SP	25	VLG-EEA	0	0.063596420	Not plastid, signal peptide identified
+symbB.v1.2.002443.t3_scaffold126.1_size312799_7	SP	25	VLG-EEA	0	0.063596420	Not plastid, signal peptide identified
+symbB.v1.2.002449.t1_scaffold99.1_size346285_5	SP	20	VRA-EPD	0	0.063151488	Not plastid, signal peptide identified
+symbB.v1.2.002455.t1_scaffold99.1_size346285_11	SP	21	CSA-GPA	0	0.142279982	Not plastid, signal peptide identified
+symbB.v1.2.002594.t1_scaffold135.1_size305288_14	SP	13	TLA-QGT	-2	0.152872834	Not plastid, signal peptide identified
+symbB.v1.2.002599.t1_scaffold135.1_size305288_19	SP	18	CLG-FAE	-2	0.645886208	Plastid, low confidence
+symbB.v1.2.002610.t1_scaffold135.1_size305288_30	SP	32	TLP-EHR	0	0.128408024	Not plastid, signal peptide identified
+symbB.v1.2.002637.t1_scaffold139.1_size300179_20	SP	18	SDA-ASL	0	0.183807356	Not plastid, signal peptide identified
+symbB.v1.2.002702.t1_scaffold145.1_size471898_4	SP	24	HVA-SYG	-1	0.104761743	Not plastid, signal peptide identified
+symbB.v1.2.002707.t1_scaffold145.1_size471898_9	SP	22	SWA-QTE	-2	0.162767937	Not plastid, signal peptide identified
+symbB.v1.2.002743.t1_scaffold146.1_size298692_24	SP	18	ASA-RNP	0	0.277737148	Not plastid, signal peptide identified
+symbB.v1.2.002746.t1_scaffold146.1_size298692_27	SP	32	SQA-NRL	0	0.177552066	Not plastid, signal peptide identified
+symbB.v1.2.002750.t1_scaffold141.1_size300911_1	SP	20	KAA-FQC	1	0.610068351	Plastid, low confidence
+symbB.v1.2.002828.t1_scaffold144.1_size299099_6	SP	23	RLR-GEL	-1	0.172116015	Not plastid, signal peptide identified
+symbB.v1.2.002946.t1_scaffold163.1_size290254_8	SP	25	NPS-FSL	-2	0.611915654	Plastid, low confidence
+symbB.v1.2.002964.t2_scaffold154.1_size328988_9	SP	18	SHG-LER	0	0.092118947	Plastid, low confidence
+symbB.v1.2.003054.t1_scaffold161.1_size290820_5	SP	16	TLA-VAS	-2	0.174625498	Not plastid, signal peptide identified
+symbB.v1.2.003209.t1_scaffold166.1_size289592_11	SP	15	FVA-SSQ	-2	0.111317836	Not plastid, signal peptide identified
+symbB.v1.2.003223.t1_scaffold181.1_size282934_4	SP	20	AAA-KGV	1	0.162758069	Not plastid, signal peptide identified
+symbB.v1.2.003270.t1_scaffold117.1_size318901_9	SP	18	GAT-FAR	-2	0.628763428	Plastid, low confidence
+symbB.v1.2.003282.t1_scaffold184.1_size280901_10	SP	19	VFG-HTK	-2	0.096558407	Not plastid, signal peptide identified
+symbB.v1.2.003282.t2_scaffold184.1_size280901_10	SP	19	VFG-HTK	-2	0.096558407	Not plastid, signal peptide identified
+symbB.v1.2.003294.t1_scaffold182.1_size414077_7	SP	14	AVA-AAE	-2	0.171828739	Not plastid, signal peptide identified
+symbB.v1.2.003300.t1_scaffold182.1_size414077_13	SP	20	VDA-YHC	0	0.137180156	Plastid, low confidence
+symbB.v1.2.003352.t1_scaffold172.1_size290804_18	SP	27	ATA-EVS	0	0.142477810	Not plastid, signal peptide identified
+symbB.v1.2.003399.t2_scaffold190.1_size276550_24	SP	29	SGA-ELR	1	0.070399657	Not plastid, signal peptide identified
+symbB.v1.2.003469.t1_scaffold149.1_size460148_8	SP	17	ATA-LPA	0	0.176034634	Plastid, low confidence
+symbB.v1.2.003610.t1_scaffold203.1_size271217_2	SP	22	GGA-VNE	0	0.116710839	Not plastid, signal peptide identified
+symbB.v1.2.003626.t1_scaffold203.1_size271217_18	SP	19	VGA-EIC	0	0.123534354	Not plastid, signal peptide identified
+symbB.v1.2.003658.t1_scaffold175.1_size369221_14	SP	18	VRG-DDV	0	0.115346643	Not plastid, signal peptide identified
+symbB.v1.2.003700.t1_scaffold206.1_size269131_7	SP	21	AVA-ELR	0	0.097119204	Not plastid, signal peptide identified
+symbB.v1.2.003841.t1_scaffold216.1_size293228_26	SP	22	LWA-SEE	0	0.112583999	Not plastid, signal peptide identified
+symbB.v1.2.003870.t1_scaffold211.1_size373615_11	SP	24	EST-YQP	1	0.236216057	Plastid, low confidence
+symbB.v1.2.003871.t1_scaffold211.1_size373615_12	SP	17	VLA-AHG	0	0.096583283	Not plastid, signal peptide identified
+symbB.v1.2.003930.t1_scaffold210.1_size302740_21	SP	19	TTA-LAA	-2	0.162783501	Plastid, low confidence
+symbB.v1.2.003949.t1_scaffold212.1_size265043_7	SP	17	ALA-HSP	0	0.246098060	Not plastid, signal peptide identified
+symbB.v1.2.004044.t1_scaffold228.1_size260974_13	SP	23	TLA-GRM	0	0.162086271	Not plastid, signal peptide identified
+symbB.v1.2.004092.t1_scaffold200.1_size464218_22	SP	47	ASA-DEG	0	0.079403604	Not plastid, signal peptide identified
+symbB.v1.2.004171.t1_scaffold233.1_size288367_2	SP	14	AYA-ADL	0	0.082088437	Not plastid, signal peptide identified
+symbB.v1.2.004181.t1_scaffold233.1_size288367_12	SP	24	ASA-KFP	0	0.180122371	Not plastid, signal peptide identified
+symbB.v1.2.004208.t1_scaffold215.1_size331178_1	SP	31	VNA-QDY	0	0.104834158	Not plastid, signal peptide identified
+symbB.v1.2.004257.t1_scaffold241.1_size254724_12	SP	21	TLA-MRV	0	0.141064894	Not plastid, signal peptide identified
+symbB.v1.2.004356.t1_scaffold240.1_size264318_12	SP	18	AHA-AKT	0	0.138176843	Not plastid, signal peptide identified
+symbB.v1.2.004401.t1_scaffold247.1_size253962_1	SP	19	TLG-IEL	0	0.134766222	Not plastid, signal peptide identified
+symbB.v1.2.004419.t1_scaffold237.1_size257402_9	SP	22	GLA-FRS	0	0.668525962	Plastid, high confidence
+symbB.v1.2.004455.t1_scaffold249.1_size274694_14	SP	17	AHA-HKA	0	0.156601864	Not plastid, signal peptide identified
+symbB.v1.2.004556.t1_scaffold245.1_size253980_13	SP	23	LPS-ERP	0	0.225203351	Not plastid, signal peptide identified
+symbB.v1.2.004566.t1_scaffold239.1_size255824_9	SP	20	SEA-EEL	0	0.136657836	Not plastid, signal peptide identified
+symbB.v1.2.004570.t1_scaffold253.1_size252469_3	SP	20	TTG-TVV	0	0.171703927	Not plastid, signal peptide identified
+symbB.v1.2.004584.t1_scaffold261.1_size248783_12	SP	22	VCA-GNP	0	0.299664367	Not plastid, signal peptide identified
+symbB.v1.2.004590.t2_scaffold261.1_size248783_18	SP	16	VVA-EEI	0	0.097363939	Not plastid, signal peptide identified
+symbB.v1.2.004590.t3_scaffold261.1_size248783_18	SP	16	VVA-EEI	0	0.097363939	Not plastid, signal peptide identified
+symbB.v1.2.004616.t1_scaffold255.1_size249928_6	SP	21	GLA-RSR	0	0.143243473	Not plastid, signal peptide identified
+symbB.v1.2.004648.t1_scaffold267.1_size279078_6	SP	18	VLS-LQV	0	0.168975932	Plastid, low confidence
+symbB.v1.2.004921.t1_scaffold281.1_size241006_2	SP	18	ADA-CTV	0	0.170277874	Not plastid, signal peptide identified
+symbB.v1.2.004939.t1_scaffold285.1_size239547_13	SP	28	VSQ-FTE	1	0.662573590	Plastid, low confidence
+symbB.v1.2.004941.t1_scaffold285.1_size239547_15	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.004975.t1_scaffold288.1_size478366_5	SP	18	LHA-GAQ	-2	0.228286250	Not plastid, signal peptide identified
+symbB.v1.2.005095.t1_scaffold234.1_size257806_14	SP	14	APA-TAV	-2	0.144789989	Not plastid, signal peptide identified
+symbB.v1.2.005169.t1_scaffold298.1_size236510_13	SP	20	SQA-PLS	2	0.171490100	Not plastid, signal peptide identified
+symbB.v1.2.005173.t1_scaffold298.1_size236510_17	SP	21	SQP-NAS	2	0.233910537	Not plastid, signal peptide identified
+symbB.v1.2.005186.t1_scaffold298.1_size236510_30	SP	23	ATA-AMP	0	0.258226916	Not plastid, signal peptide identified
+symbB.v1.2.005246.t1_scaffold304.1_size234131_5	SP	22	QVT-SVP	-1	0.286196963	Not plastid, signal peptide identified
+symbB.v1.2.005249.t1_scaffold304.1_size234131_8	SP	20	RLA-NGA	-2	0.102767161	Not plastid, signal peptide identified
+symbB.v1.2.005319.t1_scaffold283.1_size308953_20	SP	19	SRA-QTT	0	0.208253636	Not plastid, signal peptide identified
+symbB.v1.2.005319.t2_scaffold283.1_size308953_20	SP	19	SRA-QTT	0	0.208253636	Not plastid, signal peptide identified
+symbB.v1.2.005416.t1_scaffold316.1_size230253_31	SP	22	LRV-FSQ	-2	0.658884756	Plastid, low confidence
+symbB.v1.2.005419.t1_scaffold316.1_size230253_34	SP	30	HGA-TSD	-2	0.142688000	Not plastid, signal peptide identified
+symbB.v1.2.005484.t1_scaffold320.1_size229511_3	SP	21	VAA-QDR	0	0.062941216	Not plastid, signal peptide identified
+symbB.v1.2.005610.t1_scaffold324.1_size254390_7	SP	15	VAA-DGA	-2	0.107362269	Not plastid, signal peptide identified
+symbB.v1.2.005637.t1_scaffold309.1_size276354_18	SP	16	AAA-ELP	0	0.170834259	Not plastid, signal peptide identified
+symbB.v1.2.005690.t1_scaffold334.1_size226555_13	SP	24	VHL-LST	2	0.207484365	Plastid, low confidence
+symbB.v1.2.005749.t1_scaffold307.1_size232847_14	SP	31	TVA-TSD	-1	0.164009182	Not plastid, signal peptide identified
+symbB.v1.2.005754.t1_scaffold307.1_size232847_19	SP	29	EVS-FAP	-1	0.729102950	Plastid, low confidence
+symbB.v1.2.005846.t1_scaffold343.1_size224757_23	SP	20	VSA-SGK	0	0.089536432	Not plastid, signal peptide identified
+symbB.v1.2.005882.t1_scaffold345.1_size224439_7	SP	15	TGA-QSA	-2	0.208853765	Not plastid, signal peptide identified
+symbB.v1.2.005918.t1_scaffold347.1_size224350_13	SP	19	LVA-SDI	-1	0.124400368	Not plastid, signal peptide identified
+symbB.v1.2.005993.t1_scaffold276.1_size251734_15	SP	17	VHA-NLR	0	0.138415172	Not plastid, signal peptide identified
+symbB.v1.2.006025.t1_scaffold356.1_size220710_22	SP	19	ASA-LAP	0	0.228159744	Plastid, low confidence
+symbB.v1.2.006040.t1_scaffold339.1_size225540_4	SP	19	SQA-FKT	0	0.631260053	Plastid, high confidence
+symbB.v1.2.006162.t1_scaffold366.1_size218977_4	SP	17	TGS-DAG	1	0.200629741	Not plastid, signal peptide identified
+symbB.v1.2.006201.t1_scaffold355.1_size243294_11	SP	20	ADA-QAP	2	0.293180890	Not plastid, signal peptide identified
+symbB.v1.2.006283.t1_scaffold375.1_size220138_1	SP	26	QLS-RVS	2	0.142774801	Not plastid, signal peptide identified
+symbB.v1.2.006292.t1_scaffold375.1_size220138_10	SP	18	CVA-LPR	0	0.131340513	Plastid, low confidence
+symbB.v1.2.006346.t1_scaffold374.1_size218025_7	SP	20	SEA-LKT	0	0.174229227	Plastid, low confidence
+symbB.v1.2.006349.t1_scaffold374.1_size218025_10	SP	25	VTS-QQP	0	0.225833745	Not plastid, signal peptide identified
+symbB.v1.2.006365.t1_scaffold371.1_size308833_12	SP	15	AVA-MRQ	-1	0.088248156	Not plastid, signal peptide identified
+symbB.v1.2.006384.t1_scaffold358.1_size381540_7	SP	19	AAS-FLL	0	0.651894511	Plastid, high confidence
+symbB.v1.2.006446.t1_scaffold384.1_size215671_19	SP	19	HSA-LGD	-2	0.135479262	Plastid, low confidence
+symbB.v1.2.006482.t1_scaffold361.1_size299464_5	SP	19	CEG-DVE	2	0.115866479	Not plastid, signal peptide identified
+symbB.v1.2.006577.t1_scaffold362.1_size219673_9	SP	16	SIA-NGM	-2	0.076713584	Not plastid, signal peptide identified
+symbB.v1.2.006590.t1_scaffold393.1_size213714_3	SP	22	TSA-LPL	0	0.086624467	Plastid, low confidence
+symbB.v1.2.006632.t1_scaffold390.1_size254036_28	SP	21	VDA-SSA	0	0.173926704	Not plastid, signal peptide identified
+symbB.v1.2.006665.t1_scaffold372.1_size218212_17	SP	15	GSA-FAA	-2	0.660961240	Plastid, low confidence
+symbB.v1.2.006744.t1_scaffold407.1_size210838_3	SP	19	RDS-SCE	-2	0.085391336	Not plastid, signal peptide identified
+symbB.v1.2.006759.t1_scaffold405.1_size210896_15	SP	17	CDA-SSW	0	0.158665042	Not plastid, signal peptide identified
+symbB.v1.2.006879.t1_scaffold413.1_size265838_3	SP	23	CYG-NYL	0	0.092666234	Not plastid, signal peptide identified
+symbB.v1.2.006993.t1_scaffold426.1_size206518_8	SP	18	VYG-YKA	0	0.176544699	Plastid, low confidence
+symbB.v1.2.007002.t1_scaffold419.1_size210307_8	SP	17	QSD-SLP	-1	0.246628046	Not plastid, signal peptide identified
+symbB.v1.2.007099.t1_scaffold431.1_size205911_12	SP	17	TLA-TGM	-2	0.130750589	Not plastid, signal peptide identified
+symbB.v1.2.007103.t1_scaffold431.1_size205911_16	SP	26	TFV-GTP	-1	0.281971850	Not plastid, signal peptide identified
+symbB.v1.2.007134.t1_scaffold435.1_size205859_9	SP	16	NLQ-GTR	-1	0.134146588	Not plastid, signal peptide identified
+symbB.v1.2.007134.t2_scaffold435.1_size205859_9	SP	16	NLQ-GTR	-1	0.134146588	Not plastid, signal peptide identified
+symbB.v1.2.007222.t1_scaffold441.1_size205278_9	SP	31	GYK-FSQ	2	0.642950899	Plastid, low confidence
+symbB.v1.2.007250.t1_scaffold401.1_size211429_21	SP	16	YVA-STL	-2	0.160995974	Not plastid, signal peptide identified
+symbB.v1.2.007259.t1_scaffold401.1_size211429_30	SP	20	SCA-KLD	1	0.134420724	Not plastid, signal peptide identified
+symbB.v1.2.007269.t1_scaffold442.1_size205228_7	SP	18	HGA-AEP	1	0.208967622	Not plastid, signal peptide identified
+symbB.v1.2.007278.t1_scaffold438.1_size205425_6	SP	23	LEA-SKI	0	0.074961526	Not plastid, signal peptide identified
+symbB.v1.2.007371.t1_scaffold449.1_size202926_1	SP	24	VQA-VVV	0	0.145211537	Not plastid, signal peptide identified
+symbB.v1.2.007384.t1_scaffold446.1_size204660_3	SP	23	WCA-PRT	1	0.112267126	Not plastid, signal peptide identified
+symbB.v1.2.007385.t1_scaffold446.1_size204660_4	SP	21	IDA-INT	0	0.157558137	Not plastid, signal peptide identified
+symbB.v1.2.007407.t1_scaffold452.1_size203995_20	SP	17	GSA-ATE	0	0.158103776	Not plastid, signal peptide identified
+symbB.v1.2.007407.t2_scaffold452.1_size203995_20	SP	17	GSA-ATE	0	0.141821080	Not plastid, signal peptide identified
+symbB.v1.2.007601.t1_scaffold460.1_size201776_8	SP	23	ALA-KSL	0	0.151297248	Not plastid, signal peptide identified
+symbB.v1.2.007606.t1_scaffold467.1_size200107_1	SP	18	AEA-VRP	0	0.217806456	Not plastid, signal peptide identified
+symbB.v1.2.007606.t2_scaffold467.1_size200107_1	SP	18	AEA-VRP	0	0.217806456	Not plastid, signal peptide identified
+symbB.v1.2.007606.t3_scaffold467.1_size200107_1	SP	18	AEA-VRP	0	0.217806456	Not plastid, signal peptide identified
+symbB.v1.2.007841.t1_scaffold486.1_size197656_3	SP	16	CDA-VVL	0	0.152094560	Not plastid, signal peptide identified
+symbB.v1.2.007931.t1_scaffold495.1_size259991_15	SP	21	SSD-LCQ	2	0.132812420	Plastid, low confidence
+symbB.v1.2.007993.t1_scaffold496.1_size195705_17	SP	17	AYA-KRE	0	0.132121484	Not plastid, signal peptide identified
+symbB.v1.2.008012.t1_scaffold498.1_size458234_4	SP	25	GSS-NGK	2	0.123986879	Not plastid, signal peptide identified
+symbB.v1.2.008065.t1_scaffold504.1_size194584_1	SP	16	SAA-ETV	0	0.153184067	Not plastid, signal peptide identified
+symbB.v1.2.008148.t1_scaffold509.1_size193965_18	SP	22	LNA-QKV	0	0.105509627	Not plastid, signal peptide identified
+symbB.v1.2.008157.t1_scaffold510.1_size193565_7	SP	27	QST-GTP	-1	0.257487792	Not plastid, signal peptide identified
+symbB.v1.2.008161.t1_scaffold512.1_size193505_2	SP	15	VQA-ATP	0	0.294153242	Not plastid, signal peptide identified
+symbB.v1.2.008269.t1_scaffold518.1_size193124_10	SP	26	PDG-NIG	2	0.132556540	Not plastid, signal peptide identified
+symbB.v1.2.008380.t1_scaffold525.1_size192214_5	SP	22	QGS-DTV	1	0.157278975	Not plastid, signal peptide identified
+symbB.v1.2.008424.t1_scaffold529.1_size191693_9	SP	26	VKA-HDR	0	0.114351586	Not plastid, signal peptide identified
+symbB.v1.2.008427.t1_scaffold529.1_size191693_12	SP	20	TEA-KVP	0	0.246185248	Not plastid, signal peptide identified
+symbB.v1.2.008435.t1_scaffold530.1_size191304_3	SP	20	AAA-LGD	-2	0.116767798	Plastid, low confidence
+symbB.v1.2.008459.t1_scaffold474.1_size199077_2	SP	14	AFA-ASH	-2	0.157424599	Not plastid, signal peptide identified
+symbB.v1.2.008492.t1_scaffold535.1_size190655_12	SP	17	QAS-FLE	1	0.592258024	Plastid, low confidence
+symbB.v1.2.008520.t1_scaffold527.1_size293072_18	SP	23	VDA-VDR	0	0.117084509	Not plastid, signal peptide identified
+symbB.v1.2.008528.t2_scaffold532.1_size190944_2	SP	17	VSA-TPW	0	0.109906054	Not plastid, signal peptide identified
+symbB.v1.2.008529.t1_scaffold532.1_size190944_3	SP	17	VSA-MPW	0	0.109906054	Not plastid, signal peptide identified
+symbB.v1.2.008530.t1_scaffold532.1_size190944_4	SP	17	VSA-MPW	0	0.122652283	Not plastid, signal peptide identified
+symbB.v1.2.008599.t1_scaffold523.1_size192511_21	SP	29	GDA-PSP	2	0.295800716	Not plastid, signal peptide identified
+symbB.v1.2.008603.t1_scaffold523.1_size192511_25	SP	13	VLA-TCH	-2	0.070126564	Not plastid, signal peptide identified
+symbB.v1.2.008648.t1_scaffold540.1_size189765_13	SP	24	IEA-SEA	0	0.187957360	Not plastid, signal peptide identified
+symbB.v1.2.008705.t1_scaffold543.1_size336731_18	SP	17	VIA-QQH	0	0.177441384	Not plastid, signal peptide identified
+symbB.v1.2.008716.t1_scaffold545.1_size189104_1	SP	16	ASA-GGG	-2	0.082520907	Not plastid, signal peptide identified
+symbB.v1.2.008745.t1_scaffold544.1_size189386_2	SP	23	TLR-DHE	2	0.117482954	Not plastid, signal peptide identified
+symbB.v1.2.008748.t1_scaffold544.1_size189386_5	SP	24	AGS-IGT	-2	0.095772067	Not plastid, signal peptide identified
+symbB.v1.2.008767.t1_scaffold549.1_size255684_8	SP	17	VQG-WSP	0	0.285735892	Plastid, low confidence
+symbB.v1.2.008793.t1_scaffold536.1_size343967_9	SP	27	PVA-GQL	-1	0.182781899	Not plastid, signal peptide identified
+symbB.v1.2.008810.t1_scaffold536.1_size343967_26	SP	19	SCA-FGM	-2	0.574453906	Plastid, low confidence
+symbB.v1.2.008821.t1_scaffold536.1_size343967_37	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.008826.t1_scaffold533.1_size203693_5	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.008845.t1_scaffold553.1_size187910_6	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.008866.t1_scaffold558.1_size187683_7	SP	15	SLA-FAL	-2	0.636609334	Plastid, low confidence
+symbB.v1.2.008931.t1_scaffold563.1_size187063_8	SP	14	VSA-ASE	-2	0.140250275	Not plastid, signal peptide identified
+symbB.v1.2.009096.t1_scaffold573.1_size222803_5	SP	21	VHA-VVL	0	0.152452106	Not plastid, signal peptide identified
+symbB.v1.2.009192.t1_scaffold581.1_size274127_6	SP	19	TGA-LVP	1	0.281969524	Plastid, low confidence
+symbB.v1.2.009196.t1_scaffold581.1_size274127_10	SP	18	SYG-FSS	-2	0.681772674	Plastid, low confidence
+symbB.v1.2.009247.t1_scaffold586.1_size184225_3	SP	18	ISA-ESV	0	0.148108082	Not plastid, signal peptide identified
+symbB.v1.2.009276.t1_scaffold584.1_size184464_11	SP	19	ISG-ETP	0	0.332918691	Not plastid, signal peptide identified
+symbB.v1.2.009309.t1_scaffold591.1_size328851_18	SP	19	PLA-DAS	-2	0.165346916	Not plastid, signal peptide identified
+symbB.v1.2.009323.t1_scaffold585.1_size314277_13	SP	35	ALA-VKP	0	0.274719980	Not plastid, signal peptide identified
+symbB.v1.2.009334.t1_scaffold561.1_size520142_2	SP	17	AIA-EEG	0	0.105118330	Not plastid, signal peptide identified
+symbB.v1.2.009453.t1_scaffold601.1_size182750_17	SP	17	SLA-EED	0	0.099575901	Not plastid, signal peptide identified
+symbB.v1.2.009493.t1_scaffold590.1_size183855_5	SP	20	VAA-VDP	0	0.191564719	Not plastid, signal peptide identified
+symbB.v1.2.009496.t2_scaffold590.1_size183855_8	SP	23	GEA-RDC	0	0.075896193	Not plastid, signal peptide identified
+symbB.v1.2.009533.t1_scaffold576.1_size184938_7	SP	17	ANA-QQD	0	0.144118567	Not plastid, signal peptide identified
+symbB.v1.2.009540.t1_scaffold576.1_size184938_14	SP	20	TNA-LMM	0	0.151351130	Plastid, low confidence
+symbB.v1.2.009670.t1_scaffold589.1_size183863_5	SP	21	FVA-DGQ	-2	0.161545995	Not plastid, signal peptide identified
+symbB.v1.2.009764.t1_scaffold629.1_size183697_1	SP	21	ASL-FQP	2	0.716431346	Plastid, low confidence
+symbB.v1.2.009769.t1_scaffold629.1_size183697_6	SP	25	GYA-WMA	2	0.146100311	Plastid, low confidence
+symbB.v1.2.009799.t1_scaffold614.1_size180566_9	SP	20	DCA-ESI	1	0.200194846	Not plastid, signal peptide identified
+symbB.v1.2.009801.t1_scaffold614.1_size180566_11	SP	19	CDG-QSI	0	0.160244945	Not plastid, signal peptide identified
+symbB.v1.2.009824.t1_scaffold603.1_size182570_3	SP	20	VPG-RDL	0	0.114325150	Not plastid, signal peptide identified
+symbB.v1.2.009841.t1_scaffold628.1_size179110_4	SP	18	VLA-DVQ	0	0.158182149	Not plastid, signal peptide identified
+symbB.v1.2.009871.t1_scaffold632.1_size217234_10	SP	22	CAA-RIT	1	0.174335495	Not plastid, signal peptide identified
+symbB.v1.2.009885.t1_scaffold639.1_size181572_6	SP	27	PGA-SIY	1	0.124119205	Not plastid, signal peptide identified
+symbB.v1.2.009943.t1_scaffold642.1_size177528_6	SP	18	VNA-LDS	0	0.151526059	Plastid, low confidence
+symbB.v1.2.009964.t1_scaffold623.1_size335370_7	SP	22	SYA-HDL	0	0.135624053	Not plastid, signal peptide identified
+symbB.v1.2.010002.t1_scaffold645.1_size176818_1	SP	28	QLA-VPP	0	0.217697065	Not plastid, signal peptide identified
+symbB.v1.2.010052.t1_scaffold636.1_size252712_7	SP	22	GPS-FAE	-2	0.615348146	Plastid, low confidence
+symbB.v1.2.010052.t3_scaffold636.1_size252712_7	SP	22	GPS-FAE	-2	0.615348146	Plastid, low confidence
+symbB.v1.2.010052.t4_scaffold636.1_size252712_7	SP	22	GPS-FAE	-2	0.630585587	Plastid, low confidence
+symbB.v1.2.010135.t1_scaffold618.1_size180184_12	SP	18	AAA-FGQ	-2	0.584311068	Plastid, low confidence
+symbB.v1.2.010241.t1_scaffold667.1_size175007_24	SP	21	IPG-IPV	-2	0.172851805	Not plastid, signal peptide identified
+symbB.v1.2.010256.t1_scaffold670.1_size174347_7	SP	29	SSA-QVI	1	0.130081942	Not plastid, signal peptide identified
+symbB.v1.2.010335.t1_scaffold671.1_size323421_16	SP	19	QAA-PES	1	0.107383869	Not plastid, signal peptide identified
+symbB.v1.2.010381.t1_scaffold678.1_size173209_9	SP	19	ALA-TSE	-2	0.136577317	Not plastid, signal peptide identified
+symbB.v1.2.010421.t1_scaffold655.1_size176010_8	SP	16	TGA-ESS	-2	0.204690347	Not plastid, signal peptide identified
+symbB.v1.2.010437.t1_scaffold655.1_size176010_24	SP	19	SDA-DTA	0	0.151729589	Not plastid, signal peptide identified
+symbB.v1.2.010445.t1_scaffold634.1_size178258_2	SP	35	SSA-GVK	0	0.127435610	Not plastid, signal peptide identified
+symbB.v1.2.010481.t1_scaffold662.1_size175323_2	SP	19	LPA-IGQ	-2	0.168733210	Not plastid, signal peptide identified
+symbB.v1.2.010557.t1_scaffold694.1_size172116_20	SP	31	GTA-FSS	-2	0.647214343	Plastid, low confidence
+symbB.v1.2.010575.t1_scaffold695.1_size172077_3	SP	21	SMA-LPI	0	0.083211214	Plastid, low confidence
+symbB.v1.2.010602.t1_scaffold686.1_size316167_21	SP	14	PTA-VGY	-2	0.115932434	Not plastid, signal peptide identified
+symbB.v1.2.010643.t1_scaffold692.1_size172456_10	SP	18	VQA-QLL	0	0.157390652	Not plastid, signal peptide identified
+symbB.v1.2.010652.t1_scaffold698.1_size172485_1	SP	20	ISA-STR	-2	0.148834983	Not plastid, signal peptide identified
+symbB.v1.2.010693.t1_scaffold685.1_size172784_11	SP	18	SRH-QSS	-2	0.136229202	Not plastid, signal peptide identified
+symbB.v1.2.010700.t1_scaffold676.1_size173388_7	SP	17	VVA-QDY	0	0.089668227	Not plastid, signal peptide identified
+symbB.v1.2.010720.t1_scaffold703.1_size171257_6	SP	19	ARA-KDA	0	0.098641525	Not plastid, signal peptide identified
+symbB.v1.2.010754.t1_scaffold708.1_size170785_22	SP	20	CGE-DCP	1	0.247388202	Not plastid, signal peptide identified
+symbB.v1.2.010775.t1_scaffold709.1_size267679_18	SP	19	AVA-EDC	0	0.115708787	Not plastid, signal peptide identified
+symbB.v1.2.010836.t1_scaffold683.1_size173061_9	SP	22	ASA-MND	0	0.109813983	Not plastid, signal peptide identified
+symbB.v1.2.010843.t1_scaffold702.1_size173641_1	SP	20	ANV-FAK	-2	0.644642947	Plastid, low confidence
+symbB.v1.2.010849.t1_scaffold716.1_size187362_2	SP	18	VTG-EIE	0	0.089219761	Not plastid, signal peptide identified
+symbB.v1.2.010858.t1_scaffold716.1_size187362_11	SP	19	CTG-QPP	0	0.249735087	Not plastid, signal peptide identified
+symbB.v1.2.010887.t1_scaffold721.1_size169143_5	SP	22	AHA-SWS	0	0.123748384	Not plastid, signal peptide identified
+symbB.v1.2.010939.t1_scaffold719.1_size169331_4	SP	23	VTA-GVK	0	0.132447999	Not plastid, signal peptide identified
+symbB.v1.2.011002.t1_scaffold687.1_size172701_8	SP	19	VHA-EVL	0	0.149146288	Not plastid, signal peptide identified
+symbB.v1.2.011034.t1_scaffold733.1_size168030_5	SP	18	GSA-DEV	0	0.151225869	Not plastid, signal peptide identified
+symbB.v1.2.011088.t1_scaffold738.1_size167167_22	SP	17	PGA-LGH	-2	0.133586475	Plastid, low confidence
+symbB.v1.2.011138.t2_scaffold732.1_size241626_12	SP	19	SSA-LEG	0	0.109003689	Plastid, low confidence
+symbB.v1.2.011184.t1_scaffold714.1_size170141_1	SP	17	AVN-QET	-1	0.113705717	Not plastid, signal peptide identified
+symbB.v1.2.011241.t1_scaffold751.1_size165343_12	SP	21	PEG-KLN	0	0.099475565	Not plastid, signal peptide identified
+symbB.v1.2.011291.t1_scaffold754.1_size165080_5	SP	19	CLA-ECQ	0	0.110298391	Not plastid, signal peptide identified
+symbB.v1.2.011306.t1_scaffold755.1_size165019_4	SP	16	VSA-EPD	0	0.070127835	Not plastid, signal peptide identified
+symbB.v1.2.011404.t1_scaffold764.1_size165801_10	SP	16	VKG-DCP	0	0.205576321	Not plastid, signal peptide identified
+symbB.v1.2.011448.t1_scaffold762.1_size178242_9	SP	20	LRC-RWP	0	0.216393177	Not plastid, signal peptide identified
+symbB.v1.2.011448.t2_scaffold762.1_size178242_9	SP	20	LRC-RWP	0	0.216393177	Not plastid, signal peptide identified
+symbB.v1.2.011455.t1_scaffold713.1_size170176_4	SP	26	GDA-TDS	0	0.126460499	Not plastid, signal peptide identified
+symbB.v1.2.011520.t1_scaffold778.1_size163404_3	SP	20	GDG-QQT	0	0.120683594	Not plastid, signal peptide identified
+symbB.v1.2.011521.t1_scaffold778.1_size163404_4	SP	16	CAA-EQP	0	0.197949350	Not plastid, signal peptide identified
+symbB.v1.2.011592.t1_scaffold779.1_size163325_2	SP	19	TCA-QWT	0	0.163387540	Not plastid, signal peptide identified
+symbB.v1.2.011708.t1_scaffold787.1_size162597_19	SP	23	TEH-DCE	2	0.162821263	Not plastid, signal peptide identified
+symbB.v1.2.011758.t1_scaffold750.1_size323489_10	SP	29	CVA-SVD	-1	0.133027589	Not plastid, signal peptide identified
+symbB.v1.2.011763.t1_scaffold750.1_size323489_15	SP	19	LRA-GER	0	0.138294151	Not plastid, signal peptide identified
+symbB.v1.2.011825.t1_scaffold804.1_size161093_2	SP	17	SLA-SPS	0	0.148995881	Not plastid, signal peptide identified
+symbB.v1.2.011843.t1_scaffold802.1_size161215_4	SP	16	AVV-EGK	-2	0.106599313	Not plastid, signal peptide identified
+symbB.v1.2.011871.t1_scaffold805.1_size161038_5	SP	18	LAA-GDG	-1	0.066168824	Not plastid, signal peptide identified
+symbB.v1.2.011923.t1_scaffold809.1_size160600_2	SP	18	GEV-FEP	2	0.767073159	Plastid, low confidence
+symbB.v1.2.012024.t1_scaffold791.1_size175533_11	SP	22	ASA-IEI	0	0.069551255	Not plastid, signal peptide identified
+symbB.v1.2.012134.t1_scaffold829.1_size159244_4	SP	23	TQC-GVK	0	0.135677449	Not plastid, signal peptide identified
+symbB.v1.2.012161.t1_scaffold832.1_size159137_6	SP	18	ATA-KTC	0	0.190974225	Not plastid, signal peptide identified
+symbB.v1.2.012196.t1_scaffold835.1_size159100_23	SP	21	TCD-FSR	1	0.631210235	Plastid, low confidence
+symbB.v1.2.012206.t1_scaffold834.1_size159133_4	SP	22	TVR-DYS	2	0.108520890	Not plastid, signal peptide identified
+symbB.v1.2.012289.t1_scaffold847.1_size158198_4	SP	21	EPA-TGT	-2	0.152218587	Not plastid, signal peptide identified
+symbB.v1.2.012295.t1_scaffold848.1_size158107_6	SP	18	GNS-FRT	0	0.611907503	Plastid, high confidence
+symbB.v1.2.012313.t1_scaffold850.1_size158050_3	SP	15	LAA-GDL	-1	0.145391939	Not plastid, signal peptide identified
+symbB.v1.2.012341.t1_scaffold826.1_size159518_8	SP	17	AIA-DGH	-2	0.107788503	Not plastid, signal peptide identified
+symbB.v1.2.012445.t1_scaffold860.1_size157271_14	SP	17	FVA-TSD	-2	0.108244486	Not plastid, signal peptide identified
+symbB.v1.2.012450.t1_scaffold860.1_size157271_19	SP	19	GAA-LGD	-2	0.098838125	Plastid, low confidence
+symbB.v1.2.012472.t1_scaffold861.1_size176854_2	SP	18	GEV-FEP	2	0.767073159	Plastid, low confidence
+symbB.v1.2.012486.t1_scaffold863.1_size157006_1	SP	25	SGA-SSL	0	0.151583833	Not plastid, signal peptide identified
+symbB.v1.2.012493.t1_scaffold862.1_size157115_2	SP	22	IEA-ALD	0	0.112403552	Not plastid, signal peptide identified
+symbB.v1.2.012496.t1_scaffold862.1_size157115_5	SP	23	LLA-DDT	0	0.156649579	Not plastid, signal peptide identified
+symbB.v1.2.012536.t1_scaffold819.1_size162441_7	SP	18	LHA-DED	0	0.111347718	Not plastid, signal peptide identified
+symbB.v1.2.012729.t1_scaffold885.1_size155274_10	SP	21	SIA-LKH	0	0.115948108	Plastid, low confidence
+symbB.v1.2.012781.t1_scaffold859.1_size157342_6	SP	19	LVA-SLA	-1	0.090287882	Not plastid, signal peptide identified
+symbB.v1.2.012828.t1_scaffold893.1_size154614_9	SP	25	QSL-FAM	-2	0.642354847	Plastid, low confidence
+symbB.v1.2.012835.t2_scaffold887.1_size155094_2	SP	19	AYA-EEA	0	0.116747329	Not plastid, signal peptide identified
+symbB.v1.2.012839.t1_scaffold887.1_size155094_6	SP	18	GRG-DCW	0	0.101517904	Not plastid, signal peptide identified
+symbB.v1.2.012862.t1_scaffold875.1_size155714_11	SP	20	ASA-QST	0	0.169283011	Not plastid, signal peptide identified
+symbB.v1.2.012892.t1_scaffold898.1_size154235_12	SP	19	QAA-LRP	1	0.195056593	Plastid, low confidence
+symbB.v1.2.012969.t1_scaffold908.1_size153097_2	SP	19	CHA-GIL	0	0.136514600	Not plastid, signal peptide identified
+symbB.v1.2.013080.t1_scaffold920.1_size152120_2	SP	15	AAA-MRQ	0	0.134339375	Not plastid, signal peptide identified
+symbB.v1.2.013109.t1_scaffold921.1_size152096_5	SP	24	AQI-FPE	2	0.601689167	Plastid, low confidence
+symbB.v1.2.013112.t4_scaffold921.1_size152096_8	SP	13	AVV-FGS	-2	0.596977896	Plastid, low confidence
+symbB.v1.2.013115.t1_scaffold921.1_size152096_11	SP	20	SDT-EVQ	2	0.224786244	Not plastid, signal peptide identified
+symbB.v1.2.013146.t1_scaffold925.1_size151535_13	SP	24	GHA-MLT	0	0.142560332	Not plastid, signal peptide identified
+symbB.v1.2.013159.t1_scaffold924.1_size151606_6	SP	17	GNA-SGS	-2	0.117230374	Not plastid, signal peptide identified
+symbB.v1.2.013213.t1_scaffold929.1_size151260_16	SP	15	TLA-ESL	-2	0.166284384	Not plastid, signal peptide identified
+symbB.v1.2.013220.t1_scaffold890.1_size154879_6	SP	22	VAA-ESD	0	0.117325632	Not plastid, signal peptide identified
+symbB.v1.2.013269.t1_scaffold879.1_size325971_16	SP	24	GVA-MDC	0	0.089067956	Not plastid, signal peptide identified
+symbB.v1.2.013269.t2_scaffold879.1_size325971_16	SP	24	GVA-MDC	0	0.089067956	Not plastid, signal peptide identified
+symbB.v1.2.013423.t1_scaffold946.1_size149779_2	SP	23	VAA-QRD	0	0.106574542	Not plastid, signal peptide identified
+symbB.v1.2.013447.t1_scaffold953.1_size150470_4	SP	28	SKG-IFP	2	0.219841025	Not plastid, signal peptide identified
+symbB.v1.2.013509.t1_scaffold795.1_size259473_1	SP	29	AAA-EVA	1	0.164948361	Not plastid, signal peptide identified
+symbB.v1.2.013517.t1_scaffold795.1_size259473_9	SP	20	GQT-FES	0	0.602353381	Plastid, high confidence
+symbB.v1.2.013519.t1_scaffold795.1_size259473_11	SP	16	AGA-PCQ	-2	0.128277093	Not plastid, signal peptide identified
+symbB.v1.2.013525.t1_scaffold795.1_size259473_17	SP	17	TAS-FAK	-2	0.637101479	Plastid, low confidence
+symbB.v1.2.013606.t1_scaffold968.1_size148170_1	SP	30	GSA-PSA	1	0.160501874	Not plastid, signal peptide identified
+symbB.v1.2.013607.t1_scaffold968.1_size148170_2	SP	26	VQC-ENP	0	0.189168599	Not plastid, signal peptide identified
+symbB.v1.2.013618.t1_scaffold968.1_size148170_13	SP	18	SCA-FHS	0	0.652275927	Plastid, high confidence
+symbB.v1.2.013631.t1_scaffold970.1_size148061_4	SP	23	SGM-YGP	1	0.234857871	Plastid, low confidence
+symbB.v1.2.013632.t1_scaffold970.1_size148061_5	SP	18	AVA-LSS	-2	0.152750382	Plastid, low confidence
+symbB.v1.2.013634.t1_scaffold970.1_size148061_7	SP	18	AVA-LSS	-2	0.147030978	Plastid, low confidence
+symbB.v1.2.013676.t1_scaffold971.1_size148033_4	SP	21	IKA-VVP	0	0.269823357	Not plastid, signal peptide identified
+symbB.v1.2.013702.t1_scaffold974.1_size359025_9	SP	19	VTS-RSI	0	0.188198332	Not plastid, signal peptide identified
+symbB.v1.2.013708.t1_scaffold974.1_size359025_15	SP	26	LPG-DVL	1	0.180366646	Not plastid, signal peptide identified
+symbB.v1.2.013714.t1_scaffold922.1_size178049_6	SP	17	GTA-WLG	-2	0.087770619	Plastid, low confidence
+symbB.v1.2.013727.t1_scaffold977.1_size148281_10	SP	32	AAC-FRQ	2	0.652021685	Plastid, low confidence
+symbB.v1.2.013744.t1_scaffold978.1_size277179_5	SP	17	CHA-LRP	0	0.212514492	Plastid, low confidence
+symbB.v1.2.013756.t1_scaffold976.1_size149240_9	SP	13	VAA-EGD	-2	0.088373542	Not plastid, signal peptide identified
+symbB.v1.2.013925.t1_scaffold996.1_size145880_6	SP	22	HAA-GDL	-1	0.176118988	Not plastid, signal peptide identified
+symbB.v1.2.014001.t1_scaffold1005.1_size178369_1	SP	19	LAA-ETA	1	0.192556167	Not plastid, signal peptide identified
+symbB.v1.2.014009.t1_scaffold1012.1_size144332_2	SP	26	ILG-QHA	0	0.102845614	Not plastid, signal peptide identified
+symbB.v1.2.014062.t1_scaffold1007.1_size144738_7	SP	18	ALA-TSD	0	0.082932642	Not plastid, signal peptide identified
+symbB.v1.2.014070.t1_scaffold1007.1_size144738_15	SP	20	AAA-ELC	0	0.100245476	Not plastid, signal peptide identified
+symbB.v1.2.014103.t1_scaffold1018.1_size143800_5	SP	18	CCS-QWE	0	0.043685117	Not plastid, signal peptide identified
+symbB.v1.2.014107.t1_scaffold1018.1_size143800_9	SP	18	VAA-MKC	0	0.149945725	Not plastid, signal peptide identified
+symbB.v1.2.014112.t1_scaffold1018.1_size143800_14	SP	23	GRA-DCR	-2	0.085800784	Not plastid, signal peptide identified
+symbB.v1.2.014128.t1_scaffold1024.1_size143406_4	SP	41	SLA-ERV	0	0.106604593	Not plastid, signal peptide identified
+symbB.v1.2.014131.t1_scaffold1024.1_size143406_7	SP	22	TYV-QAP	2	0.223195453	Not plastid, signal peptide identified
+symbB.v1.2.014196.t1_scaffold981.1_size258483_7	SP	24	TKA-YQM	0	0.106308431	Plastid, low confidence
+symbB.v1.2.014196.t2_scaffold981.1_size258483_7	SP	24	TKA-YQM	0	0.106308431	Plastid, low confidence
+symbB.v1.2.014232.t1_scaffold1017.1_size232338_1	SP	19	VQS-KSP	0	0.219299962	Not plastid, signal peptide identified
+symbB.v1.2.014262.t1_scaffold1023.1_size143418_6	SP	16	AVV-NGL	-2	0.112162580	Not plastid, signal peptide identified
+symbB.v1.2.014290.t1_scaffold1034.1_size142864_3	SP	18	SVA-FRA	0	0.637583367	Plastid, high confidence
+symbB.v1.2.014310.t1_scaffold1045.1_size142133_4	SP	16	ATA-QAT	0	0.177944829	Not plastid, signal peptide identified
+symbB.v1.2.014407.t1_scaffold1050.1_size141785_5	SP	19	AAK-FDL	1	0.592566997	Plastid, low confidence
+symbB.v1.2.014410.t1_scaffold1000.1_size145704_1	SP	18	IKA-HEL	0	0.154257653	Not plastid, signal peptide identified
+symbB.v1.2.014449.t1_scaffold1039.1_size142581_5	SP	15	VVS-FAQ	-2	0.701419997	Plastid, low confidence
+symbB.v1.2.014505.t1_scaffold1062.1_size140384_4	SP	17	LVA-STQ	-1	0.148857283	Not plastid, signal peptide identified
+symbB.v1.2.014553.t1_scaffold1051.1_size143026_3	SP	21	VCA-SLQ	0	0.129739953	Not plastid, signal peptide identified
+symbB.v1.2.014569.t1_scaffold1068.1_size140200_10	SP	17	ALA-VDG	0	0.121080034	Not plastid, signal peptide identified
+symbB.v1.2.014593.t1_scaffold1071.1_size202461_6	SP	29	VSA-NPK	0	0.069720336	Not plastid, signal peptide identified
+symbB.v1.2.014623.t1_scaffold1072.1_size139929_10	SP	18	GMA-IPE	0	0.071805847	Not plastid, signal peptide identified
+symbB.v1.2.014636.t1_scaffold1074.1_size139831_1	SP	34	VRA-WVL	0	0.196671889	Plastid, low confidence
+symbB.v1.2.014639.t1_scaffold1074.1_size139831_4	SP	19	RCA-FDS	1	0.629570556	Plastid, low confidence
+symbB.v1.2.014642.t1_scaffold1074.1_size139831_7	SP	17	LRA-QNC	0	0.128222263	Not plastid, signal peptide identified
+symbB.v1.2.014655.t1_scaffold1077.1_size139779_2	SP	19	AVA-RPA	0	0.136553797	Not plastid, signal peptide identified
+symbB.v1.2.014665.t1_scaffold1075.1_size141427_1	SP	24	LVA-TER	-1	0.114466306	Not plastid, signal peptide identified
+symbB.v1.2.014790.t1_scaffold1089.1_size139057_2	SP	20	CLA-HAQ	-2	0.190018715	Not plastid, signal peptide identified
+symbB.v1.2.014804.t1_scaffold1089.1_size139057_16	SP	18	SKA-ELS	0	0.114016047	Not plastid, signal peptide identified
+symbB.v1.2.014830.t1_scaffold1085.1_size139158_4	SP	20	LQG-KVD	0	0.150282736	Not plastid, signal peptide identified
+symbB.v1.2.015021.t1_scaffold1113.1_size137147_5	SP	18	VLA-IRD	0	0.108538840	Not plastid, signal peptide identified
+symbB.v1.2.015033.t1_scaffold1037.1_size142759_5	SP	34	CLA-GAS	0	0.160431704	Not plastid, signal peptide identified
+symbB.v1.2.015054.t1_scaffold1112.1_size147309_12	SP	33	AEE-FSL	2	0.652348282	Plastid, low confidence
+symbB.v1.2.015076.t1_scaffold1096.1_size138270_12	SP	23	TQA-DIL	0	0.071322899	Not plastid, signal peptide identified
+symbB.v1.2.015092.t1_scaffold1106.1_size137404_4	SP	21	CGA-QVS	0	0.179909636	Not plastid, signal peptide identified
+symbB.v1.2.015092.t2_scaffold1106.1_size137404_4	SP	21	CGA-QVS	0	0.179909636	Not plastid, signal peptide identified
+symbB.v1.2.015207.t1_scaffold1104.1_size137596_3	SP	27	GTA-PQR	-1	0.127769797	Not plastid, signal peptide identified
+symbB.v1.2.015318.t1_scaffold1138.1_size205980_17	SP	21	LQA-EEQ	0	0.124367973	Not plastid, signal peptide identified
+symbB.v1.2.015337.t1_scaffold1094.1_size138377_2	SP	17	LSA-AEP	-1	0.238924120	Not plastid, signal peptide identified
+symbB.v1.2.015406.t1_scaffold1149.1_size164316_9	SP	14	VPA-VAV	-2	0.140132534	Not plastid, signal peptide identified
+symbB.v1.2.015415.t1_scaffold1150.1_size135223_5	SP	21	IRA-RRA	0	0.115930759	Not plastid, signal peptide identified
+symbB.v1.2.015439.t1_scaffold1121.1_size137196_7	SP	17	QLI-FAE	-2	0.603617097	Plastid, low confidence
+symbB.v1.2.015475.t1_scaffold1156.1_size134879_5	SP	22	RCD-EVP	1	0.290953013	Not plastid, signal peptide identified
+symbB.v1.2.015478.t1_scaffold1156.1_size134879_8	SP	21	LSW-DEP	1	0.221273330	Not plastid, signal peptide identified
+symbB.v1.2.015531.t1_scaffold1161.1_size184519_6	SP	20	VLG-QEC	0	0.081241722	Not plastid, signal peptide identified
+symbB.v1.2.015534.t1_scaffold1159.1_size171703_1	SP	17	INA-GSM	-2	0.131724608	Not plastid, signal peptide identified
+symbB.v1.2.015543.t1_scaffold1159.1_size171703_10	SP	25	AHA-EDE	0	0.137881182	Not plastid, signal peptide identified
+symbB.v1.2.015744.t1_scaffold1123.1_size136624_9	SP	19	AMA-KVY	0	0.159709871	Not plastid, signal peptide identified
+symbB.v1.2.015776.t1_scaffold1181.1_size133410_12	SP	20	VAA-QSE	-2	0.145922970	Not plastid, signal peptide identified
+symbB.v1.2.015828.t1_scaffold1194.1_size132594_1	SP	30	SVA-TEE	-1	0.073822822	Not plastid, signal peptide identified
+symbB.v1.2.015836.t1_scaffold1189.1_size132999_1	SP	15	ASA-ERP	0	0.221902288	Not plastid, signal peptide identified
+symbB.v1.2.015848.t1_scaffold1163.1_size134625_8	SP	19	ACS-GQS	-1	0.167644111	Not plastid, signal peptide identified
+symbB.v1.2.015851.t1_scaffold1163.1_size134625_11	SP	14	STA-YGL	-2	0.140916016	Plastid, low confidence
+symbB.v1.2.015877.t1_scaffold1199.1_size145752_4	SP	20	SAA-GKE	-1	0.147497032	Not plastid, signal peptide identified
+symbB.v1.2.015889.t1_scaffold1199.1_size145752_16	SP	33	LNG-YRT	0	0.204649110	Plastid, low confidence
+symbB.v1.2.015904.t1_scaffold1195.1_size134849_15	SP	16	AVA-DAG	-2	0.151017838	Not plastid, signal peptide identified
+symbB.v1.2.015939.t1_scaffold1203.1_size131588_6	SP	20	CQA-MRS	0	0.178867861	Not plastid, signal peptide identified
+symbB.v1.2.015944.t1_scaffold1203.1_size131588_11	SP	19	VEG-DDL	0	0.128657880	Not plastid, signal peptide identified
+symbB.v1.2.015951.t1_scaffold1203.1_size131588_18	SP	23	GVN-FVA	2	0.734026918	Plastid, low confidence
+symbB.v1.2.015955.t1_scaffold1204.1_size131571_2	SP	18	VIA-AST	-1	0.134839655	Not plastid, signal peptide identified
+symbB.v1.2.016014.t1_scaffold1206.1_size131539_4	SP	26	WSG-QNG	0	0.133709184	Not plastid, signal peptide identified
+symbB.v1.2.016019.t1_scaffold1206.1_size131539_9	SP	18	SSA-LKV	0	0.119652971	Plastid, low confidence
+symbB.v1.2.016041.t1_scaffold1212.1_size131235_7	SP	22	QSA-CGR	-2	0.141742592	Not plastid, signal peptide identified
+symbB.v1.2.016054.t1_scaffold1125.1_size136522_2	SP	23	TVA-VEQ	0	0.068553731	Not plastid, signal peptide identified
+symbB.v1.2.016091.t1_scaffold1215.1_size131139_1	SP	26	VVA-QSV	0	0.137380986	Not plastid, signal peptide identified
+symbB.v1.2.016235.t1_scaffold1230.1_size216073_15	SP	17	CLA-KAP	0	0.250206257	Not plastid, signal peptide identified
+symbB.v1.2.016235.t2_scaffold1230.1_size216073_15	SP	20	KAA-GQP	-1	0.208591062	Not plastid, signal peptide identified
+symbB.v1.2.016279.t1_scaffold1235.1_size130242_10	SP	26	AFV-GTP	-1	0.250072475	Not plastid, signal peptide identified
+symbB.v1.2.016366.t1_scaffold1243.1_size129491_8	SP	17	VGA-LGA	-2	0.110423937	Plastid, low confidence
+symbB.v1.2.016430.t1_scaffold1120.1_size138809_11	SP	16	IWA-LPS	0	0.121033228	Plastid, low confidence
+symbB.v1.2.016497.t1_scaffold1254.1_size128712_11	SP	22	AKA-FVG	0	0.633221490	Plastid, high confidence
+symbB.v1.2.016622.t1_scaffold1200.1_size132039_12	SP	25	VQP-RWP	0	0.275342373	Not plastid, signal peptide identified
+symbB.v1.2.016645.t1_scaffold1228.1_size130631_4	SP	17	ALA-QCP	0	0.231028453	Not plastid, signal peptide identified
+symbB.v1.2.016713.t1_scaffold1271.1_size203481_3	SP	18	VQS-QGL	-2	0.165212592	Not plastid, signal peptide identified
+symbB.v1.2.016724.t1_scaffold1271.1_size203481_14	SP	21	GQR-FGC	2	0.625721109	Plastid, low confidence
+symbB.v1.2.016757.t1_scaffold1279.1_size127165_6	SP	20	DSA-SRT	-1	0.131788455	Not plastid, signal peptide identified
+symbB.v1.2.016780.t1_scaffold1290.1_size126440_1	SP	21	VYA-SCS	0	0.119558984	Not plastid, signal peptide identified
+symbB.v1.2.016789.t1_scaffold1270.1_size227213_1	SP	26	VNA-HKP	0	0.185650003	Not plastid, signal peptide identified
+symbB.v1.2.016833.t1_scaffold1278.1_size127201_2	SP	15	AAG-ESI	-2	0.119133339	Not plastid, signal peptide identified
+symbB.v1.2.016878.t1_scaffold1300.1_size126151_15	SP	15	AWA-EVP	0	0.246938315	Not plastid, signal peptide identified
+symbB.v1.2.016897.t1_scaffold1302.1_size209015_5	SP	15	AVA-DAS	-2	0.205614841	Not plastid, signal peptide identified
+symbB.v1.2.016950.t1_scaffold1307.1_size125927_1	SP	22	AAV-FTS	-2	0.742121431	Plastid, low confidence
+symbB.v1.2.016959.t1_scaffold1308.1_size125923_5	SP	15	SEG-QYT	0	0.103893088	Not plastid, signal peptide identified
+symbB.v1.2.016964.t1_scaffold1308.1_size125923_10	SP	20	AVA-RTE	-2	0.123120815	Not plastid, signal peptide identified
+symbB.v1.2.016967.t1_scaffold1308.1_size125923_13	SP	27	VRG-GCE	0	0.143153045	Not plastid, signal peptide identified
+symbB.v1.2.017017.t1_scaffold1316.1_size125546_7	SP	28	ATQ-FDP	1	0.705938151	Plastid, low confidence
+symbB.v1.2.017040.t1_scaffold1317.1_size125501_7	SP	21	GVV-FAA	-2	0.645668421	Plastid, low confidence
+symbB.v1.2.017140.t1_scaffold1268.1_size213459_21	SP	16	IQA-YGQ	-2	0.124595903	Plastid, low confidence
+symbB.v1.2.017156.t1_scaffold1331.1_size125086_10	SP	16	GVA-ARP	-1	0.201598349	Not plastid, signal peptide identified
+symbB.v1.2.017236.t1_scaffold1342.1_size124297_9	SP	24	VLG-NVK	0	0.106930668	Not plastid, signal peptide identified
+symbB.v1.2.017277.t1_scaffold1325.1_size176917_3	SP	26	KGA-KGE	1	0.115978137	Not plastid, signal peptide identified
+symbB.v1.2.017277.t3_scaffold1325.1_size176917_3	SP	26	KGA-KGE	1	0.115978137	Not plastid, signal peptide identified
+symbB.v1.2.017283.t1_scaffold1325.1_size176917_9	SP	16	GAC-FAN	-2	0.680231899	Plastid, low confidence
+symbB.v1.2.017286.t1_scaffold1325.1_size176917_12	SP	17	LTA-QGS	-2	0.153011966	Not plastid, signal peptide identified
+symbB.v1.2.017303.t1_scaffold1350.1_size123852_3	SP	25	AVA-GSC	0	0.127542691	Not plastid, signal peptide identified
+symbB.v1.2.017329.t1_scaffold1351.1_size123844_9	SP	21	HGA-GDP	1	0.203731551	Not plastid, signal peptide identified
+symbB.v1.2.017349.t1_scaffold1354.1_size124353_1	SP	21	LNA-NRH	0	0.104361615	Not plastid, signal peptide identified
+symbB.v1.2.017364.t1_scaffold1352.1_size234417_13	SP	17	CPA-STE	-2	0.169276614	Not plastid, signal peptide identified
+symbB.v1.2.017370.t1_scaffold1352.1_size234417_19	SP	31	QLA-YQA	0	0.149594413	Plastid, low confidence
+symbB.v1.2.017373.t1_scaffold1352.1_size234417_22	SP	16	VEG-LSK	0	0.137509267	Plastid, low confidence
+symbB.v1.2.017427.t1_scaffold1359.1_size123592_12	SP	24	TNS-LLT	0	0.136017723	Plastid, low confidence
+symbB.v1.2.017444.t1_scaffold1360.1_size203234_15	SP	19	GGA-VGN	-2	0.148931728	Not plastid, signal peptide identified
+symbB.v1.2.017456.t1_scaffold1364.1_size123310_8	SP	21	AVA-QAA	-2	0.192235232	Not plastid, signal peptide identified
+symbB.v1.2.017456.t2_scaffold1364.1_size123310_8	SP	21	AVA-QAA	-2	0.192235232	Not plastid, signal peptide identified
+symbB.v1.2.017496.t1_scaffold1358.1_size123611_2	SP	16	LPA-FCL	-2	0.654116452	Plastid, low confidence
+symbB.v1.2.017557.t1_scaffold1365.1_size229487_4	SP	24	AHA-DET	0	0.142763266	Not plastid, signal peptide identified
+symbB.v1.2.017558.t1_scaffold1365.1_size229487_5	SP	18	VGA-FDL	0	0.585372600	Plastid, high confidence
+symbB.v1.2.017562.t1_scaffold1365.1_size229487_9	SP	21	CEA-GNG	0	0.089765465	Not plastid, signal peptide identified
+symbB.v1.2.017576.t1_scaffold1369.1_size123032_9	SP	20	CLA-VQC	0	0.086790776	Not plastid, signal peptide identified
+symbB.v1.2.017626.t1_scaffold1340.1_size241236_11	SP	22	IGA-ETD	0	0.137605553	Not plastid, signal peptide identified
+symbB.v1.2.017750.t1_scaffold1390.1_size121990_7	SP	14	NHA-TSL	-2	0.155743029	Not plastid, signal peptide identified
+symbB.v1.2.017761.t1_scaffold1355.1_size123688_3	SP	19	AAA-QVD	0	0.122890441	Not plastid, signal peptide identified
+symbB.v1.2.017833.t1_scaffold1396.1_size121868_3	SP	20	APA-DDR	0	0.083904541	Not plastid, signal peptide identified
+symbB.v1.2.017885.t1_scaffold1387.1_size122293_3	SP	21	ALA-IRS	0	0.110941663	Not plastid, signal peptide identified
+symbB.v1.2.017931.t1_scaffold1406.1_size338231_10	SP	22	AAA-FVA	0	0.621484603	Plastid, high confidence
+symbB.v1.2.017933.t1_scaffold1406.1_size338231_12	SP	17	AVC-CEH	-1	0.107743124	Not plastid, signal peptide identified
+symbB.v1.2.017934.t1_scaffold1406.1_size338231_13	SP	21	LPA-RIR	1	0.094479950	Not plastid, signal peptide identified
+symbB.v1.2.018006.t1_scaffold1420.1_size119762_4	SP	18	AAA-AQP	0	0.208895348	Not plastid, signal peptide identified
+symbB.v1.2.018009.t3_scaffold1375.1_size122712_1	SP	21	SLA-ERS	0	0.136207115	Not plastid, signal peptide identified
+symbB.v1.2.018049.t1_scaffold1425.1_size119490_7	SP	20	AMP-FEG	2	0.565889989	Plastid, low confidence
+symbB.v1.2.018093.t1_scaffold1431.1_size119194_7	SP	20	TII-SIP	-1	0.233660077	Not plastid, signal peptide identified
+symbB.v1.2.018154.t1_scaffold1415.1_size121899_7	SP	17	SVS-FGI	-2	0.594433031	Plastid, low confidence
+symbB.v1.2.018264.t1_scaffold1446.1_size211836_7	SP	18	TSA-TVN	0	0.118396255	Not plastid, signal peptide identified
+symbB.v1.2.018287.t1_scaffold1381.1_size245675_4	SP	22	AVS-GNS	-1	0.135756124	Not plastid, signal peptide identified
+symbB.v1.2.018316.t1_scaffold1456.1_size117650_6	SP	18	NIA-EVT	0	0.175052022	Not plastid, signal peptide identified
+symbB.v1.2.018349.t1_scaffold1457.1_size117646_7	SP	19	SWA-AVL	0	0.159702416	Not plastid, signal peptide identified
+symbB.v1.2.018370.t1_scaffold1462.1_size117239_3	SP	20	VKA-EDC	0	0.186946412	Not plastid, signal peptide identified
+symbB.v1.2.018389.t1_scaffold1460.1_size117342_1	SP	19	RSA-VDL	1	0.111393821	Not plastid, signal peptide identified
+symbB.v1.2.018391.t1_scaffold1460.1_size117342_3	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.018490.t1_scaffold1477.1_size133841_4	SP	16	LPA-FGV	-2	0.640519825	Plastid, low confidence
+symbB.v1.2.018492.t1_scaffold1477.1_size133841_6	SP	18	SVA-DAA	-2	0.190784949	Not plastid, signal peptide identified
+symbB.v1.2.018500.t1_scaffold1403.1_size153157_6	SP	19	VGA-GTG	0	0.136218353	Not plastid, signal peptide identified
+symbB.v1.2.018519.t1_scaffold1480.1_size116223_7	SP	28	MEA-AVA	0	0.120929560	Not plastid, signal peptide identified
+symbB.v1.2.018524.t1_scaffold1481.1_size116218_3	SP	16	PFA-RGT	-2	0.157460127	Not plastid, signal peptide identified
+symbB.v1.2.018556.t1_scaffold1483.1_size116006_5	SP	14	SEA-FNF	0	0.561450085	Plastid, high confidence
+symbB.v1.2.018578.t1_scaffold1486.1_size115809_3	SP	15	TEA-AIC	0	0.107430542	Not plastid, signal peptide identified
+symbB.v1.2.018657.t1_scaffold1498.1_size115254_3	SP	28	TGL-QGQ	-2	0.166478714	Not plastid, signal peptide identified
+symbB.v1.2.018685.t1_scaffold1410.1_size216244_11	SP	21	PGA-TGN	-2	0.092745452	Not plastid, signal peptide identified
+symbB.v1.2.018697.t1_scaffold1410.1_size216244_23	SP	19	QSA-SQD	1	0.134732181	Not plastid, signal peptide identified
+symbB.v1.2.018748.t1_scaffold1508.1_size114708_7	SP	26	HSA-VEV	1	0.123951144	Not plastid, signal peptide identified
+symbB.v1.2.018832.t1_scaffold1519.1_size114092_4	SP	19	LLV-FAD	-2	0.660043144	Plastid, low confidence
+symbB.v1.2.018881.t1_scaffold1500.1_size115144_5	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.018905.t1_scaffold1525.1_size113617_1	SP	26	PIG-FAN	-2	0.576874139	Plastid, low confidence
+symbB.v1.2.018907.t1_scaffold1525.1_size113617_3	SP	21	PIG-FAY	-2	0.611275857	Plastid, low confidence
+symbB.v1.2.018971.t1_scaffold1534.1_size113260_1	SP	18	VAA-QDG	0	0.098805099	Not plastid, signal peptide identified
+symbB.v1.2.019025.t1_scaffold1541.1_size112753_7	SP	20	IHS-KTL	0	0.165070244	Not plastid, signal peptide identified
+symbB.v1.2.019093.t1_scaffold1550.1_size112250_3	SP	20	NTA-ASL	-1	0.139072964	Not plastid, signal peptide identified
+symbB.v1.2.019140.t2_scaffold1553.1_size112120_2	SP	19	SAQ-FPQ	1	0.576048956	Plastid, low confidence
+symbB.v1.2.019148.t1_scaffold1555.1_size186957_2	SP	18	SWA-FAI	-2	0.639132905	Plastid, low confidence
+symbB.v1.2.019163.t1_scaffold1555.1_size186957_17	SP	22	AWA-VSE	-2	0.138398651	Not plastid, signal peptide identified
+symbB.v1.2.019177.t1_scaffold1559.1_size111769_10	SP	20	TTS-MEP	0	0.196719032	Not plastid, signal peptide identified
+symbB.v1.2.019198.t1_scaffold1512.1_size114451_9	SP	25	VSA-SNV	0	0.081492535	Not plastid, signal peptide identified
+symbB.v1.2.019204.t1_scaffold1562.1_size111602_3	SP	19	SAA-PWT	1	0.144869767	Not plastid, signal peptide identified
+symbB.v1.2.019262.t1_scaffold1569.1_size111216_2	SP	14	SYG-WSL	-2	0.213347199	Plastid, low confidence
+symbB.v1.2.019274.t1_scaffold1509.1_size114668_9	SP	21	AIA-QLP	0	0.187468732	Not plastid, signal peptide identified
+symbB.v1.2.019331.t1_scaffold1577.1_size110854_9	SP	17	VNA-YKL	0	0.168209635	Plastid, low confidence
+symbB.v1.2.019334.t1_scaffold1523.1_size113860_1	SP	29	SQA-LIP	0	0.253728481	Plastid, low confidence
+symbB.v1.2.019354.t1_scaffold1564.1_size111405_5	SP	18	GEA-VEL	0	0.148806093	Not plastid, signal peptide identified
+symbB.v1.2.019363.t1_scaffold1564.1_size111405_14	SP	29	SSA-SPQ	0	0.095156796	Not plastid, signal peptide identified
+symbB.v1.2.019399.t1_scaffold1580.1_size110616_2	SP	18	PSL-QEP	-1	0.278600498	Not plastid, signal peptide identified
+symbB.v1.2.019458.t1_scaffold1592.1_size133026_8	SP	21	ASG-KSD	-2	0.172047434	Not plastid, signal peptide identified
+symbB.v1.2.019475.t1_scaffold1593.1_size164412_17	SP	17	AQA-TKK	0	0.094318572	Not plastid, signal peptide identified
+symbB.v1.2.019481.t1_scaffold1594.1_size109923_3	SP	21	SSA-GTV	-1	0.161125690	Not plastid, signal peptide identified
+symbB.v1.2.019496.t1_scaffold1595.1_size109920_5	SP	22	ASA-VDN	0	0.146993901	Not plastid, signal peptide identified
+symbB.v1.2.019516.t1_scaffold1454.1_size117754_2	SP	16	APA-LAW	-2	0.182561836	Plastid, low confidence
+symbB.v1.2.019516.t2_scaffold1454.1_size117754_2	SP	16	APA-LAW	-2	0.182561836	Plastid, low confidence
+symbB.v1.2.019516.t3_scaffold1454.1_size117754_2	SP	16	APA-LAW	-2	0.182561836	Plastid, low confidence
+symbB.v1.2.019572.t1_scaffold1591.1_size184449_8	SP	28	TDS-CTW	0	0.173565574	Not plastid, signal peptide identified
+symbB.v1.2.019664.t1_scaffold1619.1_size109254_8	SP	23	MLA-GVV	2	0.139819741	Not plastid, signal peptide identified
+symbB.v1.2.019733.t2_scaffold1626.1_size108921_7	SP	21	SLS-IVV	0	0.157723872	Not plastid, signal peptide identified
+symbB.v1.2.019749.t1_scaffold1630.1_size108773_2	SP	16	AYG-QCL	-2	0.088336183	Not plastid, signal peptide identified
+symbB.v1.2.019763.t1_scaffold1596.1_size109882_2	SP	17	LGA-VEV	0	0.118237113	Not plastid, signal peptide identified
+symbB.v1.2.019771.t1_scaffold1596.1_size109882_10	SP	20	APV-EVK	-2	0.128135793	Not plastid, signal peptide identified
+symbB.v1.2.019922.t1_scaffold1652.1_size121070_2	SP	19	VLG-QED	0	0.085818797	Not plastid, signal peptide identified
+symbB.v1.2.019966.t1_scaffold1632.1_size108648_6	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.019997.t1_scaffold1657.1_size107422_6	SP	23	VQS-TNI	0	0.122756246	Not plastid, signal peptide identified
+symbB.v1.2.020040.t4_scaffold1665.1_size106850_1	SP	27	ANA-VEY	2	0.138509165	Not plastid, signal peptide identified
+symbB.v1.2.020104.t1_scaffold1638.1_size107986_9	SP	23	AIC-FDA	2	0.581225801	Plastid, low confidence
+symbB.v1.2.020150.t1_scaffold1642.1_size107908_9	SP	18	AQD-FQE	2	0.590721707	Plastid, low confidence
+symbB.v1.2.020291.t1_scaffold1678.1_size106249_7	SP	24	GWM-VRP	0	0.241079830	Not plastid, signal peptide identified
+symbB.v1.2.020342.t1_scaffold1698.1_size105523_7	SP	16	SHA-EQA	0	0.125175825	Not plastid, signal peptide identified
+symbB.v1.2.020405.t1_scaffold1660.1_size117119_3	SP	18	STA-LGS	-2	0.142483803	Plastid, low confidence
+symbB.v1.2.020405.t2_scaffold1660.1_size117119_3	SP	18	STA-LGS	-2	0.142483803	Plastid, low confidence
+symbB.v1.2.020429.t1_scaffold1716.1_size104966_2	SP	16	AIA-GGP	0	0.199663002	Not plastid, signal peptide identified
+symbB.v1.2.020500.t1_scaffold1687.1_size105823_6	SP	18	LLA-KTP	0	0.296636656	Not plastid, signal peptide identified
+symbB.v1.2.020525.t1_scaffold1734.1_size154044_10	SP	16	AGK-SSE	-1	0.164617555	Not plastid, signal peptide identified
+symbB.v1.2.020538.t1_scaffold1725.1_size121579_3	SP	18	LSA-TSS	-2	0.154139456	Not plastid, signal peptide identified
+symbB.v1.2.020596.t1_scaffold1742.1_size103667_4	SP	16	ALA-AQY	0	0.140142184	Not plastid, signal peptide identified
+symbB.v1.2.020597.t1_scaffold1742.1_size103667_5	SP	20	QYR-SIP	-1	0.272718780	Not plastid, signal peptide identified
+symbB.v1.2.020601.t1_scaffold1743.1_size123518_2	SP	23	EDP-FPT	2	0.628710062	Plastid, low confidence
+symbB.v1.2.020752.t1_scaffold1763.1_size102666_7	SP	22	LHD-GVP	-1	0.256715516	Not plastid, signal peptide identified
+symbB.v1.2.020771.t1_scaffold1749.1_size103200_11	SP	16	TAA-AVD	-1	0.158049701	Not plastid, signal peptide identified
+symbB.v1.2.020898.t1_scaffold1782.1_size101530_4	SP	23	SNA-LEA	0	0.118143477	Plastid, low confidence
+symbB.v1.2.020957.t1_scaffold1789.1_size105288_2	SP	26	VDG-FCG	0	0.588796582	Plastid, high confidence
+symbB.v1.2.020964.t1_scaffold1791.1_size101237_4	SP	34	VQA-FAV	0	0.678730004	Plastid, high confidence
+symbB.v1.2.021041.t1_scaffold1797.1_size100932_8	SP	34	PRA-FAR	-2	0.649035747	Plastid, low confidence
+symbB.v1.2.021132.t1_scaffold1809.1_size100517_7	SP	19	SIA-QPP	0	0.213729415	Not plastid, signal peptide identified
+symbB.v1.2.021139.t1_scaffold1812.1_size105704_3	SP	22	EAA-PSL	-1	0.130621866	Not plastid, signal peptide identified
+symbB.v1.2.021161.t1_scaffold1815.1_size100239_6	SP	16	PVA-LGD	-2	0.234609429	Plastid, low confidence
+symbB.v1.2.021204.t1_scaffold1803.1_size100779_3	SP	35	QGS-FAA	2	0.642350314	Plastid, low confidence
+symbB.v1.2.021262.t1_scaffold1756.1_size102926_1	SP	23	ILA-SPH	0	0.097496399	Not plastid, signal peptide identified
+symbB.v1.2.021323.t1_scaffold1838.1_size108694_3	SP	17	AAA-AAV	-2	0.179810035	Not plastid, signal peptide identified
+symbB.v1.2.021383.t1_scaffold1834.1_size99453_3	SP	25	ADA-FEP	0	0.717735332	Plastid, high confidence
+symbB.v1.2.021474.t2_scaffold1792.1_size124732_9	SP	22	HVA-HAS	-2	0.193636884	Not plastid, signal peptide identified
+symbB.v1.2.021484.t1_scaffold1856.1_size98547_7	SP	16	AQA-VAV	-2	0.156192327	Not plastid, signal peptide identified
+symbB.v1.2.021523.t1_scaffold1859.1_size98302_9	SP	17	VQG-NIL	0	0.167537838	Not plastid, signal peptide identified
+symbB.v1.2.021557.t1_scaffold1847.1_size122519_10	SP	17	VGS-GTT	-1	0.243453548	Not plastid, signal peptide identified
+symbB.v1.2.021585.t1_scaffold1832.1_size99513_1	SP	21	GRA-EPE	0	0.182435910	Not plastid, signal peptide identified
+symbB.v1.2.021588.t1_scaffold1832.1_size99513_4	SP	19	AIG-FGE	0	0.639291595	Plastid, high confidence
+symbB.v1.2.021604.t1_scaffold1873.1_size97578_4	SP	15	ALA-FEN	0	0.582547904	Plastid, high confidence
+symbB.v1.2.021629.t2_scaffold1854.1_size98632_3	SP	17	SNA-VRS	0	0.116708242	Not plastid, signal peptide identified
+symbB.v1.2.021629.t3_scaffold1854.1_size98632_3	SP	17	SNA-VRS	0	0.111387423	Not plastid, signal peptide identified
+symbB.v1.2.021630.t1_scaffold1854.1_size98632_4	SP	41	VQA-GQV	0	0.118828347	Not plastid, signal peptide identified
+symbB.v1.2.021636.t1_scaffold1882.1_size97200_5	SP	19	ALA-GPT	0	0.128580690	Not plastid, signal peptide identified
+symbB.v1.2.021772.t1_scaffold1821.1_size219240_11	SP	24	TQE-QIS	2	0.120945187	Not plastid, signal peptide identified
+symbB.v1.2.021981.t2_scaffold1899.1_size238565_17	SP	13	VAA-EPH	-2	0.074082618	Not plastid, signal peptide identified
+symbB.v1.2.022008.t1_scaffold1935.1_size95652_3	SP	25	SHS-QSC	0	0.115642510	Not plastid, signal peptide identified
+symbB.v1.2.022065.t1_scaffold1942.1_size95505_2	SP	19	GEA-QVL	0	0.158176996	Not plastid, signal peptide identified
+symbB.v1.2.022081.t1_scaffold1938.1_size102858_3	SP	22	ISA-DSC	0	0.162057671	Not plastid, signal peptide identified
+symbB.v1.2.022116.t1_scaffold1904.1_size96468_3	SP	29	VSA-CVP	0	0.236565199	Not plastid, signal peptide identified
+symbB.v1.2.022127.t1_scaffold1952.1_size95184_1	SP	19	AGC-FGD	-2	0.602673577	Plastid, low confidence
+symbB.v1.2.022128.t1_scaffold1952.1_size95184_2	SP	28	ASA-ADS	0	0.129867690	Not plastid, signal peptide identified
+symbB.v1.2.022160.t1_scaffold1954.1_size95041_3	SP	23	SLA-KQY	0	0.104545268	Not plastid, signal peptide identified
+symbB.v1.2.022176.t1_scaffold1915.1_size133927_4	SP	26	TLA-FSD	-2	0.702988663	Plastid, low confidence
+symbB.v1.2.022177.t1_scaffold1915.1_size133927_5	SP	29	YEA-SQH	0	0.079493390	Not plastid, signal peptide identified
+symbB.v1.2.022218.t1_scaffold1962.1_size110877_4	SP	21	DAA-ITE	1	0.204834163	Not plastid, signal peptide identified
+symbB.v1.2.022223.t1_scaffold1962.1_size110877_9	SP	26	CSG-NLT	0	0.187913843	Not plastid, signal peptide identified
+symbB.v1.2.022239.t1_scaffold1951.1_size99721_9	SP	17	VGA-SGT	0	0.138569958	Not plastid, signal peptide identified
+symbB.v1.2.022276.t1_scaffold1968.1_size94324_9	SP	28	IEA-KPS	0	0.132834015	Not plastid, signal peptide identified
+symbB.v1.2.022278.t1_scaffold1972.1_size94142_1	SP	23	LTA-SGG	-1	0.088888355	Not plastid, signal peptide identified
+symbB.v1.2.022278.t2_scaffold1972.1_size94142_1	SP	23	LTA-SGG	-1	0.088888355	Not plastid, signal peptide identified
+symbB.v1.2.022278.t3_scaffold1972.1_size94142_1	SP	23	LTA-SGG	-1	0.088888355	Not plastid, signal peptide identified
+symbB.v1.2.022280.t1_scaffold1972.1_size94142_3	SP	22	GTA-SQL	0	0.140726282	Not plastid, signal peptide identified
+symbB.v1.2.022316.t1_scaffold1975.1_size94033_3	SP	16	PAA-LKL	-1	0.137045682	Plastid, low confidence
+symbB.v1.2.022332.t1_scaffold1974.1_size94090_8	SP	19	VIA-TDS	0	0.110799282	Not plastid, signal peptide identified
+symbB.v1.2.022363.t1_scaffold1890.1_size135764_6	SP	15	AGV-KTS	-2	0.164231735	Not plastid, signal peptide identified
+symbB.v1.2.022373.t1_scaffold1982.1_size93808_5	SP	18	VCA-ERE	0	0.130696350	Not plastid, signal peptide identified
+symbB.v1.2.022384.t1_scaffold1984.1_size115852_11	SP	23	ASA-LTH	2	0.173610459	Plastid, low confidence
+symbB.v1.2.022405.t1_scaffold1987.1_size93534_3	SP	18	TVA-VDV	0	0.110773962	Not plastid, signal peptide identified
+symbB.v1.2.022433.t1_scaffold1980.1_size93873_11	SP	19	SAR-FTE	2	0.628673326	Plastid, low confidence
+symbB.v1.2.022465.t2_scaffold1995.1_size93224_3	SP	21	TDA-SPH	0	0.133108238	Not plastid, signal peptide identified
+symbB.v1.2.022522.t1_scaffold2003.1_size92810_9	SP	21	VGS-SKL	-1	0.145972726	Not plastid, signal peptide identified
+symbB.v1.2.022555.t1_scaffold2010.1_size113344_6	SP	20	GEE-DSP	2	0.237989545	Not plastid, signal peptide identified
+symbB.v1.2.022558.t1_scaffold2010.1_size113344_9	SP	21	AQA-VIA	0	0.104227831	Not plastid, signal peptide identified
+symbB.v1.2.022568.t1_scaffold2011.1_size92419_8	SP	17	ALQ-GDP	-1	0.190448102	Not plastid, signal peptide identified
+symbB.v1.2.022575.t1_scaffold1978.1_size96278_4	SP	33	VEA-THW	0	0.168425996	Not plastid, signal peptide identified
+symbB.v1.2.022607.t1_scaffold2000.1_size92914_6	SP	24	SLT-FAR	-2	0.673852695	Plastid, low confidence
+symbB.v1.2.022613.t1_scaffold2017.1_size92264_4	SP	17	ELA-YGA	-2	0.149749113	Plastid, low confidence
+symbB.v1.2.022664.t1_scaffold2021.1_size93746_6	SP	31	PLA-AGL	-2	0.154630668	Not plastid, signal peptide identified
+symbB.v1.2.022720.t1_scaffold2034.1_size91818_2	SP	24	SDA-CEE	2	0.134183631	Not plastid, signal peptide identified
+symbB.v1.2.022804.t1_scaffold2064.1_size90802_2	SP	23	GVA-DEA	0	0.124226900	Not plastid, signal peptide identified
+symbB.v1.2.022832.t1_scaffold2043.1_size110972_6	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.022890.t1_scaffold2015.1_size92276_3	SP	20	ASA-LQS	0	0.150843610	Plastid, low confidence
+symbB.v1.2.022907.t1_scaffold2052.1_size91004_2	SP	19	VDA-GEL	0	0.137982707	Not plastid, signal peptide identified
+symbB.v1.2.022919.t1_scaffold2055.1_size90941_5	SP	18	AHS-FLN	0	0.587980074	Plastid, high confidence
+symbB.v1.2.022945.t1_scaffold2067.1_size90749_5	SP	21	SHA-QLM	0	0.113971951	Not plastid, signal peptide identified
+symbB.v1.2.022986.t1_scaffold2038.1_size91535_2	SP	19	AQA-SSL	0	0.168087435	Not plastid, signal peptide identified
+symbB.v1.2.023030.t1_scaffold2081.1_size90194_3	SP	26	RTA-GTH	1	0.133856263	Not plastid, signal peptide identified
+symbB.v1.2.023050.t1_scaffold1955.1_size113466_2	SP	26	VVL-RGK	-2	0.148255217	Not plastid, signal peptide identified
+symbB.v1.2.023076.t1_scaffold2054.1_size90980_1	SP	18	PIA-CED	-1	0.100273345	Not plastid, signal peptide identified
+symbB.v1.2.023081.t1_scaffold2080.1_size104589_3	SP	24	SRA-PTK	2	0.143518018	Not plastid, signal peptide identified
+symbB.v1.2.023117.t1_scaffold2087.1_size89970_2	SP	19	SLA-VPT	0	0.111916615	Not plastid, signal peptide identified
+symbB.v1.2.023222.t1_scaffold2110.1_size89058_10	SP	23	LVA-LQT	0	0.157694577	Plastid, low confidence
+symbB.v1.2.023362.t1_scaffold2133.1_size88229_7	SP	17	TLS-FSS	-2	0.634011621	Plastid, low confidence
+symbB.v1.2.023379.t1_scaffold2091.1_size89877_3	SP	20	VQS-VRV	0	0.057309158	Not plastid, signal peptide identified
+symbB.v1.2.023392.t1_scaffold2138.1_size88104_4	SP	23	VVG-ERT	0	0.179687706	Not plastid, signal peptide identified
+symbB.v1.2.023395.t1_scaffold2138.1_size88104_7	SP	18	GYG-LDS	0	0.162814044	Plastid, low confidence
+symbB.v1.2.023449.t3_scaffold2139.1_size165116_3	SP	40	AQA-STL	0	0.184305051	Not plastid, signal peptide identified
+symbB.v1.2.023449.t4_scaffold2139.1_size165116_3	SP	40	AQA-STL	0	0.184305051	Not plastid, signal peptide identified
+symbB.v1.2.023493.t1_scaffold2085.1_size181108_3	SP	20	WSL-PRP	1	0.180717386	Not plastid, signal peptide identified
+symbB.v1.2.023516.t1_scaffold2153.1_size87802_7	SP	18	IVA-EDD	0	0.112646205	Not plastid, signal peptide identified
+symbB.v1.2.023549.t1_scaffold2160.1_size87486_4	SP	25	KAA-EVS	1	0.213252450	Not plastid, signal peptide identified
+symbB.v1.2.023588.t1_scaffold2168.1_size87162_2	SP	17	CLA-QDI	0	0.129877254	Not plastid, signal peptide identified
+symbB.v1.2.023658.t1_scaffold2181.1_size92752_2	SP	19	TLA-DVL	0	0.171897012	Not plastid, signal peptide identified
+symbB.v1.2.023887.t1_scaffold2222.1_size85392_3	SP	20	VAA-VDD	0	0.124751598	Not plastid, signal peptide identified
+symbB.v1.2.023888.t1_scaffold2222.1_size85392_4	SP	22	AWA-LTE	0	0.165276293	Plastid, low confidence
+symbB.v1.2.023974.t1_scaffold2236.1_size84961_8	SP	19	LTA-TEN	-1	0.111688727	Not plastid, signal peptide identified
+symbB.v1.2.024002.t1_scaffold2216.1_size85545_2	SP	15	LTA-AEP	-1	0.202935948	Not plastid, signal peptide identified
+symbB.v1.2.024120.t1_scaffold2261.1_size84172_1	SP	26	SCA-EEG	0	0.137805667	Not plastid, signal peptide identified
+symbB.v1.2.024151.t1_scaffold2264.1_size174359_6	SP	21	ALA-YRA	0	0.093757166	Plastid, low confidence
+symbB.v1.2.024155.t1_scaffold2264.1_size174359_10	SP	20	TDD-RVS	2	0.143655456	Not plastid, signal peptide identified
+symbB.v1.2.024260.t1_scaffold2277.1_size96038_3	SP	20	VQS-LVR	0	0.147448579	Plastid, low confidence
+symbB.v1.2.024291.t1_scaffold2288.1_size83326_9	SP	41	SLA-SMS	0	0.105609284	Not plastid, signal peptide identified
+symbB.v1.2.024308.t1_scaffold2290.1_size96195_1	SP	18	VLA-QDV	0	0.133584603	Not plastid, signal peptide identified
+symbB.v1.2.024326.t1_scaffold2287.1_size83372_4	SP	25	GLA-VPD	0	0.130652533	Not plastid, signal peptide identified
+symbB.v1.2.024528.t1_scaffold2324.1_size158529_16	SP	25	KQG-KNS	1	0.096696904	Not plastid, signal peptide identified
+symbB.v1.2.024561.t1_scaffold2334.1_size145401_3	SP	18	SIA-EDL	0	0.122326091	Not plastid, signal peptide identified
+symbB.v1.2.024587.t1_scaffold2337.1_size81945_3	SP	19	GNA-QVE	0	0.081853356	Not plastid, signal peptide identified
+symbB.v1.2.024698.t1_scaffold2353.1_size81579_7	SP	29	NEA-GAA	-2	0.196219831	Not plastid, signal peptide identified
+symbB.v1.2.024725.t1_scaffold2361.1_size81382_1	SP	23	AMG-FED	0	0.597792223	Plastid, high confidence
+symbB.v1.2.024727.t1_scaffold2361.1_size81382_3	SP	19	GAA-QSI	-2	0.151742325	Not plastid, signal peptide identified
+symbB.v1.2.024792.t1_scaffold2372.1_size80857_2	SP	16	LPA-FGV	-2	0.631820572	Plastid, low confidence
+symbB.v1.2.024841.t1_scaffold2377.1_size157712_7	SP	22	TYL-QMD	0	0.111080714	Not plastid, signal peptide identified
+symbB.v1.2.024856.t1_scaffold2380.1_size80551_4	SP	25	GKS-FMT	2	0.649406135	Plastid, low confidence
+symbB.v1.2.024887.t1_scaffold2388.1_size114014_4	SP	18	GLA-QLA	0	0.122584698	Not plastid, signal peptide identified
+symbB.v1.2.024917.t1_scaffold2391.1_size80316_5	SP	23	GSP-GAP	2	0.300608259	Not plastid, signal peptide identified
+symbB.v1.2.024977.t1_scaffold2400.1_size80086_2	SP	21	SEA-SLQ	0	0.101432209	Not plastid, signal peptide identified
+symbB.v1.2.025004.t1_scaffold2406.1_size85596_1	SP	24	PCA-FQR	1	0.596773406	Plastid, low confidence
+symbB.v1.2.025040.t1_scaffold2409.1_size79984_8	SP	22	VHG-VEG	0	0.089122711	Not plastid, signal peptide identified
+symbB.v1.2.025072.t1_scaffold2410.1_size79957_13	SP	19	ICH-QAN	1	0.173214325	Not plastid, signal peptide identified
+symbB.v1.2.025167.t1_scaffold2430.1_size88086_2	SP	22	AVA-LEL	0	0.140655117	Plastid, low confidence
+symbB.v1.2.025168.t2_scaffold2430.1_size88086_3	SP	21	VES-SRP	0	0.198504622	Not plastid, signal peptide identified
+symbB.v1.2.025210.t1_scaffold2437.1_size79084_7	SP	21	SSA-TSM	0	0.122816505	Not plastid, signal peptide identified
+symbB.v1.2.025265.t1_scaffold2444.1_size78941_6	SP	31	MQS-FLQ	0	0.627197384	Plastid, high confidence
+symbB.v1.2.025275.t1_scaffold2445.1_size151041_3	SP	16	CKG-QTQ	0	0.141941880	Not plastid, signal peptide identified
+symbB.v1.2.025285.t1_scaffold2445.1_size151041_13	SP	13	ALC-FAE	-2	0.634480599	Plastid, low confidence
+symbB.v1.2.025288.t1_scaffold2445.1_size151041_16	SP	16	ATA-FPL	0	0.606138975	Plastid, high confidence
+symbB.v1.2.025311.t1_scaffold2450.1_size78879_7	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.025345.t1_scaffold2431.1_size102990_9	SP	20	STA-LGA	-2	0.126910233	Plastid, low confidence
+symbB.v1.2.025386.t1_scaffold2458.1_size78746_5	SP	18	VEA-AQS	0	0.142984109	Not plastid, signal peptide identified
+symbB.v1.2.025500.t1_scaffold2452.1_size150514_1	SP	24	SRG-QTD	0	0.134309359	Not plastid, signal peptide identified
+symbB.v1.2.025500.t2_scaffold2452.1_size150514_1	SP	24	SRG-QTD	0	0.134309359	Not plastid, signal peptide identified
+symbB.v1.2.025531.t1_scaffold2483.1_size114807_5	SP	17	AQA-APW	0	0.064510889	Not plastid, signal peptide identified
+symbB.v1.2.025558.t1_scaffold2488.1_size77878_9	SP	24	SCA-EEP	1	0.235542220	Not plastid, signal peptide identified
+symbB.v1.2.025566.t1_scaffold2413.1_size174923_7	SP	16	AWA-IAV	0	0.167097790	Not plastid, signal peptide identified
+symbB.v1.2.025599.t1_scaffold2482.1_size80432_5	SP	22	AML-FHE	2	0.560751354	Plastid, low confidence
+symbB.v1.2.025724.t1_scaffold2509.1_size77380_11	SP	23	AWN-FST	2	0.629947499	Plastid, low confidence
+symbB.v1.2.025743.t1_scaffold2505.1_size135028_7	SP	16	VTA-VRD	0	0.073082719	Not plastid, signal peptide identified
+symbB.v1.2.025765.t1_scaffold2522.1_size77004_2	SP	17	ATA-EPS	0	0.137767587	Not plastid, signal peptide identified
+symbB.v1.2.025895.t1_scaffold2547.1_size76550_7	SP	20	EEA-SGN	-2	0.123255260	Not plastid, signal peptide identified
+symbB.v1.2.025970.t1_scaffold2560.1_size76387_2	SP	18	TSA-ISQ	0	0.158854739	Not plastid, signal peptide identified
+symbB.v1.2.025996.t1_scaffold2562.1_size76343_5	SP	25	ASA-KKF	1	0.112722081	Not plastid, signal peptide identified
+symbB.v1.2.026049.t1_scaffold2571.1_size76067_2	SP	19	VEA-FPC	0	0.631445573	Plastid, high confidence
+symbB.v1.2.026053.t1_scaffold2571.1_size76067_6	SP	19	TVA-VPQ	0	0.109377044	Not plastid, signal peptide identified
+symbB.v1.2.026054.t1_scaffold2571.1_size76067_7	SP	20	GSS-WEG	2	0.181892371	Plastid, low confidence
+symbB.v1.2.026056.t1_scaffold2576.1_size75980_1	SP	18	SAE-FLA	1	0.598239836	Plastid, low confidence
+symbB.v1.2.026151.t1_scaffold2591.1_size75417_1	SP	18	AAA-AAT	1	0.173339524	Not plastid, signal peptide identified
+symbB.v1.2.026174.t1_scaffold2593.1_size75360_7	SP	20	ADA-LRA	0	0.078565074	Plastid, low confidence
+symbB.v1.2.026177.t1_scaffold2592.1_size78170_2	SP	17	AFV-FGS	-2	0.614272131	Plastid, low confidence
+symbB.v1.2.026193.t1_scaffold2598.1_size75169_2	SP	18	GEV-FEP	2	0.767073159	Plastid, low confidence
+symbB.v1.2.026202.t1_scaffold2557.1_size76417_7	SP	25	ARA-LPL	0	0.136203551	Plastid, low confidence
+symbB.v1.2.026270.t1_scaffold2600.1_size76924_1	SP	23	PLD-CLP	-1	0.229083440	Not plastid, signal peptide identified
+symbB.v1.2.026343.t1_scaffold2624.1_size74584_5	SP	24	VLA-DLM	0	0.101379331	Not plastid, signal peptide identified
+symbB.v1.2.026494.t1_scaffold2650.1_size74032_4	SP	19	SLA-DGT	-2	0.146218895	Not plastid, signal peptide identified
+symbB.v1.2.026513.t1_scaffold2652.1_size73958_5	SP	18	SLA-SSK	0	0.154303311	Not plastid, signal peptide identified
+symbB.v1.2.026538.t1_scaffold2662.1_size73553_2	SP	16	CFA-DAT	-2	0.148946292	Not plastid, signal peptide identified
+symbB.v1.2.026539.t1_scaffold2662.1_size73553_3	SP	16	CFA-DAT	-2	0.165370560	Not plastid, signal peptide identified
+symbB.v1.2.026645.t1_scaffold2679.1_size73150_2	SP	18	VCA-TGS	-2	0.100607435	Not plastid, signal peptide identified
+symbB.v1.2.026661.t1_scaffold2686.1_size73053_1	SP	19	SLA-QPC	0	0.113606567	Not plastid, signal peptide identified
+symbB.v1.2.026678.t1_scaffold2684.1_size75764_10	SP	20	VTA-DGL	0	0.157186928	Not plastid, signal peptide identified
+symbB.v1.2.026720.t1_scaffold2644.1_size74222_8	SP	23	AYD-FNI	2	0.569642166	Plastid, low confidence
+symbB.v1.2.026727.t2_scaffold2694.1_size91562_3	SP	34	SMA-LSW	-2	0.162369549	Plastid, low confidence
+symbB.v1.2.026748.t1_scaffold2615.1_size144827_1	SP	24	HAG-FWF	1	0.579855070	Plastid, low confidence
+symbB.v1.2.026753.t1_scaffold2681.1_size73127_2	SP	29	GCA-GDA	-1	0.132758836	Not plastid, signal peptide identified
+symbB.v1.2.026827.t1_scaffold2705.1_size72662_4	SP	30	GLA-NVC	0	0.183296071	Not plastid, signal peptide identified
+symbB.v1.2.026843.t1_scaffold2588.1_size75582_6	SP	28	FIA-GAP	-1	0.333964429	Not plastid, signal peptide identified
+symbB.v1.2.026947.t1_scaffold2734.1_size73225_1	SP	22	AWA-QQP	0	0.189504285	Not plastid, signal peptide identified
+symbB.v1.2.026971.t1_scaffold2687.1_size73039_1	SP	37	SPA-SGQ	-2	0.084693302	Not plastid, signal peptide identified
+symbB.v1.2.027051.t1_scaffold2747.1_size71700_5	SP	22	AAA-ESS	0	0.182844242	Not plastid, signal peptide identified
+symbB.v1.2.027176.t1_scaffold2760.1_size95945_8	SP	33	CPA-ESV	0	0.138208679	Not plastid, signal peptide identified
+symbB.v1.2.027180.t1_scaffold2771.1_size70997_2	SP	20	CLG-QDN	0	0.084664339	Not plastid, signal peptide identified
+symbB.v1.2.027200.t1_scaffold2716.1_size72468_7	SP	34	DTS-FAM	1	0.664282049	Plastid, low confidence
+symbB.v1.2.027249.t1_scaffold2780.1_size77252_7	SP	21	ARA-KDC	0	0.084437145	Not plastid, signal peptide identified
+symbB.v1.2.027317.t1_scaffold2793.1_size70179_4	SP	22	AAA-NTC	0	0.160087013	Not plastid, signal peptide identified
+symbB.v1.2.027335.t1_scaffold2762.1_size141425_12	SP	38	GQA-EDA	0	0.155030170	Not plastid, signal peptide identified
+symbB.v1.2.027341.t1_scaffold2798.1_size70082_1	SP	23	SIA-EEK	0	0.095732874	Not plastid, signal peptide identified
+symbB.v1.2.027357.t2_scaffold2799.1_size70062_6	SP	18	VLA-DTT	0	0.151999565	Not plastid, signal peptide identified
+symbB.v1.2.027357.t3_scaffold2799.1_size70062_6	SP	18	VLA-DTT	0	0.151999565	Not plastid, signal peptide identified
+symbB.v1.2.027382.t1_scaffold2713.1_size74948_2	SP	21	ARA-LIE	0	0.124408315	Plastid, low confidence
+symbB.v1.2.027421.t1_scaffold2729.1_size72046_1	SP	19	IPG-LSQ	-2	0.114493413	Plastid, low confidence
+symbB.v1.2.027464.t1_scaffold2821.1_size70050_10	SP	17	TVA-TPA	0	0.084510856	Not plastid, signal peptide identified
+symbB.v1.2.027498.t1_scaffold2828.1_size70857_3	SP	20	VVH-PEP	-1	0.188978261	Not plastid, signal peptide identified
+symbB.v1.2.027506.t1_scaffold2827.1_size69373_2	SP	20	GTA-ESL	-2	0.179758606	Not plastid, signal peptide identified
+symbB.v1.2.027552.t1_scaffold2836.1_size124613_4	SP	18	TIA-EYN	0	0.154138754	Not plastid, signal peptide identified
+symbB.v1.2.027552.t2_scaffold2836.1_size124613_4	SP	18	TIA-EYN	0	0.154138754	Not plastid, signal peptide identified
+symbB.v1.2.027558.t1_scaffold2837.1_size82616_4	SP	32	TAS-FFG	2	0.584889045	Plastid, low confidence
+symbB.v1.2.027597.t1_scaffold2834.1_size69276_4	SP	13	CDA-ARP	0	0.221467523	Not plastid, signal peptide identified
+symbB.v1.2.027598.t1_scaffold2834.1_size69276_5	SP	18	CLA-QPD	0	0.089936180	Not plastid, signal peptide identified
+symbB.v1.2.027600.t1_scaffold2834.1_size69276_7	SP	18	CLA-QPD	0	0.097034983	Not plastid, signal peptide identified
+symbB.v1.2.027672.t1_scaffold2858.1_size68722_1	SP	25	ADA-AKL	0	0.159712517	Not plastid, signal peptide identified
+symbB.v1.2.027698.t1_scaffold2863.1_size68590_1	SP	21	AHA-TLQ	0	0.118066192	Not plastid, signal peptide identified
+symbB.v1.2.027700.t1_scaffold2863.1_size68590_3	SP	26	LLA-SEE	0	0.078169623	Not plastid, signal peptide identified
+symbB.v1.2.027700.t2_scaffold2863.1_size68590_3	SP	26	LLA-SEE	0	0.078169623	Not plastid, signal peptide identified
+symbB.v1.2.027715.t1_scaffold2861.1_size68641_5	SP	15	AVA-YAA	-2	0.188931150	Plastid, low confidence
+symbB.v1.2.027792.t1_scaffold2806.1_size69854_4	SP	26	TSA-FAV	-2	0.705907525	Plastid, low confidence
+symbB.v1.2.027824.t3_scaffold2886.1_size67984_5	SP	20	VPG-FGS	-2	0.605921064	Plastid, low confidence
+symbB.v1.2.027867.t1_scaffold2894.1_size68075_4	SP	17	SWA-LPW	0	0.131427587	Plastid, low confidence
+symbB.v1.2.027867.t2_scaffold2894.1_size68075_4	SP	17	SWA-LPW	0	0.131427587	Plastid, low confidence
+symbB.v1.2.027898.t1_scaffold2895.1_size67727_10	SP	22	TWA-EAA	0	0.165035666	Not plastid, signal peptide identified
+symbB.v1.2.027943.t1_scaffold2901.1_size67644_2	SP	16	KFT-FAA	-2	0.635643743	Plastid, low confidence
+symbB.v1.2.027954.t1_scaffold2907.1_size67540_4	SP	19	VLA-AGD	-2	0.078478085	Not plastid, signal peptide identified
+symbB.v1.2.028056.t1_scaffold2932.1_size66953_6	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.028066.t1_scaffold2935.1_size102186_6	SP	23	VRS-GRD	0	0.073530951	Not plastid, signal peptide identified
+symbB.v1.2.028072.t1_scaffold2936.1_size66856_1	SP	16	VGG-NGS	0	0.124801332	Not plastid, signal peptide identified
+symbB.v1.2.028120.t1_scaffold2946.1_size66664_2	SP	29	CGA-PWT	1	0.102475006	Not plastid, signal peptide identified
+symbB.v1.2.028242.t1_scaffold2977.1_size66051_4	SP	25	SYG-RIQ	0	0.123115592	Not plastid, signal peptide identified
+symbB.v1.2.028269.t1_scaffold2983.1_size65930_5	SP	21	TSA-RTW	0	0.156077656	Not plastid, signal peptide identified
+symbB.v1.2.028283.t1_scaffold2987.1_size129848_5	SP	16	EMA-MLE	-2	0.070880785	Not plastid, signal peptide identified
+symbB.v1.2.028390.t1_scaffold2960.1_size66438_8	SP	13	SQA-LSV	-2	0.173777279	Plastid, low confidence
+symbB.v1.2.028393.t2_scaffold3007.1_size65499_3	SP	24	ISS-ERP	0	0.244805943	Not plastid, signal peptide identified
+symbB.v1.2.028393.t3_scaffold3007.1_size65499_3	SP	24	ISS-ERP	0	0.244805943	Not plastid, signal peptide identified
+symbB.v1.2.028415.t1_scaffold2968.1_size66330_5	SP	14	GLA-IKV	0	0.135685284	Not plastid, signal peptide identified
+symbB.v1.2.028440.t1_scaffold3016.1_size65323_5	SP	21	VGA-CPE	0	0.093181319	Not plastid, signal peptide identified
+symbB.v1.2.028474.t1_scaffold3006.1_size65522_7	SP	27	PGD-ETF	1	0.196121104	Not plastid, signal peptide identified
+symbB.v1.2.028495.t1_scaffold3021.1_size65149_3	SP	32	GQE-DLP	2	0.238847639	Not plastid, signal peptide identified
+symbB.v1.2.028550.t1_scaffold3037.1_size102045_3	SP	18	TGK-RIE	1	0.159253803	Not plastid, signal peptide identified
+symbB.v1.2.028605.t1_scaffold3045.1_size120917_10	SP	19	GHS-RSL	-2	0.151722478	Not plastid, signal peptide identified
+symbB.v1.2.028606.t1_scaffold3045.1_size120917_11	SP	16	LAA-GSS	-1	0.146155517	Not plastid, signal peptide identified
+symbB.v1.2.028607.t1_scaffold3045.1_size120917_12	SP	21	SNL-RGD	-2	0.106933330	Not plastid, signal peptide identified
+symbB.v1.2.028672.t4_scaffold3061.1_size64423_6	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.028689.t1_scaffold3066.1_size64354_2	SP	17	FGA-ASE	-2	0.124955330	Not plastid, signal peptide identified
+symbB.v1.2.028737.t1_scaffold3013.1_size65374_7	SP	20	AQA-SME	0	0.176318908	Not plastid, signal peptide identified
+symbB.v1.2.028755.t1_scaffold3072.1_size64214_6	SP	20	AAV-ISD	-2	0.152228664	Not plastid, signal peptide identified
+symbB.v1.2.028874.t1_scaffold3100.1_size63577_5	SP	16	SVG-YTT	0	0.194988868	Plastid, low confidence
+symbB.v1.2.028902.t1_scaffold3109.1_size64052_1	SP	21	VHA-LRD	0	0.055410611	Plastid, low confidence
+symbB.v1.2.028908.t1_scaffold3110.1_size63354_1	SP	26	EVE-SIP	-1	0.262939210	Not plastid, signal peptide identified
+symbB.v1.2.028921.t1_scaffold3113.1_size63308_2	SP	18	FSA-ESI	-2	0.124406653	Not plastid, signal peptide identified
+symbB.v1.2.028966.t1_scaffold3123.1_size63075_4	SP	18	VHG-ESE	0	0.137769316	Not plastid, signal peptide identified
+symbB.v1.2.028968.t1_scaffold3123.1_size63075_6	SP	17	AAA-DLQ	0	0.120756503	Not plastid, signal peptide identified
+symbB.v1.2.029105.t1_scaffold3083.1_size103308_5	SP	21	GMP-RGP	2	0.259214713	Not plastid, signal peptide identified
+symbB.v1.2.029113.t1_scaffold3154.1_size62266_1	SP	24	STS-FGG	0	0.648378834	Plastid, high confidence
+symbB.v1.2.029137.t1_scaffold3158.1_size63448_1	SP	15	TTA-LGA	-2	0.113735990	Plastid, low confidence
+symbB.v1.2.029146.t1_scaffold3160.1_size62170_6	SP	17	ESM-RGP	1	0.267751215	Not plastid, signal peptide identified
+symbB.v1.2.029224.t1_scaffold3173.1_size63673_5	SP	27	PGA-EIP	1	0.243730395	Not plastid, signal peptide identified
+symbB.v1.2.029244.t1_scaffold3175.1_size97379_11	SP	22	GTC-FPD	2	0.573511102	Plastid, low confidence
+symbB.v1.2.029335.t1_scaffold3199.1_size61439_5	SP	22	VGG-LRP	0	0.217284587	Plastid, low confidence
+symbB.v1.2.029360.t1_scaffold3205.1_size61222_2	SP	26	PLP-FST	2	0.749708317	Plastid, low confidence
+symbB.v1.2.029432.t1_scaffold3216.1_size60985_3	SP	20	HGV-HGP	1	0.184234983	Not plastid, signal peptide identified
+symbB.v1.2.029446.t3_scaffold3217.1_size62816_3	SP	24	EVA-HLI	1	0.144041576	Not plastid, signal peptide identified
+symbB.v1.2.029451.t1_scaffold3186.1_size61749_4	SP	17	LSA-FPV	0	0.667152144	Plastid, high confidence
+symbB.v1.2.029500.t1_scaffold3238.1_size60479_1	SP	19	AVA-TVP	0	0.248255190	Not plastid, signal peptide identified
+symbB.v1.2.029508.t1_scaffold3240.1_size60461_3	SP	22	INL-DLP	0	0.199599065	Not plastid, signal peptide identified
+symbB.v1.2.029514.t1_scaffold3239.1_size60467_5	SP	16	VHA-CSR	0	0.103060682	Not plastid, signal peptide identified
+symbB.v1.2.029527.t1_scaffold3233.1_size60571_3	SP	17	ALC-RGD	-2	0.073018156	Not plastid, signal peptide identified
+symbB.v1.2.029529.t1_scaffold3233.1_size60571_5	SP	21	LLC-FEA	0	0.604993428	Plastid, high confidence
+symbB.v1.2.029529.t3_scaffold3233.1_size60571_5	SP	21	LLC-FEA	0	0.604993428	Plastid, high confidence
+symbB.v1.2.029583.t1_scaffold3257.1_size60124_3	SP	16	CHA-TDD	0	0.160349620	Not plastid, signal peptide identified
+symbB.v1.2.029587.t2_scaffold3259.1_size60087_4	SP	20	VYS-QTL	0	0.153001216	Not plastid, signal peptide identified
+symbB.v1.2.029612.t1_scaffold3266.1_size60008_2	SP	19	ILA-ERL	0	0.154647925	Not plastid, signal peptide identified
+symbB.v1.2.029646.t1_scaffold3219.1_size60888_5	SP	25	SKA-VAS	2	0.195110383	Not plastid, signal peptide identified
+symbB.v1.2.029664.t1_scaffold3277.1_size59865_3	SP	20	GHG-DTG	0	0.137368954	Not plastid, signal peptide identified
+symbB.v1.2.029703.t1_scaffold3180.1_size61892_4	SP	29	VQS-QNA	0	0.187160920	Not plastid, signal peptide identified
+symbB.v1.2.029727.t1_scaffold3288.1_size59728_3	SP	32	ALA-QCE	0	0.117209690	Not plastid, signal peptide identified
+symbB.v1.2.029748.t2_scaffold3291.1_size59609_4	SP	24	VIA-AQE	0	0.106666597	Not plastid, signal peptide identified
+symbB.v1.2.029762.t1_scaffold3294.1_size59574_3	SP	18	VLC-KKQ	0	0.141679765	Not plastid, signal peptide identified
+symbB.v1.2.029843.t1_scaffold3308.1_size59325_3	SP	18	AGA-QPL	0	0.089461473	Not plastid, signal peptide identified
+symbB.v1.2.029854.t1_scaffold3310.1_size62024_6	SP	30	CSA-LSY	0	0.196519728	Plastid, low confidence
+symbB.v1.2.029870.t1_scaffold3241.1_size60449_5	SP	20	GLA-ANE	0	0.139307232	Not plastid, signal peptide identified
+symbB.v1.2.029871.t1_scaffold3241.1_size60449_6	SP	20	VDQ-NCL	0	0.202458694	Not plastid, signal peptide identified
+symbB.v1.2.029919.t1_scaffold3323.1_size59064_5	SP	21	AIA-SLA	0	0.131839247	Not plastid, signal peptide identified
+symbB.v1.2.029933.t1_scaffold3324.1_size59041_1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.030056.t1_scaffold3347.1_size58713_3	SP	17	CSA-KRV	0	0.131578405	Not plastid, signal peptide identified
+symbB.v1.2.030109.t1_scaffold3358.1_size58492_4	SP	21	PFA-LAT	-2	0.161670870	Plastid, low confidence
+symbB.v1.2.030151.t2_scaffold3362.1_size63757_4	SP	21	TES-CME	2	0.066039741	Not plastid, signal peptide identified
+symbB.v1.2.030162.t1_scaffold3356.1_size58521_3	SP	47	SAA-FSA	2	0.697828634	Plastid, low confidence
+symbB.v1.2.030198.t1_scaffold3379.1_size58058_3	SP	20	TKV-WYP	2	0.222218196	Plastid, low confidence
+symbB.v1.2.030272.t1_scaffold3392.1_size57856_2	SP	22	SLA-FAG	-2	0.703626449	Plastid, low confidence
+symbB.v1.2.030283.t1_scaffold3273.1_size59893_3	SP	19	VAA-VVT	0	0.212199565	Not plastid, signal peptide identified
+symbB.v1.2.030289.t1_scaffold3398.1_size57691_3	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.030296.t1_scaffold3332.1_size58911_1	SP	22	TQS-TET	0	0.175655727	Not plastid, signal peptide identified
+symbB.v1.2.030297.t1_scaffold3332.1_size58911_2	SP	21	TQS-TET	0	0.175655727	Not plastid, signal peptide identified
+symbB.v1.2.030340.t1_scaffold3410.1_size62789_1	SP	24	TNA-TQR	0	0.131780747	Not plastid, signal peptide identified
+symbB.v1.2.030416.t1_scaffold3426.1_size60583_1	SP	20	QSA-DVA	1	0.140831580	Not plastid, signal peptide identified
+symbB.v1.2.030471.t1_scaffold3439.1_size56641_2	SP	14	AQA-QCH	-2	0.075355570	Not plastid, signal peptide identified
+symbB.v1.2.030689.t1_scaffold3488.1_size55655_3	SP	25	GVS-HVN	0	0.156084376	Not plastid, signal peptide identified
+symbB.v1.2.030700.t1_scaffold3481.1_size75784_3	SP	20	CRA-VES	0	0.133549644	Not plastid, signal peptide identified
+symbB.v1.2.030736.t1_scaffold3495.1_size92607_6	SP	24	TVA-LKS	0	0.119697156	Plastid, low confidence
+symbB.v1.2.030795.t1_scaffold3510.1_size55064_5	SP	24	AAG-FDQ	2	0.606355303	Plastid, low confidence
+symbB.v1.2.030797.t1_scaffold3510.1_size55064_7	SP	15	AAA-QAH	-2	0.135602047	Not plastid, signal peptide identified
+symbB.v1.2.030820.t1_scaffold3514.1_size54999_4	SP	21	TCG-RNS	0	0.122749525	Not plastid, signal peptide identified
+symbB.v1.2.030849.t1_scaffold3516.1_size54992_4	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.030892.t1_scaffold3526.1_size54696_1	SP	24	AAA-DQT	0	0.177719190	Not plastid, signal peptide identified
+symbB.v1.2.030913.t1_scaffold3533.1_size54604_3	SP	20	SNA-ARP	0	0.213674069	Not plastid, signal peptide identified
+symbB.v1.2.030914.t1_scaffold3533.1_size54604_4	SP	19	VLA-IRR	0	0.083614239	Not plastid, signal peptide identified
+symbB.v1.2.030914.t2_scaffold3533.1_size54604_4	SP	19	VLA-IRR	0	0.083614239	Not plastid, signal peptide identified
+symbB.v1.2.030927.t1_scaffold3519.1_size65392_6	SP	17	SLA-ENV	0	0.118678990	Not plastid, signal peptide identified
+symbB.v1.2.030930.t1_scaffold3537.1_size54447_3	SP	22	TVA-VQI	0	0.115614445	Not plastid, signal peptide identified
+symbB.v1.2.030938.t1_scaffold3540.1_size54394_1	SP	20	TLS-EVV	0	0.135193969	Not plastid, signal peptide identified
+symbB.v1.2.031013.t1_scaffold3554.1_size54204_6	SP	16	VDS-LRT	0	0.129160692	Plastid, low confidence
+symbB.v1.2.031109.t1_scaffold3534.1_size54583_2	SP	24	VSA-VRP	0	0.184840927	Not plastid, signal peptide identified
+symbB.v1.2.031109.t2_scaffold3534.1_size54583_2	SP	24	VSA-VRP	0	0.184840927	Not plastid, signal peptide identified
+symbB.v1.2.031163.t1_scaffold3587.1_size53637_1	SP	24	SRA-GTA	0	0.141589873	Not plastid, signal peptide identified
+symbB.v1.2.031171.t1_scaffold3579.1_size55264_3	SP	21	PGA-HLR	-2	0.136912782	Not plastid, signal peptide identified
+symbB.v1.2.031286.t1_scaffold3616.1_size53225_6	SP	19	VSA-MRL	0	0.124776590	Not plastid, signal peptide identified
+symbB.v1.2.031299.t1_scaffold3551.1_size54235_2	SP	20	WLA-ASQ	-1	0.106012225	Not plastid, signal peptide identified
+symbB.v1.2.031303.t1_scaffold3619.1_size53202_2	SP	22	TGH-FLI	2	0.626097533	Plastid, low confidence
+symbB.v1.2.031319.t1_scaffold3623.1_size53121_5	SP	21	TSS-TRL	0	0.159228101	Not plastid, signal peptide identified
+symbB.v1.2.031348.t1_scaffold3626.1_size81632_5	SP	23	TWA-VPS	0	0.124910240	Not plastid, signal peptide identified
+symbB.v1.2.031411.t1_scaffold3643.1_size52769_3	SP	16	CLA-ECQ	0	0.101860133	Not plastid, signal peptide identified
+symbB.v1.2.031420.t1_scaffold3646.1_size68564_5	SP	25	GQN-FQC	2	0.571209841	Plastid, low confidence
+symbB.v1.2.031450.t1_scaffold3651.1_size52678_3	SP	14	TVA-LAE	-2	0.216994773	Plastid, low confidence
+symbB.v1.2.031476.t1_scaffold3658.1_size52500_7	SP	23	AHA-KGA	0	0.094928090	Not plastid, signal peptide identified
+symbB.v1.2.031502.t1_scaffold3665.1_size69420_3	SP	26	CDG-VEE	2	0.111162515	Not plastid, signal peptide identified
+symbB.v1.2.031575.t1_scaffold3675.1_size52184_2	SP	17	STS-FAA	-2	0.656329887	Plastid, low confidence
+symbB.v1.2.031648.t1_scaffold3696.1_size51833_2	SP	30	GTT-FAP	2	0.742254887	Plastid, low confidence
+symbB.v1.2.031651.t1_scaffold3695.1_size51858_2	SP	25	SDA-NAT	-2	0.169763231	Not plastid, signal peptide identified
+symbB.v1.2.031681.t1_scaffold3685.1_size104757_6	SP	27	SSA-AVE	0	0.128605895	Not plastid, signal peptide identified
+symbB.v1.2.031690.t1_scaffold3705.1_size51681_2	SP	33	TSA-KDV	0	0.092733508	Not plastid, signal peptide identified
+symbB.v1.2.031735.t1_scaffold3715.1_size56643_1	SP	22	PLA-AQL	-1	0.113169611	Not plastid, signal peptide identified
+symbB.v1.2.031739.t1_scaffold3487.1_size55659_2	SP	23	ASA-TKL	0	0.119697961	Not plastid, signal peptide identified
+symbB.v1.2.031743.t1_scaffold3487.1_size55659_6	SP	18	IEA-VAE	-2	0.190598345	Not plastid, signal peptide identified
+symbB.v1.2.031780.t1_scaffold3718.1_size51486_1	SP	14	LVN-GSP	-1	0.261959406	Not plastid, signal peptide identified
+symbB.v1.2.031781.t1_scaffold3718.1_size51486_2	SP	22	LRG-DGG	0	0.109487038	Not plastid, signal peptide identified
+symbB.v1.2.031782.t1_scaffold3718.1_size51486_3	SP	20	PGG-LRE	-2	0.130363899	Plastid, low confidence
+symbB.v1.2.031783.t1_scaffold3718.1_size51486_4	SP	22	LRG-DGG	0	0.138935958	Not plastid, signal peptide identified
+symbB.v1.2.031791.t1_scaffold3729.1_size67329_3	SP	19	ASA-DET	0	0.118380329	Not plastid, signal peptide identified
+symbB.v1.2.031878.t1_scaffold3745.1_size85045_4	SP	24	HVA-GMR	-1	0.136667739	Not plastid, signal peptide identified
+symbB.v1.2.031880.t1_scaffold3745.1_size85045_6	SP	19	HVA-GMR	-1	0.150015534	Not plastid, signal peptide identified
+symbB.v1.2.031919.t1_scaffold3673.1_size52203_2	SP	17	VLI-NGE	-2	0.121364337	Not plastid, signal peptide identified
+symbB.v1.2.031939.t1_scaffold3766.1_size50672_1	SP	26	AMA-HGN	0	0.167734277	Not plastid, signal peptide identified
+symbB.v1.2.031956.t1_scaffold3732.1_size51291_3	SP	29	QSG-FVM	1	0.659231461	Plastid, low confidence
+symbB.v1.2.031961.t1_scaffold3769.1_size50646_3	SP	26	DAA-PDA	1	0.114441858	Not plastid, signal peptide identified
+symbB.v1.2.031986.t1_scaffold3776.1_size50502_1	SP	23	QLA-FAY	-2	0.644707874	Plastid, low confidence
+symbB.v1.2.032002.t1_scaffold3781.1_size50426_2	SP	24	ATL-FDV	2	0.609361430	Plastid, low confidence
+symbB.v1.2.032120.t1_scaffold3812.1_size49844_5	SP	39	AVT-PIG	-1	0.183714356	Not plastid, signal peptide identified
+symbB.v1.2.032122.t1_scaffold3796.1_size50198_2	SP	23	VLA-ERQ	0	0.119738638	Not plastid, signal peptide identified
+symbB.v1.2.032199.t1_scaffold3832.1_size57148_1	SP	18	VDA-ASP	0	0.253149551	Not plastid, signal peptide identified
+symbB.v1.2.032254.t1_scaffold3848.1_size51340_1	SP	22	ANA-EEN	0	0.135558852	Not plastid, signal peptide identified
+symbB.v1.2.032265.t1_scaffold3824.1_size50878_2	SP	30	LQG-CLP	0	0.196918666	Not plastid, signal peptide identified
+symbB.v1.2.032309.t1_scaffold3865.1_size49057_2	SP	28	SCD-FWM	2	0.568607875	Plastid, low confidence
+symbB.v1.2.032399.t1_scaffold3828.1_size49577_2	SP	19	VLG-VET	0	0.164090909	Not plastid, signal peptide identified
+symbB.v1.2.032415.t1_scaffold3872.1_size49016_1	SP	23	ANA-STA	2	0.164998241	Not plastid, signal peptide identified
+symbB.v1.2.032441.t1_scaffold3895.1_size70954_8	SP	20	MRA-SGV	-2	0.131890400	Not plastid, signal peptide identified
+symbB.v1.2.032448.t1_scaffold3897.1_size48720_4	SP	19	TES-CVQ	0	0.156936563	Not plastid, signal peptide identified
+symbB.v1.2.032530.t1_scaffold3911.1_size48435_1	SP	22	SVV-FAD	-2	0.730044380	Plastid, low confidence
+symbB.v1.2.032534.t1_scaffold3918.1_size48325_2	SP	18	ASA-YVA	0	0.213247247	Plastid, low confidence
+symbB.v1.2.032546.t1_scaffold3919.1_size48322_8	SP	18	AGA-GAG	-2	0.121911801	Not plastid, signal peptide identified
+symbB.v1.2.032596.t1_scaffold3933.1_size58575_6	SP	19	VAA-AIP	0	0.230982015	Not plastid, signal peptide identified
+symbB.v1.2.032623.t1_scaffold3936.1_size47945_2	SP	20	QAA-WEI	1	0.162611907	Plastid, low confidence
+symbB.v1.2.032665.t1_scaffold3857.1_size49205_4	SP	21	TPA-LQS	0	0.142466205	Plastid, low confidence
+symbB.v1.2.032694.t1_scaffold3959.1_size47477_2	SP	20	RAA-VVS	1	0.188572196	Not plastid, signal peptide identified
+symbB.v1.2.032789.t1_scaffold3983.1_size46898_2	SP	16	ATA-QRW	0	0.129150400	Not plastid, signal peptide identified
+symbB.v1.2.032832.t1_scaffold3999.1_size46627_1	SP	17	VAA-QKW	0	0.065996481	Not plastid, signal peptide identified
+symbB.v1.2.032891.t1_scaffold4013.1_size46388_2	SP	26	LSA-GQE	-1	0.127479051	Not plastid, signal peptide identified
+symbB.v1.2.032957.t1_scaffold3759.1_size89661_3	SP	21	LHP-VVE	0	0.122848718	Not plastid, signal peptide identified
+symbB.v1.2.033020.t1_scaffold4044.1_size45693_3	SP	18	CAN-FLE	2	0.680107616	Plastid, low confidence
+symbB.v1.2.033033.t1_scaffold4048.1_size45593_4	SP	15	TVS-FAD	-2	0.640808128	Plastid, low confidence
+symbB.v1.2.033181.t1_scaffold4024.1_size46069_5	SP	20	LAA-GDN	-1	0.096422441	Not plastid, signal peptide identified
+symbB.v1.2.033218.t1_scaffold4095.1_size44818_2	SP	18	STA-EVP	0	0.245680075	Not plastid, signal peptide identified
+symbB.v1.2.033238.t1_scaffold4102.1_size44650_4	SP	15	LLA-KGH	-2	0.129729573	Not plastid, signal peptide identified
+symbB.v1.2.033297.t1_scaffold4116.1_size44395_3	SP	26	EVG-FGR	-2	0.637299607	Plastid, low confidence
+symbB.v1.2.033310.t1_scaffold4119.1_size46439_5	SP	26	AVA-SAQ	-2	0.194788402	Not plastid, signal peptide identified
+symbB.v1.2.033394.t1_scaffold4117.1_size72747_3	SP	19	ITA-DPP	0	0.200334321	Not plastid, signal peptide identified
+symbB.v1.2.033396.t1_scaffold4117.1_size72747_5	SP	19	VEA-FGE	0	0.578776003	Plastid, high confidence
+symbB.v1.2.033431.t1_scaffold4150.1_size43807_3	SP	24	AEA-EAD	2	0.140766949	Not plastid, signal peptide identified
+symbB.v1.2.033459.t1_scaffold4159.1_size43755_5	SP	19	VDA-SKG	0	0.115359569	Not plastid, signal peptide identified
+symbB.v1.2.033507.t1_scaffold4173.1_size43543_3	SP	31	EGA-RHN	1	0.099535039	Not plastid, signal peptide identified
+symbB.v1.2.033520.t1_scaffold4176.1_size44774_4	SP	21	PSA-TNW	-1	0.053323682	Not plastid, signal peptide identified
+symbB.v1.2.033561.t2_scaffold4189.1_size43270_5	SP	30	GEA-QCD	0	0.079984211	Not plastid, signal peptide identified
+symbB.v1.2.033639.t1_scaffold4202.1_size44672_5	SP	22	DGE-FMA	1	0.567777782	Plastid, low confidence
+symbB.v1.2.033709.t1_scaffold4227.1_size42814_2	SP	15	ASA-AAQ	-2	0.171949481	Not plastid, signal peptide identified
+symbB.v1.2.033750.t1_scaffold4237.1_size42635_3	SP	16	FSA-EGA	-2	0.180965170	Not plastid, signal peptide identified
+symbB.v1.2.033917.t1_scaffold4282.1_size42006_2	SP	20	GWA-EES	0	0.103929386	Not plastid, signal peptide identified
+symbB.v1.2.033951.t1_scaffold4156.1_size43783_3	SP	21	AAA-YRA	0	0.122203350	Plastid, low confidence
+symbB.v1.2.034075.t1_scaffold4335.1_size42080_1	SP	21	ADA-RAK	-2	0.169766484	Not plastid, signal peptide identified
+symbB.v1.2.034081.t3_scaffold4337.1_size40994_1	SP	21	VNA-LDV	0	0.145279828	Plastid, low confidence
+symbB.v1.2.034146.t1_scaffold4310.1_size41553_4	SP	25	LHA-APL	0	0.149884163	Not plastid, signal peptide identified
+symbB.v1.2.034177.t1_scaffold4367.1_size40592_1	SP	20	AAA-DLP	0	0.187259126	Not plastid, signal peptide identified
+symbB.v1.2.034238.t1_scaffold4387.1_size40302_2	SP	16	VVG-QKP	0	0.197537135	Not plastid, signal peptide identified
+symbB.v1.2.034347.t1_scaffold4418.1_size39897_3	SP	22	MVA-CCX	-1	0.077783023	Not plastid, signal peptide identified
+symbB.v1.2.034377.t1_scaffold4424.1_size65192_3	SP	28	VKA-EHP	0	0.234719062	Not plastid, signal peptide identified
+symbB.v1.2.034417.t1_scaffold4402.1_size45815_2	SP	19	CQG-HLQ	0	0.128560756	Not plastid, signal peptide identified
+symbB.v1.2.034467.t1_scaffold4455.1_size39486_2	SP	19	QEC-DQC	0	0.159429521	Not plastid, signal peptide identified
+symbB.v1.2.034467.t2_scaffold4455.1_size39486_2	SP	19	QEC-DQC	0	0.159429521	Not plastid, signal peptide identified
+symbB.v1.2.034485.t1_scaffold4460.1_size39461_4	SP	18	GEV-FEP	2	0.759604851	Plastid, low confidence
+symbB.v1.2.034513.t1_scaffold4470.1_size39750_3	SP	17	VDS-EGD	0	0.115764702	Not plastid, signal peptide identified
+symbB.v1.2.034596.t1_scaffold4494.1_size38952_1	SP	17	TMA-EDS	0	0.156082653	Not plastid, signal peptide identified
+symbB.v1.2.034684.t1_scaffold4522.1_size38535_4	SP	21	ATA-TCD	0	0.114874974	Not plastid, signal peptide identified
+symbB.v1.2.034703.t1_scaffold4519.1_size87652_6	SP	20	VQA-DVV	0	0.237042160	Not plastid, signal peptide identified
+symbB.v1.2.034761.t1_scaffold4498.1_size38904_2	SP	23	ADA-AAA	0	0.187535057	Not plastid, signal peptide identified
+symbB.v1.2.034790.t1_scaffold4554.1_size38090_5	SP	25	FVA-QGS	-2	0.210927312	Not plastid, signal peptide identified
+symbB.v1.2.034822.t1_scaffold4561.1_size37971_1	SP	22	SIA-FVP	0	0.797511875	Plastid, high confidence
+symbB.v1.2.034847.t1_scaffold4572.1_size43354_6	SP	25	LLE-VTP	2	0.281001156	Not plastid, signal peptide identified
+symbB.v1.2.034881.t1_scaffold4582.1_size37739_1	SP	17	TLA-KKQ	0	0.064544841	Not plastid, signal peptide identified
+symbB.v1.2.034909.t1_scaffold4586.1_size37666_3	SP	22	TQD-LEP	2	0.195018348	Plastid, low confidence
+symbB.v1.2.034925.t1_scaffold4597.1_size37581_1	SP	20	LGD-ECP	1	0.238329980	Not plastid, signal peptide identified
+symbB.v1.2.034925.t2_scaffold4597.1_size37581_1	SP	20	LGD-ECP	1	0.238329980	Not plastid, signal peptide identified
+symbB.v1.2.034926.t1_scaffold4597.1_size37581_2	SP	25	VVA-EWD	0	0.105125832	Not plastid, signal peptide identified
+symbB.v1.2.034943.t1_scaffold4603.1_size37504_4	SP	29	GHA-GPL	0	0.187767432	Not plastid, signal peptide identified
+symbB.v1.2.034959.t1_scaffold4607.1_size37479_4	SP	21	VAA-VSS	0	0.204974480	Not plastid, signal peptide identified
+symbB.v1.2.035034.t1_scaffold4635.1_size37084_3	SP	19	LGA-KIR	1	0.129329633	Not plastid, signal peptide identified
+symbB.v1.2.035048.t1_scaffold4640.1_size37052_4	SP	27	KAA-EGP	1	0.198084398	Not plastid, signal peptide identified
+symbB.v1.2.035121.t1_scaffold4660.1_size36790_1	SP	17	SWA-WNA	0	0.117654307	Plastid, low confidence
+symbB.v1.2.035282.t1_scaffold4712.1_size36010_4	SP	23	CPA-GAY	1	0.140282127	Not plastid, signal peptide identified
+symbB.v1.2.035292.t1_scaffold4714.1_size36000_2	SP	23	VVG-ERG	0	0.115619815	Not plastid, signal peptide identified
+symbB.v1.2.035338.t1_scaffold4732.1_size35661_1	SP	16	ASS-GNM	-1	0.102344404	Not plastid, signal peptide identified
+symbB.v1.2.035451.t1_scaffold4775.1_size34970_3	SP	16	VSA-ADS	0	0.111671326	Not plastid, signal peptide identified
+symbB.v1.2.035465.t1_scaffold4779.1_size34930_6	SP	21	SGG-HCP	1	0.209818100	Not plastid, signal peptide identified
+symbB.v1.2.035502.t1_scaffold4766.1_size35193_3	SP	23	GLA-EET	0	0.130268818	Not plastid, signal peptide identified
+symbB.v1.2.035517.t1_scaffold4800.1_size34596_4	SP	22	SVA-QES	0	0.115555975	Not plastid, signal peptide identified
+symbB.v1.2.035525.t1_scaffold4805.1_size34556_3	SP	26	VDS-KRR	0	0.100537793	Not plastid, signal peptide identified
+symbB.v1.2.035546.t1_scaffold4812.1_size45942_1	SP	16	MTA-FAM	-2	0.651393947	Plastid, low confidence
+symbB.v1.2.035609.t1_scaffold4839.1_size34051_2	SP	21	TSE-DAP	1	0.294148313	Not plastid, signal peptide identified
+symbB.v1.2.035625.t1_scaffold4844.1_size33976_5	SP	20	VEG-LGQ	0	0.096995221	Plastid, low confidence
+symbB.v1.2.035710.t1_scaffold4862.1_size35137_2	SP	25	RAA-DDP	1	0.172009754	Not plastid, signal peptide identified
+symbB.v1.2.035720.t1_scaffold4876.1_size33532_3	SP	23	SCL-LTF	1	0.170524979	Plastid, low confidence
+symbB.v1.2.035742.t1_scaffold4886.1_size33457_2	SP	21	EAG-FAY	-2	0.644358236	Plastid, low confidence
+symbB.v1.2.035790.t1_scaffold4894.1_size34397_3	SP	32	ATE-FRG	2	0.676701294	Plastid, low confidence
+symbB.v1.2.035791.t1_scaffold4902.1_size33185_1	SP	22	VLS-HVP	0	0.226522604	Not plastid, signal peptide identified
+symbB.v1.2.035805.t1_scaffold4905.1_size33141_2	SP	19	IPS-ESV	-2	0.174192327	Not plastid, signal peptide identified
+symbB.v1.2.035813.t1_scaffold4908.1_size33077_1	SP	22	PVA-PVA	-1	0.148985245	Not plastid, signal peptide identified
+symbB.v1.2.035873.t1_scaffold4932.1_size32722_3	SP	18	SRA-EVS	0	0.196634854	Not plastid, signal peptide identified
+symbB.v1.2.035878.t1_scaffold4929.1_size32753_1	SP	15	PSA-TQN	-1	0.099573825	Not plastid, signal peptide identified
+symbB.v1.2.035910.t1_scaffold4947.1_size32529_1	SP	25	TIA-TDN	0	0.166209391	Not plastid, signal peptide identified
+symbB.v1.2.035918.t1_scaffold4949.1_size32515_1	SP	31	AVA-GDC	-1	0.142923917	Not plastid, signal peptide identified
+symbB.v1.2.035939.t1_scaffold4958.1_size32436_1	SP	21	AKV-PCS	-2	0.091729374	Not plastid, signal peptide identified
+symbB.v1.2.035963.t1_scaffold4768.1_size35182_2	SP	25	HLA-RGI	-2	0.148664914	Not plastid, signal peptide identified
+symbB.v1.2.036005.t1_scaffold4922.1_size32852_3	SP	25	ASA-ELE	1	0.166027244	Not plastid, signal peptide identified
+symbB.v1.2.036034.t1_scaffold4993.1_size32019_1	SP	20	VAA-WGE	-2	0.114307617	Plastid, low confidence
+symbB.v1.2.036129.t1_scaffold5030.1_size31649_3	SP	30	SVA-RKG	0	0.148103258	Not plastid, signal peptide identified
+symbB.v1.2.036138.t1_scaffold5033.1_size31628_3	SP	13	VVN-GEP	-1	0.227258541	Not plastid, signal peptide identified
+symbB.v1.2.036192.t1_scaffold5051.1_size31436_1	SP	23	ILG-EET	0	0.220745794	Not plastid, signal peptide identified
+symbB.v1.2.036237.t1_scaffold5068.1_size31258_3	SP	23	AEV-FSS	2	0.661722086	Plastid, low confidence
+symbB.v1.2.036271.t1_scaffold5081.1_size31135_5	SP	21	VQA-VNI	0	0.098731637	Not plastid, signal peptide identified
+symbB.v1.2.036310.t1_scaffold5098.1_size30972_2	SP	20	RAA-LGG	-2	0.191842921	Plastid, low confidence
+symbB.v1.2.036383.t1_scaffold5112.1_size47538_2	SP	20	AVA-LSS	-2	0.123660137	Plastid, low confidence
+symbB.v1.2.036397.t1_scaffold5128.1_size30560_3	SP	21	DSQ-RCP	1	0.237222728	Not plastid, signal peptide identified
+symbB.v1.2.036399.t1_scaffold5128.1_size30560_5	SP	15	SLA-LAQ	-2	0.176088325	Plastid, low confidence
+symbB.v1.2.036443.t1_scaffold5141.1_size55293_3	SP	22	VLC-GKM	0	0.107088317	Not plastid, signal peptide identified
+symbB.v1.2.036444.t1_scaffold5141.1_size55293_4	SP	34	CEG-FCH	2	0.607219183	Plastid, low confidence
+symbB.v1.2.036473.t1_scaffold5157.1_size30255_4	SP	20	TNA-LRD	0	0.093948303	Plastid, low confidence
+symbB.v1.2.036519.t1_scaffold5177.1_size30143_1	SP	25	SEA-SLV	0	0.112629854	Not plastid, signal peptide identified
+symbB.v1.2.036734.t1_scaffold5209.1_size29809_3	SP	24	LEA-HSQ	0	0.183389772	Not plastid, signal peptide identified
+symbB.v1.2.036757.t1_scaffold5260.1_size29252_1	SP	18	FVA-QEP	0	0.212646651	Not plastid, signal peptide identified
+symbB.v1.2.036774.t1_scaffold5270.1_size29095_3	SP	17	AGD-FFQ	1	0.588489488	Plastid, low confidence
+symbB.v1.2.036774.t2_scaffold5270.1_size29095_3	SP	17	AGD-FFQ	1	0.588489488	Plastid, low confidence
+symbB.v1.2.036798.t1_scaffold5269.1_size29147_2	SP	19	AVV-GQE	-1	0.113871559	Not plastid, signal peptide identified
+symbB.v1.2.036821.t1_scaffold5289.1_size28794_2	SP	21	IPA-DQL	-2	0.113169576	Not plastid, signal peptide identified
+symbB.v1.2.036840.t1_scaffold5295.1_size28730_2	SP	29	ALA-LGD	0	0.114815158	Plastid, low confidence
+symbB.v1.2.036900.t1_scaffold5318.1_size28443_4	SP	19	TSA-AKV	0	0.136855847	Not plastid, signal peptide identified
+symbB.v1.2.036921.t1_scaffold5322.1_size30611_1	SP	27	PVD-GCP	-1	0.196919299	Not plastid, signal peptide identified
+symbB.v1.2.036945.t1_scaffold5337.1_size28304_2	SP	25	SQG-NDF	2	0.105870121	Not plastid, signal peptide identified
+symbB.v1.2.036953.t1_scaffold5339.1_size54202_3	SP	32	VEA-LLS	0	0.120664470	Plastid, low confidence
+symbB.v1.2.037116.t1_scaffold5393.1_size48236_4	SP	18	VRG-DDV	0	0.115346643	Not plastid, signal peptide identified
+symbB.v1.2.037131.t1_scaffold5399.1_size27566_1	SP	20	TSA-QMM	0	0.169268507	Not plastid, signal peptide identified
+symbB.v1.2.037164.t1_scaffold5327.1_size46548_5	SP	28	TEA-QQV	0	0.126020506	Not plastid, signal peptide identified
+symbB.v1.2.037205.t1_scaffold5415.1_size27419_1	SP	18	VPA-FAE	-2	0.612116917	Plastid, low confidence
+symbB.v1.2.037208.t1_scaffold5422.1_size27345_2	SP	17	GIA-ASL	-2	0.106638256	Not plastid, signal peptide identified
+symbB.v1.2.037213.t1_scaffold5433.1_size27253_2	SP	24	IGA-ELC	0	0.081302051	Not plastid, signal peptide identified
+symbB.v1.2.037214.t1_scaffold5429.1_size27318_1	SP	21	ALA-SEG	0	0.096954148	Not plastid, signal peptide identified
+symbB.v1.2.037240.t1_scaffold5443.1_size27125_2	SP	21	CSA-AML	0	0.147349961	Not plastid, signal peptide identified
+symbB.v1.2.037241.t1_scaffold5443.1_size27125_3	SP	21	CSA-AML	0	0.147349961	Not plastid, signal peptide identified
+symbB.v1.2.037278.t1_scaffold5462.1_size26883_2	SP	17	PTA-VCQ	-2	0.125695533	Not plastid, signal peptide identified
+symbB.v1.2.037367.t1_scaffold5499.1_size26406_1	SP	24	SQQ-EVH	1	0.184406958	Not plastid, signal peptide identified
+symbB.v1.2.037372.t1_scaffold5501.1_size35064_2	SP	20	SVA-GYR	-1	0.095291330	Not plastid, signal peptide identified
+symbB.v1.2.037404.t1_scaffold5513.1_size26277_3	SP	19	ASA-LAP	0	0.228159744	Plastid, low confidence
+symbB.v1.2.037430.t1_scaffold5506.1_size26365_2	SP	23	FVA-GPS	0	0.160507677	Not plastid, signal peptide identified
+symbB.v1.2.037444.t1_scaffold5534.1_size26050_1	SP	21	ATA-VRI	0	0.083243272	Not plastid, signal peptide identified
+symbB.v1.2.037459.t1_scaffold5540.1_size26019_1	SP	20	DAA-EVK	1	0.102763613	Not plastid, signal peptide identified
+symbB.v1.2.037504.t1_scaffold5548.1_size39538_2	SP	26	QAS-FAS	-2	0.672491945	Plastid, low confidence
+symbB.v1.2.037543.t1_scaffold5571.1_size28630_6	SP	21	CNS-YSG	0	0.164494011	Plastid, low confidence
+symbB.v1.2.037581.t1_scaffold5592.1_size25535_3	SP	17	ANA-AVS	0	0.158939237	Not plastid, signal peptide identified
+symbB.v1.2.037662.t1_scaffold5616.1_size25324_1	SP	21	IHG-ELE	0	0.093781974	Not plastid, signal peptide identified
+symbB.v1.2.037699.t1_scaffold5637.1_size25099_2	SP	24	VRG-SKD	0	0.086488532	Not plastid, signal peptide identified
+symbB.v1.2.037723.t1_scaffold5648.1_size39594_4	SP	21	ARA-FAC	-2	0.657452011	Plastid, low confidence
+symbB.v1.2.037737.t1_scaffold5655.1_size24866_1	SP	24	IGA-ELC	0	0.081302051	Not plastid, signal peptide identified
+symbB.v1.2.037772.t1_scaffold5660.1_size24809_3	SP	26	ASQ-GEG	-1	0.187722318	Not plastid, signal peptide identified
+symbB.v1.2.037785.t1_scaffold5675.1_size27237_4	SP	18	RDA-SNR	-2	0.075080403	Not plastid, signal peptide identified
+symbB.v1.2.037896.t1_scaffold5717.1_size24284_1	SP	19	CLA-ECQ	0	0.110851365	Not plastid, signal peptide identified
+symbB.v1.2.037980.t1_scaffold5767.1_size23839_2	SP	34	ASA-FVG	0	0.675483130	Plastid, high confidence
+symbB.v1.2.038007.t1_scaffold5375.1_size55718_1	SP	18	PMA-FAS	-2	0.677163607	Plastid, low confidence
+symbB.v1.2.038101.t1_scaffold5823.1_size23319_2	SP	24	GLA-KSD	-2	0.135770834	Not plastid, signal peptide identified
+symbB.v1.2.038180.t1_scaffold5862.1_size23015_1	SP	21	AFA-ASD	-2	0.144151093	Not plastid, signal peptide identified
+symbB.v1.2.038194.t1_scaffold5827.1_size23306_3	SP	20	VSS-VRV	0	0.081138470	Not plastid, signal peptide identified
+symbB.v1.2.038234.t1_scaffold5759.1_size23904_1	SP	20	IDG-FAT	0	0.692636683	Plastid, high confidence
+symbB.v1.2.038244.t1_scaffold5892.1_size22708_3	SP	25	DCA-FVG	1	0.624122513	Plastid, low confidence
+symbB.v1.2.038255.t1_scaffold5894.1_size22671_2	SP	15	SWA-EEA	0	0.124809442	Not plastid, signal peptide identified
+symbB.v1.2.038278.t1_scaffold5896.1_size48089_3	SP	15	VQG-VQW	0	0.076323588	Not plastid, signal peptide identified
+symbB.v1.2.038340.t1_scaffold5936.1_size22355_1	SP	14	AMA-WAS	-2	0.168107208	Plastid, low confidence
+symbB.v1.2.038396.t1_scaffold5961.1_size22113_2	SP	19	ITA-LKL	0	0.108363778	Plastid, low confidence
+symbB.v1.2.038464.t1_scaffold6000.1_size21882_1	SP	20	MSA-RLN	1	0.055008170	Not plastid, signal peptide identified
+symbB.v1.2.038468.t1_scaffold6002.1_size21864_2	SP	17	SLA-VAT	-2	0.195201753	Not plastid, signal peptide identified
+symbB.v1.2.038492.t1_scaffold6007.1_size21818_1	SP	22	TSA-SSD	0	0.124034002	Not plastid, signal peptide identified
+symbB.v1.2.038609.t1_scaffold6081.1_size21104_2	SP	15	CRA-LVL	0	0.177401262	Plastid, low confidence
+symbB.v1.2.038657.t1_scaffold6103.1_size20916_2	SP	19	ASA-SRD	0	0.081014657	Not plastid, signal peptide identified
+symbB.v1.2.038689.t1_scaffold6125.1_size20762_2	SP	17	VAA-ERD	0	0.078268939	Not plastid, signal peptide identified
+symbB.v1.2.038692.t1_scaffold6126.1_size20757_2	SP	35	ALA-EGE	0	0.109272348	Not plastid, signal peptide identified
+symbB.v1.2.038702.t1_scaffold6131.1_size20721_2	SP	17	TLA-NKQ	0	0.058948741	Not plastid, signal peptide identified
+symbB.v1.2.038713.t1_scaffold6137.1_size20668_1	SP	20	SWA-QED	0	0.136934851	Not plastid, signal peptide identified
+symbB.v1.2.038778.t1_scaffold6152.1_size20496_3	SP	22	QRA-GCD	-2	0.067146775	Not plastid, signal peptide identified
+symbB.v1.2.038847.t1_scaffold6204.1_size20109_1	SP	17	GTT-FAA	-2	0.646223458	Plastid, low confidence
+symbB.v1.2.038881.t1_scaffold6224.1_size19908_1	SP	18	GEV-FEP	2	0.767073159	Plastid, low confidence
+symbB.v1.2.038889.t1_scaffold6227.1_size19852_2	SP	19	VFA-KGH	-2	0.085938905	Not plastid, signal peptide identified
+symbB.v1.2.039060.t1_scaffold6325.1_size19000_1	SP	27	VAA-EEL	0	0.153897474	Not plastid, signal peptide identified
+symbB.v1.2.039124.t1_scaffold6360.1_size18781_3	SP	19	ASA-HDT	0	0.117111829	Not plastid, signal peptide identified
+symbB.v1.2.039260.t1_scaffold6445.1_size18044_2	SP	25	TQR-VVP	2	0.198788777	Not plastid, signal peptide identified
+symbB.v1.2.039401.t1_scaffold6533.1_size17332_1	SP	31	AAA-ALG	2	0.163620931	Not plastid, signal peptide identified
+symbB.v1.2.039401.t2_scaffold6533.1_size17332_1	SP	31	AAA-ALG	2	0.163620931	Not plastid, signal peptide identified
+symbB.v1.2.039525.t1_scaffold6626.1_size16615_1	SP	17	VQS-LKL	0	0.159221400	Plastid, low confidence
+symbB.v1.2.039546.t1_scaffold6622.1_size16656_2	SP	31	STC-NAA	2	0.166872610	Not plastid, signal peptide identified
+symbB.v1.2.039563.t1_scaffold6649.1_size16495_1	SP	15	WPA-IGE	-2	0.136429298	Not plastid, signal peptide identified
+symbB.v1.2.039662.t1_scaffold6709.1_size16065_2	SP	24	SMA-QVP	0	0.201312112	Not plastid, signal peptide identified
+symbB.v1.2.039666.t1_scaffold6711.1_size16060_1	SP	16	AAA-NCE	-2	0.137358964	Not plastid, signal peptide identified
+symbB.v1.2.039684.t1_scaffold6724.1_size15943_1	SP	21	TAA-VTV	0	0.175969760	Not plastid, signal peptide identified
+symbB.v1.2.039805.t3_scaffold6791.1_size15533_1	SP	20	AWA-ECH	0	0.127674330	Not plastid, signal peptide identified
+symbB.v1.2.039880.t1_scaffold6847.1_size15061_3	SP	23	ASQ-GRW	-1	0.093021748	Not plastid, signal peptide identified
+symbB.v1.2.039899.t1_scaffold6857.1_size15022_3	SP	24	TGA-ELC	0	0.102682122	Not plastid, signal peptide identified
+symbB.v1.2.040255.t1_scaffold7102.1_size13317_3	SP	22	SQS-LVM	2	0.119904443	Plastid, low confidence
+symbB.v1.2.040342.t1_scaffold7156.1_size12994_4	SP	16	VLA-FAS	-2	0.695267425	Plastid, low confidence
+symbB.v1.2.040351.t1_scaffold7165.1_size12945_1	SP	21	SAN-FEP	1	0.671198083	Plastid, low confidence
+symbB.v1.2.040360.t1_scaffold7170.1_size12902_1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.040364.t1_scaffold7172.1_size12892_3	SP	24	AHA-DET	0	0.147196583	Not plastid, signal peptide identified
+symbB.v1.2.040377.t1_scaffold7182.1_size12851_1	SP	19	SIA-FNN	0	0.595671110	Plastid, high confidence
+symbB.v1.2.040377.t2_scaffold7182.1_size12851_1	SP	19	SIA-FNN	0	0.595671110	Plastid, high confidence
+symbB.v1.2.040475.t1_scaffold7267.1_size12241_1	SP	20	VQA-TCL	0	0.126061404	Not plastid, signal peptide identified
+symbB.v1.2.040490.t1_scaffold7276.1_size12153_2	SP	19	SSA-IKD	0	0.064883072	Not plastid, signal peptide identified
+symbB.v1.2.040495.t1_scaffold7280.1_size12128_1	SP	17	VDS-IEI	0	0.129419914	Not plastid, signal peptide identified
+symbB.v1.2.040549.t1_scaffold7321.1_size11936_2	SP	23	VSA-MAV	0	0.166394933	Not plastid, signal peptide identified
+symbB.v1.2.040654.t1_scaffold7411.1_size11438_2	SP	15	AAA-QEP	0	0.229041331	Not plastid, signal peptide identified
+symbB.v1.2.040680.t1_scaffold7435.1_size11282_2	SP	17	TPS-FAK	-2	0.637101479	Plastid, low confidence
+symbB.v1.2.040696.t1_scaffold7448.1_size11193_2	SP	16	AMA-AAG	-2	0.221197505	Not plastid, signal peptide identified
+symbB.v1.2.040734.t1_scaffold7480.1_size11010_1	SP	40	AEA-NDI	0	0.087537806	Not plastid, signal peptide identified
+symbB.v1.2.040955.t1_scaffold7685.1_size9894_2	SP	28	EHG-FAL	-2	0.716472792	Plastid, low confidence
+symbB.v1.2.040973.t1_scaffold7702.1_size9803_1	SP	13	VAA-KGV	-2	0.103078310	Not plastid, signal peptide identified
+symbB.v1.2.040975.t1_scaffold7703.1_size9803_1	SP	25	RGG-GDP	1	0.193626849	Not plastid, signal peptide identified
+symbB.v1.2.040990.t1_scaffold7714.1_size9757_1	SP	19	VDG-GTW	0	0.162692683	Not plastid, signal peptide identified
+symbB.v1.2.041015.t1_scaffold7745.1_size9542_2	SP	20	GKD-FRK	2	0.619041737	Plastid, low confidence
+symbB.v1.2.041085.t1_scaffold7808.1_size9202_1	SP	20	ALA-NNG	0	0.157416197	Not plastid, signal peptide identified
+symbB.v1.2.041107.t1_scaffold7830.1_size9125_1	SP	20	ALA-NNG	0	0.157416197	Not plastid, signal peptide identified
+symbB.v1.2.041120.t1_scaffold7841.1_size9061_1	SP	32	TFA-HAD	-2	0.176522558	Not plastid, signal peptide identified
+symbB.v1.2.041137.t1_scaffold7858.1_size8980_1	SP	19	SIV-FAG	-2	0.661244091	Plastid, low confidence
+symbB.v1.2.041172.t1_scaffold7893.1_size8831_2	SP	21	EVA-KGT	-2	0.116782237	Not plastid, signal peptide identified
+symbB.v1.2.041274.t1_scaffold8005.1_size8220_2	SP	21	VSG-ERP	0	0.190366722	Not plastid, signal peptide identified
+symbB.v1.2.041385.t1_scaffold8127.1_size8468_1	SP	21	RPD-CSP	1	0.218240627	Not plastid, signal peptide identified
+symbB.v1.2.041446.t1_scaffold8180.1_size7411_1	SP	20	ALA-NNG	0	0.157416197	Not plastid, signal peptide identified
+symbB.v1.2.041487.t1_scaffold8269.1_size7005_1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+symbB.v1.2.041592.t1_scaffold8383.1_size6579_2	SP	30	SSA-APN	0	0.096856362	Not plastid, signal peptide identified
+symbB.v1.2.041603.t1_scaffold8395.1_size6521_2	SP	31	FVG-HNG	0	0.171387185	Not plastid, signal peptide identified
+symbB.v1.2.041633.t1_scaffold8430.1_size6355_1	SP	28	VAA-GGM	0	0.166950472	Not plastid, signal peptide identified
+symbB.v1.2.041769.t1_scaffold8616.1_size5613_2	SP	21	VLG-QQD	0	0.101380277	Not plastid, signal peptide identified
+symbB.v1.2.041778.t1_scaffold8630.1_size5566_1	SP	16	GLA-SKV	0	0.151573900	Not plastid, signal peptide identified
+symbB.v1.2.041834.t1_scaffold8706.1_size6420_1	SP	19	VEA-FGE	0	0.578776003	Plastid, high confidence
+symbB.v1.2.041847.t1_scaffold8727.1_size5211_1	SP	28	SSA-WSN	0	0.169851507	Plastid, low confidence
+symbB.v1.2.042173.t1_scaffold9392.1_size3400_1	SP	25	GRA-DCS	-2	0.112333937	Not plastid, signal peptide identified
+symbB.v1.2.042609.t1_scaffold10508.1_size1650_1	SP	29	GTT-RSP	0	0.286167005	Not plastid, signal peptide identified
+symbB.v1.2.042915.t1_scaffold11566.1_size1248_1	SP	19	TLA-LRP	0	0.208286197	Plastid, low confidence

@@ -1,0 +1,24 @@
+2026-07-10 14:06:11 : Started OrthoFinder version 3.1.2.post1.dev0
+Command Line: /home/users/gff/.conda/envs/ortho/bin/orthofinder -f 9_Ortholog_analysis/Proteome_7strain_nr -S mmseqs -M dendroblast -t 64 -a 64
+
+Search program: mmseqs
+MSA program: famsa
+Tree program: fasttree
+Scoring matrix: BLOSUM62
+Gap extend: 1
+Gap open: 11
+
+WorkingDirectory_Base: /lustre/home/users/gff/9_Ortholog_analysis/Proteome_7strain_nr/OrthoFinder/Results_Jul10/WorkingDirectory/
+
+Species used: 
+0: Bmin.faa
+1: Slin.faa
+2: Smic_jgi.faa
+3: Snat.faa
+4: Snec.faa
+5: Spil.faa
+6: Stri.faa
+
+FN_Orthogroups: /lustre/home/users/gff/9_Ortholog_analysis/Proteome_7strain_nr/OrthoFinder/Results_Jul10/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
+WorkingDirectory_Trees: /lustre/home/users/gff/9_Ortholog_analysis/Proteome_7strain_nr/OrthoFinder/Results_Jul10/WorkingDirectory/
+2026-07-10 15:27:55 : OrthoFinder run completed

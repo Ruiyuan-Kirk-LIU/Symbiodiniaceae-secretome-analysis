@@ -1,0 +1,4 @@
+symbB.v1.2.004401.t1_scaffold247.1_size253962_1
+symbB.v1.2.012493.t1_scaffold862.1_size157115_2
+symbB.v1.2.031880.t1_scaffold3745.1_size85045_6
+symbB.v1.2.032441.t1_scaffold3895.1_size70954_8

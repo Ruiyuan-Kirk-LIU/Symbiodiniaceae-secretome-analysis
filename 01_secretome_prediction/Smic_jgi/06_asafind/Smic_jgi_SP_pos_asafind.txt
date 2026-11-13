@@ -1,0 +1,839 @@
+Identifier	TargetP-2.0	ASAFind cleavage position	ASAFind cleavage site sequence	ASAFind/TargetP-2.0 cleavage site offset	ASAFind 20aa score, default scoring table with small sample correction	ASAFind 2.0 Prediction, score threshold = 0.3100298026055153, with FWYL check
+jgi_Symmic1_10032_rna1416	SP	19	SCI-GQP	-1	0.212219163	Not plastid, signal peptide identified
+jgi_Symmic1_10081_rna9328	SP	24	LQA-LPA	0	0.101874736	Plastid, low confidence
+jgi_Symmic1_10144_rna37261	SP	19	SVA-DGG	-2	0.124540330	Not plastid, signal peptide identified
+jgi_Symmic1_10149_rna37266	SP	15	ALA-ESA	-2	0.136405831	Not plastid, signal peptide identified
+jgi_Symmic1_10240_rna37327	SP	23	VQA-VTS	0	0.205474242	Not plastid, signal peptide identified
+jgi_Symmic1_10278_rna9383	SP	28	CTA-FLA	0	0.563216596	Plastid, high confidence
+jgi_Symmic1_10312_rna37361	SP	26	AQA-LQA	0	0.160263626	Plastid, low confidence
+jgi_Symmic1_10377_rna37426	SP	16	VLG-HTV	0	0.163934258	Not plastid, signal peptide identified
+jgi_Symmic1_10417_rna9438	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_10534_rna37506	SP	14	GLA-RGM	-2	0.159858875	Not plastid, signal peptide identified
+jgi_Symmic1_10542_rna37514	SP	25	VPA-ASM	0	0.134327071	Not plastid, signal peptide identified
+jgi_Symmic1_10618_rna9520	SP	24	ADA-VAG	2	0.179875623	Not plastid, signal peptide identified
+jgi_Symmic1_10624_rna9526	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_10703_rna37590	SP	24	RHA-GED	0	0.137284086	Not plastid, signal peptide identified
+jgi_Symmic1_10728_rna37615	SP	17	TGI-FTS	-2	0.652654297	Plastid, low confidence
+jgi_Symmic1_10737_rna9572	SP	18	SAA-PSL	1	0.128886344	Not plastid, signal peptide identified
+jgi_Symmic1_10806_rna37648	SP	17	ATA-QST	0	0.197120629	Not plastid, signal peptide identified
+jgi_Symmic1_10835_rna37677	SP	23	VPA-AST	-2	0.161179498	Not plastid, signal peptide identified
+jgi_Symmic1_10916_rna37723	SP	23	CES-CAS	2	0.182330366	Not plastid, signal peptide identified
+jgi_Symmic1_10975_rna37754	SP	19	APL-HGR	-2	0.171548034	Not plastid, signal peptide identified
+jgi_Symmic1_10976_rna37755	SP	25	VHG-EDN	0	0.097490255	Not plastid, signal peptide identified
+jgi_Symmic1_11004_rna37783	SP	20	DSA-LGQ	-2	0.058530682	Plastid, low confidence
+jgi_Symmic1_11030_rna9676	SP	16	VLA-TPC	0	0.102522582	Not plastid, signal peptide identified
+jgi_Symmic1_1104_rna31353	SP	17	AWA-KQT	0	0.107630931	Not plastid, signal peptide identified
+jgi_Symmic1_11061_rna9707	SP	24	ANA-HGE	-2	0.127071558	Not plastid, signal peptide identified
+jgi_Symmic1_11083_rna37825	SP	19	GSA-LRT	0	0.121195973	Plastid, low confidence
+jgi_Symmic1_11140_rna1425	SP	22	GVA-VRS	0	0.137823450	Not plastid, signal peptide identified
+jgi_Symmic1_11219_rna9735	SP	26	VQG-EWD	0	0.091832853	Not plastid, signal peptide identified
+jgi_Symmic1_11265_rna37902	SP	22	AKK-FGK	2	0.609514110	Plastid, low confidence
+jgi_Symmic1_11432_rna9839	SP	23	GAA-GEH	-1	0.131564870	Not plastid, signal peptide identified
+jgi_Symmic1_11557_rna38066	SP	20	VET-KKP	0	0.211606046	Not plastid, signal peptide identified
+jgi_Symmic1_1155_rna31404	SP	20	VQG-TRR	0	0.138700184	Not plastid, signal peptide identified
+jgi_Symmic1_11573_rna38082	SP	19	TQA-MVE	0	0.144926078	Not plastid, signal peptide identified
+jgi_Symmic1_11610_rna38119	SP	14	GLA-RGM	-2	0.159858875	Not plastid, signal peptide identified
+jgi_Symmic1_11697_rna38165	SP	37	EGA-GGI	1	0.097038434	Not plastid, signal peptide identified
+jgi_Symmic1_1169_rna6698	SP	26	SAA-GVA	1	0.200097739	Not plastid, signal peptide identified
+jgi_Symmic1_11750_rna9943	SP	33	AYA-GKD	2	0.162556757	Not plastid, signal peptide identified
+jgi_Symmic1_11782_rna38225	SP	18	AES-FNE	2	0.613356071	Plastid, low confidence
+jgi_Symmic1_11839_rna9982	SP	28	HLA-FDE	1	0.615124148	Plastid, low confidence
+jgi_Symmic1_11858_rna10001	SP	15	VLA-YAT	-2	0.174849633	Plastid, low confidence
+jgi_Symmic1_11978_rna38335	SP	27	PSA-FAA	-2	0.682144338	Plastid, low confidence
+jgi_Symmic1_12057_rna38380	SP	22	SLG-KMM	0	0.109928284	Not plastid, signal peptide identified
+jgi_Symmic1_12102_rna10100	SP	22	TAA-SDL	1	0.117630236	Not plastid, signal peptide identified
+jgi_Symmic1_12122_rna38405	SP	19	AFA-FPL	0	0.606235260	Plastid, high confidence
+jgi_Symmic1_1213_rna31412	SP	19	AVA-GGP	0	0.286888150	Not plastid, signal peptide identified
+jgi_Symmic1_12177_rna1487	SP	23	CEA-KGR	0	0.122368917	Not plastid, signal peptide identified
+jgi_Symmic1_1238_rna31437	SP	20	AEA-VTR	0	0.152233489	Not plastid, signal peptide identified
+jgi_Symmic1_12467_rna10233	SP	20	CGA-EDV	0	0.138388193	Not plastid, signal peptide identified
+jgi_Symmic1_12468_rna10234	SP	32	DGA-ETF	1	0.189706830	Not plastid, signal peptide identified
+jgi_Symmic1_12574_rna38618	SP	24	VLA-DLV	0	0.093407567	Not plastid, signal peptide identified
+jgi_Symmic1_1261_rna31460	SP	22	QGA-VGR	-2	0.140841323	Not plastid, signal peptide identified
+jgi_Symmic1_1265_rna31464	SP	16	AYA-DAS	-2	0.173319873	Not plastid, signal peptide identified
+jgi_Symmic1_12669_rna38686	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_12755_rna38730	SP	21	AGA-TCL	0	0.126332837	Not plastid, signal peptide identified
+jgi_Symmic1_12808_rna38742	SP	22	NCR-DGP	1	0.231176598	Not plastid, signal peptide identified
+jgi_Symmic1_12857_rna10391	SP	19	HVA-WSQ	-2	0.163233396	Plastid, low confidence
+jgi_Symmic1_12891_rna10425	SP	28	NGA-CAE	1	0.117511352	Not plastid, signal peptide identified
+jgi_Symmic1_12943_rna10439	SP	18	SQA-STI	0	0.135648288	Not plastid, signal peptide identified
+jgi_Symmic1_13060_rna1600	SP	22	GAA-ESL	1	0.157767690	Not plastid, signal peptide identified
+jgi_Symmic1_13079_rna1619	SP	23	LGC-FGD	-2	0.630697565	Plastid, low confidence
+jgi_Symmic1_13150_rna10494	SP	20	ASA-GLT	0	0.116697951	Not plastid, signal peptide identified
+jgi_Symmic1_13330_rna38985	SP	21	ADA-QED	0	0.114678798	Not plastid, signal peptide identified
+jgi_Symmic1_13427_rna10647	SP	20	PSA-LGK	-2	0.107390385	Plastid, low confidence
+jgi_Symmic1_1347_rna6739	SP	19	VGQ-GRT	-1	0.151396305	Not plastid, signal peptide identified
+jgi_Symmic1_13553_rna10730	SP	14	AVA-SAE	-2	0.116473910	Not plastid, signal peptide identified
+jgi_Symmic1_13662_rna39136	SP	16	VAA-FVV	0	0.661214640	Plastid, high confidence
+jgi_Symmic1_13735_rna39165	SP	19	SLG-FAR	-2	0.636267314	Plastid, low confidence
+jgi_Symmic1_13748_rna10826	SP	25	SSA-PQE	1	0.119925366	Not plastid, signal peptide identified
+jgi_Symmic1_1374_rna6766	SP	20	AAV-FAD	-2	0.652586314	Plastid, low confidence
+jgi_Symmic1_13784_rna10862	SP	26	GLA-GPG	0	0.107886408	Not plastid, signal peptide identified
+jgi_Symmic1_13803_rna39179	SP	16	GTA-NGQ	-2	0.139008365	Not plastid, signal peptide identified
+jgi_Symmic1_13818_rna39194	SP	20	GWA-SEG	0	0.125457609	Not plastid, signal peptide identified
+jgi_Symmic1_13837_rna146	SP	22	CLA-AEE	0	0.108982704	Not plastid, signal peptide identified
+jgi_Symmic1_13839_rna148	SP	23	LDA-MTL	0	0.190400612	Not plastid, signal peptide identified
+jgi_Symmic1_13847_rna156	SP	21	ALA-QGE	-2	0.103198666	Not plastid, signal peptide identified
+jgi_Symmic1_1384_rna31545	SP	18	ASA-ANM	0	0.114313964	Not plastid, signal peptide identified
+jgi_Symmic1_13984_rna1661	SP	25	VGA-LNP	0	0.247256495	Plastid, low confidence
+jgi_Symmic1_13993_rna1670	SP	22	VIS-NDV	0	0.081360183	Not plastid, signal peptide identified
+jgi_Symmic1_13996_rna1673	SP	21	GPA-LVQ	0	0.137486800	Plastid, low confidence
+jgi_Symmic1_14026_rna10878	SP	23	AGA-QAD	-2	0.177157008	Not plastid, signal peptide identified
+jgi_Symmic1_14035_rna10887	SP	20	RIA-AGG	-2	0.118054461	Not plastid, signal peptide identified
+jgi_Symmic1_14078_rna10930	SP	25	AGA-FDE	0	0.650143005	Plastid, high confidence
+jgi_Symmic1_1408_rna31569	SP	24	ASA-VPL	0	0.094171273	Not plastid, signal peptide identified
+jgi_Symmic1_14158_rna10978	SP	20	ATA-LSA	2	0.210012752	Plastid, low confidence
+jgi_Symmic1_14354_rna11068	SP	24	AGA-ESR	1	0.162062810	Not plastid, signal peptide identified
+jgi_Symmic1_14355_rna11069	SP	21	RLA-CMP	-1	0.226285047	Not plastid, signal peptide identified
+jgi_Symmic1_14376_rna11090	SP	23	AAG-FWK	1	0.666827698	Plastid, low confidence
+jgi_Symmic1_14501_rna11151	SP	32	SAA-CVP	2	0.236183990	Not plastid, signal peptide identified
+jgi_Symmic1_14532_rna11154	SP	22	SLA-FKL	0	0.661125180	Plastid, high confidence
+jgi_Symmic1_14573_rna39458	SP	23	AAV-HSQ	-2	0.181482377	Not plastid, signal peptide identified
+jgi_Symmic1_14583_rna11178	SP	23	CLG-QSK	0	0.129641055	Not plastid, signal peptide identified
+jgi_Symmic1_14635_rna39474	SP	23	GSA-MSD	0	0.084222901	Not plastid, signal peptide identified
+jgi_Symmic1_14689_rna11254	SP	40	VSA-TDD	0	0.055019702	Not plastid, signal peptide identified
+jgi_Symmic1_14708_rna39497	SP	15	ATA-ASY	-2	0.121983091	Not plastid, signal peptide identified
+jgi_Symmic1_14715_rna39504	SP	18	RGS-ITT	1	0.148034376	Not plastid, signal peptide identified
+jgi_Symmic1_14846_rna11279	SP	23	ALA-NGD	-2	0.153371640	Not plastid, signal peptide identified
+jgi_Symmic1_14889_rna11294	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_1488_rna6775	SP	19	ASA-QQA	0	0.116366608	Not plastid, signal peptide identified
+jgi_Symmic1_14916_rna11321	SP	27	VEA-MSY	0	0.104494251	Not plastid, signal peptide identified
+jgi_Symmic1_14965_rna11341	SP	16	ESA-QLL	1	0.108649328	Not plastid, signal peptide identified
+jgi_Symmic1_14966_rna11342	SP	21	SSG-ETR	0	0.164944111	Not plastid, signal peptide identified
+jgi_Symmic1_14976_rna11352	SP	23	CLA-QRK	0	0.102607883	Not plastid, signal peptide identified
+jgi_Symmic1_15102_rna39611	SP	19	VQA-TDD	0	0.122026125	Not plastid, signal peptide identified
+jgi_Symmic1_15108_rna39618	SP	20	EKA-CSI	-2	0.131190994	Not plastid, signal peptide identified
+jgi_Symmic1_15114_rna39624	SP	25	ARA-EEH	0	0.112714504	Not plastid, signal peptide identified
+jgi_Symmic1_15134_rna11453	SP	26	DQS-EVS	1	0.218253224	Not plastid, signal peptide identified
+jgi_Symmic1_15176_rna39641	SP	17	SAA-KDP	0	0.227001554	Not plastid, signal peptide identified
+jgi_Symmic1_15219_rna11505	SP	17	AAA-LRE	0	0.123117733	Plastid, low confidence
+jgi_Symmic1_15233_rna39670	SP	20	VLA-SCI	0	0.104287060	Not plastid, signal peptide identified
+jgi_Symmic1_15294_rna39693	SP	23	SLA-GTD	0	0.137058842	Not plastid, signal peptide identified
+jgi_Symmic1_15302_rna39701	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_15312_rna39711	SP	21	GKA-ETW	0	0.157258590	Not plastid, signal peptide identified
+jgi_Symmic1_15380_rna39729	SP	18	ASA-ARP	0	0.209298490	Not plastid, signal peptide identified
+jgi_Symmic1_15405_rna11606	SP	28	TNG-TQK	0	0.090762180	Not plastid, signal peptide identified
+jgi_Symmic1_15459_rna11647	SP	22	VGA-TQS	0	0.151525878	Not plastid, signal peptide identified
+jgi_Symmic1_15468_rna11656	SP	17	VVA-LGS	-2	0.165213042	Plastid, low confidence
+jgi_Symmic1_15474_rna11662	SP	14	LPA-NGQ	-2	0.132490384	Not plastid, signal peptide identified
+jgi_Symmic1_15518_rna39774	SP	21	AAA-LRQ	0	0.146309847	Plastid, low confidence
+jgi_Symmic1_15550_rna1830	SP	17	ALA-AEP	0	0.207646435	Not plastid, signal peptide identified
+jgi_Symmic1_1567_rna31679	SP	17	SRG-WSR	-2	0.168781423	Plastid, low confidence
+jgi_Symmic1_15681_rna39805	SP	20	VSA-FKH	0	0.563698510	Plastid, high confidence
+jgi_Symmic1_15694_rna11736	SP	18	VVA-NSC	0	0.206899288	Not plastid, signal peptide identified
+jgi_Symmic1_15791_rna39834	SP	29	TAS-FSL	0	0.687612577	Plastid, high confidence
+jgi_Symmic1_15942_rna11898	SP	16	LTA-AVP	-1	0.255630623	Not plastid, signal peptide identified
+jgi_Symmic1_16019_rna11942	SP	27	VNA-QSL	0	0.187337225	Not plastid, signal peptide identified
+jgi_Symmic1_16035_rna11958	SP	20	ASA-LLL	0	0.131978663	Plastid, low confidence
+jgi_Symmic1_16037_rna11960	SP	16	SGQ-EVP	1	0.284704369	Not plastid, signal peptide identified
+jgi_Symmic1_16059_rna39944	SP	39	LRA-WPQ	-2	0.170314715	Plastid, low confidence
+jgi_Symmic1_16089_rna11998	SP	16	AQA-KEL	0	0.130260751	Not plastid, signal peptide identified
+jgi_Symmic1_16090_rna11999	SP	26	TGG-HHA	0	0.196353308	Not plastid, signal peptide identified
+jgi_Symmic1_16133_rna12018	SP	19	SRA-LIH	0	0.141599874	Plastid, low confidence
+jgi_Symmic1_16211_rna1943	SP	18	ACA-APL	0	0.089440596	Not plastid, signal peptide identified
+jgi_Symmic1_16273_rna39990	SP	20	ESA-TGL	1	0.187738802	Not plastid, signal peptide identified
+jgi_Symmic1_16302_rna12082	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_16303_rna12083	SP	20	RGA-RVD	1	0.133423184	Not plastid, signal peptide identified
+jgi_Symmic1_16374_rna12138	SP	24	PAW-WST	-2	0.231407081	Plastid, low confidence
+jgi_Symmic1_16416_rna40036	SP	18	AVA-ALD	-1	0.106150083	Not plastid, signal peptide identified
+jgi_Symmic1_1643_rna31755	SP	24	VEA-SGA	0	0.129032187	Not plastid, signal peptide identified
+jgi_Symmic1_16466_rna40060	SP	18	PTA-ADP	-1	0.201607784	Not plastid, signal peptide identified
+jgi_Symmic1_16518_rna40083	SP	30	LSA-AAP	1	0.245866483	Not plastid, signal peptide identified
+jgi_Symmic1_16603_rna12293	SP	26	CEA-DSR	0	0.155668331	Not plastid, signal peptide identified
+jgi_Symmic1_16695_rna12358	SP	17	THA-CNV	0	0.127356503	Not plastid, signal peptide identified
+jgi_Symmic1_16697_rna12360	SP	19	NGA-RVF	1	0.181016049	Not plastid, signal peptide identified
+jgi_Symmic1_16913_rna12472	SP	17	QDA-WAA	-2	0.199333077	Plastid, low confidence
+jgi_Symmic1_17002_rna40210	SP	23	AVG-SDD	-1	0.069687620	Not plastid, signal peptide identified
+jgi_Symmic1_17006_rna40214	SP	26	ANS-FSV	0	0.671023305	Plastid, high confidence
+jgi_Symmic1_17017_rna12541	SP	19	VAA-AGP	-1	0.226272230	Not plastid, signal peptide identified
+jgi_Symmic1_1709_rna6860	SP	17	LTA-RSD	-2	0.153885191	Not plastid, signal peptide identified
+jgi_Symmic1_17206_rna12670	SP	19	AAS-ESS	-2	0.155083371	Not plastid, signal peptide identified
+jgi_Symmic1_17209_rna12673	SP	21	AQA-GWG	0	0.112391369	Not plastid, signal peptide identified
+jgi_Symmic1_17231_rna12679	SP	30	AGA-MVA	0	0.113638497	Not plastid, signal peptide identified
+jgi_Symmic1_17268_rna12716	SP	29	ALA-QKL	0	0.102751704	Not plastid, signal peptide identified
+jgi_Symmic1_17336_rna12770	SP	19	SEG-EGA	0	0.100233382	Not plastid, signal peptide identified
+jgi_Symmic1_17351_rna2025	SP	18	VLA-NED	0	0.140482031	Not plastid, signal peptide identified
+jgi_Symmic1_17370_rna2044	SP	25	SQA-SVH	0	0.152953456	Not plastid, signal peptide identified
+jgi_Symmic1_17380_rna2054	SP	23	ALA-AHD	0	0.077496200	Not plastid, signal peptide identified
+jgi_Symmic1_1739_rna31810	SP	21	SAA-SWP	0	0.232135870	Not plastid, signal peptide identified
+jgi_Symmic1_1745_rna31816	SP	23	LVA-SNI	0	0.102334011	Not plastid, signal peptide identified
+jgi_Symmic1_17470_rna12792	SP	22	VTG-YKL	0	0.173406327	Plastid, low confidence
+jgi_Symmic1_17484_rna12806	SP	13	AFA-CAD	-2	0.135265871	Not plastid, signal peptide identified
+jgi_Symmic1_17507_rna40317	SP	16	AAA-SAS	-2	0.191206569	Not plastid, signal peptide identified
+jgi_Symmic1_17622_rna12911	SP	24	AAA-YGL	-2	0.147224247	Plastid, low confidence
+jgi_Symmic1_17637_rna40356	SP	16	ALA-QSC	0	0.109741647	Not plastid, signal peptide identified
+jgi_Symmic1_17649_rna12926	SP	24	PLA-KWV	0	0.116512214	Not plastid, signal peptide identified
+jgi_Symmic1_17651_rna12928	SP	23	TSA-SEV	0	0.126533278	Not plastid, signal peptide identified
+jgi_Symmic1_17729_rna40371	SP	28	FPA-FAG	-2	0.686069999	Plastid, low confidence
+jgi_Symmic1_17745_rna12998	SP	20	ASA-RRN	0	0.133464558	Not plastid, signal peptide identified
+jgi_Symmic1_17746_rna12999	SP	20	ATA-LRN	0	0.121136680	Plastid, low confidence
+jgi_Symmic1_17829_rna13063	SP	15	ALA-VRD	0	0.113685623	Not plastid, signal peptide identified
+jgi_Symmic1_17911_rna2137	SP	19	LHA-ELD	0	0.109587966	Not plastid, signal peptide identified
+jgi_Symmic1_18002_rna40428	SP	21	PSS-PSR	-1	0.155372015	Not plastid, signal peptide identified
+jgi_Symmic1_18044_rna13171	SP	29	AQA-DDL	0	0.136459363	Not plastid, signal peptide identified
+jgi_Symmic1_18045_rna13172	SP	18	ASA-LSA	-2	0.132064360	Plastid, low confidence
+jgi_Symmic1_18071_rna13186	SP	18	RCA-FSL	-2	0.639448242	Plastid, low confidence
+jgi_Symmic1_18078_rna13193	SP	15	QLA-EGT	-2	0.140508259	Not plastid, signal peptide identified
+jgi_Symmic1_18091_rna13206	SP	25	LLA-TTG	0	0.162118811	Not plastid, signal peptide identified
+jgi_Symmic1_18093_rna13208	SP	19	LGV-FAA	-2	0.664275944	Plastid, low confidence
+jgi_Symmic1_18143_rna13243	SP	18	AAA-QND	0	0.095196952	Not plastid, signal peptide identified
+jgi_Symmic1_18216_rna13307	SP	22	ASA-LGD	0	0.091362383	Plastid, low confidence
+jgi_Symmic1_18285_rna13366	SP	24	AND-FGA	2	0.609238985	Plastid, low confidence
+jgi_Symmic1_18458_rna13494	SP	19	VGA-CDE	0	0.104567754	Not plastid, signal peptide identified
+jgi_Symmic1_18461_rna40528	SP	32	QTS-RSF	1	0.173805931	Not plastid, signal peptide identified
+jgi_Symmic1_18527_rna2256	SP	21	NWA-ISE	-2	0.128342742	Not plastid, signal peptide identified
+jgi_Symmic1_18546_rna2275	SP	28	RMQ-ETA	2	0.164673009	Not plastid, signal peptide identified
+jgi_Symmic1_18578_rna13526	SP	21	PRA-QRV	0	0.075958959	Not plastid, signal peptide identified
+jgi_Symmic1_18620_rna13560	SP	29	ALE-CSP	-1	0.317230519	Not plastid, signal peptide identified
+jgi_Symmic1_18642_rna40548	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_18645_rna40551	SP	19	AAA-ETD	0	0.189403148	Not plastid, signal peptide identified
+jgi_Symmic1_18705_rna40560	SP	31	SSS-HIP	1	0.221253238	Not plastid, signal peptide identified
+jgi_Symmic1_18723_rna13645	SP	20	AVT-FAD	-2	0.698811458	Plastid, low confidence
+jgi_Symmic1_18761_rna13673	SP	18	CSA-ITW	0	0.180194854	Not plastid, signal peptide identified
+jgi_Symmic1_18763_rna13675	SP	18	CSA-ITW	0	0.180194854	Not plastid, signal peptide identified
+jgi_Symmic1_18779_rna13691	SP	21	ADA-EEV	2	0.094753239	Not plastid, signal peptide identified
+jgi_Symmic1_1877_rna6913	SP	25	ASA-MKT	0	0.183351872	Not plastid, signal peptide identified
+jgi_Symmic1_18864_rna13754	SP	26	GVA-ASP	-1	0.275086465	Not plastid, signal peptide identified
+jgi_Symmic1_18991_rna13858	SP	29	QGA-GRL	1	0.152799238	Not plastid, signal peptide identified
+jgi_Symmic1_19127_rna13922	SP	23	SGA-PPC	1	0.107349728	Not plastid, signal peptide identified
+jgi_Symmic1_19173_rna13956	SP	18	VAA-QCS	-2	0.155053373	Not plastid, signal peptide identified
+jgi_Symmic1_19212_rna13995	SP	20	CIS-FKL	0	0.625766757	Plastid, high confidence
+jgi_Symmic1_19311_rna14070	SP	29	CGA-DCT	0	0.192114152	Not plastid, signal peptide identified
+jgi_Symmic1_19312_rna14071	SP	16	VLA-EEE	0	0.073909044	Not plastid, signal peptide identified
+jgi_Symmic1_19364_rna14113	SP	16	STA-ESA	-2	0.134017241	Not plastid, signal peptide identified
+jgi_Symmic1_1936_rna31957	SP	20	IKC-NLP	0	0.161461704	Not plastid, signal peptide identified
+jgi_Symmic1_19371_rna14120	SP	18	ASA-ELS	0	0.177919916	Not plastid, signal peptide identified
+jgi_Symmic1_19408_rna14152	SP	29	GLA-RPA	0	0.169420673	Not plastid, signal peptide identified
+jgi_Symmic1_1940_rna31961	SP	34	EAA-GKP	1	0.218449260	Not plastid, signal peptide identified
+jgi_Symmic1_19450_rna14184	SP	18	TAA-PDP	1	0.224709419	Not plastid, signal peptide identified
+jgi_Symmic1_19452_rna14186	SP	15	VSA-DDS	0	0.159192054	Not plastid, signal peptide identified
+jgi_Symmic1_19464_rna14194	SP	24	SHA-RKV	0	0.099874493	Not plastid, signal peptide identified
+jgi_Symmic1_19508_rna2338	SP	22	SDG-QHM	0	0.165288710	Not plastid, signal peptide identified
+jgi_Symmic1_19525_rna2355	SP	34	VAA-DED	0	0.128437692	Not plastid, signal peptide identified
+jgi_Symmic1_19572_rna14225	SP	16	CSI-SVP	-1	0.259176456	Not plastid, signal peptide identified
+jgi_Symmic1_19806_rna14408	SP	14	SAA-CGG	-2	0.103649136	Not plastid, signal peptide identified
+jgi_Symmic1_19900_rna14476	SP	21	VSA-GEN	0	0.109452925	Not plastid, signal peptide identified
+jgi_Symmic1_19989_rna327	SP	20	TKA-EDA	0	0.106945846	Not plastid, signal peptide identified
+jgi_Symmic1_20016_rna2421	SP	18	SVA-YHH	0	0.114920923	Plastid, low confidence
+jgi_Symmic1_20158_rna14546	SP	16	ALA-FAS	-2	0.678690726	Plastid, low confidence
+jgi_Symmic1_20166_rna14554	SP	14	TLA-LAG	-2	0.205555870	Plastid, low confidence
+jgi_Symmic1_20310_rna14673	SP	29	VEA-DVA	0	0.204892198	Not plastid, signal peptide identified
+jgi_Symmic1_20329_rna14692	SP	25	GDA-DCS	2	0.096578177	Not plastid, signal peptide identified
+jgi_Symmic1_2033_rna942	SP	36	MQA-DEL	0	0.088799044	Not plastid, signal peptide identified
+jgi_Symmic1_20358_rna14717	SP	23	SYS-GDP	2	0.178705664	Not plastid, signal peptide identified
+jgi_Symmic1_20499_rna2539	SP	37	VVA-KAA	-2	0.179882657	Not plastid, signal peptide identified
+jgi_Symmic1_20587_rna14842	SP	18	LRA-SSV	-2	0.105982545	Not plastid, signal peptide identified
+jgi_Symmic1_20614_rna14860	SP	20	AGK-FYR	-1	0.587553812	Plastid, low confidence
+jgi_Symmic1_20647_rna14887	SP	32	TTS-SEP	0	0.191009167	Not plastid, signal peptide identified
+jgi_Symmic1_2071_rna980	SP	43	SPA-RGL	-2	0.108532815	Not plastid, signal peptide identified
+jgi_Symmic1_20827_rna40930	SP	26	CAA-DEP	0	0.212308149	Not plastid, signal peptide identified
+jgi_Symmic1_2096_rna1005	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_21051_rna15165	SP	17	SLA-SRQ	0	0.067635890	Not plastid, signal peptide identified
+jgi_Symmic1_2111_rna6919	SP	25	RGA-DVG	1	0.160297929	Not plastid, signal peptide identified
+jgi_Symmic1_21128_rna15232	SP	19	LMA-MKT	0	0.168129693	Not plastid, signal peptide identified
+jgi_Symmic1_21129_rna15233	SP	19	LMA-MKT	0	0.112249919	Not plastid, signal peptide identified
+jgi_Symmic1_21286_rna2616	SP	22	VVC-TDQ	0	0.113293532	Not plastid, signal peptide identified
+jgi_Symmic1_21292_rna2622	SP	21	VQG-VRT	0	0.146886170	Not plastid, signal peptide identified
+jgi_Symmic1_21295_rna2625	SP	20	RAA-KLS	1	0.081667583	Not plastid, signal peptide identified
+jgi_Symmic1_21329_rna2659	SP	26	HFA-SGQ	-2	0.078404670	Not plastid, signal peptide identified
+jgi_Symmic1_21338_rna2668	SP	19	ESA-RLD	1	0.122465759	Not plastid, signal peptide identified
+jgi_Symmic1_21409_rna15378	SP	20	LCA-ASK	-1	0.161830394	Not plastid, signal peptide identified
+jgi_Symmic1_21460_rna15423	SP	24	PRC-FVD	0	0.613187858	Plastid, high confidence
+jgi_Symmic1_21519_rna15475	SP	21	GVA-GEH	-1	0.083769844	Not plastid, signal peptide identified
+jgi_Symmic1_21537_rna15488	SP	19	EDA-VPL	-2	0.139675276	Not plastid, signal peptide identified
+jgi_Symmic1_21571_rna15512	SP	22	GEA-WTL	0	0.205074410	Plastid, low confidence
+jgi_Symmic1_21590_rna15531	SP	15	ASA-RGD	-2	0.119597628	Not plastid, signal peptide identified
+jgi_Symmic1_21758_rna2713	SP	29	AVK-FTQ	2	0.685472273	Plastid, low confidence
+jgi_Symmic1_21881_rna15725	SP	34	PLS-GCP	-1	0.236970755	Not plastid, signal peptide identified
+jgi_Symmic1_21934_rna15772	SP	23	SVA-SSM	-2	0.149838877	Not plastid, signal peptide identified
+jgi_Symmic1_21943_rna15781	SP	21	ETA-PTS	1	0.181300396	Not plastid, signal peptide identified
+jgi_Symmic1_21947_rna15785	SP	39	ISQ-QGP	1	0.185587288	Not plastid, signal peptide identified
+jgi_Symmic1_22023_rna15842	SP	25	AAA-QDE	0	0.164312044	Not plastid, signal peptide identified
+jgi_Symmic1_22027_rna15846	SP	21	AAA-IRN	0	0.115081991	Not plastid, signal peptide identified
+jgi_Symmic1_22047_rna41126	SP	30	ASA-NDW	0	0.127314601	Not plastid, signal peptide identified
+jgi_Symmic1_22124_rna15926	SP	28	AKA-NNA	0	0.128698791	Not plastid, signal peptide identified
+jgi_Symmic1_22126_rna15928	SP	19	GHA-QSE	0	0.151668080	Not plastid, signal peptide identified
+jgi_Symmic1_22180_rna2771	SP	19	AEA-SEA	0	0.123166645	Not plastid, signal peptide identified
+jgi_Symmic1_22282_rna16014	SP	20	TQS-KGS	0	0.096565491	Not plastid, signal peptide identified
+jgi_Symmic1_22320_rna16045	SP	18	FNG-VDS	0	0.151415299	Not plastid, signal peptide identified
+jgi_Symmic1_22442_rna41192	SP	21	AVA-APR	0	0.113540034	Not plastid, signal peptide identified
+jgi_Symmic1_22593_rna2826	SP	21	HAA-FAT	1	0.696984515	Plastid, low confidence
+jgi_Symmic1_22608_rna2841	SP	27	VHG-TNT	0	0.128683687	Not plastid, signal peptide identified
+jgi_Symmic1_2273_rna32162	SP	16	VGA-EEG	0	0.086256383	Not plastid, signal peptide identified
+jgi_Symmic1_22857_rna16430	SP	33	IEG-QGP	0	0.241584748	Not plastid, signal peptide identified
+jgi_Symmic1_22877_rna16446	SP	19	AVA-AAS	-2	0.147365084	Not plastid, signal peptide identified
+jgi_Symmic1_22918_rna2855	SP	16	AGA-TAG	-2	0.172096901	Not plastid, signal peptide identified
+jgi_Symmic1_22939_rna2876	SP	28	LVA-DLN	0	0.102687701	Not plastid, signal peptide identified
+jgi_Symmic1_22987_rna16495	SP	18	VLA-SSN	-2	0.141785020	Not plastid, signal peptide identified
+jgi_Symmic1_22996_rna16504	SP	20	AEA-SYP	0	0.241581025	Not plastid, signal peptide identified
+jgi_Symmic1_23058_rna16560	SP	25	HQA-SCS	-2	0.137159395	Not plastid, signal peptide identified
+jgi_Symmic1_23085_rna16580	SP	21	ILG-DDV	0	0.059819554	Not plastid, signal peptide identified
+jgi_Symmic1_23245_rna16707	SP	25	RGH-FVH	1	0.621852788	Plastid, low confidence
+jgi_Symmic1_23258_rna16720	SP	19	SWA-HDA	0	0.111447022	Not plastid, signal peptide identified
+jgi_Symmic1_23318_rna16766	SP	29	VAA-FRG	0	0.656634214	Plastid, high confidence
+jgi_Symmic1_23322_rna16770	SP	14	QLA-VSR	-2	0.134432602	Not plastid, signal peptide identified
+jgi_Symmic1_23327_rna16775	SP	28	FVA-CHP	-1	0.246767274	Not plastid, signal peptide identified
+jgi_Symmic1_23346_rna2911	SP	25	TAE-FWR	1	0.599460299	Plastid, low confidence
+jgi_Symmic1_2334_rna7000	SP	17	AVA-GLP	-1	0.247441711	Not plastid, signal peptide identified
+jgi_Symmic1_23430_rna2995	SP	23	SPA-HGT	-2	0.108399560	Not plastid, signal peptide identified
+jgi_Symmic1_23479_rna16790	SP	16	AGA-KAP	-2	0.245211091	Not plastid, signal peptide identified
+jgi_Symmic1_234_rna6454	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_23549_rna16844	SP	25	GCA-RES	1	0.093181413	Not plastid, signal peptide identified
+jgi_Symmic1_23625_rna16911	SP	34	CTA-DTT	0	0.173146769	Not plastid, signal peptide identified
+jgi_Symmic1_23689_rna16960	SP	19	SCG-ETS	0	0.193565903	Not plastid, signal peptide identified
+jgi_Symmic1_23701_rna16964	SP	20	HRA-EGL	-2	0.144973925	Not plastid, signal peptide identified
+jgi_Symmic1_23756_rna17014	SP	21	PLS-CTE	-1	0.167856722	Not plastid, signal peptide identified
+jgi_Symmic1_23845_rna3050	SP	16	VSA-SSR	0	0.151165929	Not plastid, signal peptide identified
+jgi_Symmic1_23866_rna3071	SP	24	LDG-KLS	0	0.110719529	Not plastid, signal peptide identified
+jgi_Symmic1_23901_rna17106	SP	16	VGG-QSL	-2	0.173725026	Not plastid, signal peptide identified
+jgi_Symmic1_24061_rna17246	SP	24	AWA-WLP	0	0.271251224	Plastid, low confidence
+jgi_Symmic1_24081_rna17262	SP	21	SSA-TSD	-2	0.143543994	Not plastid, signal peptide identified
+jgi_Symmic1_24116_rna17290	SP	28	TAA-KHS	0	0.168691410	Not plastid, signal peptide identified
+jgi_Symmic1_24120_rna17294	SP	20	AGA-VPA	0	0.115967921	Not plastid, signal peptide identified
+jgi_Symmic1_24121_rna17295	SP	20	CWA-EES	0	0.122585170	Not plastid, signal peptide identified
+jgi_Symmic1_2412_rna32248	SP	20	SRA-CSC	0	0.155437163	Not plastid, signal peptide identified
+jgi_Symmic1_24147_rna17317	SP	21	AGG-FEV	0	0.630267175	Plastid, high confidence
+jgi_Symmic1_24173_rna17337	SP	21	QAA-RVE	1	0.103136758	Not plastid, signal peptide identified
+jgi_Symmic1_24177_rna17341	SP	24	VTA-SCL	0	0.172051462	Not plastid, signal peptide identified
+jgi_Symmic1_24211_rna17370	SP	23	TDK-TQP	2	0.239512215	Not plastid, signal peptide identified
+jgi_Symmic1_24212_rna17371	SP	23	TDK-TQP	2	0.235544014	Not plastid, signal peptide identified
+jgi_Symmic1_24233_rna332	SP	18	VLA-DSG	0	0.145980434	Not plastid, signal peptide identified
+jgi_Symmic1_24234_rna333	SP	18	SQG-TED	0	0.119004394	Not plastid, signal peptide identified
+jgi_Symmic1_24257_rna356	SP	23	AVA-EEG	0	0.132097473	Not plastid, signal peptide identified
+jgi_Symmic1_24303_rna402	SP	16	SHA-TPW	0	0.136793929	Not plastid, signal peptide identified
+jgi_Symmic1_24370_rna3114	SP	23	CHG-QDA	0	0.095266056	Not plastid, signal peptide identified
+jgi_Symmic1_24419_rna17399	SP	18	STA-LTE	-2	0.165625640	Plastid, low confidence
+jgi_Symmic1_24487_rna17456	SP	25	VYA-LTS	0	0.227837828	Plastid, low confidence
+jgi_Symmic1_24513_rna17482	SP	14	GLC-FAL	-2	0.647133259	Plastid, low confidence
+jgi_Symmic1_24655_rna17598	SP	17	TRG-DGC	0	0.080933568	Not plastid, signal peptide identified
+jgi_Symmic1_24706_rna17643	SP	37	AHA-END	0	0.091564278	Not plastid, signal peptide identified
+jgi_Symmic1_24710_rna17647	SP	16	SAA-GGE	-2	0.056353002	Not plastid, signal peptide identified
+jgi_Symmic1_24773_rna3164	SP	22	AGG-TGD	-2	0.126187847	Not plastid, signal peptide identified
+jgi_Symmic1_24805_rna17677	SP	32	CLA-FEQ	0	0.614057217	Plastid, high confidence
+jgi_Symmic1_24834_rna17700	SP	23	SQQ-GDP	-1	0.242722774	Not plastid, signal peptide identified
+jgi_Symmic1_24843_rna17709	SP	18	VQG-MRK	0	0.081244473	Not plastid, signal peptide identified
+jgi_Symmic1_24882_rna17740	SP	29	GEG-EKK	0	0.043872275	Not plastid, signal peptide identified
+jgi_Symmic1_24899_rna17752	SP	14	ALA-CAL	-2	0.183603112	Not plastid, signal peptide identified
+jgi_Symmic1_24904_rna17757	SP	19	AHA-ASV	0	0.119650354	Not plastid, signal peptide identified
+jgi_Symmic1_25022_rna17846	SP	23	GNA-PLL	2	0.131506688	Not plastid, signal peptide identified
+jgi_Symmic1_25032_rna17856	SP	20	HAA-LTP	1	0.263619875	Plastid, low confidence
+jgi_Symmic1_25067_rna41576	SP	16	TRA-DGK	-2	0.121772275	Not plastid, signal peptide identified
+jgi_Symmic1_25076_rna17887	SP	21	NVA-DLR	-2	0.115940782	Not plastid, signal peptide identified
+jgi_Symmic1_25078_rna17889	SP	34	AEA-ETA	0	0.143315051	Not plastid, signal peptide identified
+jgi_Symmic1_2507_rna32343	SP	19	AQA-ESG	0	0.117608547	Not plastid, signal peptide identified
+jgi_Symmic1_25135_rna3226	SP	18	TVA-VRK	0	0.070931425	Not plastid, signal peptide identified
+jgi_Symmic1_25136_rna3227	SP	21	LEA-TWG	0	0.079364976	Not plastid, signal peptide identified
+jgi_Symmic1_25141_rna3232	SP	19	TNA-LTK	0	0.163674282	Plastid, low confidence
+jgi_Symmic1_25176_rna3267	SP	26	LQT-FSL	0	0.649293849	Plastid, high confidence
+jgi_Symmic1_25188_rna17917	SP	20	SLA-DWV	0	0.095604930	Not plastid, signal peptide identified
+jgi_Symmic1_25214_rna17937	SP	23	LRA-ARD	0	0.071480840	Not plastid, signal peptide identified
+jgi_Symmic1_2521_rna7033	SP	24	AEA-QLT	0	0.155227427	Not plastid, signal peptide identified
+jgi_Symmic1_25255_rna17973	SP	18	LEA-LDE	0	0.155486060	Plastid, low confidence
+jgi_Symmic1_25256_rna17974	SP	35	GSV-FTN	2	0.706548659	Plastid, low confidence
+jgi_Symmic1_2526_rna7038	SP	35	GPA-LGR	-2	0.120974599	Plastid, low confidence
+jgi_Symmic1_25304_rna18007	SP	16	VAA-FVV	0	0.661214640	Plastid, high confidence
+jgi_Symmic1_25467_rna41644	SP	17	SAV-FAE	-2	0.650982186	Plastid, low confidence
+jgi_Symmic1_25540_rna18204	SP	20	TSG-WTA	0	0.173835370	Plastid, low confidence
+jgi_Symmic1_25541_rna18205	SP	21	PLR-GQP	-1	0.211103339	Not plastid, signal peptide identified
+jgi_Symmic1_25568_rna3284	SP	19	GLA-YSG	0	0.158998559	Plastid, low confidence
+jgi_Symmic1_25670_rna18265	SP	27	VSA-VRE	0	0.112745733	Not plastid, signal peptide identified
+jgi_Symmic1_25686_rna18275	SP	17	GLG-WSE	-2	0.146095204	Plastid, low confidence
+jgi_Symmic1_25754_rna18326	SP	22	GDA-LRS	0	0.108712035	Plastid, low confidence
+jgi_Symmic1_25900_rna18441	SP	14	AVG-RGC	-2	0.092701225	Not plastid, signal peptide identified
+jgi_Symmic1_26125_rna18567	SP	24	GTE-FVD	2	0.613742588	Plastid, low confidence
+jgi_Symmic1_26208_rna18628	SP	20	VLS-VRP	0	0.217930984	Not plastid, signal peptide identified
+jgi_Symmic1_26229_rna18649	SP	20	VGQ-QQT	-1	0.157461631	Not plastid, signal peptide identified
+jgi_Symmic1_26277_rna18689	SP	41	GHA-SQS	0	0.099795682	Not plastid, signal peptide identified
+jgi_Symmic1_26278_rna18690	SP	22	GHA-SQS	0	0.099795682	Not plastid, signal peptide identified
+jgi_Symmic1_26308_rna18713	SP	17	AGA-APP	0	0.222319980	Not plastid, signal peptide identified
+jgi_Symmic1_26343_rna18745	SP	22	VNC-NKL	0	0.167380492	Not plastid, signal peptide identified
+jgi_Symmic1_26355_rna18757	SP	25	AEA-GKG	0	0.117851787	Not plastid, signal peptide identified
+jgi_Symmic1_26371_rna3400	SP	17	GLA-SEA	0	0.129880255	Not plastid, signal peptide identified
+jgi_Symmic1_26428_rna18768	SP	27	ASA-WTL	0	0.201160604	Plastid, low confidence
+jgi_Symmic1_26462_rna18796	SP	32	AGA-VSE	2	0.145271925	Not plastid, signal peptide identified
+jgi_Symmic1_26517_rna18846	SP	17	AKA-QDP	0	0.192352880	Not plastid, signal peptide identified
+jgi_Symmic1_2657_rna32421	SP	21	CGS-EAP	1	0.281502569	Not plastid, signal peptide identified
+jgi_Symmic1_26592_rna18912	SP	23	ALA-SAT	-2	0.249499286	Not plastid, signal peptide identified
+jgi_Symmic1_26694_rna41829	SP	17	LGA-CSQ	-2	0.142561469	Not plastid, signal peptide identified
+jgi_Symmic1_26716_rna19016	SP	24	WCA-PPN	1	0.151554568	Not plastid, signal peptide identified
+jgi_Symmic1_26741_rna19033	SP	17	VAA-YGP	0	0.234014019	Plastid, low confidence
+jgi_Symmic1_26798_rna19082	SP	20	LDG-EDP	0	0.182464807	Not plastid, signal peptide identified
+jgi_Symmic1_26906_rna19130	SP	36	AYA-AES	0	0.119348592	Not plastid, signal peptide identified
+jgi_Symmic1_26907_rna19131	SP	21	AYA-AES	0	0.119348592	Not plastid, signal peptide identified
+jgi_Symmic1_26961_rna19176	SP	26	SAE-FLR	1	0.612862022	Plastid, low confidence
+jgi_Symmic1_27042_rna41880	SP	37	VVA-KAA	-2	0.179882657	Not plastid, signal peptide identified
+jgi_Symmic1_27105_rna19297	SP	31	TTV-FTS	-2	0.707954181	Plastid, low confidence
+jgi_Symmic1_27133_rna19319	SP	23	AGS-FQF	1	0.672508926	Plastid, low confidence
+jgi_Symmic1_27158_rna19344	SP	23	AKA-DSR	2	0.162183054	Not plastid, signal peptide identified
+jgi_Symmic1_27170_rna19353	SP	26	ARA-NIN	0	0.166322040	Not plastid, signal peptide identified
+jgi_Symmic1_27200_rna3509	SP	21	DTA-AEP	-1	0.228315046	Not plastid, signal peptide identified
+jgi_Symmic1_27226_rna3535	SP	34	GQA-QTG	0	0.170242828	Not plastid, signal peptide identified
+jgi_Symmic1_27295_rna19416	SP	15	LSA-KDG	0	0.075180853	Not plastid, signal peptide identified
+jgi_Symmic1_27328_rna41924	SP	20	AEA-YHA	0	0.108551003	Plastid, low confidence
+jgi_Symmic1_27343_rna19455	SP	36	PAA-FAT	-2	0.684310170	Plastid, low confidence
+jgi_Symmic1_27368_rna19473	SP	17	AHA-VAN	-2	0.169967919	Not plastid, signal peptide identified
+jgi_Symmic1_27465_rna19557	SP	20	RAA-GQT	-1	0.165593181	Not plastid, signal peptide identified
+jgi_Symmic1_27495_rna19583	SP	17	AAA-AAK	-1	0.217754666	Not plastid, signal peptide identified
+jgi_Symmic1_27508_rna19596	SP	29	AAA-VRL	0	0.171480249	Not plastid, signal peptide identified
+jgi_Symmic1_27585_rna3585	SP	23	SWA-EGH	-2	0.123362534	Not plastid, signal peptide identified
+jgi_Symmic1_27610_rna3610	SP	15	VGA-VAL	-2	0.202757742	Not plastid, signal peptide identified
+jgi_Symmic1_27638_rna19626	SP	19	ASA-LRD	0	0.091931740	Plastid, low confidence
+jgi_Symmic1_27755_rna19730	SP	16	AVC-GQD	-1	0.072106378	Not plastid, signal peptide identified
+jgi_Symmic1_27802_rna19768	SP	28	SLG-FAS	0	0.635745764	Plastid, high confidence
+jgi_Symmic1_27825_rna19788	SP	31	SGC-GAP	1	0.291941035	Not plastid, signal peptide identified
+jgi_Symmic1_27859_rna19815	SP	32	AGA-VSE	2	0.145271925	Not plastid, signal peptide identified
+jgi_Symmic1_27868_rna19824	SP	21	LGA-QGS	-2	0.093074498	Not plastid, signal peptide identified
+jgi_Symmic1_27899_rna19852	SP	26	PPV-FAR	-2	0.759869657	Plastid, low confidence
+jgi_Symmic1_27924_rna19872	SP	24	GRA-PVG	2	0.122414836	Not plastid, signal peptide identified
+jgi_Symmic1_27929_rna19877	SP	26	VDA-VTC	0	0.104448182	Not plastid, signal peptide identified
+jgi_Symmic1_27958_rna19900	SP	22	ACA-EGT	2	0.136967071	Not plastid, signal peptide identified
+jgi_Symmic1_28002_rna3662	SP	16	AVA-RSA	-2	0.157734523	Not plastid, signal peptide identified
+jgi_Symmic1_28029_rna3689	SP	18	GAA-ESD	-2	0.149947973	Not plastid, signal peptide identified
+jgi_Symmic1_28105_rna19977	SP	24	AVM-TDD	-1	0.105716188	Not plastid, signal peptide identified
+jgi_Symmic1_28189_rna20043	SP	25	RPA-NGQ	-2	0.154939248	Not plastid, signal peptide identified
+jgi_Symmic1_281_rna30735	SP	24	AKG-SGS	-2	0.123106211	Not plastid, signal peptide identified
+jgi_Symmic1_28218_rna20069	SP	19	VIG-LRR	0	0.118800210	Plastid, low confidence
+jgi_Symmic1_28335_rna20169	SP	23	CST-SVL	2	0.215611823	Not plastid, signal peptide identified
+jgi_Symmic1_28345_rna20179	SP	18	DQA-LGQ	-2	0.116693537	Plastid, low confidence
+jgi_Symmic1_28396_rna448	SP	20	MQA-EGT	-2	0.171517202	Not plastid, signal peptide identified
+jgi_Symmic1_2839_rna32568	SP	29	AEA-TEE	0	0.099254026	Not plastid, signal peptide identified
+jgi_Symmic1_28419_rna471	SP	46	ASA-SLR	0	0.112483050	Not plastid, signal peptide identified
+jgi_Symmic1_28439_rna491	SP	16	AAA-DVC	0	0.134025195	Not plastid, signal peptide identified
+jgi_Symmic1_28529_rna20205	SP	20	AAG-QCD	-2	0.091629241	Not plastid, signal peptide identified
+jgi_Symmic1_28539_rna20215	SP	16	AWA-DDS	0	0.107014835	Not plastid, signal peptide identified
+jgi_Symmic1_28557_rna20233	SP	17	VTA-LPA	0	0.176034634	Plastid, low confidence
+jgi_Symmic1_28575_rna20246	SP	24	VRG-KET	0	0.175127413	Not plastid, signal peptide identified
+jgi_Symmic1_28656_rna20316	SP	17	VGA-QNA	-2	0.121975105	Not plastid, signal peptide identified
+jgi_Symmic1_2867_rna32596	SP	17	VTC-FLH	0	0.650020101	Plastid, high confidence
+jgi_Symmic1_28755_rna20395	SP	15	ALA-GKK	0	0.085604364	Not plastid, signal peptide identified
+jgi_Symmic1_28768_rna20408	SP	19	ASA-LRD	0	0.150924794	Plastid, low confidence
+jgi_Symmic1_28802_rna20433	SP	22	ACA-FVD	0	0.618426360	Plastid, high confidence
+jgi_Symmic1_28830_rna3760	SP	18	ARA-DGE	0	0.092219214	Not plastid, signal peptide identified
+jgi_Symmic1_28870_rna3800	SP	25	CEA-SYS	0	0.142871224	Not plastid, signal peptide identified
+jgi_Symmic1_28909_rna20473	SP	20	ASA-DVT	0	0.169730518	Not plastid, signal peptide identified
+jgi_Symmic1_28929_rna20489	SP	31	TCA-FAA	-2	0.674882565	Plastid, low confidence
+jgi_Symmic1_2896_rna7135	SP	21	THG-KKR	0	0.090006792	Not plastid, signal peptide identified
+jgi_Symmic1_2900_rna7139	SP	16	VGA-LAS	-2	0.170720447	Plastid, low confidence
+jgi_Symmic1_29088_rna20624	SP	24	RVA-TED	2	0.105587978	Not plastid, signal peptide identified
+jgi_Symmic1_29212_rna20732	SP	20	SAA-NES	1	0.146418927	Not plastid, signal peptide identified
+jgi_Symmic1_29300_rna20772	SP	21	FIA-TGL	-2	0.104937097	Not plastid, signal peptide identified
+jgi_Symmic1_29380_rna20842	SP	16	RLA-WSG	-2	0.166551213	Plastid, low confidence
+jgi_Symmic1_2939_rna32621	SP	21	QAA-GVS	-1	0.157644908	Not plastid, signal peptide identified
+jgi_Symmic1_29478_rna20919	SP	24	QAA-FVM	0	0.687845939	Plastid, high confidence
+jgi_Symmic1_2963_rna32645	SP	19	VQA-TDD	0	0.132170251	Not plastid, signal peptide identified
+jgi_Symmic1_2965_rna32647	SP	20	DLT-FAG	-2	0.637837911	Plastid, low confidence
+jgi_Symmic1_29708_rna21051	SP	24	AAA-AAN	-2	0.166703873	Not plastid, signal peptide identified
+jgi_Symmic1_2977_rna32659	SP	19	SQA-QGA	-2	0.113055632	Not plastid, signal peptide identified
+jgi_Symmic1_29783_rna21116	SP	22	VKG-TEL	0	0.111432624	Not plastid, signal peptide identified
+jgi_Symmic1_29816_rna21145	SP	15	ISA-EPA	0	0.073913285	Not plastid, signal peptide identified
+jgi_Symmic1_29847_rna21174	SP	19	AQH-FAS	2	0.704949462	Plastid, low confidence
+jgi_Symmic1_29859_rna21181	SP	18	ASA-GHG	0	0.147114352	Not plastid, signal peptide identified
+jgi_Symmic1_29879_rna21201	SP	19	AGA-VCS	-2	0.156026913	Not plastid, signal peptide identified
+jgi_Symmic1_29905_rna42245	SP	26	TIA-RTG	0	0.181076875	Not plastid, signal peptide identified
+jgi_Symmic1_30063_rna42266	SP	21	PTS-FKL	0	0.655690528	Plastid, high confidence
+jgi_Symmic1_30201_rna21404	SP	17	TSA-QSD	0	0.161201217	Not plastid, signal peptide identified
+jgi_Symmic1_30314_rna4035	SP	21	AQA-NSV	0	0.145907660	Not plastid, signal peptide identified
+jgi_Symmic1_30338_rna21479	SP	16	ALA-VRR	0	0.152964463	Not plastid, signal peptide identified
+jgi_Symmic1_30403_rna21527	SP	15	QAA-GNP	-1	0.217985405	Not plastid, signal peptide identified
+jgi_Symmic1_30480_rna21596	SP	19	AVG-RGQ	-2	0.048376052	Not plastid, signal peptide identified
+jgi_Symmic1_30578_rna4051	SP	20	AGA-RAR	-2	0.188143895	Not plastid, signal peptide identified
+jgi_Symmic1_30648_rna4121	SP	21	CII-VRP	2	0.273549611	Not plastid, signal peptide identified
+jgi_Symmic1_30741_rna21739	SP	17	AVA-APP	0	0.225568082	Not plastid, signal peptide identified
+jgi_Symmic1_30778_rna21772	SP	20	HSA-SCY	1	0.155956550	Not plastid, signal peptide identified
+jgi_Symmic1_30861_rna21844	SP	18	DVA-FAD	-2	0.665326705	Plastid, low confidence
+jgi_Symmic1_3096_rna32743	SP	19	AEA-SIV	0	0.133657652	Not plastid, signal peptide identified
+jgi_Symmic1_30970_rna21939	SP	22	HRA-TDV	0	0.174438778	Not plastid, signal peptide identified
+jgi_Symmic1_31006_rna4160	SP	19	ATQ-FEW	2	0.616891798	Plastid, low confidence
+jgi_Symmic1_3105_rna32752	SP	17	CQA-DRA	0	0.101482185	Not plastid, signal peptide identified
+jgi_Symmic1_31156_rna22054	SP	28	ARA-GIV	0	0.191188331	Not plastid, signal peptide identified
+jgi_Symmic1_31232_rna22119	SP	20	GHA-CLT	0	0.106020431	Not plastid, signal peptide identified
+jgi_Symmic1_31308_rna22190	SP	20	LSA-STR	-1	0.168314627	Not plastid, signal peptide identified
+jgi_Symmic1_31347_rna42420	SP	24	VDA-GNN	0	0.113084037	Not plastid, signal peptide identified
+jgi_Symmic1_31369_rna22240	SP	20	GQA-GRV	0	0.145824958	Not plastid, signal peptide identified
+jgi_Symmic1_31400_rna22268	SP	17	AES-GGE	-2	0.126562932	Not plastid, signal peptide identified
+jgi_Symmic1_31468_rna4246	SP	20	TRA-EIP	0	0.228422393	Not plastid, signal peptide identified
+jgi_Symmic1_31492_rna4270	SP	15	AVA-ADY	-1	0.093623941	Not plastid, signal peptide identified
+jgi_Symmic1_31584_rna22352	SP	32	CMD-FFA	2	0.620962799	Plastid, low confidence
+jgi_Symmic1_3165_rna32812	SP	19	LRA-LCD	-2	0.111112423	Plastid, low confidence
+jgi_Symmic1_31836_rna22524	SP	20	HAD-FAG	-1	0.652774688	Plastid, low confidence
+jgi_Symmic1_31857_rna22541	SP	35	PAA-FSQ	-2	0.654654018	Plastid, low confidence
+jgi_Symmic1_31858_rna22542	SP	25	VVA-EDG	0	0.113882146	Not plastid, signal peptide identified
+jgi_Symmic1_31867_rna22546	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_31878_rna22557	SP	21	CGA-SND	-1	0.070653915	Not plastid, signal peptide identified
+jgi_Symmic1_31899_rna22574	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_32028_rna22685	SP	18	TVA-FLP	0	0.686342525	Plastid, high confidence
+jgi_Symmic1_32053_rna22705	SP	15	SRA-LAH	-2	0.232728470	Plastid, low confidence
+jgi_Symmic1_32146_rna532	SP	21	AWA-AAP	0	0.295514011	Not plastid, signal peptide identified
+jgi_Symmic1_3222_rna7225	SP	23	AVA-HMN	0	0.084400076	Not plastid, signal peptide identified
+jgi_Symmic1_32361_rna22868	SP	24	VAA-GVA	0	0.176569765	Not plastid, signal peptide identified
+jgi_Symmic1_32372_rna22879	SP	21	TQA-DVP	0	0.214527334	Not plastid, signal peptide identified
+jgi_Symmic1_323_rna30777	SP	22	YSA-ATK	-1	0.144288702	Not plastid, signal peptide identified
+jgi_Symmic1_32401_rna22908	SP	23	IEA-DCE	0	0.138690230	Not plastid, signal peptide identified
+jgi_Symmic1_32403_rna22910	SP	28	CET-RGP	2	0.245653451	Not plastid, signal peptide identified
+jgi_Symmic1_32439_rna22938	SP	21	SVA-LSN	-2	0.140222338	Plastid, low confidence
+jgi_Symmic1_32467_rna22966	SP	26	GVR-TVD	2	0.249131995	Not plastid, signal peptide identified
+jgi_Symmic1_32515_rna23008	SP	22	GGA-MKA	0	0.178084351	Not plastid, signal peptide identified
+jgi_Symmic1_32696_rna23110	SP	24	SAA-PGG	1	0.143824766	Not plastid, signal peptide identified
+jgi_Symmic1_32720_rna23131	SP	23	PLA-LNR	0	0.133810782	Plastid, low confidence
+jgi_Symmic1_32755_rna23159	SP	19	VVA-VRS	0	0.149653071	Not plastid, signal peptide identified
+jgi_Symmic1_32795_rna23192	SP	20	AEA-AAV	0	0.199209020	Not plastid, signal peptide identified
+jgi_Symmic1_32821_rna23215	SP	19	TGA-NIP	0	0.243858353	Not plastid, signal peptide identified
+jgi_Symmic1_32848_rna23242	SP	16	VGA-IEL	0	0.134840488	Not plastid, signal peptide identified
+jgi_Symmic1_32853_rna4463	SP	22	GGG-QSC	-2	0.152166173	Not plastid, signal peptide identified
+jgi_Symmic1_32921_rna23277	SP	20	ALA-SES	0	0.162958951	Not plastid, signal peptide identified
+jgi_Symmic1_32965_rna23315	SP	16	SWA-LGQ	-2	0.102885807	Plastid, low confidence
+jgi_Symmic1_33019_rna23363	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_33029_rna23373	SP	26	DAG-FTC	1	0.631538921	Plastid, low confidence
+jgi_Symmic1_33064_rna23404	SP	14	RAA-WAG	-2	0.179375238	Plastid, low confidence
+jgi_Symmic1_3306_rna32918	SP	18	SRA-FSH	0	0.643108132	Plastid, high confidence
+jgi_Symmic1_33075_rna23415	SP	23	AAA-EGA	-2	0.105681917	Not plastid, signal peptide identified
+jgi_Symmic1_33077_rna42593	SP	27	DAS-FAP	1	0.746423593	Plastid, low confidence
+jgi_Symmic1_33112_rna23444	SP	18	HVA-ESV	-2	0.153345654	Not plastid, signal peptide identified
+jgi_Symmic1_33188_rna4513	SP	17	AWA-DTP	0	0.230963641	Not plastid, signal peptide identified
+jgi_Symmic1_33235_rna23509	SP	19	GQA-PGK	2	0.069373255	Not plastid, signal peptide identified
+jgi_Symmic1_33306_rna23568	SP	19	AVA-RGQ	-2	0.120469081	Not plastid, signal peptide identified
+jgi_Symmic1_33322_rna23583	SP	24	TGE-FSE	-1	0.645138587	Plastid, low confidence
+jgi_Symmic1_33393_rna23647	SP	30	LSG-NCQ	1	0.144984342	Not plastid, signal peptide identified
+jgi_Symmic1_33396_rna23650	SP	33	LSA-EDG	1	0.133388280	Not plastid, signal peptide identified
+jgi_Symmic1_33416_rna23670	SP	19	PLV-LNE	-2	0.163451490	Plastid, low confidence
+jgi_Symmic1_33448_rna23700	SP	20	TGA-LII	1	0.144456793	Plastid, low confidence
+jgi_Symmic1_3347_rna32959	SP	30	VSG-GTT	0	0.191559462	Not plastid, signal peptide identified
+jgi_Symmic1_33516_rna4566	SP	20	LPA-LAM	-2	0.164636816	Plastid, low confidence
+jgi_Symmic1_33520_rna4570	SP	17	AVV-DTS	-2	0.174712907	Not plastid, signal peptide identified
+jgi_Symmic1_33544_rna4594	SP	15	GVA-YQS	-2	0.187836564	Plastid, low confidence
+jgi_Symmic1_33554_rna23746	SP	20	ASA-AGP	0	0.212054254	Not plastid, signal peptide identified
+jgi_Symmic1_33629_rna23812	SP	22	RSS-DGP	1	0.254929617	Not plastid, signal peptide identified
+jgi_Symmic1_33636_rna23819	SP	16	VRA-LTS	0	0.205238753	Plastid, low confidence
+jgi_Symmic1_3379_rna7267	SP	16	AVA-GAD	-2	0.183627536	Not plastid, signal peptide identified
+jgi_Symmic1_33802_rna23969	SP	16	ISA-ASP	-1	0.242362718	Not plastid, signal peptide identified
+jgi_Symmic1_33826_rna4617	SP	18	VAA-SDV	0	0.119516673	Not plastid, signal peptide identified
+jgi_Symmic1_33885_rna23997	SP	30	PLA-CPR	0	0.110052772	Not plastid, signal peptide identified
+jgi_Symmic1_33_rna32	SP	22	AAA-ESC	0	0.185836260	Not plastid, signal peptide identified
+jgi_Symmic1_34081_rna24167	SP	18	AWA-EDP	0	0.196771822	Not plastid, signal peptide identified
+jgi_Symmic1_34159_rna24183	SP	29	GSA-LDM	2	0.070152774	Plastid, low confidence
+jgi_Symmic1_34181_rna24204	SP	13	AIC-FGT	-2	0.594336290	Plastid, low confidence
+jgi_Symmic1_34185_rna24208	SP	25	NMA-MVD	0	0.143634731	Not plastid, signal peptide identified
+jgi_Symmic1_34302_rna24311	SP	28	ASA-SPA	2	0.161138266	Not plastid, signal peptide identified
+jgi_Symmic1_34307_rna24316	SP	28	MHG-QMH	0	0.120590745	Not plastid, signal peptide identified
+jgi_Symmic1_34310_rna24319	SP	34	CSA-NVP	0	0.223054391	Not plastid, signal peptide identified
+jgi_Symmic1_34312_rna24321	SP	28	AAG-FDP	1	0.725231998	Plastid, low confidence
+jgi_Symmic1_34378_rna24378	SP	23	TDA-NHG	0	0.131548796	Not plastid, signal peptide identified
+jgi_Symmic1_34415_rna4718	SP	17	PTA-WGV	-2	0.126642732	Plastid, low confidence
+jgi_Symmic1_34421_rna4724	SP	17	VAA-HSG	-2	0.140369619	Not plastid, signal peptide identified
+jgi_Symmic1_34426_rna4729	SP	16	SVA-HPV	-2	0.154295916	Not plastid, signal peptide identified
+jgi_Symmic1_34503_rna24443	SP	21	TEG-VRS	0	0.121138678	Not plastid, signal peptide identified
+jgi_Symmic1_34602_rna24527	SP	22	VGA-ASP	0	0.280184917	Not plastid, signal peptide identified
+jgi_Symmic1_34633_rna42746	SP	19	TGC-DNW	0	0.106382451	Not plastid, signal peptide identified
+jgi_Symmic1_34637_rna24560	SP	17	VHG-LDN	0	0.077029582	Plastid, low confidence
+jgi_Symmic1_34716_rna24636	SP	15	GRA-SET	0	0.125515864	Not plastid, signal peptide identified
+jgi_Symmic1_34788_rna24661	SP	18	CNG-QVE	0	0.139030452	Not plastid, signal peptide identified
+jgi_Symmic1_34799_rna24672	SP	23	AHA-SLP	0	0.223320641	Not plastid, signal peptide identified
+jgi_Symmic1_3480_rna33042	SP	16	AVA-GAD	-2	0.163194378	Not plastid, signal peptide identified
+jgi_Symmic1_34817_rna24687	SP	25	VLG-KVP	0	0.268476765	Not plastid, signal peptide identified
+jgi_Symmic1_34826_rna24696	SP	28	DAA-PAA	1	0.210440485	Not plastid, signal peptide identified
+jgi_Symmic1_34831_rna24701	SP	16	VSA-ATS	0	0.196614643	Not plastid, signal peptide identified
+jgi_Symmic1_34850_rna24714	SP	24	LMG-CDQ	-1	0.102637795	Not plastid, signal peptide identified
+jgi_Symmic1_3485_rna33047	SP	15	GLA-QDA	0	0.108347090	Not plastid, signal peptide identified
+jgi_Symmic1_34880_rna24740	SP	31	GSG-GES	2	0.145120899	Not plastid, signal peptide identified
+jgi_Symmic1_35047_rna24845	SP	22	LLA-ASE	0	0.134798495	Not plastid, signal peptide identified
+jgi_Symmic1_350_rna30804	SP	26	SNK-FDP	2	0.767556543	Plastid, low confidence
+jgi_Symmic1_35111_rna24901	SP	19	AAA-AAE	-2	0.195143843	Not plastid, signal peptide identified
+jgi_Symmic1_35149_rna24935	SP	33	QAA-WVV	1	0.191963274	Plastid, low confidence
+jgi_Symmic1_35279_rna25047	SP	23	PDA-SCL	2	0.091341931	Not plastid, signal peptide identified
+jgi_Symmic1_35280_rna25048	SP	20	RAQ-FLP	1	0.710519430	Plastid, low confidence
+jgi_Symmic1_35318_rna597	SP	20	VSG-TTN	0	0.193982444	Not plastid, signal peptide identified
+jgi_Symmic1_35352_rna631	SP	17	PSA-GLE	-1	0.133422739	Not plastid, signal peptide identified
+jgi_Symmic1_35378_rna657	SP	15	CNA-GSE	-2	0.138489657	Not plastid, signal peptide identified
+jgi_Symmic1_35461_rna4870	SP	18	PGA-SQH	-2	0.151501505	Not plastid, signal peptide identified
+jgi_Symmic1_35468_rna4877	SP	25	ASA-QIQ	0	0.134029509	Not plastid, signal peptide identified
+jgi_Symmic1_35482_rna4891	SP	24	VRA-FGP	0	0.754248135	Plastid, high confidence
+jgi_Symmic1_35488_rna4897	SP	20	TLG-ERI	0	0.068292200	Not plastid, signal peptide identified
+jgi_Symmic1_35516_rna42822	SP	19	RGG-FAN	-2	0.705963415	Plastid, low confidence
+jgi_Symmic1_35732_rna4920	SP	17	VVA-DEA	0	0.156486515	Not plastid, signal peptide identified
+jgi_Symmic1_35782_rna25295	SP	26	TSD-DPP	2	0.220733448	Not plastid, signal peptide identified
+jgi_Symmic1_35893_rna25394	SP	28	TGS-TAA	1	0.170990783	Not plastid, signal peptide identified
+jgi_Symmic1_36142_rna25565	SP	30	GWS-FAS	-2	0.686314532	Plastid, low confidence
+jgi_Symmic1_3622_rna7333	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_36252_rna42900	SP	25	ASA-ARH	0	0.089240353	Not plastid, signal peptide identified
+jgi_Symmic1_36253_rna4989	SP	18	LDA-SSL	0	0.139931331	Not plastid, signal peptide identified
+jgi_Symmic1_36281_rna5017	SP	21	CVA-GQI	-1	0.116714840	Not plastid, signal peptide identified
+jgi_Symmic1_36334_rna25692	SP	24	SWT-FKL	0	0.643536520	Plastid, high confidence
+jgi_Symmic1_36346_rna25704	SP	26	VLA-RNA	0	0.109656463	Not plastid, signal peptide identified
+jgi_Symmic1_3635_rna33153	SP	12	AAA-SAT	-2	0.150366354	Not plastid, signal peptide identified
+jgi_Symmic1_36368_rna25722	SP	25	VEG-RVE	0	0.142472362	Not plastid, signal peptide identified
+jgi_Symmic1_36385_rna25738	SP	35	LRA-HCS	-2	0.124811897	Not plastid, signal peptide identified
+jgi_Symmic1_36415_rna25765	SP	24	AVA-HQV	0	0.131922487	Not plastid, signal peptide identified
+jgi_Symmic1_36523_rna25860	SP	18	VAA-MCP	0	0.182575241	Not plastid, signal peptide identified
+jgi_Symmic1_36527_rna25864	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_36529_rna25866	SP	20	AGA-IEE	0	0.098046589	Not plastid, signal peptide identified
+jgi_Symmic1_3652_rna33170	SP	31	AEA-SVD	0	0.163847175	Not plastid, signal peptide identified
+jgi_Symmic1_36553_rna5051	SP	40	LTM-FTT	2	0.732636312	Plastid, low confidence
+jgi_Symmic1_36579_rna5077	SP	16	VAA-RSD	-2	0.117261060	Not plastid, signal peptide identified
+jgi_Symmic1_36632_rna25901	SP	19	WPS-VSV	-2	0.160360329	Not plastid, signal peptide identified
+jgi_Symmic1_36687_rna25945	SP	18	AFA-VTE	-2	0.163934502	Not plastid, signal peptide identified
+jgi_Symmic1_36688_rna25946	SP	18	AFA-VTE	-2	0.163934502	Not plastid, signal peptide identified
+jgi_Symmic1_36709_rna25962	SP	18	TSA-PPD	1	0.087620135	Not plastid, signal peptide identified
+jgi_Symmic1_36986_rna26168	SP	19	ADA-RHL	0	0.128404589	Not plastid, signal peptide identified
+jgi_Symmic1_37016_rna26195	SP	23	DSA-GAP	-1	0.256679834	Not plastid, signal peptide identified
+jgi_Symmic1_37051_rna26220	SP	23	FWT-FPG	0	0.627122435	Plastid, high confidence
+jgi_Symmic1_37129_rna5170	SP	17	CDS-FAE	-2	0.634267775	Plastid, low confidence
+jgi_Symmic1_37138_rna5179	SP	17	GVA-GIV	-1	0.072235966	Not plastid, signal peptide identified
+jgi_Symmic1_37174_rna5215	SP	21	MLA-DVG	0	0.175121838	Not plastid, signal peptide identified
+jgi_Symmic1_37247_rna26323	SP	17	SFG-LCY	-2	0.073253615	Plastid, low confidence
+jgi_Symmic1_37288_rna26358	SP	18	AQA-AKQ	0	0.151737243	Not plastid, signal peptide identified
+jgi_Symmic1_37292_rna42995	SP	31	ALA-LTV	0	0.219044611	Plastid, low confidence
+jgi_Symmic1_37368_rna26430	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_37376_rna26438	SP	25	VQD-HAS	1	0.200324323	Not plastid, signal peptide identified
+jgi_Symmic1_3743_rna7343	SP	19	CWA-FEV	0	0.699733808	Plastid, high confidence
+jgi_Symmic1_37440_rna5267	SP	24	VAA-VSA	0	0.121629469	Not plastid, signal peptide identified
+jgi_Symmic1_37464_rna26484	SP	22	MDA-HGD	-2	0.108989938	Not plastid, signal peptide identified
+jgi_Symmic1_37538_rna26550	SP	16	VQA-TDE	0	0.119321024	Not plastid, signal peptide identified
+jgi_Symmic1_37539_rna26551	SP	26	SAD-FCG	2	0.655679989	Plastid, low confidence
+jgi_Symmic1_3763_rna7363	SP	22	TEP-FCK	2	0.661806945	Plastid, low confidence
+jgi_Symmic1_37698_rna5284	SP	25	TAA-DGL	0	0.138407624	Not plastid, signal peptide identified
+jgi_Symmic1_37826_rna26770	SP	23	AGA-KLA	2	0.110628365	Not plastid, signal peptide identified
+jgi_Symmic1_3783_rna7383	SP	19	PEA-APD	-2	0.100058357	Not plastid, signal peptide identified
+jgi_Symmic1_37855_rna26796	SP	15	VDA-KLL	0	0.162115786	Not plastid, signal peptide identified
+jgi_Symmic1_37996_rna26881	SP	19	TDA-DAP	0	0.247707233	Not plastid, signal peptide identified
+jgi_Symmic1_38007_rna26891	SP	33	AQA-LLS	0	0.114496186	Plastid, low confidence
+jgi_Symmic1_38053_rna26932	SP	19	EAQ-FPG	1	0.642156713	Plastid, low confidence
+jgi_Symmic1_38059_rna26938	SP	23	GSC-FVS	1	0.654309615	Plastid, low confidence
+jgi_Symmic1_3806_rna33269	SP	26	VHG-KEP	0	0.239492473	Not plastid, signal peptide identified
+jgi_Symmic1_3809_rna33272	SP	14	SAA-LAQ	-2	0.183727239	Plastid, low confidence
+jgi_Symmic1_38119_rna26993	SP	19	ASA-KTS	0	0.266985989	Not plastid, signal peptide identified
+jgi_Symmic1_38132_rna27003	SP	17	ASA-FEV	0	0.622690859	Plastid, high confidence
+jgi_Symmic1_38201_rna750	SP	24	AVL-SQE	-1	0.106772826	Not plastid, signal peptide identified
+jgi_Symmic1_38237_rna786	SP	21	STK-FDD	2	0.626144350	Plastid, low confidence
+jgi_Symmic1_38244_rna5362	SP	25	TVA-AVK	-1	0.150161030	Not plastid, signal peptide identified
+jgi_Symmic1_38259_rna5377	SP	17	GLA-AKP	-1	0.180798006	Not plastid, signal peptide identified
+jgi_Symmic1_38262_rna5380	SP	22	TAA-EDE	0	0.111802337	Not plastid, signal peptide identified
+jgi_Symmic1_38271_rna5389	SP	21	IEG-QDY	0	0.099856921	Not plastid, signal peptide identified
+jgi_Symmic1_38314_rna27058	SP	17	CTA-GPA	0	0.112329952	Not plastid, signal peptide identified
+jgi_Symmic1_3834_rna33297	SP	26	VRG-GKL	0	0.124972416	Not plastid, signal peptide identified
+jgi_Symmic1_38393_rna27125	SP	17	VCA-AQE	-1	0.117936467	Not plastid, signal peptide identified
+jgi_Symmic1_38411_rna27141	SP	32	AQA-SPV	0	0.089031191	Not plastid, signal peptide identified
+jgi_Symmic1_38422_rna27152	SP	19	SGA-EQC	0	0.159264396	Not plastid, signal peptide identified
+jgi_Symmic1_38432_rna27161	SP	24	QEA-WST	0	0.224060393	Plastid, low confidence
+jgi_Symmic1_38461_rna27189	SP	28	TLS-QTD	0	0.112444978	Not plastid, signal peptide identified
+jgi_Symmic1_38559_rna5453	SP	22	LTA-TMK	-1	0.129066334	Not plastid, signal peptide identified
+jgi_Symmic1_38595_rna27234	SP	14	ARA-LAE	-2	0.164143157	Plastid, low confidence
+jgi_Symmic1_38613_rna27271	SP	30	GSS-SAF	2	0.181265079	Not plastid, signal peptide identified
+jgi_Symmic1_3865_rna33328	SP	20	ADA-ETC	0	0.153977523	Not plastid, signal peptide identified
+jgi_Symmic1_38738_rna27373	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_38837_rna5543	SP	18	ALG-RPS	-2	0.178714830	Not plastid, signal peptide identified
+jgi_Symmic1_38840_rna5546	SP	36	KAA-STR	-1	0.147070505	Not plastid, signal peptide identified
+jgi_Symmic1_38862_rna5568	SP	14	SAA-LAS	-2	0.155569723	Plastid, low confidence
+jgi_Symmic1_39057_rna27590	SP	18	TEG-VDI	0	0.106333033	Not plastid, signal peptide identified
+jgi_Symmic1_39081_rna27611	SP	28	SAA-FSS	1	0.698700790	Plastid, low confidence
+jgi_Symmic1_39103_rna27629	SP	25	IHS-YKL	0	0.163060211	Plastid, low confidence
+jgi_Symmic1_39123_rna27649	SP	18	TTA-IDG	0	0.086864024	Not plastid, signal peptide identified
+jgi_Symmic1_3926_rna1037	SP	24	AVA-AAS	-2	0.183328805	Not plastid, signal peptide identified
+jgi_Symmic1_39278_rna27755	SP	31	APA-FVA	0	0.681187976	Plastid, high confidence
+jgi_Symmic1_39283_rna27760	SP	21	GVA-SER	-1	0.106164649	Not plastid, signal peptide identified
+jgi_Symmic1_392_rna6486	SP	20	TAA-TGS	-2	0.186883320	Not plastid, signal peptide identified
+jgi_Symmic1_3937_rna1048	SP	27	ALA-DLS	0	0.135052799	Not plastid, signal peptide identified
+jgi_Symmic1_39450_rna5640	SP	20	AIA-TAA	0	0.187026205	Not plastid, signal peptide identified
+jgi_Symmic1_39491_rna27905	SP	22	AAA-TVL	0	0.186745195	Not plastid, signal peptide identified
+jgi_Symmic1_39496_rna27910	SP	16	SGA-DPI	0	0.118181539	Not plastid, signal peptide identified
+jgi_Symmic1_39521_rna27933	SP	22	QSA-SES	-1	0.114361539	Not plastid, signal peptide identified
+jgi_Symmic1_39529_rna27941	SP	19	QRA-FAA	-2	0.661376560	Plastid, low confidence
+jgi_Symmic1_39531_rna27943	SP	15	VAA-DAV	-2	0.146170527	Not plastid, signal peptide identified
+jgi_Symmic1_39535_rna27947	SP	30	TSG-LLN	0	0.089714448	Plastid, low confidence
+jgi_Symmic1_39561_rna27971	SP	25	SSA-DMN	0	0.084374110	Not plastid, signal peptide identified
+jgi_Symmic1_39574_rna27983	SP	18	AGA-DGA	-2	0.169022124	Not plastid, signal peptide identified
+jgi_Symmic1_39649_rna28052	SP	33	GAK-FED	2	0.596157929	Plastid, low confidence
+jgi_Symmic1_39655_rna28056	SP	27	VQG-LRP	0	0.246183298	Plastid, low confidence
+jgi_Symmic1_39687_rna5673	SP	31	FEG-GRP	0	0.286327392	Not plastid, signal peptide identified
+jgi_Symmic1_39708_rna28070	SP	26	ASR-FTV	2	0.667652877	Plastid, low confidence
+jgi_Symmic1_39726_rna28088	SP	23	GCA-NCE	1	0.129350344	Not plastid, signal peptide identified
+jgi_Symmic1_39772_rna28126	SP	29	FAA-FVG	1	0.688540089	Plastid, low confidence
+jgi_Symmic1_39774_rna28128	SP	23	TAA-EAD	1	0.166456250	Not plastid, signal peptide identified
+jgi_Symmic1_39964_rna5717	SP	22	ALA-ERH	0	0.137815669	Not plastid, signal peptide identified
+jgi_Symmic1_39979_rna5732	SP	14	QLA-VSR	-2	0.126748124	Not plastid, signal peptide identified
+jgi_Symmic1_4006_rna7411	SP	18	CDA-RPS	0	0.152247216	Not plastid, signal peptide identified
+jgi_Symmic1_40086_rna28349	SP	21	QLA-THE	0	0.112801491	Not plastid, signal peptide identified
+jgi_Symmic1_400_rna6494	SP	17	CDS-FAE	-2	0.614111996	Plastid, low confidence
+jgi_Symmic1_40104_rna28367	SP	17	ALC-NGD	-2	0.111622886	Not plastid, signal peptide identified
+jgi_Symmic1_40177_rna28426	SP	17	IGA-GGD	-2	0.111142733	Not plastid, signal peptide identified
+jgi_Symmic1_4018_rna7423	SP	27	VLA-LPA	0	0.162287774	Plastid, low confidence
+jgi_Symmic1_40244_rna5785	SP	13	LLA-RGT	-2	0.144218681	Not plastid, signal peptide identified
+jgi_Symmic1_40256_rna5797	SP	29	APA-QDL	0	0.113048571	Not plastid, signal peptide identified
+jgi_Symmic1_40276_rna5817	SP	16	GRC-DSK	-2	0.161651315	Not plastid, signal peptide identified
+jgi_Symmic1_40319_rna28488	SP	22	SEA-LTR	0	0.146119696	Plastid, low confidence
+jgi_Symmic1_40334_rna28503	SP	23	GAA-GQG	-1	0.114918065	Not plastid, signal peptide identified
+jgi_Symmic1_40387_rna28550	SP	18	VAA-MVA	0	0.150197832	Not plastid, signal peptide identified
+jgi_Symmic1_40400_rna28561	SP	29	PRA-GGL	-2	0.122036184	Not plastid, signal peptide identified
+jgi_Symmic1_40447_rna28604	SP	17	IVG-QDI	0	0.119690322	Not plastid, signal peptide identified
+jgi_Symmic1_40460_rna28617	SP	35	ASA-KHR	0	0.147516495	Not plastid, signal peptide identified
+jgi_Symmic1_40516_rna5871	SP	24	IDG-VRT	0	0.190016897	Not plastid, signal peptide identified
+jgi_Symmic1_4054_rna7459	SP	18	RSA-DVC	1	0.208296922	Not plastid, signal peptide identified
+jgi_Symmic1_40568_rna28672	SP	19	VRA-QTA	0	0.191232340	Not plastid, signal peptide identified
+jgi_Symmic1_40767_rna28816	SP	22	VHG-VQN	0	0.079479306	Not plastid, signal peptide identified
+jgi_Symmic1_4084_rna33396	SP	26	QGQ-FEK	1	0.625471989	Plastid, low confidence
+jgi_Symmic1_40877_rna28919	SP	24	SDD-FPN	2	0.589934309	Plastid, low confidence
+jgi_Symmic1_40909_rna796	SP	23	SLA-QED	0	0.069394881	Not plastid, signal peptide identified
+jgi_Symmic1_40995_rna5931	SP	16	LPA-TSQ	-2	0.112851125	Not plastid, signal peptide identified
+jgi_Symmic1_41164_rna43281	SP	24	ALA-DKA	0	0.144771079	Not plastid, signal peptide identified
+jgi_Symmic1_41314_rna29163	SP	21	GQA-GTR	0	0.158580670	Not plastid, signal peptide identified
+jgi_Symmic1_41430_rna29274	SP	22	TPA-QPD	-2	0.100341668	Not plastid, signal peptide identified
+jgi_Symmic1_41431_rna29275	SP	23	SNG-DTY	0	0.125849068	Not plastid, signal peptide identified
+jgi_Symmic1_41492_rna29331	SP	18	APA-GCE	-2	0.138576133	Not plastid, signal peptide identified
+jgi_Symmic1_41508_rna29347	SP	23	LQA-DST	0	0.170333076	Not plastid, signal peptide identified
+jgi_Symmic1_41515_rna29353	SP	23	VLG-IDV	0	0.106220732	Not plastid, signal peptide identified
+jgi_Symmic1_41550_rna6027	SP	23	LQG-CEE	0	0.066381539	Not plastid, signal peptide identified
+jgi_Symmic1_41638_rna29426	SP	23	AGC-GCE	-2	0.099360257	Not plastid, signal peptide identified
+jgi_Symmic1_41757_rna29531	SP	16	QTA-SCD	-2	0.127526594	Not plastid, signal peptide identified
+jgi_Symmic1_41799_rna6087	SP	21	SKG-DET	2	0.101377078	Not plastid, signal peptide identified
+jgi_Symmic1_4181_rna7483	SP	17	GLA-YGT	-2	0.096395363	Plastid, low confidence
+jgi_Symmic1_41909_rna29593	SP	22	SLA-LGE	-2	0.142677727	Plastid, low confidence
+jgi_Symmic1_41950_rna29629	SP	31	MAA-PTT	1	0.126756601	Not plastid, signal peptide identified
+jgi_Symmic1_41967_rna29646	SP	18	SLA-EEI	0	0.126193807	Not plastid, signal peptide identified
+jgi_Symmic1_41991_rna29667	SP	16	ATA-YGN	-2	0.127215809	Plastid, low confidence
+jgi_Symmic1_42038_rna6139	SP	21	SGA-LPT	1	0.142460976	Plastid, low confidence
+jgi_Symmic1_42040_rna6141	SP	19	AVA-TGS	-2	0.098392670	Not plastid, signal peptide identified
+jgi_Symmic1_42077_rna6178	SP	22	VVA-TCD	0	0.126786632	Not plastid, signal peptide identified
+jgi_Symmic1_42207_rna29813	SP	20	PGA-WSK	-2	0.189161106	Plastid, low confidence
+jgi_Symmic1_42230_rna6183	SP	23	TDS-RSH	0	0.138317156	Not plastid, signal peptide identified
+jgi_Symmic1_42298_rna29834	SP	35	SHS-FLG	2	0.618371707	Plastid, low confidence
+jgi_Symmic1_42421_rna29945	SP	28	GDA-ARL	0	0.114739141	Not plastid, signal peptide identified
+jgi_Symmic1_42429_rna29951	SP	18	ASA-LNW	0	0.082240365	Plastid, low confidence
+jgi_Symmic1_42430_rna29952	SP	32	LQG-CDS	0	0.099537728	Not plastid, signal peptide identified
+jgi_Symmic1_42474_rna29991	SP	20	VSA-DSD	0	0.136288011	Not plastid, signal peptide identified
+jgi_Symmic1_42499_rna6260	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_42514_rna6275	SP	23	GDA-CTD	0	0.098211822	Not plastid, signal peptide identified
+jgi_Symmic1_42591_rna30072	SP	21	AAA-NAA	-2	0.171491496	Not plastid, signal peptide identified
+jgi_Symmic1_42651_rna30128	SP	18	ALA-ATP	0	0.263267817	Not plastid, signal peptide identified
+jgi_Symmic1_42652_rna30129	SP	24	ACA-ADD	1	0.116862890	Not plastid, signal peptide identified
+jgi_Symmic1_42754_rna6327	SP	15	IGA-GQQ	-1	0.145155120	Not plastid, signal peptide identified
+jgi_Symmic1_42779_rna30177	SP	20	YTQ-PAP	1	0.243586294	Not plastid, signal peptide identified
+jgi_Symmic1_427_rna30844	SP	24	DSA-QQV	1	0.125787236	Not plastid, signal peptide identified
+jgi_Symmic1_42800_rna30198	SP	20	ARA-FDQ	0	0.612200161	Plastid, high confidence
+jgi_Symmic1_4283_rna33549	SP	28	VMA-MTA	0	0.172070959	Not plastid, signal peptide identified
+jgi_Symmic1_42868_rna30266	SP	23	ADA-RVK	0	0.130067109	Not plastid, signal peptide identified
+jgi_Symmic1_42894_rna30292	SP	26	KSA-LCA	1	0.140855444	Plastid, low confidence
+jgi_Symmic1_42986_rna6398	SP	19	ATA-GAE	-2	0.160436244	Not plastid, signal peptide identified
+jgi_Symmic1_43004_rna30348	SP	24	CLS-FKL	0	0.624923069	Plastid, high confidence
+jgi_Symmic1_4300_rna33566	SP	21	VGA-GAS	-2	0.160153735	Not plastid, signal peptide identified
+jgi_Symmic1_43062_rna30406	SP	24	RAC-FIS	1	0.619772535	Plastid, low confidence
+jgi_Symmic1_43084_rna30428	SP	22	EGA-KVR	1	0.146728025	Not plastid, signal peptide identified
+jgi_Symmic1_43089_rna30433	SP	29	ISA-APG	0	0.127016518	Not plastid, signal peptide identified
+jgi_Symmic1_4308_rna33574	SP	22	RCA-DQE	1	0.163332369	Not plastid, signal peptide identified
+jgi_Symmic1_4319_rna7510	SP	22	AVA-EQA	0	0.132801437	Not plastid, signal peptide identified
+jgi_Symmic1_431_rna30848	SP	18	VTA-REV	0	0.094283177	Not plastid, signal peptide identified
+jgi_Symmic1_43207_rna6414	SP	25	ANA-AHA	0	0.098305863	Not plastid, signal peptide identified
+jgi_Symmic1_43274_rna30585	SP	20	TSA-QLC	0	0.117607259	Not plastid, signal peptide identified
+jgi_Symmic1_43359_rna30670	SP	21	AVA-ERR	2	0.112275452	Not plastid, signal peptide identified
+jgi_Symmic1_43375_rna30686	SP	22	ASA-FKV	0	0.647216971	Plastid, high confidence
+jgi_Symmic1_4352_rna7543	SP	23	LRA-TAT	0	0.160494872	Not plastid, signal peptide identified
+jgi_Symmic1_4389_rna33614	SP	21	ASA-IRD	0	0.106544045	Not plastid, signal peptide identified
+jgi_Symmic1_4432_rna33657	SP	16	GLA-SCR	-2	0.098779475	Not plastid, signal peptide identified
+jgi_Symmic1_4457_rna33682	SP	17	ASA-APR	0	0.164684821	Not plastid, signal peptide identified
+jgi_Symmic1_4541_rna33720	SP	21	VVL-GVP	-1	0.236874402	Not plastid, signal peptide identified
+jgi_Symmic1_4700_rna7649	SP	22	TTE-GEP	-1	0.251669571	Not plastid, signal peptide identified
+jgi_Symmic1_474_rna30891	SP	17	GRS-FGR	-2	0.607074694	Plastid, low confidence
+jgi_Symmic1_482_rna30899	SP	18	PTG-TTP	-1	0.280389234	Not plastid, signal peptide identified
+jgi_Symmic1_4875_rna33967	SP	25	AFV-PGP	-1	0.235377035	Not plastid, signal peptide identified
+jgi_Symmic1_4876_rna33968	SP	25	AFV-PGP	-1	0.235377035	Not plastid, signal peptide identified
+jgi_Symmic1_4906_rna33998	SP	23	AWA-IHT	0	0.148379703	Not plastid, signal peptide identified
+jgi_Symmic1_4944_rna34036	SP	23	STA-WAQ	-2	0.201129191	Plastid, low confidence
+jgi_Symmic1_494_rna30911	SP	19	TAA-ESC	0	0.138158710	Not plastid, signal peptide identified
+jgi_Symmic1_5019_rna7719	SP	16	VGA-LNL	0	0.125609264	Plastid, low confidence
+jgi_Symmic1_5156_rna7762	SP	25	ANQ-FSA	0	0.630941854	Plastid, high confidence
+jgi_Symmic1_5216_rna34219	SP	19	AQA-QPS	0	0.152343225	Not plastid, signal peptide identified
+jgi_Symmic1_5217_rna34220	SP	17	AAA-VAD	-2	0.166688231	Not plastid, signal peptide identified
+jgi_Symmic1_5221_rna34224	SP	32	AFC-GSR	-2	0.169017115	Not plastid, signal peptide identified
+jgi_Symmic1_5226_rna34229	SP	24	GRG-SAE	2	0.134935642	Not plastid, signal peptide identified
+jgi_Symmic1_5322_rna34290	SP	25	AHA-GRL	0	0.134015473	Not plastid, signal peptide identified
+jgi_Symmic1_5378_rna34346	SP	31	ADA-RKP	0	0.231698957	Not plastid, signal peptide identified
+jgi_Symmic1_5391_rna34359	SP	26	GAA-EES	0	0.111136599	Not plastid, signal peptide identified
+jgi_Symmic1_5433_rna7810	SP	23	SAA-AIP	1	0.253891403	Not plastid, signal peptide identified
+jgi_Symmic1_5490_rna34417	SP	16	AAA-TGE	-2	0.082690971	Not plastid, signal peptide identified
+jgi_Symmic1_5493_rna34420	SP	21	CVA-SMS	-1	0.129056984	Not plastid, signal peptide identified
+jgi_Symmic1_5532_rna34459	SP	22	EGA-KVR	1	0.143640185	Not plastid, signal peptide identified
+jgi_Symmic1_5562_rna34489	SP	17	VQA-VAS	-2	0.185142783	Not plastid, signal peptide identified
+jgi_Symmic1_5643_rna7855	SP	21	TVE-YRP	2	0.251301317	Plastid, low confidence
+jgi_Symmic1_5829_rna7936	SP	22	QGA-REG	1	0.086764449	Not plastid, signal peptide identified
+jgi_Symmic1_5920_rna34658	SP	21	SQG-GSR	-2	0.107243391	Not plastid, signal peptide identified
+jgi_Symmic1_5995_rna34697	SP	32	IEA-KPV	0	0.099303513	Not plastid, signal peptide identified
+jgi_Symmic1_6068_rna34770	SP	27	WQA-VAT	1	0.170526128	Not plastid, signal peptide identified
+jgi_Symmic1_6081_rna34783	SP	18	TKC-QCT	0	0.140126583	Not plastid, signal peptide identified
+jgi_Symmic1_6121_rna8048	SP	22	SPA-FFH	-2	0.569640525	Plastid, low confidence
+jgi_Symmic1_6123_rna8050	SP	30	CMA-PFD	2	0.098889335	Not plastid, signal peptide identified
+jgi_Symmic1_6141_rna34794	SP	25	WHA-TKV	0	0.103053537	Not plastid, signal peptide identified
+jgi_Symmic1_615_rna30990	SP	24	VSA-ESR	0	0.100838305	Not plastid, signal peptide identified
+jgi_Symmic1_6178_rna34831	SP	26	YMG-LWP	0	0.223419304	Plastid, low confidence
+jgi_Symmic1_6345_rna34958	SP	23	GLS-CQE	-1	0.110152313	Not plastid, signal peptide identified
+jgi_Symmic1_635_rna31010	SP	21	VRA-GAD	-2	0.122617443	Not plastid, signal peptide identified
+jgi_Symmic1_6396_rna8126	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_6533_rna8177	SP	22	ALD-FSV	2	0.630240845	Plastid, low confidence
+jgi_Symmic1_6594_rna35092	SP	19	STA-NGA	-2	0.110303948	Not plastid, signal peptide identified
+jgi_Symmic1_663_rna31038	SP	18	PLA-TGE	-2	0.087771872	Not plastid, signal peptide identified
+jgi_Symmic1_6647_rna35145	SP	17	QLS-DQV	-2	0.137694158	Not plastid, signal peptide identified
+jgi_Symmic1_6681_rna35179	SP	22	SRS-QRD	0	0.086614637	Not plastid, signal peptide identified
+jgi_Symmic1_6796_rna35244	SP	26	ARA-GKT	0	0.116692408	Not plastid, signal peptide identified
+jgi_Symmic1_6882_rna35303	SP	24	AVA-AAS	-2	0.172612562	Not plastid, signal peptide identified
+jgi_Symmic1_7072_rna35448	SP	19	LPA-ECR	-2	0.127864059	Not plastid, signal peptide identified
+jgi_Symmic1_7075_rna35451	SP	29	GLA-FTP	0	0.725645410	Plastid, high confidence
+jgi_Symmic1_7082_rna35458	SP	22	VVA-RSI	0	0.142783955	Not plastid, signal peptide identified
+jgi_Symmic1_7110_rna35486	SP	21	ALA-LRL	0	0.096924084	Plastid, low confidence
+jgi_Symmic1_7142_rna1181	SP	15	VGA-LAS	-2	0.169516903	Plastid, low confidence
+jgi_Symmic1_7244_rna35506	SP	19	AAA-MKL	0	0.146060502	Not plastid, signal peptide identified
+jgi_Symmic1_7322_rna8379	SP	28	AAA-TRA	0	0.149930501	Not plastid, signal peptide identified
+jgi_Symmic1_7332_rna8389	SP	16	VEG-SYN	0	0.096961896	Not plastid, signal peptide identified
+jgi_Symmic1_7355_rna8412	SP	33	GCA-SPE	0	0.095150737	Not plastid, signal peptide identified
+jgi_Symmic1_742_rna31117	SP	29	TAA-ECW	1	0.096420565	Not plastid, signal peptide identified
+jgi_Symmic1_7507_rna35690	SP	19	VGQ-EVL	1	0.171390339	Not plastid, signal peptide identified
+jgi_Symmic1_7595_rna8473	SP	19	PSA-EDC	0	0.112166695	Not plastid, signal peptide identified
+jgi_Symmic1_7610_rna8488	SP	20	EIA-FPI	-2	0.580561823	Plastid, low confidence
+jgi_Symmic1_7658_rna35799	SP	23	LTA-SEP	-1	0.263716810	Not plastid, signal peptide identified
+jgi_Symmic1_7828_rna35930	SP	26	SAA-HTT	0	0.211598123	Not plastid, signal peptide identified
+jgi_Symmic1_7852_rna35954	SP	26	SVS-DTP	0	0.289274461	Not plastid, signal peptide identified
+jgi_Symmic1_7924_rna36004	SP	16	VAA-AIP	-1	0.215837454	Not plastid, signal peptide identified
+jgi_Symmic1_7925_rna36005	SP	32	QTA-DGT	-2	0.150485220	Not plastid, signal peptide identified
+jgi_Symmic1_7945_rna36025	SP	19	ARR-FAQ	-2	0.612663169	Plastid, low confidence
+jgi_Symmic1_7980_rna36060	SP	16	ACA-VAL	-2	0.204170451	Not plastid, signal peptide identified
+jgi_Symmic1_7998_rna8571	SP	17	AAA-KCT	0	0.109852614	Not plastid, signal peptide identified
+jgi_Symmic1_799_rna6606	SP	35	LQG-CKN	0	0.115204404	Not plastid, signal peptide identified
+jgi_Symmic1_8060_rna36088	SP	23	ALA-GKP	0	0.245809893	Not plastid, signal peptide identified
+jgi_Symmic1_8134_rna36162	SP	27	LRT-RSP	0	0.281536091	Not plastid, signal peptide identified
+jgi_Symmic1_8274_rna36239	SP	19	SSD-SCP	2	0.225249876	Not plastid, signal peptide identified
+jgi_Symmic1_8339_rna8725	SP	26	AVA-SSQ	-2	0.186146858	Not plastid, signal peptide identified
+jgi_Symmic1_8355_rna8741	SP	16	GTA-GWK	-1	0.106299360	Not plastid, signal peptide identified
+jgi_Symmic1_8416_rna36291	SP	18	VLS-ETS	0	0.192065390	Not plastid, signal peptide identified
+jgi_Symmic1_8481_rna8781	SP	30	AGA-FDR	0	0.622273901	Plastid, high confidence
+jgi_Symmic1_850_rna31138	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_8522_rna36342	SP	20	ALS-FRS	0	0.627073218	Plastid, high confidence
+jgi_Symmic1_8527_rna36347	SP	16	CQG-LYD	0	0.109452651	Plastid, low confidence
+jgi_Symmic1_853_rna31141	SP	16	GLA-GKV	0	0.108258085	Not plastid, signal peptide identified
+jgi_Symmic1_8572_rna36392	SP	17	WAA-GEI	-1	0.082479338	Not plastid, signal peptide identified
+jgi_Symmic1_8575_rna36395	SP	17	ATY-CRP	-1	0.228243735	Not plastid, signal peptide identified
+jgi_Symmic1_8612_rna1259	SP	33	HAA-LNV	1	0.134097996	Plastid, low confidence
+jgi_Symmic1_8657_rna1304	SP	19	PSA-GRR	-1	0.106055056	Not plastid, signal peptide identified
+jgi_Symmic1_8731_rna36422	SP	23	VCG-LEI	0	0.063416343	Plastid, low confidence
+jgi_Symmic1_8769_rna36460	SP	21	APA-RLY	2	0.153691973	Not plastid, signal peptide identified
+jgi_Symmic1_8860_rna8910	SP	19	LAA-ILL	1	0.120103639	Not plastid, signal peptide identified
+jgi_Symmic1_8925_rna36571	SP	22	GEA-TVP	2	0.308734417	Not plastid, signal peptide identified
+jgi_Symmic1_8946_rna8915	SP	30	AGS-GSE	-1	0.152988174	Not plastid, signal peptide identified
+jgi_Symmic1_8962_rna8931	SP	22	AAA-DEQ	0	0.096799663	Not plastid, signal peptide identified
+jgi_Symmic1_9179_rna36727	SP	22	VRA-RPT	0	0.132576028	Not plastid, signal peptide identified
+jgi_Symmic1_9209_rna36757	SP	36	GVA-SIE	2	0.123407185	Not plastid, signal peptide identified
+jgi_Symmic1_9243_rna9033	SP	21	TLA-APQ	0	0.112467466	Not plastid, signal peptide identified
+jgi_Symmic1_931_rna31219	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_9409_rna36858	SP	15	GVS-GQP	-1	0.228048934	Not plastid, signal peptide identified
+jgi_Symmic1_949_rna31237	SP	24	TSA-GQW	-1	0.105401460	Not plastid, signal peptide identified
+jgi_Symmic1_9591_rna9149	SP	21	LDA-VVL	0	0.168069659	Not plastid, signal peptide identified
+jgi_Symmic1_9619_rna37005	SP	21	QPA-DGV	-2	0.118250607	Not plastid, signal peptide identified
+jgi_Symmic1_9625_rna37011	SP	18	RVA-LAL	-2	0.249609567	Plastid, low confidence
+jgi_Symmic1_965_rna31253	SP	21	GGA-VVV	0	0.179294142	Not plastid, signal peptide identified
+jgi_Symmic1_9663_rna37049	SP	20	YGA-GNR	1	0.131545392	Not plastid, signal peptide identified
+jgi_Symmic1_972_rna6651	SP	24	SGA-PLT	1	0.126918351	Not plastid, signal peptide identified
+jgi_Symmic1_9736_rna37061	SP	17	ACA-DEQ	0	0.140791591	Not plastid, signal peptide identified
+jgi_Symmic1_9827_rna9257	SP	24	YGA-APL	1	0.111424635	Not plastid, signal peptide identified
+jgi_Symmic1_9839_rna9269	SP	23	VAA-QVP	0	0.223253216	Not plastid, signal peptide identified
+jgi_Symmic1_9849_rna9279	SP	23	VNA-IIW	0	0.128086122	Not plastid, signal peptide identified
+jgi_Symmic1_9900_rna37171	SP	21	AAA-QDC	0	0.118110915	Not plastid, signal peptide identified
+jgi_Symmic1_992_rna6671	SP	17	VVG-QQA	0	0.098680034	Not plastid, signal peptide identified
+jgi_Symmic1_9930_rna37201	SP	19	SVA-ISL	0	0.235041782	Not plastid, signal peptide identified
+jgi_Symmic1_9945_rna1329	SP	16	VLA-EED	0	0.081786122	Not plastid, signal peptide identified
+jgi_Symmic1_9971_rna1355	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+jgi_Symmic1_9981_rna1365	SP	23	VAA-KVR	1	0.188835741	Not plastid, signal peptide identified

@@ -1,0 +1,3632 @@
+##gff-version 3
+# CAE7149020.1 Length: 1204
+# CAE7149020.1 Number of predicted TMRs: 16
+CAE7149020.1	signal	1	14				
+CAE7149020.1	periplasm	15	51				
+CAE7149020.1	Beta sheet	52	56				
+CAE7149020.1	outside	57	720				
+CAE7149020.1	Beta sheet	721	725				
+CAE7149020.1	periplasm	726	927				
+CAE7149020.1	Beta sheet	928	934				
+CAE7149020.1	outside	935	942				
+CAE7149020.1	Beta sheet	943	951				
+CAE7149020.1	periplasm	952	959				
+CAE7149020.1	Beta sheet	960	966				
+CAE7149020.1	outside	967	995				
+CAE7149020.1	Beta sheet	996	1004				
+CAE7149020.1	periplasm	1005	1013				
+CAE7149020.1	Beta sheet	1014	1022				
+CAE7149020.1	outside	1023	1027				
+CAE7149020.1	Beta sheet	1028	1037				
+CAE7149020.1	periplasm	1038	1045				
+CAE7149020.1	Beta sheet	1046	1055				
+CAE7149020.1	outside	1056	1059				
+CAE7149020.1	Beta sheet	1060	1069				
+CAE7149020.1	periplasm	1070	1077				
+CAE7149020.1	Beta sheet	1078	1085				
+CAE7149020.1	outside	1086	1092				
+CAE7149020.1	Beta sheet	1093	1103				
+CAE7149020.1	periplasm	1104	1109				
+CAE7149020.1	Beta sheet	1110	1119				
+CAE7149020.1	outside	1120	1129				
+CAE7149020.1	Beta sheet	1130	1138				
+CAE7149020.1	periplasm	1139	1146				
+CAE7149020.1	Beta sheet	1147	1155				
+CAE7149020.1	outside	1156	1168				
+CAE7149020.1	Beta sheet	1169	1177				
+CAE7149020.1	periplasm	1178	1204				
+//
+# CAE7149228.1 Length: 189
+# CAE7149228.1 Number of predicted TMRs: 0
+CAE7149228.1	signal	1	25				
+CAE7149228.1	outside	26	189				
+//
+# CAE7149274.1 Length: 999
+# CAE7149274.1 Number of predicted TMRs: 0
+CAE7149274.1	signal	1	20				
+CAE7149274.1	outside	21	999				
+//
+# CAE7149469.1 Length: 1637
+# CAE7149469.1 Number of predicted TMRs: 14
+CAE7149469.1	signal	1	24				
+CAE7149469.1	outside	25	379				
+CAE7149469.1	TMhelix	380	389				
+CAE7149469.1	inside	390	917				
+CAE7149469.1	TMhelix	918	935				
+CAE7149469.1	outside	936	944				
+CAE7149469.1	TMhelix	945	967				
+CAE7149469.1	inside	968	990				
+CAE7149469.1	TMhelix	991	1010				
+CAE7149469.1	outside	1011	1029				
+CAE7149469.1	TMhelix	1030	1050				
+CAE7149469.1	inside	1051	1058				
+CAE7149469.1	TMhelix	1059	1074				
+CAE7149469.1	outside	1075	1091				
+CAE7149469.1	TMhelix	1092	1110				
+CAE7149469.1	inside	1111	1140				
+CAE7149469.1	TMhelix	1141	1161				
+CAE7149469.1	outside	1162	1177				
+CAE7149469.1	TMhelix	1178	1190				
+CAE7149469.1	inside	1191	1220				
+CAE7149469.1	TMhelix	1221	1234				
+CAE7149469.1	outside	1235	1257				
+CAE7149469.1	TMhelix	1258	1274				
+CAE7149469.1	inside	1275	1283				
+CAE7149469.1	TMhelix	1284	1304				
+CAE7149469.1	outside	1305	1313				
+CAE7149469.1	TMhelix	1314	1327				
+CAE7149469.1	inside	1328	1532				
+CAE7149469.1	TMhelix	1533	1542				
+CAE7149469.1	outside	1543	1637				
+//
+# CAE7149487.1 Length: 1095
+# CAE7149487.1 Number of predicted TMRs: 10
+CAE7149487.1	signal	1	19				
+CAE7149487.1	periplasm	20	30				
+CAE7149487.1	Beta sheet	31	38				
+CAE7149487.1	outside	39	55				
+CAE7149487.1	Beta sheet	56	62				
+CAE7149487.1	periplasm	63	67				
+CAE7149487.1	Beta sheet	68	75				
+CAE7149487.1	outside	76	94				
+CAE7149487.1	Beta sheet	95	102				
+CAE7149487.1	periplasm	103	111				
+CAE7149487.1	Beta sheet	112	120				
+CAE7149487.1	outside	121	136				
+CAE7149487.1	Beta sheet	137	145				
+CAE7149487.1	periplasm	146	150				
+CAE7149487.1	Beta sheet	151	160				
+CAE7149487.1	outside	161	169				
+CAE7149487.1	Beta sheet	170	178				
+CAE7149487.1	periplasm	179	429				
+CAE7149487.1	Beta sheet	430	434				
+CAE7149487.1	outside	435	1080				
+CAE7149487.1	Beta sheet	1081	1085				
+CAE7149487.1	periplasm	1086	1095				
+//
+# CAE7149594.1 Length: 255
+# CAE7149594.1 Number of predicted TMRs: 0
+CAE7149594.1	signal	1	19				
+CAE7149594.1	outside	20	255				
+//
+# CAE7149713.1 Length: 333
+# CAE7149713.1 Number of predicted TMRs: 0
+CAE7149713.1	signal	1	20				
+CAE7149713.1	outside	21	333				
+//
+# CAE7151547.1 Length: 173
+# CAE7151547.1 Number of predicted TMRs: 0
+CAE7151547.1	signal	1	16				
+CAE7151547.1	outside	17	173				
+//
+# CAE7153836.1 Length: 310
+# CAE7153836.1 Number of predicted TMRs: 0
+CAE7153836.1	signal	1	25				
+CAE7153836.1	outside	26	310				
+//
+# CAE7153837.1 Length: 625
+# CAE7153837.1 Number of predicted TMRs: 0
+CAE7153837.1	signal	1	18				
+CAE7153837.1	outside	19	625				
+//
+# CAE7156326.1 Length: 172
+# CAE7156326.1 Number of predicted TMRs: 0
+CAE7156326.1	inside	1	172				
+//
+# CAE7157923.1 Length: 309
+# CAE7157923.1 Number of predicted TMRs: 0
+CAE7157923.1	signal	1	19				
+CAE7157923.1	outside	20	309				
+//
+# CAE7160640.1 Length: 292
+# CAE7160640.1 Number of predicted TMRs: 0
+CAE7160640.1	signal	1	19				
+CAE7160640.1	outside	20	292				
+//
+# CAE7160845.1 Length: 398
+# CAE7160845.1 Number of predicted TMRs: 0
+CAE7160845.1	signal	1	30				
+CAE7160845.1	outside	31	398				
+//
+# CAE7161926.1 Length: 519
+# CAE7161926.1 Number of predicted TMRs: 0
+CAE7161926.1	signal	1	17				
+CAE7161926.1	outside	18	519				
+//
+# CAE7162209.1 Length: 241
+# CAE7162209.1 Number of predicted TMRs: 0
+CAE7162209.1	signal	1	20				
+CAE7162209.1	outside	21	241				
+//
+# CAE7162600.1 Length: 332
+# CAE7162600.1 Number of predicted TMRs: 0
+CAE7162600.1	signal	1	16				
+CAE7162600.1	outside	17	332				
+//
+# CAE7168093.1 Length: 802
+# CAE7168093.1 Number of predicted TMRs: 0
+CAE7168093.1	signal	1	18				
+CAE7168093.1	outside	19	802				
+//
+# CAE7168897.1 Length: 1377
+# CAE7168897.1 Number of predicted TMRs: 0
+CAE7168897.1	signal	1	37				
+CAE7168897.1	outside	38	1377				
+//
+# CAE7169707.1 Length: 171
+# CAE7169707.1 Number of predicted TMRs: 0
+CAE7169707.1	signal	1	19				
+CAE7169707.1	outside	20	171				
+//
+# CAE7171207.1 Length: 380
+# CAE7171207.1 Number of predicted TMRs: 0
+CAE7171207.1	signal	1	23				
+CAE7171207.1	outside	24	380				
+//
+# CAE7172851.1 Length: 311
+# CAE7172851.1 Number of predicted TMRs: 0
+CAE7172851.1	signal	1	21				
+CAE7172851.1	outside	22	311				
+//
+# CAE7173350.1 Length: 482
+# CAE7173350.1 Number of predicted TMRs: 0
+CAE7173350.1	signal	1	18				
+CAE7173350.1	outside	19	482				
+//
+# CAE7173506.1 Length: 87
+# CAE7173506.1 Number of predicted TMRs: 0
+CAE7173506.1	signal	1	29				
+CAE7173506.1	outside	30	87				
+//
+# CAE7173553.1 Length: 325
+# CAE7173553.1 Number of predicted TMRs: 0
+CAE7173553.1	signal	1	19				
+CAE7173553.1	outside	20	325				
+//
+# CAE7175181.1 Length: 366
+# CAE7175181.1 Number of predicted TMRs: 0
+CAE7175181.1	signal	1	17				
+CAE7175181.1	outside	18	366				
+//
+# CAE7177229.1 Length: 114
+# CAE7177229.1 Number of predicted TMRs: 0
+CAE7177229.1	signal	1	18				
+CAE7177229.1	outside	19	114				
+//
+# CAE7180479.1 Length: 841
+# CAE7180479.1 Number of predicted TMRs: 1
+CAE7180479.1	signal	1	15				
+CAE7180479.1	outside	16	428				
+CAE7180479.1	TMhelix	429	438				
+CAE7180479.1	inside	439	841				
+//
+# CAE7182531.1 Length: 725
+# CAE7182531.1 Number of predicted TMRs: 1
+CAE7182531.1	signal	1	24				
+CAE7182531.1	outside	25	166				
+CAE7182531.1	TMhelix	167	176				
+CAE7182531.1	inside	177	725				
+//
+# CAE7182887.1 Length: 529
+# CAE7182887.1 Number of predicted TMRs: 0
+CAE7182887.1	inside	1	529				
+//
+# CAE7184378.1 Length: 566
+# CAE7184378.1 Number of predicted TMRs: 0
+CAE7184378.1	signal	1	19				
+CAE7184378.1	outside	20	566				
+//
+# CAE7186739.1 Length: 170
+# CAE7186739.1 Number of predicted TMRs: 0
+CAE7186739.1	signal	1	18				
+CAE7186739.1	outside	19	170				
+//
+# CAE7188628.1 Length: 182
+# CAE7188628.1 Number of predicted TMRs: 0
+CAE7188628.1	signal	1	20				
+CAE7188628.1	outside	21	182				
+//
+# CAE7188663.1 Length: 198
+# CAE7188663.1 Number of predicted TMRs: 0
+CAE7188663.1	inside	1	198				
+//
+# CAE7189458.1 Length: 122
+# CAE7189458.1 Number of predicted TMRs: 0
+CAE7189458.1	signal	1	20				
+CAE7189458.1	outside	21	122				
+//
+# CAE7189789.1 Length: 298
+# CAE7189789.1 Number of predicted TMRs: 0
+CAE7189789.1	signal	1	26				
+CAE7189789.1	outside	27	298				
+//
+# CAE7195743.1 Length: 517
+# CAE7195743.1 Number of predicted TMRs: 0
+CAE7195743.1	signal	1	20				
+CAE7195743.1	outside	21	517				
+//
+# CAE7195851.1 Length: 127
+# CAE7195851.1 Number of predicted TMRs: 0
+CAE7195851.1	signal	1	25				
+CAE7195851.1	outside	26	127				
+//
+# CAE7197053.1 Length: 399
+# CAE7197053.1 Number of predicted TMRs: 0
+CAE7197053.1	signal	1	15				
+CAE7197053.1	outside	16	399				
+//
+# CAE7198761.1 Length: 487
+# CAE7198761.1 Number of predicted TMRs: 0
+CAE7198761.1	signal	1	18				
+CAE7198761.1	outside	19	487				
+//
+# CAE7200908.1 Length: 512
+# CAE7200908.1 Number of predicted TMRs: 0
+CAE7200908.1	signal	1	21				
+CAE7200908.1	outside	22	512				
+//
+# CAE7201276.1 Length: 606
+# CAE7201276.1 Number of predicted TMRs: 0
+CAE7201276.1	signal	1	20				
+CAE7201276.1	outside	21	606				
+//
+# CAE7201369.1 Length: 166
+# CAE7201369.1 Number of predicted TMRs: 0
+CAE7201369.1	signal	1	20				
+CAE7201369.1	outside	21	166				
+//
+# CAE7203315.1 Length: 242
+# CAE7203315.1 Number of predicted TMRs: 0
+CAE7203315.1	signal	1	18				
+CAE7203315.1	outside	19	242				
+//
+# CAE7203341.1 Length: 310
+# CAE7203341.1 Number of predicted TMRs: 0
+CAE7203341.1	signal	1	18				
+CAE7203341.1	outside	19	310				
+//
+# CAE7203607.1 Length: 667
+# CAE7203607.1 Number of predicted TMRs: 0
+CAE7203607.1	signal	1	17				
+CAE7203607.1	outside	18	667				
+//
+# CAE7204705.1 Length: 139
+# CAE7204705.1 Number of predicted TMRs: 0
+CAE7204705.1	signal	1	18				
+CAE7204705.1	outside	19	139				
+//
+# CAE7205312.1 Length: 468
+# CAE7205312.1 Number of predicted TMRs: 0
+CAE7205312.1	signal	1	19				
+CAE7205312.1	outside	20	468				
+//
+# CAE7206413.1 Length: 553
+# CAE7206413.1 Number of predicted TMRs: 0
+CAE7206413.1	signal	1	25				
+CAE7206413.1	outside	26	553				
+//
+# CAE7206426.1 Length: 386
+# CAE7206426.1 Number of predicted TMRs: 0
+CAE7206426.1	signal	1	16				
+CAE7206426.1	outside	17	386				
+//
+# CAE7206469.1 Length: 487
+# CAE7206469.1 Number of predicted TMRs: 0
+CAE7206469.1	signal	1	18				
+CAE7206469.1	outside	19	487				
+//
+# CAE7208473.1 Length: 604
+# CAE7208473.1 Number of predicted TMRs: 0
+CAE7208473.1	signal	1	17				
+CAE7208473.1	outside	18	604				
+//
+# CAE7208579.1 Length: 327
+# CAE7208579.1 Number of predicted TMRs: 0
+CAE7208579.1	signal	1	17				
+CAE7208579.1	outside	18	327				
+//
+# CAE7208795.1 Length: 303
+# CAE7208795.1 Number of predicted TMRs: 0
+CAE7208795.1	signal	1	24				
+CAE7208795.1	outside	25	303				
+//
+# CAE7208987.1 Length: 205
+# CAE7208987.1 Number of predicted TMRs: 0
+CAE7208987.1	signal	1	32				
+CAE7208987.1	outside	33	205				
+//
+# CAE7209544.1 Length: 376
+# CAE7209544.1 Number of predicted TMRs: 0
+CAE7209544.1	signal	1	17				
+CAE7209544.1	outside	18	376				
+//
+# CAE7210430.1 Length: 178
+# CAE7210430.1 Number of predicted TMRs: 0
+CAE7210430.1	signal	1	15				
+CAE7210430.1	outside	16	178				
+//
+# CAE7211307.1 Length: 167
+# CAE7211307.1 Number of predicted TMRs: 0
+CAE7211307.1	signal	1	15				
+CAE7211307.1	outside	16	167				
+//
+# CAE7213212.1 Length: 262
+# CAE7213212.1 Number of predicted TMRs: 0
+CAE7213212.1	signal	1	22				
+CAE7213212.1	outside	23	262				
+//
+# CAE7215113.1 Length: 357
+# CAE7215113.1 Number of predicted TMRs: 0
+CAE7215113.1	signal	1	18				
+CAE7215113.1	outside	19	357				
+//
+# CAE7215381.1 Length: 285
+# CAE7215381.1 Number of predicted TMRs: 0
+CAE7215381.1	signal	1	17				
+CAE7215381.1	outside	18	285				
+//
+# CAE7215828.1 Length: 153
+# CAE7215828.1 Number of predicted TMRs: 0
+CAE7215828.1	signal	1	17				
+CAE7215828.1	outside	18	153				
+//
+# CAE7215876.1 Length: 2074
+# CAE7215876.1 Number of predicted TMRs: 10
+CAE7215876.1	signal	1	25				
+CAE7215876.1	outside	26	778				
+CAE7215876.1	TMhelix	779	803				
+CAE7215876.1	inside	804	812				
+CAE7215876.1	TMhelix	813	833				
+CAE7215876.1	outside	834	876				
+CAE7215876.1	TMhelix	877	897				
+CAE7215876.1	inside	898	909				
+CAE7215876.1	TMhelix	910	930				
+CAE7215876.1	outside	931	962				
+CAE7215876.1	TMhelix	963	986				
+CAE7215876.1	inside	987	1015				
+CAE7215876.1	TMhelix	1016	1036				
+CAE7215876.1	outside	1037	1043				
+CAE7215876.1	TMhelix	1044	1061				
+CAE7215876.1	inside	1062	1070				
+CAE7215876.1	TMhelix	1071	1091				
+CAE7215876.1	outside	1092	1100				
+CAE7215876.1	TMhelix	1101	1121				
+CAE7215876.1	inside	1122	1400				
+CAE7215876.1	TMhelix	1401	1410				
+CAE7215876.1	outside	1411	2074				
+//
+# CAE7216275.1 Length: 664
+# CAE7216275.1 Number of predicted TMRs: 0
+CAE7216275.1	signal	1	22				
+CAE7216275.1	outside	23	664				
+//
+# CAE7217431.1 Length: 244
+# CAE7217431.1 Number of predicted TMRs: 0
+CAE7217431.1	signal	1	27				
+CAE7217431.1	outside	28	244				
+//
+# CAE7218653.1 Length: 402
+# CAE7218653.1 Number of predicted TMRs: 1
+CAE7218653.1	signal	1	14				
+CAE7218653.1	outside	15	354				
+CAE7218653.1	TMhelix	355	368				
+CAE7218653.1	inside	369	402				
+//
+# CAE7219821.1 Length: 113
+# CAE7219821.1 Number of predicted TMRs: 0
+CAE7219821.1	signal	1	23				
+CAE7219821.1	outside	24	113				
+//
+# CAE7220458.1 Length: 508
+# CAE7220458.1 Number of predicted TMRs: 0
+CAE7220458.1	signal	1	17				
+CAE7220458.1	outside	18	508				
+//
+# CAE7220667.1 Length: 155
+# CAE7220667.1 Number of predicted TMRs: 0
+CAE7220667.1	signal	1	24				
+CAE7220667.1	outside	25	155				
+//
+# CAE7221096.1 Length: 290
+# CAE7221096.1 Number of predicted TMRs: 0
+CAE7221096.1	signal	1	22				
+CAE7221096.1	outside	23	290				
+//
+# CAE7221419.1 Length: 476
+# CAE7221419.1 Number of predicted TMRs: 0
+CAE7221419.1	signal	1	18				
+CAE7221419.1	outside	19	476				
+//
+# CAE7221869.1 Length: 533
+# CAE7221869.1 Number of predicted TMRs: 1
+CAE7221869.1	signal	1	22				
+CAE7221869.1	outside	23	150				
+CAE7221869.1	TMhelix	151	160				
+CAE7221869.1	inside	161	533				
+//
+# CAE7222391.1 Length: 94
+# CAE7222391.1 Number of predicted TMRs: 0
+CAE7222391.1	signal	1	15				
+CAE7222391.1	outside	16	94				
+//
+# CAE7222705.1 Length: 493
+# CAE7222705.1 Number of predicted TMRs: 0
+CAE7222705.1	inside	1	493				
+//
+# CAE7223889.1 Length: 100
+# CAE7223889.1 Number of predicted TMRs: 0
+CAE7223889.1	signal	1	24				
+CAE7223889.1	outside	25	100				
+//
+# CAE7224049.1 Length: 260
+# CAE7224049.1 Number of predicted TMRs: 0
+CAE7224049.1	signal	1	25				
+CAE7224049.1	outside	26	260				
+//
+# CAE7224162.1 Length: 295
+# CAE7224162.1 Number of predicted TMRs: 0
+CAE7224162.1	signal	1	23				
+CAE7224162.1	outside	24	295				
+//
+# CAE7224854.1 Length: 173
+# CAE7224854.1 Number of predicted TMRs: 0
+CAE7224854.1	signal	1	23				
+CAE7224854.1	outside	24	173				
+//
+# CAE7225560.1 Length: 319
+# CAE7225560.1 Number of predicted TMRs: 0
+CAE7225560.1	signal	1	25				
+CAE7225560.1	outside	26	319				
+//
+# CAE7225606.1 Length: 159
+# CAE7225606.1 Number of predicted TMRs: 0
+CAE7225606.1	signal	1	23				
+CAE7225606.1	outside	24	159				
+//
+# CAE7226555.1 Length: 173
+# CAE7226555.1 Number of predicted TMRs: 0
+CAE7226555.1	signal	1	17				
+CAE7226555.1	outside	18	173				
+//
+# CAE7226679.1 Length: 344
+# CAE7226679.1 Number of predicted TMRs: 0
+CAE7226679.1	signal	1	26				
+CAE7226679.1	outside	27	344				
+//
+# CAE7226755.1 Length: 584
+# CAE7226755.1 Number of predicted TMRs: 0
+CAE7226755.1	signal	1	22				
+CAE7226755.1	outside	23	584				
+//
+# CAE7226859.1 Length: 398
+# CAE7226859.1 Number of predicted TMRs: 0
+CAE7226859.1	signal	1	22				
+CAE7226859.1	outside	23	398				
+//
+# CAE7226945.1 Length: 639
+# CAE7226945.1 Number of predicted TMRs: 0
+CAE7226945.1	signal	1	13				
+CAE7226945.1	outside	14	639				
+//
+# CAE7227170.1 Length: 629
+# CAE7227170.1 Number of predicted TMRs: 0
+CAE7227170.1	signal	1	18				
+CAE7227170.1	outside	19	629				
+//
+# CAE7228536.1 Length: 547
+# CAE7228536.1 Number of predicted TMRs: 0
+CAE7228536.1	signal	1	18				
+CAE7228536.1	outside	19	547				
+//
+# CAE7228936.1 Length: 151
+# CAE7228936.1 Number of predicted TMRs: 0
+CAE7228936.1	signal	1	16				
+CAE7228936.1	outside	17	151				
+//
+# CAE7228943.1 Length: 153
+# CAE7228943.1 Number of predicted TMRs: 0
+CAE7228943.1	signal	1	16				
+CAE7228943.1	outside	17	153				
+//
+# CAE7229439.1 Length: 565
+# CAE7229439.1 Number of predicted TMRs: 0
+CAE7229439.1	signal	1	16				
+CAE7229439.1	outside	17	565				
+//
+# CAE7230291.1 Length: 683
+# CAE7230291.1 Number of predicted TMRs: 1
+CAE7230291.1	signal	1	21				
+CAE7230291.1	outside	22	150				
+CAE7230291.1	TMhelix	151	160				
+CAE7230291.1	inside	161	683				
+//
+# CAE7231258.1 Length: 173
+# CAE7231258.1 Number of predicted TMRs: 0
+CAE7231258.1	signal	1	35				
+CAE7231258.1	outside	36	173				
+//
+# CAE7231648.1 Length: 180
+# CAE7231648.1 Number of predicted TMRs: 0
+CAE7231648.1	signal	1	21				
+CAE7231648.1	outside	22	180				
+//
+# CAE7231801.1 Length: 659
+# CAE7231801.1 Number of predicted TMRs: 0
+CAE7231801.1	signal	1	20				
+CAE7231801.1	outside	21	659				
+//
+# CAE7231808.1 Length: 59
+# CAE7231808.1 Number of predicted TMRs: 0
+CAE7231808.1	signal	1	20				
+CAE7231808.1	outside	21	59				
+//
+# CAE7232369.1 Length: 472
+# CAE7232369.1 Number of predicted TMRs: 0
+CAE7232369.1	signal	1	17				
+CAE7232369.1	outside	18	472				
+//
+# CAE7232375.1 Length: 181
+# CAE7232375.1 Number of predicted TMRs: 0
+CAE7232375.1	signal	1	19				
+CAE7232375.1	outside	20	181				
+//
+# CAE7232623.1 Length: 126
+# CAE7232623.1 Number of predicted TMRs: 0
+CAE7232623.1	signal	1	24				
+CAE7232623.1	outside	25	126				
+//
+# CAE7232998.1 Length: 1080
+# CAE7232998.1 Number of predicted TMRs: 1
+CAE7232998.1	signal	1	18				
+CAE7232998.1	outside	19	720				
+CAE7232998.1	TMhelix	721	730				
+CAE7232998.1	inside	731	1080				
+//
+# CAE7233851.1 Length: 279
+# CAE7233851.1 Number of predicted TMRs: 0
+CAE7233851.1	signal	1	18				
+CAE7233851.1	outside	19	279				
+//
+# CAE7234711.1 Length: 562
+# CAE7234711.1 Number of predicted TMRs: 0
+CAE7234711.1	signal	1	16				
+CAE7234711.1	outside	17	562				
+//
+# CAE7235779.1 Length: 300
+# CAE7235779.1 Number of predicted TMRs: 0
+CAE7235779.1	signal	1	20				
+CAE7235779.1	outside	21	300				
+//
+# CAE7235981.1 Length: 186
+# CAE7235981.1 Number of predicted TMRs: 0
+CAE7235981.1	signal	1	21				
+CAE7235981.1	outside	22	186				
+//
+# CAE7236010.1 Length: 686
+# CAE7236010.1 Number of predicted TMRs: 1
+CAE7236010.1	signal	1	20				
+CAE7236010.1	outside	21	473				
+CAE7236010.1	TMhelix	474	483				
+CAE7236010.1	inside	484	686				
+//
+# CAE7236041.1 Length: 549
+# CAE7236041.1 Number of predicted TMRs: 0
+CAE7236041.1	signal	1	32				
+CAE7236041.1	outside	33	549				
+//
+# CAE7236877.1 Length: 248
+# CAE7236877.1 Number of predicted TMRs: 0
+CAE7236877.1	inside	1	248				
+//
+# CAE7237060.1 Length: 407
+# CAE7237060.1 Number of predicted TMRs: 0
+CAE7237060.1	signal	1	18				
+CAE7237060.1	outside	19	407				
+//
+# CAE7238314.1 Length: 108
+# CAE7238314.1 Number of predicted TMRs: 0
+CAE7238314.1	signal	1	22				
+CAE7238314.1	outside	23	108				
+//
+# CAE7240836.1 Length: 657
+# CAE7240836.1 Number of predicted TMRs: 0
+CAE7240836.1	signal	1	25				
+CAE7240836.1	outside	26	657				
+//
+# CAE7241056.1 Length: 106
+# CAE7241056.1 Number of predicted TMRs: 0
+CAE7241056.1	signal	1	30				
+CAE7241056.1	outside	31	106				
+//
+# CAE7241983.1 Length: 319
+# CAE7241983.1 Number of predicted TMRs: 0
+CAE7241983.1	signal	1	18				
+CAE7241983.1	outside	19	319				
+//
+# CAE7243542.1 Length: 84
+# CAE7243542.1 Number of predicted TMRs: 0
+CAE7243542.1	signal	1	22				
+CAE7243542.1	outside	23	84				
+//
+# CAE7243831.1 Length: 458
+# CAE7243831.1 Number of predicted TMRs: 0
+CAE7243831.1	signal	1	24				
+CAE7243831.1	outside	25	458				
+//
+# CAE7244589.1 Length: 688
+# CAE7244589.1 Number of predicted TMRs: 0
+CAE7244589.1	signal	1	23				
+CAE7244589.1	outside	24	688				
+//
+# CAE7245516.1 Length: 138
+# CAE7245516.1 Number of predicted TMRs: 0
+CAE7245516.1	signal	1	26				
+CAE7245516.1	outside	27	138				
+//
+# CAE7245750.1 Length: 955
+# CAE7245750.1 Number of predicted TMRs: 0
+CAE7245750.1	signal	1	19				
+CAE7245750.1	outside	20	955				
+//
+# CAE7246214.1 Length: 375
+# CAE7246214.1 Number of predicted TMRs: 0
+CAE7246214.1	signal	1	20				
+CAE7246214.1	outside	21	375				
+//
+# CAE7246330.1 Length: 389
+# CAE7246330.1 Number of predicted TMRs: 0
+CAE7246330.1	signal	1	20				
+CAE7246330.1	outside	21	389				
+//
+# CAE7246542.1 Length: 323
+# CAE7246542.1 Number of predicted TMRs: 0
+CAE7246542.1	signal	1	18				
+CAE7246542.1	outside	19	323				
+//
+# CAE7247007.1 Length: 161
+# CAE7247007.1 Number of predicted TMRs: 0
+CAE7247007.1	signal	1	15				
+CAE7247007.1	outside	16	161				
+//
+# CAE7247574.1 Length: 220
+# CAE7247574.1 Number of predicted TMRs: 0
+CAE7247574.1	signal	1	19				
+CAE7247574.1	outside	20	220				
+//
+# CAE7247619.1 Length: 309
+# CAE7247619.1 Number of predicted TMRs: 0
+CAE7247619.1	signal	1	21				
+CAE7247619.1	outside	22	309				
+//
+# CAE7247691.1 Length: 238
+# CAE7247691.1 Number of predicted TMRs: 0
+CAE7247691.1	signal	1	14				
+CAE7247691.1	outside	15	238				
+//
+# CAE7247697.1 Length: 203
+# CAE7247697.1 Number of predicted TMRs: 0
+CAE7247697.1	signal	1	11				
+CAE7247697.1	outside	12	203				
+//
+# CAE7247706.1 Length: 330
+# CAE7247706.1 Number of predicted TMRs: 0
+CAE7247706.1	signal	1	24				
+CAE7247706.1	outside	25	330				
+//
+# CAE7248032.1 Length: 251
+# CAE7248032.1 Number of predicted TMRs: 0
+CAE7248032.1	signal	1	20				
+CAE7248032.1	outside	21	251				
+//
+# CAE7249499.1 Length: 176
+# CAE7249499.1 Number of predicted TMRs: 0
+CAE7249499.1	signal	1	19				
+CAE7249499.1	outside	20	176				
+//
+# CAE7249922.1 Length: 218
+# CAE7249922.1 Number of predicted TMRs: 0
+CAE7249922.1	signal	1	18				
+CAE7249922.1	outside	19	218				
+//
+# CAE7250088.1 Length: 297
+# CAE7250088.1 Number of predicted TMRs: 0
+CAE7250088.1	signal	1	18				
+CAE7250088.1	outside	19	297				
+//
+# CAE7250394.1 Length: 198
+# CAE7250394.1 Number of predicted TMRs: 0
+CAE7250394.1	signal	1	21				
+CAE7250394.1	outside	22	198				
+//
+# CAE7251366.1 Length: 734
+# CAE7251366.1 Number of predicted TMRs: 20
+CAE7251366.1	signal	1	35				
+CAE7251366.1	periplasm	36	192				
+CAE7251366.1	Beta sheet	193	199				
+CAE7251366.1	outside	200	204				
+CAE7251366.1	Beta sheet	205	211				
+CAE7251366.1	periplasm	212	220				
+CAE7251366.1	Beta sheet	221	228				
+CAE7251366.1	outside	229	248				
+CAE7251366.1	Beta sheet	249	255				
+CAE7251366.1	periplasm	256	262				
+CAE7251366.1	Beta sheet	263	270				
+CAE7251366.1	outside	271	304				
+CAE7251366.1	Beta sheet	305	311				
+CAE7251366.1	periplasm	312	319				
+CAE7251366.1	Beta sheet	320	326				
+CAE7251366.1	outside	327	358				
+CAE7251366.1	Beta sheet	359	366				
+CAE7251366.1	periplasm	367	372				
+CAE7251366.1	Beta sheet	373	381				
+CAE7251366.1	outside	382	424				
+CAE7251366.1	Beta sheet	425	431				
+CAE7251366.1	periplasm	432	438				
+CAE7251366.1	Beta sheet	439	445				
+CAE7251366.1	outside	446	478				
+CAE7251366.1	Beta sheet	479	485				
+CAE7251366.1	periplasm	486	491				
+CAE7251366.1	Beta sheet	492	499				
+CAE7251366.1	outside	500	568				
+CAE7251366.1	Beta sheet	569	575				
+CAE7251366.1	periplasm	576	584				
+CAE7251366.1	Beta sheet	585	593				
+CAE7251366.1	outside	594	625				
+CAE7251366.1	Beta sheet	626	632				
+CAE7251366.1	periplasm	633	649				
+CAE7251366.1	Beta sheet	650	657				
+CAE7251366.1	outside	658	679				
+CAE7251366.1	Beta sheet	680	687				
+CAE7251366.1	periplasm	688	690				
+CAE7251366.1	Beta sheet	691	698				
+CAE7251366.1	outside	699	723				
+CAE7251366.1	Beta sheet	724	732				
+CAE7251366.1	periplasm	733	734				
+//
+# CAE7251630.1 Length: 909
+# CAE7251630.1 Number of predicted TMRs: 0
+CAE7251630.1	signal	1	16				
+CAE7251630.1	outside	17	909				
+//
+# CAE7252863.1 Length: 155
+# CAE7252863.1 Number of predicted TMRs: 0
+CAE7252863.1	signal	1	18				
+CAE7252863.1	outside	19	155				
+//
+# CAE7253682.1 Length: 333
+# CAE7253682.1 Number of predicted TMRs: 0
+CAE7253682.1	signal	1	15				
+CAE7253682.1	outside	16	333				
+//
+# CAE7253922.1 Length: 606
+# CAE7253922.1 Number of predicted TMRs: 0
+CAE7253922.1	signal	1	22				
+CAE7253922.1	outside	23	606				
+//
+# CAE7254794.1 Length: 387
+# CAE7254794.1 Number of predicted TMRs: 0
+CAE7254794.1	signal	1	21				
+CAE7254794.1	outside	22	387				
+//
+# CAE7255351.1 Length: 475
+# CAE7255351.1 Number of predicted TMRs: 0
+CAE7255351.1	signal	1	21				
+CAE7255351.1	outside	22	475				
+//
+# CAE7255476.1 Length: 199
+# CAE7255476.1 Number of predicted TMRs: 0
+CAE7255476.1	signal	1	17				
+CAE7255476.1	outside	18	199				
+//
+# CAE7255531.1 Length: 328
+# CAE7255531.1 Number of predicted TMRs: 0
+CAE7255531.1	signal	1	17				
+CAE7255531.1	outside	18	328				
+//
+# CAE7256327.1 Length: 543
+# CAE7256327.1 Number of predicted TMRs: 0
+CAE7256327.1	inside	1	543				
+//
+# CAE7256391.1 Length: 389
+# CAE7256391.1 Number of predicted TMRs: 0
+CAE7256391.1	signal	1	15				
+CAE7256391.1	outside	16	389				
+//
+# CAE7257199.1 Length: 484
+# CAE7257199.1 Number of predicted TMRs: 0
+CAE7257199.1	inside	1	484				
+//
+# CAE7257699.1 Length: 526
+# CAE7257699.1 Number of predicted TMRs: 0
+CAE7257699.1	signal	1	24				
+CAE7257699.1	outside	25	526				
+//
+# CAE7258053.1 Length: 155
+# CAE7258053.1 Number of predicted TMRs: 0
+CAE7258053.1	signal	1	17				
+CAE7258053.1	outside	18	155				
+//
+# CAE7259014.1 Length: 411
+# CAE7259014.1 Number of predicted TMRs: 0
+CAE7259014.1	signal	1	19				
+CAE7259014.1	outside	20	411				
+//
+# CAE7259591.1 Length: 317
+# CAE7259591.1 Number of predicted TMRs: 1
+CAE7259591.1	signal	1	18				
+CAE7259591.1	outside	19	131				
+CAE7259591.1	TMhelix	132	141				
+CAE7259591.1	inside	142	317				
+//
+# CAE7259711.1 Length: 744
+# CAE7259711.1 Number of predicted TMRs: 0
+CAE7259711.1	signal	1	19				
+CAE7259711.1	outside	20	744				
+//
+# CAE7259731.1 Length: 232
+# CAE7259731.1 Number of predicted TMRs: 0
+CAE7259731.1	signal	1	17				
+CAE7259731.1	outside	18	232				
+//
+# CAE7259803.1 Length: 632
+# CAE7259803.1 Number of predicted TMRs: 3
+CAE7259803.1	signal	1	26				
+CAE7259803.1	outside	27	173				
+CAE7259803.1	TMhelix	174	183				
+CAE7259803.1	inside	184	184				
+CAE7259803.1	TMhelix	185	194				
+CAE7259803.1	outside	195	345				
+CAE7259803.1	TMhelix	346	366				
+CAE7259803.1	inside	367	632				
+//
+# CAE7261452.1 Length: 354
+# CAE7261452.1 Number of predicted TMRs: 0
+CAE7261452.1	inside	1	354				
+//
+# CAE7261660.1 Length: 550
+# CAE7261660.1 Number of predicted TMRs: 0
+CAE7261660.1	signal	1	19				
+CAE7261660.1	outside	20	550				
+//
+# CAE7261833.1 Length: 284
+# CAE7261833.1 Number of predicted TMRs: 2
+CAE7261833.1	signal	1	33				
+CAE7261833.1	outside	34	45				
+CAE7261833.1	TMhelix	46	66				
+CAE7261833.1	inside	67	75				
+CAE7261833.1	TMhelix	76	96				
+CAE7261833.1	outside	97	284				
+//
+# CAE7262400.1 Length: 559
+# CAE7262400.1 Number of predicted TMRs: 0
+CAE7262400.1	signal	1	15				
+CAE7262400.1	outside	16	559				
+//
+# CAE7262578.1 Length: 129
+# CAE7262578.1 Number of predicted TMRs: 0
+CAE7262578.1	signal	1	22				
+CAE7262578.1	outside	23	129				
+//
+# CAE7265981.1 Length: 357
+# CAE7265981.1 Number of predicted TMRs: 3
+CAE7265981.1	signal	1	19				
+CAE7265981.1	outside	20	199				
+CAE7265981.1	TMhelix	200	214				
+CAE7265981.1	inside	215	225				
+CAE7265981.1	TMhelix	226	245				
+CAE7265981.1	outside	246	288				
+CAE7265981.1	TMhelix	289	307				
+CAE7265981.1	inside	308	357				
+//
+# CAE7266477.1 Length: 162
+# CAE7266477.1 Number of predicted TMRs: 0
+CAE7266477.1	signal	1	16				
+CAE7266477.1	outside	17	162				
+//
+# CAE7267784.1 Length: 301
+# CAE7267784.1 Number of predicted TMRs: 0
+CAE7267784.1	signal	1	21				
+CAE7267784.1	outside	22	301				
+//
+# CAE7268759.1 Length: 1001
+# CAE7268759.1 Number of predicted TMRs: 0
+CAE7268759.1	signal	1	35				
+CAE7268759.1	outside	36	1001				
+//
+# CAE7269326.1 Length: 275
+# CAE7269326.1 Number of predicted TMRs: 0
+CAE7269326.1	signal	1	20				
+CAE7269326.1	outside	21	275				
+//
+# CAE7272375.1 Length: 162
+# CAE7272375.1 Number of predicted TMRs: 0
+CAE7272375.1	signal	1	13				
+CAE7272375.1	outside	14	162				
+//
+# CAE7274497.1 Length: 729
+# CAE7274497.1 Number of predicted TMRs: 0
+CAE7274497.1	signal	1	28				
+CAE7274497.1	outside	29	729				
+//
+# CAE7276580.1 Length: 510
+# CAE7276580.1 Number of predicted TMRs: 0
+CAE7276580.1	signal	1	18				
+CAE7276580.1	outside	19	510				
+//
+# CAE7279176.1 Length: 174
+# CAE7279176.1 Number of predicted TMRs: 0
+CAE7279176.1	signal	1	20				
+CAE7279176.1	outside	21	174				
+//
+# CAE7279683.1 Length: 728
+# CAE7279683.1 Number of predicted TMRs: 1
+CAE7279683.1	signal	1	20				
+CAE7279683.1	outside	21	321				
+CAE7279683.1	TMhelix	322	331				
+CAE7279683.1	inside	332	728				
+//
+# CAE7279738.1 Length: 1539
+# CAE7279738.1 Number of predicted TMRs: 0
+CAE7279738.1	signal	1	22				
+CAE7279738.1	outside	23	1539				
+//
+# CAE7280886.1 Length: 278
+# CAE7280886.1 Number of predicted TMRs: 0
+CAE7280886.1	signal	1	16				
+CAE7280886.1	outside	17	278				
+//
+# CAE7283768.1 Length: 1702
+# CAE7283768.1 Number of predicted TMRs: 0
+CAE7283768.1	signal	1	19				
+CAE7283768.1	outside	20	1702				
+//
+# CAE7285179.1 Length: 533
+# CAE7285179.1 Number of predicted TMRs: 1
+CAE7285179.1	signal	1	21				
+CAE7285179.1	outside	22	365				
+CAE7285179.1	TMhelix	366	375				
+CAE7285179.1	inside	376	533				
+//
+# CAE7287254.1 Length: 817
+# CAE7287254.1 Number of predicted TMRs: 0
+CAE7287254.1	inside	1	817				
+//
+# CAE7287816.1 Length: 376
+# CAE7287816.1 Number of predicted TMRs: 0
+CAE7287816.1	signal	1	15				
+CAE7287816.1	outside	16	376				
+//
+# CAE7288313.1 Length: 1435
+# CAE7288313.1 Number of predicted TMRs: 1
+CAE7288313.1	signal	1	21				
+CAE7288313.1	outside	22	720				
+CAE7288313.1	TMhelix	721	730				
+CAE7288313.1	inside	731	1435				
+//
+# CAE7292009.1 Length: 206
+# CAE7292009.1 Number of predicted TMRs: 0
+CAE7292009.1	signal	1	60				
+CAE7292009.1	outside	61	206				
+//
+# CAE7295913.1 Length: 724
+# CAE7295913.1 Number of predicted TMRs: 0
+CAE7295913.1	signal	1	16				
+CAE7295913.1	outside	17	724				
+//
+# CAE7297438.1 Length: 63
+# CAE7297438.1 Number of predicted TMRs: 0
+CAE7297438.1	signal	1	20				
+CAE7297438.1	outside	21	63				
+//
+# CAE7299724.1 Length: 335
+# CAE7299724.1 Number of predicted TMRs: 0
+CAE7299724.1	signal	1	20				
+CAE7299724.1	outside	21	335				
+//
+# CAE7300804.1 Length: 278
+# CAE7300804.1 Number of predicted TMRs: 0
+CAE7300804.1	signal	1	23				
+CAE7300804.1	outside	24	278				
+//
+# CAE7301711.1 Length: 446
+# CAE7301711.1 Number of predicted TMRs: 0
+CAE7301711.1	signal	1	18				
+CAE7301711.1	outside	19	446				
+//
+# CAE7303260.1 Length: 554
+# CAE7303260.1 Number of predicted TMRs: 0
+CAE7303260.1	signal	1	19				
+CAE7303260.1	outside	20	554				
+//
+# CAE7304487.1 Length: 766
+# CAE7304487.1 Number of predicted TMRs: 0
+CAE7304487.1	signal	1	31				
+CAE7304487.1	outside	32	766				
+//
+# CAE7308578.1 Length: 242
+# CAE7308578.1 Number of predicted TMRs: 0
+CAE7308578.1	signal	1	16				
+CAE7308578.1	outside	17	242				
+//
+# CAE7311471.1 Length: 872
+# CAE7311471.1 Number of predicted TMRs: 0
+CAE7311471.1	signal	1	30				
+CAE7311471.1	outside	31	872				
+//
+# CAE7311779.1 Length: 630
+# CAE7311779.1 Number of predicted TMRs: 0
+CAE7311779.1	signal	1	38				
+CAE7311779.1	outside	39	630				
+//
+# CAE7311865.1 Length: 3225
+# CAE7311865.1 Number of predicted TMRs: 40
+CAE7311865.1	signal	1	15				
+CAE7311865.1	periplasm	16	25				
+CAE7311865.1	Beta sheet	26	30				
+CAE7311865.1	outside	31	2400				
+CAE7311865.1	Beta sheet	2401	2405				
+CAE7311865.1	periplasm	2406	2406				
+CAE7311865.1	Beta sheet	2407	2411				
+CAE7311865.1	outside	2412	2434				
+CAE7311865.1	Beta sheet	2435	2441				
+CAE7311865.1	periplasm	2442	2449				
+CAE7311865.1	Beta sheet	2450	2455				
+CAE7311865.1	outside	2456	2490				
+CAE7311865.1	Beta sheet	2491	2496				
+CAE7311865.1	periplasm	2497	2501				
+CAE7311865.1	Beta sheet	2502	2509				
+CAE7311865.1	outside	2510	2525				
+CAE7311865.1	Beta sheet	2526	2531				
+CAE7311865.1	periplasm	2532	2538				
+CAE7311865.1	Beta sheet	2539	2543				
+CAE7311865.1	outside	2544	2646				
+CAE7311865.1	Beta sheet	2647	2653				
+CAE7311865.1	periplasm	2654	2661				
+CAE7311865.1	Beta sheet	2662	2667				
+CAE7311865.1	outside	2668	2677				
+CAE7311865.1	Beta sheet	2678	2685				
+CAE7311865.1	periplasm	2686	2692				
+CAE7311865.1	Beta sheet	2693	2698				
+CAE7311865.1	outside	2699	2709				
+CAE7311865.1	Beta sheet	2710	2717				
+CAE7311865.1	periplasm	2718	2722				
+CAE7311865.1	Beta sheet	2723	2729				
+CAE7311865.1	outside	2730	2748				
+CAE7311865.1	Beta sheet	2749	2756				
+CAE7311865.1	periplasm	2757	2762				
+CAE7311865.1	Beta sheet	2763	2769				
+CAE7311865.1	outside	2770	2781				
+CAE7311865.1	Beta sheet	2782	2789				
+CAE7311865.1	periplasm	2790	2794				
+CAE7311865.1	Beta sheet	2795	2801				
+CAE7311865.1	outside	2802	2816				
+CAE7311865.1	Beta sheet	2817	2824				
+CAE7311865.1	periplasm	2825	2831				
+CAE7311865.1	Beta sheet	2832	2840				
+CAE7311865.1	outside	2841	2852				
+CAE7311865.1	Beta sheet	2853	2860				
+CAE7311865.1	periplasm	2861	2866				
+CAE7311865.1	Beta sheet	2867	2874				
+CAE7311865.1	outside	2875	2883				
+CAE7311865.1	Beta sheet	2884	2888				
+CAE7311865.1	periplasm	2889	2896				
+CAE7311865.1	Beta sheet	2897	2905				
+CAE7311865.1	outside	2906	2915				
+CAE7311865.1	Beta sheet	2916	2923				
+CAE7311865.1	periplasm	2924	2930				
+CAE7311865.1	Beta sheet	2931	2937				
+CAE7311865.1	outside	2938	2971				
+CAE7311865.1	Beta sheet	2972	2980				
+CAE7311865.1	periplasm	2981	2985				
+CAE7311865.1	Beta sheet	2986	2994				
+CAE7311865.1	outside	2995	3001				
+CAE7311865.1	Beta sheet	3002	3009				
+CAE7311865.1	periplasm	3010	3017				
+CAE7311865.1	Beta sheet	3018	3025				
+CAE7311865.1	outside	3026	3037				
+CAE7311865.1	Beta sheet	3038	3046				
+CAE7311865.1	periplasm	3047	3053				
+CAE7311865.1	Beta sheet	3054	3062				
+CAE7311865.1	outside	3063	3077				
+CAE7311865.1	Beta sheet	3078	3086				
+CAE7311865.1	periplasm	3087	3092				
+CAE7311865.1	Beta sheet	3093	3102				
+CAE7311865.1	outside	3103	3117				
+CAE7311865.1	Beta sheet	3118	3125				
+CAE7311865.1	periplasm	3126	3130				
+CAE7311865.1	Beta sheet	3131	3140				
+CAE7311865.1	outside	3141	3147				
+CAE7311865.1	Beta sheet	3148	3158				
+CAE7311865.1	periplasm	3159	3164				
+CAE7311865.1	Beta sheet	3165	3173				
+CAE7311865.1	outside	3174	3187				
+CAE7311865.1	Beta sheet	3188	3196				
+CAE7311865.1	periplasm	3197	3225				
+//
+# CAE7311883.1 Length: 1107
+# CAE7311883.1 Number of predicted TMRs: 22
+CAE7311883.1	signal	1	22				
+CAE7311883.1	periplasm	23	170				
+CAE7311883.1	Beta sheet	171	179				
+CAE7311883.1	outside	180	183				
+CAE7311883.1	Beta sheet	184	191				
+CAE7311883.1	periplasm	192	197				
+CAE7311883.1	Beta sheet	198	206				
+CAE7311883.1	outside	207	221				
+CAE7311883.1	Beta sheet	222	228				
+CAE7311883.1	periplasm	229	234				
+CAE7311883.1	Beta sheet	235	242				
+CAE7311883.1	outside	243	281				
+CAE7311883.1	Beta sheet	282	288				
+CAE7311883.1	periplasm	289	294				
+CAE7311883.1	Beta sheet	295	302				
+CAE7311883.1	outside	303	334				
+CAE7311883.1	Beta sheet	335	341				
+CAE7311883.1	periplasm	342	351				
+CAE7311883.1	Beta sheet	352	358				
+CAE7311883.1	outside	359	390				
+CAE7311883.1	Beta sheet	391	398				
+CAE7311883.1	periplasm	399	404				
+CAE7311883.1	Beta sheet	405	411				
+CAE7311883.1	outside	412	439				
+CAE7311883.1	Beta sheet	440	446				
+CAE7311883.1	periplasm	447	451				
+CAE7311883.1	Beta sheet	452	459				
+CAE7311883.1	outside	460	494				
+CAE7311883.1	Beta sheet	495	501				
+CAE7311883.1	periplasm	502	508				
+CAE7311883.1	Beta sheet	509	515				
+CAE7311883.1	outside	516	544				
+CAE7311883.1	Beta sheet	545	551				
+CAE7311883.1	periplasm	552	557				
+CAE7311883.1	Beta sheet	558	564				
+CAE7311883.1	outside	565	591				
+CAE7311883.1	Beta sheet	592	598				
+CAE7311883.1	periplasm	599	603				
+CAE7311883.1	Beta sheet	604	611				
+CAE7311883.1	outside	612	631				
+CAE7311883.1	Beta sheet	632	638				
+CAE7311883.1	periplasm	639	658				
+CAE7311883.1	Beta sheet	659	663				
+CAE7311883.1	outside	664	1101				
+CAE7311883.1	Beta sheet	1102	1106				
+CAE7311883.1	periplasm	1107	1107				
+//
+# CAE7312647.1 Length: 236
+# CAE7312647.1 Number of predicted TMRs: 0
+CAE7312647.1	signal	1	20				
+CAE7312647.1	outside	21	236				
+//
+# CAE7314194.1 Length: 937
+# CAE7314194.1 Number of predicted TMRs: 0
+CAE7314194.1	signal	1	42				
+CAE7314194.1	outside	43	937				
+//
+# CAE7314252.1 Length: 301
+# CAE7314252.1 Number of predicted TMRs: 0
+CAE7314252.1	signal	1	29				
+CAE7314252.1	outside	30	301				
+//
+# CAE7316543.1 Length: 279
+# CAE7316543.1 Number of predicted TMRs: 0
+CAE7316543.1	signal	1	25				
+CAE7316543.1	outside	26	279				
+//
+# CAE7317598.1 Length: 833
+# CAE7317598.1 Number of predicted TMRs: 0
+CAE7317598.1	signal	1	40				
+CAE7317598.1	outside	41	833				
+//
+# CAE7317824.1 Length: 160
+# CAE7317824.1 Number of predicted TMRs: 0
+CAE7317824.1	signal	1	26				
+CAE7317824.1	outside	27	160				
+//
+# CAE7317902.1 Length: 549
+# CAE7317902.1 Number of predicted TMRs: 0
+CAE7317902.1	signal	1	23				
+CAE7317902.1	outside	24	549				
+//
+# CAE7319281.1 Length: 187
+# CAE7319281.1 Number of predicted TMRs: 0
+CAE7319281.1	signal	1	15				
+CAE7319281.1	outside	16	187				
+//
+# CAE7324524.1 Length: 262
+# CAE7324524.1 Number of predicted TMRs: 0
+CAE7324524.1	signal	1	20				
+CAE7324524.1	outside	21	262				
+//
+# CAE7325217.1 Length: 160
+# CAE7325217.1 Number of predicted TMRs: 0
+CAE7325217.1	inside	1	160				
+//
+# CAE7325790.1 Length: 298
+# CAE7325790.1 Number of predicted TMRs: 0
+CAE7325790.1	signal	1	18				
+CAE7325790.1	outside	19	298				
+//
+# CAE7326458.1 Length: 292
+# CAE7326458.1 Number of predicted TMRs: 0
+CAE7326458.1	inside	1	292				
+//
+# CAE7328246.1 Length: 192
+# CAE7328246.1 Number of predicted TMRs: 0
+CAE7328246.1	signal	1	18				
+CAE7328246.1	outside	19	192				
+//
+# CAE7330899.1 Length: 449
+# CAE7330899.1 Number of predicted TMRs: 9
+CAE7330899.1	signal	1	28				
+CAE7330899.1	outside	29	101				
+CAE7330899.1	TMhelix	102	122				
+CAE7330899.1	inside	123	150				
+CAE7330899.1	TMhelix	151	169				
+CAE7330899.1	outside	170	187				
+CAE7330899.1	TMhelix	188	204				
+CAE7330899.1	inside	205	209				
+CAE7330899.1	TMhelix	210	230				
+CAE7330899.1	outside	231	267				
+CAE7330899.1	TMhelix	268	288				
+CAE7330899.1	inside	289	313				
+CAE7330899.1	TMhelix	314	334				
+CAE7330899.1	outside	335	354				
+CAE7330899.1	TMhelix	355	374				
+CAE7330899.1	inside	375	395				
+CAE7330899.1	TMhelix	396	413				
+CAE7330899.1	outside	414	421				
+CAE7330899.1	TMhelix	422	442				
+CAE7330899.1	inside	443	449				
+//
+# CAE7331952.1 Length: 524
+# CAE7331952.1 Number of predicted TMRs: 1
+CAE7331952.1	signal	1	17				
+CAE7331952.1	outside	18	252				
+CAE7331952.1	TMhelix	253	262				
+CAE7331952.1	inside	263	524				
+//
+# CAE7332263.1 Length: 150
+# CAE7332263.1 Number of predicted TMRs: 0
+CAE7332263.1	signal	1	18				
+CAE7332263.1	outside	19	150				
+//
+# CAE7333370.1 Length: 303
+# CAE7333370.1 Number of predicted TMRs: 0
+CAE7333370.1	signal	1	18				
+CAE7333370.1	outside	19	303				
+//
+# CAE7334365.1 Length: 432
+# CAE7334365.1 Number of predicted TMRs: 0
+CAE7334365.1	signal	1	16				
+CAE7334365.1	outside	17	432				
+//
+# CAE7334536.1 Length: 396
+# CAE7334536.1 Number of predicted TMRs: 0
+CAE7334536.1	signal	1	17				
+CAE7334536.1	outside	18	396				
+//
+# CAE7336835.1 Length: 435
+# CAE7336835.1 Number of predicted TMRs: 0
+CAE7336835.1	inside	1	435				
+//
+# CAE7337033.1 Length: 184
+# CAE7337033.1 Number of predicted TMRs: 0
+CAE7337033.1	signal	1	17				
+CAE7337033.1	outside	18	184				
+//
+# CAE7337395.1 Length: 2623
+# CAE7337395.1 Number of predicted TMRs: 0
+CAE7337395.1	signal	1	45				
+CAE7337395.1	outside	46	2623				
+//
+# CAE7337657.1 Length: 175
+# CAE7337657.1 Number of predicted TMRs: 0
+CAE7337657.1	signal	1	22				
+CAE7337657.1	outside	23	175				
+//
+# CAE7338132.1 Length: 879
+# CAE7338132.1 Number of predicted TMRs: 0
+CAE7338132.1	signal	1	17				
+CAE7338132.1	outside	18	879				
+//
+# CAE7340334.1 Length: 196
+# CAE7340334.1 Number of predicted TMRs: 0
+CAE7340334.1	signal	1	25				
+CAE7340334.1	outside	26	196				
+//
+# CAE7340592.1 Length: 632
+# CAE7340592.1 Number of predicted TMRs: 0
+CAE7340592.1	signal	1	17				
+CAE7340592.1	outside	18	632				
+//
+# CAE7341372.1 Length: 612
+# CAE7341372.1 Number of predicted TMRs: 0
+CAE7341372.1	signal	1	14				
+CAE7341372.1	outside	15	612				
+//
+# CAE7342304.1 Length: 120
+# CAE7342304.1 Number of predicted TMRs: 0
+CAE7342304.1	signal	1	21				
+CAE7342304.1	outside	22	120				
+//
+# CAE7344262.1 Length: 1415
+# CAE7344262.1 Number of predicted TMRs: 1
+CAE7344262.1	signal	1	28				
+CAE7344262.1	outside	29	168				
+CAE7344262.1	TMhelix	169	178				
+CAE7344262.1	inside	179	1415				
+//
+# CAE7344310.1 Length: 1660
+# CAE7344310.1 Number of predicted TMRs: 0
+CAE7344310.1	signal	1	49				
+CAE7344310.1	outside	50	1660				
+//
+# CAE7344369.1 Length: 2608
+# CAE7344369.1 Number of predicted TMRs: 21
+CAE7344369.1	signal	1	25				
+CAE7344369.1	outside	26	336				
+CAE7344369.1	TMhelix	337	346				
+CAE7344369.1	inside	347	883				
+CAE7344369.1	TMhelix	884	904				
+CAE7344369.1	outside	905	933				
+CAE7344369.1	TMhelix	934	949				
+CAE7344369.1	inside	950	955				
+CAE7344369.1	TMhelix	956	976				
+CAE7344369.1	outside	977	982				
+CAE7344369.1	TMhelix	983	1004				
+CAE7344369.1	inside	1005	1014				
+CAE7344369.1	TMhelix	1015	1035				
+CAE7344369.1	outside	1036	1077				
+CAE7344369.1	TMhelix	1078	1094				
+CAE7344369.1	inside	1095	1123				
+CAE7344369.1	TMhelix	1124	1144				
+CAE7344369.1	outside	1145	1149				
+CAE7344369.1	TMhelix	1150	1165				
+CAE7344369.1	inside	1166	1173				
+CAE7344369.1	TMhelix	1174	1190				
+CAE7344369.1	outside	1191	1202				
+CAE7344369.1	TMhelix	1203	1212				
+CAE7344369.1	inside	1213	1213				
+CAE7344369.1	TMhelix	1214	1223				
+CAE7344369.1	outside	1224	1242				
+CAE7344369.1	TMhelix	1243	1258				
+CAE7344369.1	inside	1259	1265				
+CAE7344369.1	TMhelix	1266	1286				
+CAE7344369.1	outside	1287	1290				
+CAE7344369.1	TMhelix	1291	1309				
+CAE7344369.1	inside	1310	1319				
+CAE7344369.1	TMhelix	1320	1339				
+CAE7344369.1	outside	1340	1386				
+CAE7344369.1	TMhelix	1387	1401				
+CAE7344369.1	inside	1402	1433				
+CAE7344369.1	TMhelix	1434	1449				
+CAE7344369.1	outside	1450	1467				
+CAE7344369.1	TMhelix	1468	1477				
+CAE7344369.1	inside	1478	1486				
+CAE7344369.1	TMhelix	1487	1499				
+CAE7344369.1	outside	1500	1523				
+CAE7344369.1	TMhelix	1524	1533				
+CAE7344369.1	inside	1534	2608				
+//
+# CAE7351799.1 Length: 534
+# CAE7351799.1 Number of predicted TMRs: 0
+CAE7351799.1	signal	1	19				
+CAE7351799.1	outside	20	534				
+//
+# CAE7354229.1 Length: 223
+# CAE7354229.1 Number of predicted TMRs: 0
+CAE7354229.1	signal	1	15				
+CAE7354229.1	outside	16	223				
+//
+# CAE7354376.1 Length: 625
+# CAE7354376.1 Number of predicted TMRs: 0
+CAE7354376.1	signal	1	18				
+CAE7354376.1	outside	19	625				
+//
+# CAE7354577.1 Length: 532
+# CAE7354577.1 Number of predicted TMRs: 0
+CAE7354577.1	signal	1	20				
+CAE7354577.1	outside	21	532				
+//
+# CAE7356773.1 Length: 676
+# CAE7356773.1 Number of predicted TMRs: 0
+CAE7356773.1	signal	1	24				
+CAE7356773.1	outside	25	676				
+//
+# CAE7356830.1 Length: 262
+# CAE7356830.1 Number of predicted TMRs: 0
+CAE7356830.1	signal	1	22				
+CAE7356830.1	outside	23	262				
+//
+# CAE7356840.1 Length: 291
+# CAE7356840.1 Number of predicted TMRs: 0
+CAE7356840.1	signal	1	12				
+CAE7356840.1	outside	13	291				
+//
+# CAE7357139.1 Length: 1197
+# CAE7357139.1 Number of predicted TMRs: 8
+CAE7357139.1	signal	1	34				
+CAE7357139.1	periplasm	35	586				
+CAE7357139.1	Beta sheet	587	593				
+CAE7357139.1	outside	594	617				
+CAE7357139.1	Beta sheet	618	628				
+CAE7357139.1	periplasm	629	634				
+CAE7357139.1	Beta sheet	635	645				
+CAE7357139.1	outside	646	657				
+CAE7357139.1	Beta sheet	658	669				
+CAE7357139.1	periplasm	670	676				
+CAE7357139.1	Beta sheet	677	686				
+CAE7357139.1	outside	687	708				
+CAE7357139.1	Beta sheet	709	713				
+CAE7357139.1	periplasm	714	714				
+CAE7357139.1	Beta sheet	715	719				
+CAE7357139.1	outside	720	1191				
+CAE7357139.1	Beta sheet	1192	1196				
+CAE7357139.1	periplasm	1197	1197				
+//
+# CAE7357162.1 Length: 280
+# CAE7357162.1 Number of predicted TMRs: 0
+CAE7357162.1	signal	1	21				
+CAE7357162.1	outside	22	280				
+//
+# CAE7358885.1 Length: 356
+# CAE7358885.1 Number of predicted TMRs: 0
+CAE7358885.1	signal	1	18				
+CAE7358885.1	outside	19	356				
+//
+# CAE7360118.1 Length: 332
+# CAE7360118.1 Number of predicted TMRs: 0
+CAE7360118.1	signal	1	23				
+CAE7360118.1	outside	24	332				
+//
+# CAE7360333.1 Length: 767
+# CAE7360333.1 Number of predicted TMRs: 0
+CAE7360333.1	signal	1	14				
+CAE7360333.1	outside	15	767				
+//
+# CAE7361547.1 Length: 794
+# CAE7361547.1 Number of predicted TMRs: 0
+CAE7361547.1	signal	1	24				
+CAE7361547.1	outside	25	794				
+//
+# CAE7361927.1 Length: 259
+# CAE7361927.1 Number of predicted TMRs: 0
+CAE7361927.1	signal	1	26				
+CAE7361927.1	outside	27	259				
+//
+# CAE7361968.1 Length: 454
+# CAE7361968.1 Number of predicted TMRs: 0
+CAE7361968.1	signal	1	19				
+CAE7361968.1	outside	20	454				
+//
+# CAE7362037.1 Length: 141
+# CAE7362037.1 Number of predicted TMRs: 0
+CAE7362037.1	signal	1	19				
+CAE7362037.1	outside	20	141				
+//
+# CAE7362238.1 Length: 374
+# CAE7362238.1 Number of predicted TMRs: 0
+CAE7362238.1	signal	1	36				
+CAE7362238.1	outside	37	374				
+//
+# CAE7363961.1 Length: 684
+# CAE7363961.1 Number of predicted TMRs: 0
+CAE7363961.1	signal	1	18				
+CAE7363961.1	outside	19	684				
+//
+# CAE7364906.1 Length: 396
+# CAE7364906.1 Number of predicted TMRs: 0
+CAE7364906.1	signal	1	21				
+CAE7364906.1	outside	22	396				
+//
+# CAE7365545.1 Length: 151
+# CAE7365545.1 Number of predicted TMRs: 0
+CAE7365545.1	signal	1	30				
+CAE7365545.1	outside	31	151				
+//
+# CAE7366225.1 Length: 618
+# CAE7366225.1 Number of predicted TMRs: 1
+CAE7366225.1	signal	1	17				
+CAE7366225.1	outside	18	253				
+CAE7366225.1	TMhelix	254	263				
+CAE7366225.1	inside	264	618				
+//
+# CAE7366735.1 Length: 574
+# CAE7366735.1 Number of predicted TMRs: 0
+CAE7366735.1	signal	1	17				
+CAE7366735.1	outside	18	574				
+//
+# CAE7367213.1 Length: 726
+# CAE7367213.1 Number of predicted TMRs: 0
+CAE7367213.1	signal	1	12				
+CAE7367213.1	outside	13	726				
+//
+# CAE7368822.1 Length: 811
+# CAE7368822.1 Number of predicted TMRs: 0
+CAE7368822.1	signal	1	20				
+CAE7368822.1	outside	21	811				
+//
+# CAE7369132.1 Length: 328
+# CAE7369132.1 Number of predicted TMRs: 0
+CAE7369132.1	signal	1	15				
+CAE7369132.1	outside	16	328				
+//
+# CAE7369589.1 Length: 289
+# CAE7369589.1 Number of predicted TMRs: 0
+CAE7369589.1	signal	1	13				
+CAE7369589.1	outside	14	289				
+//
+# CAE7369709.1 Length: 367
+# CAE7369709.1 Number of predicted TMRs: 0
+CAE7369709.1	signal	1	16				
+CAE7369709.1	outside	17	367				
+//
+# CAE7369971.1 Length: 246
+# CAE7369971.1 Number of predicted TMRs: 0
+CAE7369971.1	signal	1	21				
+CAE7369971.1	outside	22	246				
+//
+# CAE7373237.1 Length: 106
+# CAE7373237.1 Number of predicted TMRs: 0
+CAE7373237.1	signal	1	20				
+CAE7373237.1	outside	21	106				
+//
+# CAE7373251.1 Length: 235
+# CAE7373251.1 Number of predicted TMRs: 0
+CAE7373251.1	signal	1	25				
+CAE7373251.1	outside	26	235				
+//
+# CAE7373697.1 Length: 163
+# CAE7373697.1 Number of predicted TMRs: 0
+CAE7373697.1	signal	1	18				
+CAE7373697.1	outside	19	163				
+//
+# CAE7376233.1 Length: 333
+# CAE7376233.1 Number of predicted TMRs: 0
+CAE7376233.1	signal	1	23				
+CAE7376233.1	outside	24	333				
+//
+# CAE7376253.1 Length: 239
+# CAE7376253.1 Number of predicted TMRs: 0
+CAE7376253.1	signal	1	23				
+CAE7376253.1	outside	24	239				
+//
+# CAE7377266.1 Length: 156
+# CAE7377266.1 Number of predicted TMRs: 0
+CAE7377266.1	signal	1	20				
+CAE7377266.1	outside	21	156				
+//
+# CAE7381663.1 Length: 303
+# CAE7381663.1 Number of predicted TMRs: 0
+CAE7381663.1	signal	1	21				
+CAE7381663.1	outside	22	303				
+//
+# CAE7382572.1 Length: 417
+# CAE7382572.1 Number of predicted TMRs: 0
+CAE7382572.1	signal	1	23				
+CAE7382572.1	outside	24	417				
+//
+# CAE7383015.1 Length: 96
+# CAE7383015.1 Number of predicted TMRs: 1
+CAE7383015.1	signal	1	21				
+CAE7383015.1	outside	22	65				
+CAE7383015.1	TMhelix	66	82				
+CAE7383015.1	inside	83	96				
+//
+# CAE7383406.1 Length: 547
+# CAE7383406.1 Number of predicted TMRs: 0
+CAE7383406.1	signal	1	16				
+CAE7383406.1	outside	17	547				
+//
+# CAE7385860.1 Length: 230
+# CAE7385860.1 Number of predicted TMRs: 0
+CAE7385860.1	signal	1	18				
+CAE7385860.1	outside	19	230				
+//
+# CAE7386502.1 Length: 152
+# CAE7386502.1 Number of predicted TMRs: 0
+CAE7386502.1	signal	1	17				
+CAE7386502.1	outside	18	152				
+//
+# CAE7386784.1 Length: 335
+# CAE7386784.1 Number of predicted TMRs: 0
+CAE7386784.1	signal	1	32				
+CAE7386784.1	outside	33	335				
+//
+# CAE7387279.1 Length: 576
+# CAE7387279.1 Number of predicted TMRs: 0
+CAE7387279.1	signal	1	17				
+CAE7387279.1	outside	18	576				
+//
+# CAE7389489.1 Length: 336
+# CAE7389489.1 Number of predicted TMRs: 0
+CAE7389489.1	signal	1	21				
+CAE7389489.1	outside	22	336				
+//
+# CAE7391049.1 Length: 286
+# CAE7391049.1 Number of predicted TMRs: 0
+CAE7391049.1	signal	1	19				
+CAE7391049.1	outside	20	286				
+//
+# CAE7392001.1 Length: 437
+# CAE7392001.1 Number of predicted TMRs: 0
+CAE7392001.1	signal	1	21				
+CAE7392001.1	outside	22	437				
+//
+# CAE7392133.1 Length: 493
+# CAE7392133.1 Number of predicted TMRs: 0
+CAE7392133.1	inside	1	493				
+//
+# CAE7392822.1 Length: 346
+# CAE7392822.1 Number of predicted TMRs: 0
+CAE7392822.1	inside	1	346				
+//
+# CAE7394099.1 Length: 169
+# CAE7394099.1 Number of predicted TMRs: 0
+CAE7394099.1	signal	1	22				
+CAE7394099.1	outside	23	169				
+//
+# CAE7394964.1 Length: 568
+# CAE7394964.1 Number of predicted TMRs: 0
+CAE7394964.1	signal	1	22				
+CAE7394964.1	outside	23	568				
+//
+# CAE7395008.1 Length: 535
+# CAE7395008.1 Number of predicted TMRs: 0
+CAE7395008.1	signal	1	18				
+CAE7395008.1	outside	19	535				
+//
+# CAE7398002.1 Length: 417
+# CAE7398002.1 Number of predicted TMRs: 0
+CAE7398002.1	signal	1	22				
+CAE7398002.1	outside	23	417				
+//
+# CAE7401957.1 Length: 289
+# CAE7401957.1 Number of predicted TMRs: 0
+CAE7401957.1	signal	1	19				
+CAE7401957.1	outside	20	289				
+//
+# CAE7403012.1 Length: 333
+# CAE7403012.1 Number of predicted TMRs: 0
+CAE7403012.1	signal	1	29				
+CAE7403012.1	outside	30	333				
+//
+# CAE7403426.1 Length: 106
+# CAE7403426.1 Number of predicted TMRs: 0
+CAE7403426.1	signal	1	16				
+CAE7403426.1	outside	17	106				
+//
+# CAE7403954.1 Length: 195
+# CAE7403954.1 Number of predicted TMRs: 0
+CAE7403954.1	signal	1	24				
+CAE7403954.1	outside	25	195				
+//
+# CAE7407498.1 Length: 196
+# CAE7407498.1 Number of predicted TMRs: 0
+CAE7407498.1	signal	1	15				
+CAE7407498.1	outside	16	196				
+//
+# CAE7409878.1 Length: 214
+# CAE7409878.1 Number of predicted TMRs: 0
+CAE7409878.1	signal	1	16				
+CAE7409878.1	outside	17	214				
+//
+# CAE7412456.1 Length: 444
+# CAE7412456.1 Number of predicted TMRs: 0
+CAE7412456.1	signal	1	17				
+CAE7412456.1	outside	18	444				
+//
+# CAE7412737.1 Length: 178
+# CAE7412737.1 Number of predicted TMRs: 0
+CAE7412737.1	signal	1	17				
+CAE7412737.1	outside	18	178				
+//
+# CAE7413951.1 Length: 648
+# CAE7413951.1 Number of predicted TMRs: 0
+CAE7413951.1	signal	1	15				
+CAE7413951.1	outside	16	648				
+//
+# CAE7415794.1 Length: 187
+# CAE7415794.1 Number of predicted TMRs: 0
+CAE7415794.1	signal	1	23				
+CAE7415794.1	outside	24	187				
+//
+# CAE7416274.1 Length: 314
+# CAE7416274.1 Number of predicted TMRs: 0
+CAE7416274.1	inside	1	314				
+//
+# CAE7419612.1 Length: 150
+# CAE7419612.1 Number of predicted TMRs: 0
+CAE7419612.1	signal	1	26				
+CAE7419612.1	outside	27	150				
+//
+# CAE7421407.1 Length: 598
+# CAE7421407.1 Number of predicted TMRs: 8
+CAE7421407.1	signal	1	28				
+CAE7421407.1	outside	29	236				
+CAE7421407.1	TMhelix	237	255				
+CAE7421407.1	inside	256	272				
+CAE7421407.1	TMhelix	273	282				
+CAE7421407.1	outside	283	283				
+CAE7421407.1	TMhelix	284	293				
+CAE7421407.1	inside	294	330				
+CAE7421407.1	TMhelix	331	345				
+CAE7421407.1	outside	346	363				
+CAE7421407.1	TMhelix	364	381				
+CAE7421407.1	inside	382	436				
+CAE7421407.1	TMhelix	437	452				
+CAE7421407.1	outside	453	469				
+CAE7421407.1	TMhelix	470	490				
+CAE7421407.1	inside	491	560				
+CAE7421407.1	TMhelix	561	575				
+CAE7421407.1	outside	576	598				
+//
+# CAE7423185.1 Length: 193
+# CAE7423185.1 Number of predicted TMRs: 0
+CAE7423185.1	signal	1	14				
+CAE7423185.1	outside	15	193				
+//
+# CAE7423927.1 Length: 779
+# CAE7423927.1 Number of predicted TMRs: 0
+CAE7423927.1	signal	1	18				
+CAE7423927.1	outside	19	779				
+//
+# CAE7428942.1 Length: 240
+# CAE7428942.1 Number of predicted TMRs: 0
+CAE7428942.1	signal	1	19				
+CAE7428942.1	outside	20	240				
+//
+# CAE7432412.1 Length: 392
+# CAE7432412.1 Number of predicted TMRs: 0
+CAE7432412.1	signal	1	17				
+CAE7432412.1	outside	18	392				
+//
+# CAE7434710.1 Length: 550
+# CAE7434710.1 Number of predicted TMRs: 0
+CAE7434710.1	signal	1	16				
+CAE7434710.1	outside	17	550				
+//
+# CAE7435977.1 Length: 986
+# CAE7435977.1 Number of predicted TMRs: 0
+CAE7435977.1	signal	1	21				
+CAE7435977.1	outside	22	986				
+//
+# CAE7437877.1 Length: 656
+# CAE7437877.1 Number of predicted TMRs: 0
+CAE7437877.1	signal	1	16				
+CAE7437877.1	outside	17	656				
+//
+# CAE7439250.1 Length: 236
+# CAE7439250.1 Number of predicted TMRs: 0
+CAE7439250.1	signal	1	19				
+CAE7439250.1	outside	20	236				
+//
+# CAE7442227.1 Length: 368
+# CAE7442227.1 Number of predicted TMRs: 0
+CAE7442227.1	signal	1	19				
+CAE7442227.1	outside	20	368				
+//
+# CAE7443905.1 Length: 820
+# CAE7443905.1 Number of predicted TMRs: 0
+CAE7443905.1	inside	1	820				
+//
+# CAE7446575.1 Length: 714
+# CAE7446575.1 Number of predicted TMRs: 0
+CAE7446575.1	signal	1	20				
+CAE7446575.1	outside	21	714				
+//
+# CAE7453282.1 Length: 636
+# CAE7453282.1 Number of predicted TMRs: 0
+CAE7453282.1	signal	1	17				
+CAE7453282.1	outside	18	636				
+//
+# CAE7454420.1 Length: 219
+# CAE7454420.1 Number of predicted TMRs: 0
+CAE7454420.1	signal	1	16				
+CAE7454420.1	outside	17	219				
+//
+# CAE7456377.1 Length: 388
+# CAE7456377.1 Number of predicted TMRs: 0
+CAE7456377.1	signal	1	22				
+CAE7456377.1	outside	23	388				
+//
+# CAE7456451.1 Length: 310
+# CAE7456451.1 Number of predicted TMRs: 0
+CAE7456451.1	signal	1	20				
+CAE7456451.1	outside	21	310				
+//
+# CAE7458008.1 Length: 1171
+# CAE7458008.1 Number of predicted TMRs: 1
+CAE7458008.1	signal	1	15				
+CAE7458008.1	outside	16	714				
+CAE7458008.1	TMhelix	715	724				
+CAE7458008.1	inside	725	1171				
+//
+# CAE7459067.1 Length: 371
+# CAE7459067.1 Number of predicted TMRs: 0
+CAE7459067.1	signal	1	26				
+CAE7459067.1	outside	27	371				
+//
+# CAE7459348.1 Length: 841
+# CAE7459348.1 Number of predicted TMRs: 0
+CAE7459348.1	signal	1	26				
+CAE7459348.1	outside	27	841				
+//
+# CAE7459463.1 Length: 531
+# CAE7459463.1 Number of predicted TMRs: 0
+CAE7459463.1	signal	1	15				
+CAE7459463.1	outside	16	531				
+//
+# CAE7459787.1 Length: 1993
+# CAE7459787.1 Number of predicted TMRs: 7
+CAE7459787.1	signal	1	26				
+CAE7459787.1	outside	27	615				
+CAE7459787.1	TMhelix	616	625				
+CAE7459787.1	inside	626	1308				
+CAE7459787.1	TMhelix	1309	1329				
+CAE7459787.1	outside	1330	1336				
+CAE7459787.1	TMhelix	1337	1354				
+CAE7459787.1	inside	1355	1364				
+CAE7459787.1	TMhelix	1365	1380				
+CAE7459787.1	outside	1381	1385				
+CAE7459787.1	TMhelix	1386	1398				
+CAE7459787.1	inside	1399	1406				
+CAE7459787.1	TMhelix	1407	1422				
+CAE7459787.1	outside	1423	1445				
+CAE7459787.1	TMhelix	1446	1455				
+CAE7459787.1	inside	1456	1993				
+//
+# CAE7459943.1 Length: 3355
+# CAE7459943.1 Number of predicted TMRs: 32
+CAE7459943.1	signal	1	32				
+CAE7459943.1	outside	33	1125				
+CAE7459943.1	TMhelix	1126	1142				
+CAE7459943.1	inside	1143	1145				
+CAE7459943.1	TMhelix	1146	1162				
+CAE7459943.1	outside	1163	1181				
+CAE7459943.1	TMhelix	1182	1193				
+CAE7459943.1	inside	1194	1227				
+CAE7459943.1	TMhelix	1228	1244				
+CAE7459943.1	outside	1245	1257				
+CAE7459943.1	TMhelix	1258	1274				
+CAE7459943.1	inside	1275	1314				
+CAE7459943.1	TMhelix	1315	1330				
+CAE7459943.1	outside	1331	1652				
+CAE7459943.1	TMhelix	1653	1670				
+CAE7459943.1	inside	1671	1675				
+CAE7459943.1	TMhelix	1676	1693				
+CAE7459943.1	outside	1694	1704				
+CAE7459943.1	TMhelix	1705	1724				
+CAE7459943.1	inside	1725	1752				
+CAE7459943.1	TMhelix	1753	1768				
+CAE7459943.1	outside	1769	1781				
+CAE7459943.1	TMhelix	1782	1799				
+CAE7459943.1	inside	1800	1807				
+CAE7459943.1	TMhelix	1808	1817				
+CAE7459943.1	outside	1818	1860				
+CAE7459943.1	TMhelix	1861	1871				
+CAE7459943.1	inside	1872	1876				
+CAE7459943.1	TMhelix	1877	1897				
+CAE7459943.1	outside	1898	1905				
+CAE7459943.1	TMhelix	1906	1921				
+CAE7459943.1	inside	1922	1937				
+CAE7459943.1	TMhelix	1938	1952				
+CAE7459943.1	outside	1953	1968				
+CAE7459943.1	TMhelix	1969	1991				
+CAE7459943.1	inside	1992	2034				
+CAE7459943.1	TMhelix	2035	2050				
+CAE7459943.1	outside	2051	2305				
+CAE7459943.1	TMhelix	2306	2323				
+CAE7459943.1	inside	2324	2330				
+CAE7459943.1	TMhelix	2331	2340				
+CAE7459943.1	outside	2341	2341				
+CAE7459943.1	TMhelix	2342	2352				
+CAE7459943.1	inside	2353	2362				
+CAE7459943.1	TMhelix	2363	2381				
+CAE7459943.1	outside	2382	2389				
+CAE7459943.1	TMhelix	2390	2404				
+CAE7459943.1	inside	2405	2428				
+CAE7459943.1	TMhelix	2429	2447				
+CAE7459943.1	outside	2448	2452				
+CAE7459943.1	TMhelix	2453	2471				
+CAE7459943.1	inside	2472	2504				
+CAE7459943.1	TMhelix	2505	2525				
+CAE7459943.1	outside	2526	2538				
+CAE7459943.1	TMhelix	2539	2557				
+CAE7459943.1	inside	2558	2567				
+CAE7459943.1	TMhelix	2568	2586				
+CAE7459943.1	outside	2587	2590				
+CAE7459943.1	TMhelix	2591	2609				
+CAE7459943.1	inside	2610	2629				
+CAE7459943.1	TMhelix	2630	2650				
+CAE7459943.1	outside	2651	2655				
+CAE7459943.1	TMhelix	2656	2665				
+CAE7459943.1	inside	2666	2666				
+CAE7459943.1	TMhelix	2667	2677				
+CAE7459943.1	outside	2678	3355				
+//
+# CAE7461090.1 Length: 300
+# CAE7461090.1 Number of predicted TMRs: 0
+CAE7461090.1	signal	1	17				
+CAE7461090.1	outside	18	300				
+//
+# CAE7461339.1 Length: 156
+# CAE7461339.1 Number of predicted TMRs: 0
+CAE7461339.1	signal	1	26				
+CAE7461339.1	outside	27	156				
+//
+# CAE7461643.1 Length: 595
+# CAE7461643.1 Number of predicted TMRs: 0
+CAE7461643.1	signal	1	22				
+CAE7461643.1	outside	23	595				
+//
+# CAE7463487.1 Length: 342
+# CAE7463487.1 Number of predicted TMRs: 0
+CAE7463487.1	signal	1	16				
+CAE7463487.1	outside	17	342				
+//
+# CAE7465257.1 Length: 296
+# CAE7465257.1 Number of predicted TMRs: 0
+CAE7465257.1	signal	1	20				
+CAE7465257.1	outside	21	296				
+//
+# CAE7466418.1 Length: 648
+# CAE7466418.1 Number of predicted TMRs: 0
+CAE7466418.1	signal	1	20				
+CAE7466418.1	outside	21	648				
+//
+# CAE7466429.1 Length: 489
+# CAE7466429.1 Number of predicted TMRs: 1
+CAE7466429.1	signal	1	30				
+CAE7466429.1	outside	31	168				
+CAE7466429.1	TMhelix	169	178				
+CAE7466429.1	inside	179	489				
+//
+# CAE7469199.1 Length: 849
+# CAE7469199.1 Number of predicted TMRs: 1
+CAE7469199.1	signal	1	29				
+CAE7469199.1	outside	30	527				
+CAE7469199.1	TMhelix	528	537				
+CAE7469199.1	inside	538	849				
+//
+# CAE7470276.1 Length: 612
+# CAE7470276.1 Number of predicted TMRs: 11
+CAE7470276.1	signal	1	28				
+CAE7470276.1	outside	29	112				
+CAE7470276.1	TMhelix	113	133				
+CAE7470276.1	inside	134	146				
+CAE7470276.1	TMhelix	147	164				
+CAE7470276.1	outside	165	181				
+CAE7470276.1	TMhelix	182	202				
+CAE7470276.1	inside	203	278				
+CAE7470276.1	TMhelix	279	292				
+CAE7470276.1	outside	293	312				
+CAE7470276.1	TMhelix	313	329				
+CAE7470276.1	inside	330	358				
+CAE7470276.1	TMhelix	359	369				
+CAE7470276.1	outside	370	397				
+CAE7470276.1	TMhelix	398	417				
+CAE7470276.1	inside	418	440				
+CAE7470276.1	TMhelix	441	461				
+CAE7470276.1	outside	462	476				
+CAE7470276.1	TMhelix	477	497				
+CAE7470276.1	inside	498	515				
+CAE7470276.1	TMhelix	516	530				
+CAE7470276.1	outside	531	551				
+CAE7470276.1	TMhelix	552	566				
+CAE7470276.1	inside	567	612				
+//
+# CAE7470981.1 Length: 244
+# CAE7470981.1 Number of predicted TMRs: 0
+CAE7470981.1	signal	1	28				
+CAE7470981.1	outside	29	244				
+//
+# CAE7474823.1 Length: 168
+# CAE7474823.1 Number of predicted TMRs: 0
+CAE7474823.1	signal	1	20				
+CAE7474823.1	outside	21	168				
+//
+# CAE7475890.1 Length: 1089
+# CAE7475890.1 Number of predicted TMRs: 1
+CAE7475890.1	signal	1	19				
+CAE7475890.1	outside	20	583				
+CAE7475890.1	TMhelix	584	593				
+CAE7475890.1	inside	594	1089				
+//
+# CAE7477285.1 Length: 257
+# CAE7477285.1 Number of predicted TMRs: 0
+CAE7477285.1	signal	1	13				
+CAE7477285.1	outside	14	257				
+//
+# CAE7478065.1 Length: 202
+# CAE7478065.1 Number of predicted TMRs: 0
+CAE7478065.1	signal	1	33				
+CAE7478065.1	outside	34	202				
+//
+# CAE7479374.1 Length: 195
+# CAE7479374.1 Number of predicted TMRs: 0
+CAE7479374.1	signal	1	23				
+CAE7479374.1	outside	24	195				
+//
+# CAE7480706.1 Length: 231
+# CAE7480706.1 Number of predicted TMRs: 0
+CAE7480706.1	signal	1	17				
+CAE7480706.1	outside	18	231				
+//
+# CAE7481311.1 Length: 316
+# CAE7481311.1 Number of predicted TMRs: 0
+CAE7481311.1	signal	1	28				
+CAE7481311.1	outside	29	316				
+//
+# CAE7481573.1 Length: 227
+# CAE7481573.1 Number of predicted TMRs: 0
+CAE7481573.1	signal	1	18				
+CAE7481573.1	outside	19	227				
+//
+# CAE7481816.1 Length: 100
+# CAE7481816.1 Number of predicted TMRs: 0
+CAE7481816.1	signal	1	22				
+CAE7481816.1	outside	23	100				
+//
+# CAE7482220.1 Length: 75
+# CAE7482220.1 Number of predicted TMRs: 0
+CAE7482220.1	signal	1	35				
+CAE7482220.1	outside	36	75				
+//
+# CAE7482772.1 Length: 614
+# CAE7482772.1 Number of predicted TMRs: 0
+CAE7482772.1	signal	1	17				
+CAE7482772.1	outside	18	614				
+//
+# CAE7484953.1 Length: 315
+# CAE7484953.1 Number of predicted TMRs: 0
+CAE7484953.1	signal	1	15				
+CAE7484953.1	outside	16	315				
+//
+# CAE7485491.1 Length: 525
+# CAE7485491.1 Number of predicted TMRs: 0
+CAE7485491.1	signal	1	15				
+CAE7485491.1	outside	16	525				
+//
+# CAE7485709.1 Length: 202
+# CAE7485709.1 Number of predicted TMRs: 0
+CAE7485709.1	signal	1	19				
+CAE7485709.1	outside	20	202				
+//
+# CAE7486066.1 Length: 377
+# CAE7486066.1 Number of predicted TMRs: 0
+CAE7486066.1	signal	1	30				
+CAE7486066.1	outside	31	377				
+//
+# CAE7486268.1 Length: 401
+# CAE7486268.1 Number of predicted TMRs: 0
+CAE7486268.1	signal	1	17				
+CAE7486268.1	outside	18	401				
+//
+# CAE7489913.1 Length: 362
+# CAE7489913.1 Number of predicted TMRs: 1
+CAE7489913.1	signal	1	18				
+CAE7489913.1	outside	19	116				
+CAE7489913.1	TMhelix	117	126				
+CAE7489913.1	inside	127	362				
+//
+# CAE7492528.1 Length: 1227
+# CAE7492528.1 Number of predicted TMRs: 0
+CAE7492528.1	signal	1	18				
+CAE7492528.1	outside	19	1227				
+//
+# CAE7497372.1 Length: 739
+# CAE7497372.1 Number of predicted TMRs: 0
+CAE7497372.1	signal	1	25				
+CAE7497372.1	outside	26	739				
+//
+# CAE7498151.1 Length: 299
+# CAE7498151.1 Number of predicted TMRs: 0
+CAE7498151.1	signal	1	19				
+CAE7498151.1	outside	20	299				
+//
+# CAE7498982.1 Length: 136
+# CAE7498982.1 Number of predicted TMRs: 1
+CAE7498982.1	signal	1	35				
+CAE7498982.1	outside	36	109				
+CAE7498982.1	TMhelix	110	130				
+CAE7498982.1	inside	131	136				
+//
+# CAE7499033.1 Length: 198
+# CAE7499033.1 Number of predicted TMRs: 0
+CAE7499033.1	signal	1	14				
+CAE7499033.1	outside	15	198				
+//
+# CAE7501209.1 Length: 236
+# CAE7501209.1 Number of predicted TMRs: 0
+CAE7501209.1	signal	1	16				
+CAE7501209.1	outside	17	236				
+//
+# CAE7502471.1 Length: 250
+# CAE7502471.1 Number of predicted TMRs: 0
+CAE7502471.1	inside	1	250				
+//
+# CAE7503119.1 Length: 1325
+# CAE7503119.1 Number of predicted TMRs: 1
+CAE7503119.1	signal	1	16				
+CAE7503119.1	outside	17	347				
+CAE7503119.1	TMhelix	348	357				
+CAE7503119.1	inside	358	1325				
+//
+# CAE7503472.1 Length: 153
+# CAE7503472.1 Number of predicted TMRs: 0
+CAE7503472.1	signal	1	18				
+CAE7503472.1	outside	19	153				
+//
+# CAE7503815.1 Length: 351
+# CAE7503815.1 Number of predicted TMRs: 0
+CAE7503815.1	signal	1	35				
+CAE7503815.1	outside	36	351				
+//
+# CAE7504877.1 Length: 1135
+# CAE7504877.1 Number of predicted TMRs: 0
+CAE7504877.1	signal	1	16				
+CAE7504877.1	outside	17	1135				
+//
+# CAE7504943.1 Length: 146
+# CAE7504943.1 Number of predicted TMRs: 0
+CAE7504943.1	signal	1	21				
+CAE7504943.1	outside	22	146				
+//
+# CAE7507570.1 Length: 332
+# CAE7507570.1 Number of predicted TMRs: 0
+CAE7507570.1	signal	1	20				
+CAE7507570.1	outside	21	332				
+//
+# CAE7507656.1 Length: 806
+# CAE7507656.1 Number of predicted TMRs: 0
+CAE7507656.1	signal	1	21				
+CAE7507656.1	outside	22	806				
+//
+# CAE7508890.1 Length: 204
+# CAE7508890.1 Number of predicted TMRs: 0
+CAE7508890.1	signal	1	16				
+CAE7508890.1	outside	17	204				
+//
+# CAE7509606.1 Length: 484
+# CAE7509606.1 Number of predicted TMRs: 0
+CAE7509606.1	signal	1	19				
+CAE7509606.1	outside	20	484				
+//
+# CAE7509866.1 Length: 1631
+# CAE7509866.1 Number of predicted TMRs: 0
+CAE7509866.1	signal	1	19				
+CAE7509866.1	outside	20	1631				
+//
+# CAE7512227.1 Length: 272
+# CAE7512227.1 Number of predicted TMRs: 0
+CAE7512227.1	signal	1	19				
+CAE7512227.1	outside	20	272				
+//
+# CAE7513259.1 Length: 1133
+# CAE7513259.1 Number of predicted TMRs: 0
+CAE7513259.1	signal	1	26				
+CAE7513259.1	outside	27	1133				
+//
+# CAE7513486.1 Length: 382
+# CAE7513486.1 Number of predicted TMRs: 0
+CAE7513486.1	signal	1	20				
+CAE7513486.1	outside	21	382				
+//
+# CAE7514141.1 Length: 150
+# CAE7514141.1 Number of predicted TMRs: 0
+CAE7514141.1	signal	1	36				
+CAE7514141.1	outside	37	150				
+//
+# CAE7514272.1 Length: 73
+# CAE7514272.1 Number of predicted TMRs: 0
+CAE7514272.1	signal	1	10				
+CAE7514272.1	outside	11	73				
+//
+# CAE7515560.1 Length: 844
+# CAE7515560.1 Number of predicted TMRs: 0
+CAE7515560.1	signal	1	18				
+CAE7515560.1	outside	19	844				
+//
+# CAE7515926.1 Length: 577
+# CAE7515926.1 Number of predicted TMRs: 0
+CAE7515926.1	signal	1	19				
+CAE7515926.1	outside	20	577				
+//
+# CAE7516166.1 Length: 155
+# CAE7516166.1 Number of predicted TMRs: 0
+CAE7516166.1	signal	1	20				
+CAE7516166.1	outside	21	155				
+//
+# CAE7518134.1 Length: 493
+# CAE7518134.1 Number of predicted TMRs: 0
+CAE7518134.1	signal	1	15				
+CAE7518134.1	outside	16	493				
+//
+# CAE7518522.1 Length: 148
+# CAE7518522.1 Number of predicted TMRs: 0
+CAE7518522.1	signal	1	21				
+CAE7518522.1	outside	22	148				
+//
+# CAE7519002.1 Length: 456
+# CAE7519002.1 Number of predicted TMRs: 0
+CAE7519002.1	inside	1	456				
+//
+# CAE7519443.1 Length: 277
+# CAE7519443.1 Number of predicted TMRs: 0
+CAE7519443.1	signal	1	22				
+CAE7519443.1	outside	23	277				
+//
+# CAE7519715.1 Length: 336
+# CAE7519715.1 Number of predicted TMRs: 0
+CAE7519715.1	signal	1	18				
+CAE7519715.1	outside	19	336				
+//
+# CAE7522413.1 Length: 388
+# CAE7522413.1 Number of predicted TMRs: 0
+CAE7522413.1	signal	1	22				
+CAE7522413.1	outside	23	388				
+//
+# CAE7523760.1 Length: 759
+# CAE7523760.1 Number of predicted TMRs: 1
+CAE7523760.1	signal	1	15				
+CAE7523760.1	outside	16	346				
+CAE7523760.1	TMhelix	347	356				
+CAE7523760.1	inside	357	759				
+//
+# CAE7523776.1 Length: 424
+# CAE7523776.1 Number of predicted TMRs: 0
+CAE7523776.1	signal	1	56				
+CAE7523776.1	outside	57	424				
+//
+# CAE7526675.1 Length: 425
+# CAE7526675.1 Number of predicted TMRs: 0
+CAE7526675.1	signal	1	22				
+CAE7526675.1	outside	23	425				
+//
+# CAE7527082.1 Length: 206
+# CAE7527082.1 Number of predicted TMRs: 0
+CAE7527082.1	signal	1	19				
+CAE7527082.1	outside	20	206				
+//
+# CAE7528591.1 Length: 261
+# CAE7528591.1 Number of predicted TMRs: 0
+CAE7528591.1	signal	1	18				
+CAE7528591.1	outside	19	261				
+//
+# CAE7528917.1 Length: 550
+# CAE7528917.1 Number of predicted TMRs: 1
+CAE7528917.1	signal	1	20				
+CAE7528917.1	outside	21	511				
+CAE7528917.1	TMhelix	512	526				
+CAE7528917.1	inside	527	550				
+//
+# CAE7530830.1 Length: 1111
+# CAE7530830.1 Number of predicted TMRs: 1
+CAE7530830.1	signal	1	39				
+CAE7530830.1	outside	40	573				
+CAE7530830.1	TMhelix	574	583				
+CAE7530830.1	inside	584	1111				
+//
+# CAE7532228.1 Length: 142
+# CAE7532228.1 Number of predicted TMRs: 0
+CAE7532228.1	signal	1	14				
+CAE7532228.1	outside	15	142				
+//
+# CAE7532849.1 Length: 387
+# CAE7532849.1 Number of predicted TMRs: 0
+CAE7532849.1	signal	1	23				
+CAE7532849.1	outside	24	387				
+//
+# CAE7532865.1 Length: 387
+# CAE7532865.1 Number of predicted TMRs: 0
+CAE7532865.1	signal	1	23				
+CAE7532865.1	outside	24	387				
+//
+# CAE7533291.1 Length: 969
+# CAE7533291.1 Number of predicted TMRs: 0
+CAE7533291.1	inside	1	969				
+//
+# CAE7533367.1 Length: 183
+# CAE7533367.1 Number of predicted TMRs: 0
+CAE7533367.1	signal	1	15				
+CAE7533367.1	outside	16	183				
+//
+# CAE7533626.1 Length: 408
+# CAE7533626.1 Number of predicted TMRs: 0
+CAE7533626.1	signal	1	23				
+CAE7533626.1	outside	24	408				
+//
+# CAE7534280.1 Length: 316
+# CAE7534280.1 Number of predicted TMRs: 0
+CAE7534280.1	signal	1	19				
+CAE7534280.1	outside	20	316				
+//
+# CAE7534919.1 Length: 200
+# CAE7534919.1 Number of predicted TMRs: 0
+CAE7534919.1	signal	1	13				
+CAE7534919.1	outside	14	200				
+//
+# CAE7535305.1 Length: 279
+# CAE7535305.1 Number of predicted TMRs: 0
+CAE7535305.1	signal	1	17				
+CAE7535305.1	outside	18	279				
+//
+# CAE7536389.1 Length: 573
+# CAE7536389.1 Number of predicted TMRs: 0
+CAE7536389.1	signal	1	22				
+CAE7536389.1	outside	23	573				
+//
+# CAE7540259.1 Length: 305
+# CAE7540259.1 Number of predicted TMRs: 0
+CAE7540259.1	signal	1	17				
+CAE7540259.1	outside	18	305				
+//
+# CAE7541440.1 Length: 379
+# CAE7541440.1 Number of predicted TMRs: 0
+CAE7541440.1	signal	1	17				
+CAE7541440.1	outside	18	379				
+//
+# CAE7541582.1 Length: 190
+# CAE7541582.1 Number of predicted TMRs: 0
+CAE7541582.1	signal	1	19				
+CAE7541582.1	outside	20	190				
+//
+# CAE7544004.1 Length: 444
+# CAE7544004.1 Number of predicted TMRs: 0
+CAE7544004.1	signal	1	19				
+CAE7544004.1	outside	20	444				
+//
+# CAE7544365.1 Length: 383
+# CAE7544365.1 Number of predicted TMRs: 0
+CAE7544365.1	signal	1	20				
+CAE7544365.1	outside	21	383				
+//
+# CAE7544621.1 Length: 145
+# CAE7544621.1 Number of predicted TMRs: 0
+CAE7544621.1	signal	1	15				
+CAE7544621.1	outside	16	145				
+//
+# CAE7544662.1 Length: 718
+# CAE7544662.1 Number of predicted TMRs: 0
+CAE7544662.1	signal	1	15				
+CAE7544662.1	outside	16	718				
+//
+# CAE7544734.1 Length: 597
+# CAE7544734.1 Number of predicted TMRs: 0
+CAE7544734.1	signal	1	21				
+CAE7544734.1	outside	22	597				
+//
+# CAE7544891.1 Length: 607
+# CAE7544891.1 Number of predicted TMRs: 0
+CAE7544891.1	inside	1	607				
+//
+# CAE7548154.1 Length: 146
+# CAE7548154.1 Number of predicted TMRs: 2
+CAE7548154.1	signal	1	49				
+CAE7548154.1	outside	50	70				
+CAE7548154.1	TMhelix	71	89				
+CAE7548154.1	inside	90	125				
+CAE7548154.1	TMhelix	126	144				
+CAE7548154.1	outside	145	146				
+//
+# CAE7548655.1 Length: 288
+# CAE7548655.1 Number of predicted TMRs: 0
+CAE7548655.1	signal	1	20				
+CAE7548655.1	outside	21	288				
+//
+# CAE7549696.1 Length: 608
+# CAE7549696.1 Number of predicted TMRs: 0
+CAE7549696.1	signal	1	22				
+CAE7549696.1	outside	23	608				
+//
+# CAE7549815.1 Length: 1303
+# CAE7549815.1 Number of predicted TMRs: 2
+CAE7549815.1	signal	1	23				
+CAE7549815.1	outside	24	521				
+CAE7549815.1	TMhelix	522	531				
+CAE7549815.1	inside	532	883				
+CAE7549815.1	TMhelix	884	893				
+CAE7549815.1	outside	894	1303				
+//
+# CAE7551047.1 Length: 425
+# CAE7551047.1 Number of predicted TMRs: 0
+CAE7551047.1	signal	1	25				
+CAE7551047.1	outside	26	425				
+//
+# CAE7551610.1 Length: 315
+# CAE7551610.1 Number of predicted TMRs: 0
+CAE7551610.1	signal	1	20				
+CAE7551610.1	outside	21	315				
+//
+# CAE7551636.1 Length: 180
+# CAE7551636.1 Number of predicted TMRs: 0
+CAE7551636.1	inside	1	180				
+//
+# CAE7553367.1 Length: 119
+# CAE7553367.1 Number of predicted TMRs: 0
+CAE7553367.1	signal	1	30				
+CAE7553367.1	outside	31	119				
+//
+# CAE7554347.1 Length: 111
+# CAE7554347.1 Number of predicted TMRs: 0
+CAE7554347.1	signal	1	21				
+CAE7554347.1	outside	22	111				
+//
+# CAE7555402.1 Length: 166
+# CAE7555402.1 Number of predicted TMRs: 0
+CAE7555402.1	signal	1	17				
+CAE7555402.1	outside	18	166				
+//
+# CAE7555499.1 Length: 1349
+# CAE7555499.1 Number of predicted TMRs: 2
+CAE7555499.1	signal	1	17				
+CAE7555499.1	outside	18	712				
+CAE7555499.1	TMhelix	713	722				
+CAE7555499.1	inside	723	1008				
+CAE7555499.1	TMhelix	1009	1018				
+CAE7555499.1	outside	1019	1349				
+//
+# CAE7556019.1 Length: 300
+# CAE7556019.1 Number of predicted TMRs: 0
+CAE7556019.1	signal	1	16				
+CAE7556019.1	outside	17	300				
+//
+# CAE7557045.1 Length: 546
+# CAE7557045.1 Number of predicted TMRs: 0
+CAE7557045.1	signal	1	16				
+CAE7557045.1	outside	17	546				
+//
+# CAE7557196.1 Length: 333
+# CAE7557196.1 Number of predicted TMRs: 0
+CAE7557196.1	signal	1	17				
+CAE7557196.1	outside	18	333				
+//
+# CAE7557743.1 Length: 544
+# CAE7557743.1 Number of predicted TMRs: 0
+CAE7557743.1	signal	1	24				
+CAE7557743.1	outside	25	544				
+//
+# CAE7557875.1 Length: 824
+# CAE7557875.1 Number of predicted TMRs: 0
+CAE7557875.1	signal	1	19				
+CAE7557875.1	outside	20	824				
+//
+# CAE7558877.1 Length: 557
+# CAE7558877.1 Number of predicted TMRs: 0
+CAE7558877.1	signal	1	15				
+CAE7558877.1	outside	16	557				
+//
+# CAE7559677.1 Length: 319
+# CAE7559677.1 Number of predicted TMRs: 0
+CAE7559677.1	inside	1	319				
+//
+# CAE7559781.1 Length: 215
+# CAE7559781.1 Number of predicted TMRs: 0
+CAE7559781.1	signal	1	14				
+CAE7559781.1	outside	15	215				
+//
+# CAE7560125.1 Length: 609
+# CAE7560125.1 Number of predicted TMRs: 1
+CAE7560125.1	signal	1	20				
+CAE7560125.1	outside	21	391				
+CAE7560125.1	TMhelix	392	401				
+CAE7560125.1	inside	402	609				
+//
+# CAE7561775.1 Length: 560
+# CAE7561775.1 Number of predicted TMRs: 0
+CAE7561775.1	signal	1	21				
+CAE7561775.1	outside	22	560				
+//
+# CAE7562052.1 Length: 485
+# CAE7562052.1 Number of predicted TMRs: 0
+CAE7562052.1	signal	1	18				
+CAE7562052.1	outside	19	485				
+//
+# CAE7563574.1 Length: 400
+# CAE7563574.1 Number of predicted TMRs: 0
+CAE7563574.1	signal	1	23				
+CAE7563574.1	outside	24	400				
+//
+# CAE7564212.1 Length: 302
+# CAE7564212.1 Number of predicted TMRs: 0
+CAE7564212.1	signal	1	16				
+CAE7564212.1	outside	17	302				
+//
+# CAE7564516.1 Length: 177
+# CAE7564516.1 Number of predicted TMRs: 1
+CAE7564516.1	signal	1	16				
+CAE7564516.1	outside	17	106				
+CAE7564516.1	TMhelix	107	116				
+CAE7564516.1	inside	117	177				
+//
+# CAE7565518.1 Length: 336
+# CAE7565518.1 Number of predicted TMRs: 0
+CAE7565518.1	signal	1	23				
+CAE7565518.1	outside	24	336				
+//
+# CAE7565930.1 Length: 62
+# CAE7565930.1 Number of predicted TMRs: 0
+CAE7565930.1	signal	1	21				
+CAE7565930.1	outside	22	62				
+//
+# CAE7566925.1 Length: 383
+# CAE7566925.1 Number of predicted TMRs: 0
+CAE7566925.1	signal	1	17				
+CAE7566925.1	outside	18	383				
+//
+# CAE7567439.1 Length: 446
+# CAE7567439.1 Number of predicted TMRs: 0
+CAE7567439.1	signal	1	19				
+CAE7567439.1	outside	20	446				
+//
+# CAE7567463.1 Length: 493
+# CAE7567463.1 Number of predicted TMRs: 0
+CAE7567463.1	signal	1	16				
+CAE7567463.1	outside	17	493				
+//
+# CAE7569264.1 Length: 193
+# CAE7569264.1 Number of predicted TMRs: 0
+CAE7569264.1	signal	1	22				
+CAE7569264.1	outside	23	193				
+//
+# CAE7572086.1 Length: 245
+# CAE7572086.1 Number of predicted TMRs: 0
+CAE7572086.1	signal	1	26				
+CAE7572086.1	outside	27	245				
+//
+# CAE7574361.1 Length: 220
+# CAE7574361.1 Number of predicted TMRs: 0
+CAE7574361.1	signal	1	21				
+CAE7574361.1	outside	22	220				
+//
+# CAE7577084.1 Length: 359
+# CAE7577084.1 Number of predicted TMRs: 0
+CAE7577084.1	signal	1	20				
+CAE7577084.1	outside	21	359				
+//
+# CAE7582387.1 Length: 475
+# CAE7582387.1 Number of predicted TMRs: 0
+CAE7582387.1	signal	1	25				
+CAE7582387.1	outside	26	475				
+//
+# CAE7585797.1 Length: 156
+# CAE7585797.1 Number of predicted TMRs: 0
+CAE7585797.1	signal	1	16				
+CAE7585797.1	outside	17	156				
+//
+# CAE7587206.1 Length: 365
+# CAE7587206.1 Number of predicted TMRs: 0
+CAE7587206.1	signal	1	18				
+CAE7587206.1	outside	19	365				
+//
+# CAE7587399.1 Length: 983
+# CAE7587399.1 Number of predicted TMRs: 1
+CAE7587399.1	signal	1	19				
+CAE7587399.1	outside	20	927				
+CAE7587399.1	TMhelix	928	946				
+CAE7587399.1	inside	947	983				
+//
+# CAE7590166.1 Length: 305
+# CAE7590166.1 Number of predicted TMRs: 0
+CAE7590166.1	signal	1	26				
+CAE7590166.1	outside	27	305				
+//
+# CAE7594153.1 Length: 178
+# CAE7594153.1 Number of predicted TMRs: 0
+CAE7594153.1	signal	1	16				
+CAE7594153.1	outside	17	178				
+//
+# CAE7596148.1 Length: 172
+# CAE7596148.1 Number of predicted TMRs: 0
+CAE7596148.1	signal	1	20				
+CAE7596148.1	outside	21	172				
+//
+# CAE7596565.1 Length: 1142
+# CAE7596565.1 Number of predicted TMRs: 0
+CAE7596565.1	signal	1	20				
+CAE7596565.1	outside	21	1142				
+//
+# CAE7597058.1 Length: 692
+# CAE7597058.1 Number of predicted TMRs: 0
+CAE7597058.1	signal	1	28				
+CAE7597058.1	outside	29	692				
+//
+# CAE7597177.1 Length: 120
+# CAE7597177.1 Number of predicted TMRs: 0
+CAE7597177.1	signal	1	11				
+CAE7597177.1	outside	12	120				
+//
+# CAE7598675.1 Length: 333
+# CAE7598675.1 Number of predicted TMRs: 0
+CAE7598675.1	signal	1	21				
+CAE7598675.1	outside	22	333				
+//
+# CAE7599193.1 Length: 286
+# CAE7599193.1 Number of predicted TMRs: 0
+CAE7599193.1	signal	1	17				
+CAE7599193.1	outside	18	286				
+//
+# CAE7602304.1 Length: 393
+# CAE7602304.1 Number of predicted TMRs: 0
+CAE7602304.1	signal	1	22				
+CAE7602304.1	outside	23	393				
+//
+# CAE7604797.1 Length: 479
+# CAE7604797.1 Number of predicted TMRs: 0
+CAE7604797.1	signal	1	20				
+CAE7604797.1	outside	21	479				
+//
+# CAE7605792.1 Length: 160
+# CAE7605792.1 Number of predicted TMRs: 0
+CAE7605792.1	signal	1	13				
+CAE7605792.1	outside	14	160				
+//
+# CAE7606347.1 Length: 851
+# CAE7606347.1 Number of predicted TMRs: 0
+CAE7606347.1	signal	1	19				
+CAE7606347.1	outside	20	851				
+//
+# CAE7607574.1 Length: 501
+# CAE7607574.1 Number of predicted TMRs: 0
+CAE7607574.1	signal	1	26				
+CAE7607574.1	outside	27	501				
+//
+# CAE7611237.1 Length: 775
+# CAE7611237.1 Number of predicted TMRs: 0
+CAE7611237.1	signal	1	16				
+CAE7611237.1	outside	17	775				
+//
+# CAE7612365.1 Length: 389
+# CAE7612365.1 Number of predicted TMRs: 0
+CAE7612365.1	signal	1	18				
+CAE7612365.1	outside	19	389				
+//
+# CAE7616428.1 Length: 121
+# CAE7616428.1 Number of predicted TMRs: 0
+CAE7616428.1	signal	1	22				
+CAE7616428.1	outside	23	121				
+//
+# CAE7616632.1 Length: 303
+# CAE7616632.1 Number of predicted TMRs: 0
+CAE7616632.1	signal	1	17				
+CAE7616632.1	outside	18	303				
+//
+# CAE7617580.1 Length: 184
+# CAE7617580.1 Number of predicted TMRs: 0
+CAE7617580.1	signal	1	30				
+CAE7617580.1	outside	31	184				
+//
+# CAE7618166.1 Length: 528
+# CAE7618166.1 Number of predicted TMRs: 0
+CAE7618166.1	inside	1	528				
+//
+# CAE7618182.1 Length: 127
+# CAE7618182.1 Number of predicted TMRs: 0
+CAE7618182.1	signal	1	17				
+CAE7618182.1	outside	18	127				
+//
+# CAE7619365.1 Length: 200
+# CAE7619365.1 Number of predicted TMRs: 0
+CAE7619365.1	signal	1	12				
+CAE7619365.1	outside	13	200				
+//
+# CAE7626256.1 Length: 443
+# CAE7626256.1 Number of predicted TMRs: 0
+CAE7626256.1	signal	1	16				
+CAE7626256.1	outside	17	443				
+//
+# CAE7629545.1 Length: 862
+# CAE7629545.1 Number of predicted TMRs: 0
+CAE7629545.1	signal	1	20				
+CAE7629545.1	outside	21	862				
+//
+# CAE7632303.1 Length: 335
+# CAE7632303.1 Number of predicted TMRs: 0
+CAE7632303.1	signal	1	20				
+CAE7632303.1	outside	21	335				
+//
+# CAE7633924.1 Length: 208
+# CAE7633924.1 Number of predicted TMRs: 0
+CAE7633924.1	signal	1	28				
+CAE7633924.1	outside	29	208				
+//
+# CAE7633942.1 Length: 503
+# CAE7633942.1 Number of predicted TMRs: 0
+CAE7633942.1	signal	1	22				
+CAE7633942.1	outside	23	503				
+//
+# CAE7636818.1 Length: 295
+# CAE7636818.1 Number of predicted TMRs: 0
+CAE7636818.1	inside	1	295				
+//
+# CAE7639971.1 Length: 247
+# CAE7639971.1 Number of predicted TMRs: 0
+CAE7639971.1	signal	1	38				
+CAE7639971.1	outside	39	247				
+//
+# CAE7641429.1 Length: 156
+# CAE7641429.1 Number of predicted TMRs: 0
+CAE7641429.1	signal	1	19				
+CAE7641429.1	outside	20	156				
+//
+# CAE7641535.1 Length: 785
+# CAE7641535.1 Number of predicted TMRs: 0
+CAE7641535.1	signal	1	24				
+CAE7641535.1	outside	25	785				
+//
+# CAE7642647.1 Length: 873
+# CAE7642647.1 Number of predicted TMRs: 0
+CAE7642647.1	signal	1	31				
+CAE7642647.1	outside	32	873				
+//
+# CAE7642745.1 Length: 1039
+# CAE7642745.1 Number of predicted TMRs: 1
+CAE7642745.1	signal	1	25				
+CAE7642745.1	outside	26	799				
+CAE7642745.1	TMhelix	800	809				
+CAE7642745.1	inside	810	1039				
+//
+# CAE7644545.1 Length: 1925
+# CAE7644545.1 Number of predicted TMRs: 3
+CAE7644545.1	signal	1	23				
+CAE7644545.1	outside	24	754				
+CAE7644545.1	TMhelix	755	771				
+CAE7644545.1	inside	772	992				
+CAE7644545.1	TMhelix	993	1011				
+CAE7644545.1	outside	1012	1021				
+CAE7644545.1	TMhelix	1022	1042				
+CAE7644545.1	inside	1043	1925				
+//
+# CAE7644824.1 Length: 183
+# CAE7644824.1 Number of predicted TMRs: 0
+CAE7644824.1	signal	1	19				
+CAE7644824.1	outside	20	183				
+//
+# CAE7645505.1 Length: 735
+# CAE7645505.1 Number of predicted TMRs: 0
+CAE7645505.1	signal	1	34				
+CAE7645505.1	outside	35	735				
+//
+# CAE7646371.1 Length: 244
+# CAE7646371.1 Number of predicted TMRs: 0
+CAE7646371.1	signal	1	15				
+CAE7646371.1	outside	16	244				
+//
+# CAE7647975.1 Length: 93
+# CAE7647975.1 Number of predicted TMRs: 0
+CAE7647975.1	signal	1	15				
+CAE7647975.1	outside	16	93				
+//
+# CAE7648332.1 Length: 57
+# CAE7648332.1 Number of predicted TMRs: 0
+CAE7648332.1	signal	1	26				
+CAE7648332.1	outside	27	57				
+//
+# CAE7648346.1 Length: 434
+# CAE7648346.1 Number of predicted TMRs: 0
+CAE7648346.1	signal	1	13				
+CAE7648346.1	outside	14	434				
+//
+# CAE7651672.1 Length: 129
+# CAE7651672.1 Number of predicted TMRs: 0
+CAE7651672.1	signal	1	21				
+CAE7651672.1	outside	22	129				
+//
+# CAE7653022.1 Length: 166
+# CAE7653022.1 Number of predicted TMRs: 0
+CAE7653022.1	signal	1	18				
+CAE7653022.1	outside	19	166				
+//
+# CAE7653228.1 Length: 167
+# CAE7653228.1 Number of predicted TMRs: 0
+CAE7653228.1	signal	1	17				
+CAE7653228.1	outside	18	167				
+//
+# CAE7654376.1 Length: 477
+# CAE7654376.1 Number of predicted TMRs: 0
+CAE7654376.1	signal	1	17				
+CAE7654376.1	outside	18	477				
+//
+# CAE7655161.1 Length: 737
+# CAE7655161.1 Number of predicted TMRs: 0
+CAE7655161.1	signal	1	21				
+CAE7655161.1	outside	22	737				
+//
+# CAE7656124.1 Length: 169
+# CAE7656124.1 Number of predicted TMRs: 0
+CAE7656124.1	signal	1	16				
+CAE7656124.1	outside	17	169				
+//
+# CAE7656332.1 Length: 272
+# CAE7656332.1 Number of predicted TMRs: 0
+CAE7656332.1	signal	1	19				
+CAE7656332.1	outside	20	272				
+//
+# CAE7656601.1 Length: 650
+# CAE7656601.1 Number of predicted TMRs: 0
+CAE7656601.1	signal	1	16				
+CAE7656601.1	outside	17	650				
+//
+# CAE7657073.1 Length: 841
+# CAE7657073.1 Number of predicted TMRs: 0
+CAE7657073.1	signal	1	17				
+CAE7657073.1	outside	18	841				
+//
+# CAE7657810.1 Length: 253
+# CAE7657810.1 Number of predicted TMRs: 0
+CAE7657810.1	signal	1	19				
+CAE7657810.1	outside	20	253				
+//
+# CAE7657923.1 Length: 85
+# CAE7657923.1 Number of predicted TMRs: 0
+CAE7657923.1	signal	1	22				
+CAE7657923.1	outside	23	85				
+//
+# CAE7658191.1 Length: 186
+# CAE7658191.1 Number of predicted TMRs: 0
+CAE7658191.1	signal	1	19				
+CAE7658191.1	outside	20	186				
+//
+# CAE7658290.1 Length: 300
+# CAE7658290.1 Number of predicted TMRs: 0
+CAE7658290.1	signal	1	20				
+CAE7658290.1	outside	21	300				
+//
+# CAE7659446.1 Length: 693
+# CAE7659446.1 Number of predicted TMRs: 0
+CAE7659446.1	inside	1	693				
+//
+# CAE7659481.1 Length: 362
+# CAE7659481.1 Number of predicted TMRs: 0
+CAE7659481.1	inside	1	362				
+//
+# CAE7659795.1 Length: 388
+# CAE7659795.1 Number of predicted TMRs: 0
+CAE7659795.1	signal	1	15				
+CAE7659795.1	outside	16	388				
+//
+# CAE7660761.1 Length: 163
+# CAE7660761.1 Number of predicted TMRs: 0
+CAE7660761.1	signal	1	21				
+CAE7660761.1	outside	22	163				
+//
+# CAE7660876.1 Length: 216
+# CAE7660876.1 Number of predicted TMRs: 0
+CAE7660876.1	signal	1	15				
+CAE7660876.1	outside	16	216				
+//
+# CAE7661720.1 Length: 255
+# CAE7661720.1 Number of predicted TMRs: 0
+CAE7661720.1	signal	1	14				
+CAE7661720.1	outside	15	255				
+//
+# CAE7661740.1 Length: 707
+# CAE7661740.1 Number of predicted TMRs: 1
+CAE7661740.1	signal	1	20				
+CAE7661740.1	outside	21	552				
+CAE7661740.1	TMhelix	553	562				
+CAE7661740.1	inside	563	707				
+//
+# CAE7662216.1 Length: 761
+# CAE7662216.1 Number of predicted TMRs: 0
+CAE7662216.1	signal	1	20				
+CAE7662216.1	outside	21	761				
+//
+# CAE7664347.1 Length: 1328
+# CAE7664347.1 Number of predicted TMRs: 0
+CAE7664347.1	signal	1	20				
+CAE7664347.1	outside	21	1328				
+//
+# CAE7665992.1 Length: 1116
+# CAE7665992.1 Number of predicted TMRs: 0
+CAE7665992.1	signal	1	26				
+CAE7665992.1	outside	27	1116				
+//
+# CAE7666282.1 Length: 76
+# CAE7666282.1 Number of predicted TMRs: 0
+CAE7666282.1	signal	1	28				
+CAE7666282.1	outside	29	76				
+//
+# CAE7667771.1 Length: 312
+# CAE7667771.1 Number of predicted TMRs: 0
+CAE7667771.1	signal	1	15				
+CAE7667771.1	outside	16	312				
+//
+# CAE7670875.1 Length: 241
+# CAE7670875.1 Number of predicted TMRs: 0
+CAE7670875.1	signal	1	21				
+CAE7670875.1	outside	22	241				
+//
+# CAE7673627.1 Length: 159
+# CAE7673627.1 Number of predicted TMRs: 0
+CAE7673627.1	signal	1	21				
+CAE7673627.1	outside	22	159				
+//
+# CAE7673877.1 Length: 671
+# CAE7673877.1 Number of predicted TMRs: 0
+CAE7673877.1	signal	1	15				
+CAE7673877.1	outside	16	671				
+//
+# CAE7674338.1 Length: 914
+# CAE7674338.1 Number of predicted TMRs: 0
+CAE7674338.1	signal	1	47				
+CAE7674338.1	outside	48	914				
+//
+# CAE7674395.1 Length: 1450
+# CAE7674395.1 Number of predicted TMRs: 0
+CAE7674395.1	signal	1	29				
+CAE7674395.1	outside	30	1450				
+//
+# CAE7674683.1 Length: 437
+# CAE7674683.1 Number of predicted TMRs: 1
+CAE7674683.1	signal	1	20				
+CAE7674683.1	outside	21	68				
+CAE7674683.1	TMhelix	69	81				
+CAE7674683.1	inside	82	437				
+//
+# CAE7674731.1 Length: 410
+# CAE7674731.1 Number of predicted TMRs: 0
+CAE7674731.1	signal	1	19				
+CAE7674731.1	outside	20	410				
+//
+# CAE7674916.1 Length: 371
+# CAE7674916.1 Number of predicted TMRs: 0
+CAE7674916.1	signal	1	20				
+CAE7674916.1	outside	21	371				
+//
+# CAE7677100.1 Length: 268
+# CAE7677100.1 Number of predicted TMRs: 0
+CAE7677100.1	signal	1	19				
+CAE7677100.1	outside	20	268				
+//
+# CAE7680689.1 Length: 660
+# CAE7680689.1 Number of predicted TMRs: 0
+CAE7680689.1	signal	1	20				
+CAE7680689.1	outside	21	660				
+//
+# CAE7682521.1 Length: 235
+# CAE7682521.1 Number of predicted TMRs: 0
+CAE7682521.1	signal	1	26				
+CAE7682521.1	outside	27	235				
+//
+# CAE7684618.1 Length: 167
+# CAE7684618.1 Number of predicted TMRs: 0
+CAE7684618.1	signal	1	16				
+CAE7684618.1	outside	17	167				
+//
+# CAE7684902.1 Length: 427
+# CAE7684902.1 Number of predicted TMRs: 0
+CAE7684902.1	signal	1	18				
+CAE7684902.1	outside	19	427				
+//
+# CAE7688051.1 Length: 280
+# CAE7688051.1 Number of predicted TMRs: 0
+CAE7688051.1	signal	1	19				
+CAE7688051.1	outside	20	280				
+//
+# CAE7688933.1 Length: 976
+# CAE7688933.1 Number of predicted TMRs: 0
+CAE7688933.1	signal	1	16				
+CAE7688933.1	outside	17	976				
+//
+# CAE7689292.1 Length: 422
+# CAE7689292.1 Number of predicted TMRs: 0
+CAE7689292.1	signal	1	13				
+CAE7689292.1	outside	14	422				
+//
+# CAE7689376.1 Length: 862
+# CAE7689376.1 Number of predicted TMRs: 0
+CAE7689376.1	signal	1	26				
+CAE7689376.1	outside	27	862				
+//
+# CAE7689596.1 Length: 253
+# CAE7689596.1 Number of predicted TMRs: 0
+CAE7689596.1	signal	1	21				
+CAE7689596.1	outside	22	253				
+//
+# CAE7692120.1 Length: 244
+# CAE7692120.1 Number of predicted TMRs: 0
+CAE7692120.1	signal	1	19				
+CAE7692120.1	outside	20	244				
+//
+# CAE7692871.1 Length: 251
+# CAE7692871.1 Number of predicted TMRs: 0
+CAE7692871.1	signal	1	16				
+CAE7692871.1	outside	17	251				
+//
+# CAE7695169.1 Length: 558
+# CAE7695169.1 Number of predicted TMRs: 0
+CAE7695169.1	signal	1	19				
+CAE7695169.1	outside	20	558				
+//
+# CAE7695431.1 Length: 901
+# CAE7695431.1 Number of predicted TMRs: 0
+CAE7695431.1	signal	1	15				
+CAE7695431.1	outside	16	901				
+//
+# CAE7695920.1 Length: 147
+# CAE7695920.1 Number of predicted TMRs: 0
+CAE7695920.1	signal	1	17				
+CAE7695920.1	outside	18	147				
+//
+# CAE7696213.1 Length: 87
+# CAE7696213.1 Number of predicted TMRs: 0
+CAE7696213.1	signal	1	11				
+CAE7696213.1	outside	12	87				
+//
+# CAE7698129.1 Length: 518
+# CAE7698129.1 Number of predicted TMRs: 0
+CAE7698129.1	inside	1	518				
+//
+# CAE7698328.1 Length: 310
+# CAE7698328.1 Number of predicted TMRs: 0
+CAE7698328.1	signal	1	18				
+CAE7698328.1	outside	19	310				
+//
+# CAE7699433.1 Length: 581
+# CAE7699433.1 Number of predicted TMRs: 0
+CAE7699433.1	signal	1	20				
+CAE7699433.1	outside	21	581				
+//
+# CAE7700335.1 Length: 336
+# CAE7700335.1 Number of predicted TMRs: 0
+CAE7700335.1	signal	1	20				
+CAE7700335.1	outside	21	336				
+//
+# CAE7700387.1 Length: 442
+# CAE7700387.1 Number of predicted TMRs: 0
+CAE7700387.1	signal	1	14				
+CAE7700387.1	outside	15	442				
+//
+# CAE7700445.1 Length: 734
+# CAE7700445.1 Number of predicted TMRs: 0
+CAE7700445.1	signal	1	39				
+CAE7700445.1	outside	40	734				
+//
+# CAE7701166.1 Length: 174
+# CAE7701166.1 Number of predicted TMRs: 0
+CAE7701166.1	signal	1	30				
+CAE7701166.1	outside	31	174				
+//
+# CAE7701329.1 Length: 75
+# CAE7701329.1 Number of predicted TMRs: 0
+CAE7701329.1	signal	1	15				
+CAE7701329.1	outside	16	75				
+//
+# CAE7702555.1 Length: 442
+# CAE7702555.1 Number of predicted TMRs: 1
+CAE7702555.1	signal	1	25				
+CAE7702555.1	outside	26	32				
+CAE7702555.1	TMhelix	33	42				
+CAE7702555.1	inside	43	442				
+//
+# CAE7703335.1 Length: 218
+# CAE7703335.1 Number of predicted TMRs: 0
+CAE7703335.1	signal	1	42				
+CAE7703335.1	outside	43	218				
+//
+# CAE7703837.1 Length: 365
+# CAE7703837.1 Number of predicted TMRs: 0
+CAE7703837.1	signal	1	18				
+CAE7703837.1	outside	19	365				
+//
+# CAE7704820.1 Length: 278
+# CAE7704820.1 Number of predicted TMRs: 0
+CAE7704820.1	signal	1	17				
+CAE7704820.1	outside	18	278				
+//
+# CAE7706179.1 Length: 406
+# CAE7706179.1 Number of predicted TMRs: 0
+CAE7706179.1	signal	1	15				
+CAE7706179.1	outside	16	406				
+//
+# CAE7706285.1 Length: 436
+# CAE7706285.1 Number of predicted TMRs: 0
+CAE7706285.1	signal	1	22				
+CAE7706285.1	outside	23	436				
+//
+# CAE7706485.1 Length: 600
+# CAE7706485.1 Number of predicted TMRs: 0
+CAE7706485.1	signal	1	25				
+CAE7706485.1	outside	26	600				
+//
+# CAE7707187.1 Length: 400
+# CAE7707187.1 Number of predicted TMRs: 0
+CAE7707187.1	signal	1	17				
+CAE7707187.1	outside	18	400				
+//
+# CAE7707366.1 Length: 373
+# CAE7707366.1 Number of predicted TMRs: 0
+CAE7707366.1	signal	1	19				
+CAE7707366.1	outside	20	373				
+//
+# CAE7707883.1 Length: 834
+# CAE7707883.1 Number of predicted TMRs: 0
+CAE7707883.1	signal	1	13				
+CAE7707883.1	outside	14	834				
+//
+# CAE7708011.1 Length: 557
+# CAE7708011.1 Number of predicted TMRs: 0
+CAE7708011.1	signal	1	15				
+CAE7708011.1	outside	16	557				
+//
+# CAE7708414.1 Length: 184
+# CAE7708414.1 Number of predicted TMRs: 0
+CAE7708414.1	signal	1	16				
+CAE7708414.1	outside	17	184				
+//
+# CAE7710336.1 Length: 484
+# CAE7710336.1 Number of predicted TMRs: 0
+CAE7710336.1	signal	1	28				
+CAE7710336.1	outside	29	484				
+//
+# CAE7710969.1 Length: 836
+# CAE7710969.1 Number of predicted TMRs: 0
+CAE7710969.1	signal	1	21				
+CAE7710969.1	outside	22	836				
+//
+# CAE7711154.1 Length: 359
+# CAE7711154.1 Number of predicted TMRs: 0
+CAE7711154.1	signal	1	17				
+CAE7711154.1	outside	18	359				
+//
+# CAE7712250.1 Length: 648
+# CAE7712250.1 Number of predicted TMRs: 1
+CAE7712250.1	signal	1	17				
+CAE7712250.1	outside	18	18				
+CAE7712250.1	TMhelix	19	28				
+CAE7712250.1	inside	29	648				
+//
+# CAE7713020.1 Length: 206
+# CAE7713020.1 Number of predicted TMRs: 0
+CAE7713020.1	signal	1	28				
+CAE7713020.1	outside	29	206				
+//
+# CAE7713257.1 Length: 139
+# CAE7713257.1 Number of predicted TMRs: 0
+CAE7713257.1	signal	1	17				
+CAE7713257.1	outside	18	139				
+//
+# CAE7713944.1 Length: 294
+# CAE7713944.1 Number of predicted TMRs: 0
+CAE7713944.1	signal	1	18				
+CAE7713944.1	outside	19	294				
+//
+# CAE7715417.1 Length: 511
+# CAE7715417.1 Number of predicted TMRs: 0
+CAE7715417.1	signal	1	18				
+CAE7715417.1	outside	19	511				
+//
+# CAE7716069.1 Length: 105
+# CAE7716069.1 Number of predicted TMRs: 0
+CAE7716069.1	signal	1	16				
+CAE7716069.1	outside	17	105				
+//
+# CAE7717215.1 Length: 364
+# CAE7717215.1 Number of predicted TMRs: 0
+CAE7717215.1	signal	1	19				
+CAE7717215.1	outside	20	364				
+//
+# CAE7717815.1 Length: 589
+# CAE7717815.1 Number of predicted TMRs: 0
+CAE7717815.1	signal	1	17				
+CAE7717815.1	outside	18	589				
+//
+# CAE7718900.1 Length: 382
+# CAE7718900.1 Number of predicted TMRs: 0
+CAE7718900.1	signal	1	19				
+CAE7718900.1	outside	20	382				
+//
+# CAE7719322.1 Length: 158
+# CAE7719322.1 Number of predicted TMRs: 0
+CAE7719322.1	signal	1	18				
+CAE7719322.1	outside	19	158				
+//
+# CAE7721534.1 Length: 544
+# CAE7721534.1 Number of predicted TMRs: 0
+CAE7721534.1	signal	1	18				
+CAE7721534.1	outside	19	544				
+//
+# CAE7722446.1 Length: 376
+# CAE7722446.1 Number of predicted TMRs: 0
+CAE7722446.1	signal	1	18				
+CAE7722446.1	outside	19	376				
+//
+# CAE7723696.1 Length: 150
+# CAE7723696.1 Number of predicted TMRs: 0
+CAE7723696.1	signal	1	18				
+CAE7723696.1	outside	19	150				
+//
+# CAE7723781.1 Length: 164
+# CAE7723781.1 Number of predicted TMRs: 0
+CAE7723781.1	signal	1	20				
+CAE7723781.1	outside	21	164				
+//
+# CAE7724142.1 Length: 301
+# CAE7724142.1 Number of predicted TMRs: 0
+CAE7724142.1	signal	1	16				
+CAE7724142.1	outside	17	301				
+//
+# CAE7724262.1 Length: 343
+# CAE7724262.1 Number of predicted TMRs: 0
+CAE7724262.1	signal	1	20				
+CAE7724262.1	outside	21	343				
+//
+# CAE7724809.1 Length: 514
+# CAE7724809.1 Number of predicted TMRs: 0
+CAE7724809.1	signal	1	18				
+CAE7724809.1	outside	19	514				
+//
+# CAE7724977.1 Length: 526
+# CAE7724977.1 Number of predicted TMRs: 0
+CAE7724977.1	signal	1	19				
+CAE7724977.1	outside	20	526				
+//
+# CAE7726178.1 Length: 177
+# CAE7726178.1 Number of predicted TMRs: 0
+CAE7726178.1	signal	1	18				
+CAE7726178.1	outside	19	177				
+//
+# CAE7728076.1 Length: 363
+# CAE7728076.1 Number of predicted TMRs: 0
+CAE7728076.1	signal	1	20				
+CAE7728076.1	outside	21	363				
+//
+# CAE7728684.1 Length: 481
+# CAE7728684.1 Number of predicted TMRs: 0
+CAE7728684.1	signal	1	22				
+CAE7728684.1	outside	23	481				
+//
+# CAE7729846.1 Length: 84
+# CAE7729846.1 Number of predicted TMRs: 0
+CAE7729846.1	signal	1	31				
+CAE7729846.1	outside	32	84				
+//
+# CAE7730191.1 Length: 185
+# CAE7730191.1 Number of predicted TMRs: 0
+CAE7730191.1	signal	1	26				
+CAE7730191.1	outside	27	185				
+//
+# CAE7730277.1 Length: 456
+# CAE7730277.1 Number of predicted TMRs: 0
+CAE7730277.1	signal	1	21				
+CAE7730277.1	outside	22	456				
+//
+# CAE7730292.1 Length: 402
+# CAE7730292.1 Number of predicted TMRs: 0
+CAE7730292.1	signal	1	26				
+CAE7730292.1	outside	27	402				
+//
+# CAE7731253.1 Length: 115
+# CAE7731253.1 Number of predicted TMRs: 0
+CAE7731253.1	signal	1	14				
+CAE7731253.1	outside	15	115				
+//
+# CAE7731273.1 Length: 115
+# CAE7731273.1 Number of predicted TMRs: 0
+CAE7731273.1	signal	1	17				
+CAE7731273.1	outside	18	115				
+//
+# CAE7732752.1 Length: 220
+# CAE7732752.1 Number of predicted TMRs: 0
+CAE7732752.1	signal	1	36				
+CAE7732752.1	outside	37	220				
+//
+# CAE7733133.1 Length: 150
+# CAE7733133.1 Number of predicted TMRs: 0
+CAE7733133.1	signal	1	18				
+CAE7733133.1	outside	19	150				
+//
+# CAE7733521.1 Length: 763
+# CAE7733521.1 Number of predicted TMRs: 0
+CAE7733521.1	signal	1	21				
+CAE7733521.1	outside	22	763				
+//
+# CAE7734414.1 Length: 153
+# CAE7734414.1 Number of predicted TMRs: 0
+CAE7734414.1	signal	1	15				
+CAE7734414.1	outside	16	153				
+//
+# CAE7735850.1 Length: 95
+# CAE7735850.1 Number of predicted TMRs: 0
+CAE7735850.1	signal	1	22				
+CAE7735850.1	outside	23	95				
+//
+# CAE7736183.1 Length: 119
+# CAE7736183.1 Number of predicted TMRs: 0
+CAE7736183.1	signal	1	19				
+CAE7736183.1	outside	20	119				
+//
+# CAE7742087.1 Length: 483
+# CAE7742087.1 Number of predicted TMRs: 0
+CAE7742087.1	signal	1	24				
+CAE7742087.1	outside	25	483				
+//
+# CAE7742102.1 Length: 242
+# CAE7742102.1 Number of predicted TMRs: 0
+CAE7742102.1	signal	1	19				
+CAE7742102.1	outside	20	242				
+//
+# CAE7742354.1 Length: 644
+# CAE7742354.1 Number of predicted TMRs: 0
+CAE7742354.1	signal	1	18				
+CAE7742354.1	outside	19	644				
+//
+# CAE7742720.1 Length: 653
+# CAE7742720.1 Number of predicted TMRs: 0
+CAE7742720.1	signal	1	18				
+CAE7742720.1	outside	19	653				
+//
+# CAE7743361.1 Length: 366
+# CAE7743361.1 Number of predicted TMRs: 0
+CAE7743361.1	signal	1	22				
+CAE7743361.1	outside	23	366				
+//
+# CAE7743719.1 Length: 164
+# CAE7743719.1 Number of predicted TMRs: 0
+CAE7743719.1	signal	1	18				
+CAE7743719.1	outside	19	164				
+//
+# CAE7746009.1 Length: 477
+# CAE7746009.1 Number of predicted TMRs: 0
+CAE7746009.1	signal	1	19				
+CAE7746009.1	outside	20	477				
+//
+# CAE7749219.1 Length: 457
+# CAE7749219.1 Number of predicted TMRs: 0
+CAE7749219.1	signal	1	17				
+CAE7749219.1	outside	18	457				
+//
+# CAE7749558.1 Length: 707
+# CAE7749558.1 Number of predicted TMRs: 1
+CAE7749558.1	signal	1	13				
+CAE7749558.1	outside	14	375				
+CAE7749558.1	TMhelix	376	385				
+CAE7749558.1	inside	386	707				
+//
+# CAE7750202.1 Length: 205
+# CAE7750202.1 Number of predicted TMRs: 0
+CAE7750202.1	signal	1	27				
+CAE7750202.1	outside	28	205				
+//
+# CAE7750497.1 Length: 277
+# CAE7750497.1 Number of predicted TMRs: 0
+CAE7750497.1	signal	1	20				
+CAE7750497.1	outside	21	277				
+//
+# CAE7750872.1 Length: 206
+# CAE7750872.1 Number of predicted TMRs: 0
+CAE7750872.1	signal	1	23				
+CAE7750872.1	outside	24	206				
+//
+# CAE7751385.1 Length: 222
+# CAE7751385.1 Number of predicted TMRs: 0
+CAE7751385.1	signal	1	18				
+CAE7751385.1	outside	19	222				
+//
+# CAE7751647.1 Length: 465
+# CAE7751647.1 Number of predicted TMRs: 0
+CAE7751647.1	signal	1	34				
+CAE7751647.1	outside	35	465				
+//
+# CAE7751933.1 Length: 281
+# CAE7751933.1 Number of predicted TMRs: 0
+CAE7751933.1	signal	1	32				
+CAE7751933.1	outside	33	281				
+//
+# CAE7752892.1 Length: 347
+# CAE7752892.1 Number of predicted TMRs: 0
+CAE7752892.1	signal	1	24				
+CAE7752892.1	outside	25	347				
+//
+# CAE7753006.1 Length: 634
+# CAE7753006.1 Number of predicted TMRs: 0
+CAE7753006.1	signal	1	20				
+CAE7753006.1	outside	21	634				
+//
+# CAE7753140.1 Length: 386
+# CAE7753140.1 Number of predicted TMRs: 0
+CAE7753140.1	signal	1	17				
+CAE7753140.1	outside	18	386				
+//
+# CAE7753178.1 Length: 154
+# CAE7753178.1 Number of predicted TMRs: 0
+CAE7753178.1	signal	1	17				
+CAE7753178.1	outside	18	154				
+//
+# CAE7753913.1 Length: 270
+# CAE7753913.1 Number of predicted TMRs: 0
+CAE7753913.1	signal	1	18				
+CAE7753913.1	outside	19	270				
+//
+# CAE7754655.1 Length: 683
+# CAE7754655.1 Number of predicted TMRs: 0
+CAE7754655.1	signal	1	19				
+CAE7754655.1	outside	20	683				
+//
+# CAE7755257.1 Length: 453
+# CAE7755257.1 Number of predicted TMRs: 0
+CAE7755257.1	signal	1	20				
+CAE7755257.1	outside	21	453				
+//
+# CAE7755401.1 Length: 587
+# CAE7755401.1 Number of predicted TMRs: 1
+CAE7755401.1	signal	1	30				
+CAE7755401.1	outside	31	373				
+CAE7755401.1	TMhelix	374	394				
+CAE7755401.1	inside	395	587				
+//
+# CAE7756439.1 Length: 374
+# CAE7756439.1 Number of predicted TMRs: 0
+CAE7756439.1	signal	1	16				
+CAE7756439.1	outside	17	374				
+//
+# CAE7757557.1 Length: 237
+# CAE7757557.1 Number of predicted TMRs: 0
+CAE7757557.1	signal	1	18				
+CAE7757557.1	outside	19	237				
+//
+# CAE7758163.1 Length: 174
+# CAE7758163.1 Number of predicted TMRs: 0
+CAE7758163.1	signal	1	32				
+CAE7758163.1	outside	33	174				
+//
+# CAE7758180.1 Length: 153
+# CAE7758180.1 Number of predicted TMRs: 0
+CAE7758180.1	signal	1	18				
+CAE7758180.1	outside	19	153				
+//
+# CAE7758196.1 Length: 154
+# CAE7758196.1 Number of predicted TMRs: 0
+CAE7758196.1	signal	1	18				
+CAE7758196.1	outside	19	154				
+//
+# CAE7758412.1 Length: 382
+# CAE7758412.1 Number of predicted TMRs: 0
+CAE7758412.1	signal	1	18				
+CAE7758412.1	outside	19	382				
+//
+# CAE7758521.1 Length: 327
+# CAE7758521.1 Number of predicted TMRs: 0
+CAE7758521.1	signal	1	21				
+CAE7758521.1	outside	22	327				
+//
+# CAE7759825.1 Length: 285
+# CAE7759825.1 Number of predicted TMRs: 0
+CAE7759825.1	signal	1	18				
+CAE7759825.1	outside	19	285				
+//
+# CAE7760360.1 Length: 490
+# CAE7760360.1 Number of predicted TMRs: 0
+CAE7760360.1	signal	1	16				
+CAE7760360.1	outside	17	490				
+//
+# CAE7760645.1 Length: 1120
+# CAE7760645.1 Number of predicted TMRs: 1
+CAE7760645.1	signal	1	60				
+CAE7760645.1	outside	61	247				
+CAE7760645.1	TMhelix	248	257				
+CAE7760645.1	inside	258	1120				
+//
+# CAE7760966.1 Length: 293
+# CAE7760966.1 Number of predicted TMRs: 0
+CAE7760966.1	signal	1	20				
+CAE7760966.1	outside	21	293				
+//
+# CAE7761088.1 Length: 206
+# CAE7761088.1 Number of predicted TMRs: 0
+CAE7761088.1	signal	1	21				
+CAE7761088.1	outside	22	206				
+//
+# CAE7764224.1 Length: 526
+# CAE7764224.1 Number of predicted TMRs: 0
+CAE7764224.1	signal	1	23				
+CAE7764224.1	outside	24	526				
+//
+# CAE7764269.1 Length: 271
+# CAE7764269.1 Number of predicted TMRs: 0
+CAE7764269.1	signal	1	12				
+CAE7764269.1	outside	13	271				
+//
+# CAE7764559.1 Length: 246
+# CAE7764559.1 Number of predicted TMRs: 0
+CAE7764559.1	signal	1	16				
+CAE7764559.1	outside	17	246				
+//
+# CAE7765698.1 Length: 300
+# CAE7765698.1 Number of predicted TMRs: 0
+CAE7765698.1	signal	1	17				
+CAE7765698.1	outside	18	300				
+//
+# CAE7765711.1 Length: 209
+# CAE7765711.1 Number of predicted TMRs: 0
+CAE7765711.1	signal	1	13				
+CAE7765711.1	outside	14	209				
+//
+# CAE7770175.1 Length: 647
+# CAE7770175.1 Number of predicted TMRs: 0
+CAE7770175.1	signal	1	18				
+CAE7770175.1	outside	19	647				
+//
+# CAE7771333.1 Length: 191
+# CAE7771333.1 Number of predicted TMRs: 0
+CAE7771333.1	signal	1	22				
+CAE7771333.1	outside	23	191				
+//
+# CAE7772230.1 Length: 755
+# CAE7772230.1 Number of predicted TMRs: 0
+CAE7772230.1	signal	1	17				
+CAE7772230.1	outside	18	755				
+//
+# CAE7772361.1 Length: 402
+# CAE7772361.1 Number of predicted TMRs: 0
+CAE7772361.1	signal	1	25				
+CAE7772361.1	outside	26	402				
+//
+# CAE7773119.1 Length: 385
+# CAE7773119.1 Number of predicted TMRs: 0
+CAE7773119.1	signal	1	19				
+CAE7773119.1	outside	20	385				
+//
+# CAE7774439.1 Length: 524
+# CAE7774439.1 Number of predicted TMRs: 0
+CAE7774439.1	signal	1	20				
+CAE7774439.1	outside	21	524				
+//
+# CAE7774954.1 Length: 591
+# CAE7774954.1 Number of predicted TMRs: 0
+CAE7774954.1	signal	1	15				
+CAE7774954.1	outside	16	591				
+//
+# CAE7778646.1 Length: 1322
+# CAE7778646.1 Number of predicted TMRs: 1
+CAE7778646.1	signal	1	24				
+CAE7778646.1	outside	25	726				
+CAE7778646.1	TMhelix	727	736				
+CAE7778646.1	inside	737	1322				
+//
+# CAE7778745.1 Length: 428
+# CAE7778745.1 Number of predicted TMRs: 0
+CAE7778745.1	signal	1	34				
+CAE7778745.1	outside	35	428				
+//
+# CAE7780912.1 Length: 299
+# CAE7780912.1 Number of predicted TMRs: 0
+CAE7780912.1	signal	1	16				
+CAE7780912.1	outside	17	299				
+//
+# CAE7781546.1 Length: 321
+# CAE7781546.1 Number of predicted TMRs: 0
+CAE7781546.1	signal	1	17				
+CAE7781546.1	outside	18	321				
+//
+# CAE7781849.1 Length: 406
+# CAE7781849.1 Number of predicted TMRs: 0
+CAE7781849.1	signal	1	16				
+CAE7781849.1	outside	17	406				
+//
+# CAE7781858.1 Length: 356
+# CAE7781858.1 Number of predicted TMRs: 0
+CAE7781858.1	signal	1	22				
+CAE7781858.1	outside	23	356				

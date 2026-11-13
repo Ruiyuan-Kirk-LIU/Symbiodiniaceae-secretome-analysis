@@ -1,0 +1,1065 @@
+## gff-version 3
+CAE7148639.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	25	0.9995971	.	.	.
+CAE7148663.1 nolG [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	11	0.9724861	.	.	.
+CAE7148700.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9989364	.	.	.
+CAE7148936.1 iorB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.9999785	.	.	Note=TAT
+CAE7148959.1 pvdQ [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	27	0.9162113	.	.	.
+CAE7149001.1 hip [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.99967736	.	.	Note=TAT
+CAE7149020.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.99894994	.	.	.
+CAE7149228.1 rotA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9985082	.	.	.
+CAE7149274.1 acyII [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99888325	.	.	.
+CAE7149290.1 phoP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.988826	.	.	.
+CAE7149388.1 oppA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.9022355	.	.	.
+CAE7149469.1 fadE17 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99904406	.	.	.
+CAE7149487.1 oprF [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99888337	.	.	.
+CAE7149569.1 rimK [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	16	1.0	.	.	.
+CAE7149594.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99905336	.	.	.
+CAE7149639.1 yxjM [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991353	.	.	.
+CAE7149713.1 idiA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99913245	.	.	.
+CAE7150565.1 ttll6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9990948	.	.	.
+CAE7151547.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9991872	.	.	.
+CAE7152317.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99895227	.	.	.
+CAE7153836.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9992195	.	.	.
+CAE7153837.1 Pgc [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990638	.	.	.
+CAE7156326.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.8406605	.	.	.
+CAE7156576.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.76294434	.	.	.
+CAE7157485.1 UBP6 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.93874514	.	.	.
+CAE7157923.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9989976	.	.	.
+CAE7159052.1 MTERF6, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99896383	.	.	.
+CAE7160640.1 phr, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99297404	.	.	.
+CAE7160845.1 ANKRD17, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.98968124	.	.	.
+CAE7161926.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99895054	.	.	.
+CAE7162209.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99912053	.	.	.
+CAE7162600.1 Scube1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9990696	.	.	.
+CAE7168093.1 BXL2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9989783	.	.	.
+CAE7168897.1 bamB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	37	0.9988771	.	.	.
+CAE7169028.1 GLT8D2 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	27	0.8460499	.	.	.
+CAE7169707.1 GNT1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9974349	.	.	.
+CAE7171207.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.8605497	.	.	.
+CAE7171793.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.49631685	.	.	.
+CAE7172250.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9980862	.	.	.
+CAE7172851.1 P100/11E [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9990605	.	.	.
+CAE7173350.1 ACP5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9992479	.	.	.
+CAE7173506.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.5997984	.	.	.
+CAE7173553.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991809	.	.	.
+CAE7173625.1 meigo [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9991703	.	.	.
+CAE7173829.1 sodA, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	19	0.9804177	.	.	.
+CAE7174369.1 nipblb [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9519597	.	.	.
+CAE7175181.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.8874055	.	.	.
+CAE7176127.1 slc25a42, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	20	0.9251306	.	.	.
+CAE7177229.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990009	.	.	.
+CAE7178181.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9990231	.	.	.
+CAE7180476.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99829847	.	.	.
+CAE7180479.1 Sirt6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.53526604	.	.	.
+CAE7180692.1 sdpA [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	26	0.52080476	.	.	.
+CAE7180804.1 bglX [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.6307791	.	.	.
+CAE7182531.1 glcD [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99864817	.	.	.
+CAE7182814.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9990968	.	.	.
+CAE7182887.1 acuF, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99908406	.	.	.
+CAE7182971.1 atpE, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	14	0.9618838	.	.	.
+CAE7183055.1 phr [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99914587	.	.	.
+CAE7184378.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9989822	.	.	.
+CAE7185189.1 nikA, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99918383	.	.	.
+CAE7186739.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9988148	.	.	.
+CAE7188628.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99923986	.	.	.
+CAE7188663.1 jmjd6-a [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9983282	.	.	.
+CAE7188764.1 PPX2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9990636	.	.	.
+CAE7189458.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99822253	.	.	.
+CAE7189789.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9992382	.	.	.
+CAE7194168.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99843293	.	.	.
+CAE7195460.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9991096	.	.	.
+CAE7195743.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99916846	.	.	.
+CAE7195851.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.8192413	.	.	.
+CAE7196442.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99907357	.	.	.
+CAE7196605.1 VIL1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991906	.	.	.
+CAE7197053.1 ftsH [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9971047	.	.	.
+CAE7197386.1 Arsj [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9985924	.	.	.
+CAE7197646.1 FCP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	40	0.6633918	.	.	.
+CAE7198071.1 BDH1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99910235	.	.	.
+CAE7198761.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990752	.	.	.
+CAE7200383.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9963928	.	.	.
+CAE7200908.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991712	.	.	.
+CAE7201075.1 atpF2 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	17	0.9998881	.	.	.
+CAE7201135.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.5835262	.	.	.
+CAE7201276.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99877506	.	.	.
+CAE7201369.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991594	.	.	.
+CAE7202642.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99887717	.	.	.
+CAE7202863.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.67874026	.	.	.
+CAE7203069.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9656606	.	.	.
+CAE7203315.1 chr1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99908525	.	.	.
+CAE7203341.1 akr1a1a, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991604	.	.	.
+CAE7203607.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99908763	.	.	.
+CAE7204705.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9988699	.	.	.
+CAE7205312.1 PRY1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991405	.	.	.
+CAE7206137.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.558772	.	.	.
+CAE7206413.1 Col6a4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9991139	.	.	.
+CAE7206426.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9981209	.	.	.
+CAE7206469.1 SAMHD1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99911726	.	.	.
+CAE7206645.1 nolO [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9992085	.	.	.
+CAE7207176.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.61716026	.	.	.
+CAE7207509.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.584356	.	.	.
+CAE7207541.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990338	.	.	.
+CAE7208473.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9969392	.	.	.
+CAE7208579.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.8513985	.	.	.
+CAE7208619.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	18	1.0	.	.	.
+CAE7208628.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	6	0.9982184	.	.	Note=Pilin
+CAE7208632.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	6	0.99627626	.	.	Note=Pilin
+CAE7208639.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	6	0.9974343	.	.	Note=Pilin
+CAE7208652.1 xcpT [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	6	0.99766517	.	.	Note=Pilin
+CAE7208795.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99912083	.	.	.
+CAE7208987.1 GIP, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.99652493	.	.	.
+CAE7209544.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99905336	.	.	.
+CAE7210023.1 Chek2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.436932	.	.	.
+CAE7210126.1 CACNA1G [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.78577566	.	.	.
+CAE7210430.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.47517654	.	.	.
+CAE7210518.1 TUB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.6111671	.	.	.
+CAE7211307.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9991803	.	.	.
+CAE7212699.1 HEMB [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	18	0.6276498	.	.	.
+CAE7213212.1 egl5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9989942	.	.	.
+CAE7213911.1 SLC39A12 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.5660329	.	.	.
+CAE7213922.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.5219007	.	.	.
+CAE7215103.1 REV1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.7175255	.	.	.
+CAE7215113.1 REV1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9271257	.	.	.
+CAE7215381.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9986847	.	.	.
+CAE7215828.1 P2RX4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9814609	.	.	.
+CAE7215876.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9990765	.	.	.
+CAE7215892.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	25	0.6015472	.	.	.
+CAE7216152.1 ANK1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.5271038	.	.	.
+CAE7216160.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	18	0.99760234	.	.	.
+CAE7216275.1 CRY2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9710871	.	.	.
+CAE7216514.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99920535	.	.	.
+CAE7217431.1 GRC3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9813313	.	.	.
+CAE7218653.1 ENDO2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9990108	.	.	.
+CAE7219706.1 kif19 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	33	0.73614186	.	.	.
+CAE7219821.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9989027	.	.	.
+CAE7220458.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.51970226	.	.	.
+CAE7220664.1 atpE [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.47612655	.	.	.
+CAE7220667.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9991963	.	.	.
+CAE7221096.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99910486	.	.	.
+CAE7221339.1 BIP5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9989066	.	.	.
+CAE7221419.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9989033	.	.	.
+CAE7221869.1 STRN3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9991132	.	.	.
+CAE7222391.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.5005261	.	.	.
+CAE7222705.1 CBWD5, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99917436	.	.	.
+CAE7223105.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99903387	.	.	.
+CAE7223889.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99918777	.	.	.
+CAE7224049.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99896944	.	.	.
+CAE7224162.1 olpB, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.85133386	.	.	.
+CAE7224646.1 IFI30 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	47	0.45252508	.	.	.
+CAE7224854.1 HERC2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.60200655	.	.	.
+CAE7225145.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9265565	.	.	Note=TAT
+CAE7225560.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.98792607	.	.	.
+CAE7225606.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99916846	.	.	.
+CAE7225755.1 glgB, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	30	0.6409284	.	.	.
+CAE7226555.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9990706	.	.	.
+CAE7226569.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	48	0.44716987	.	.	.
+CAE7226679.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.99918467	.	.	.
+CAE7226755.1 SIS3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9989472	.	.	.
+CAE7226859.1 PGC [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9989177	.	.	.
+CAE7226945.1 BPM3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.9984375	.	.	.
+CAE7227170.1 PLBD2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9868253	.	.	.
+CAE7228280.1 MPK13 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.82444817	.	.	.
+CAE7228505.1 DRG2 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.5969874	.	.	.
+CAE7228536.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99911803	.	.	.
+CAE7228936.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9991411	.	.	.
+CAE7228943.1 KIF16B [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9990601	.	.	.
+CAE7229439.1 ACP5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9991369	.	.	.
+CAE7230291.1 PSF2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9990573	.	.	.
+CAE7230486.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.96125615	.	.	.
+CAE7230556.1 PPR4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.86436415	.	.	.
+CAE7231258.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.9979397	.	.	.
+CAE7231625.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99844515	.	.	.
+CAE7231648.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991787	.	.	.
+CAE7231801.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.7712247	.	.	.
+CAE7231808.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.8222442	.	.	.
+CAE7232369.1 yfnA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99913174	.	.	.
+CAE7232375.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991938	.	.	.
+CAE7232454.1 PILS2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9991602	.	.	.
+CAE7232623.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991219	.	.	.
+CAE7232998.1 RABH1B [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.5234658	.	.	.
+CAE7233426.1 1a [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.93468755	.	.	.
+CAE7233851.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990984	.	.	.
+CAE7234711.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99850595	.	.	.
+CAE7234930.1 Cyt-b5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99926114	.	.	.
+CAE7235149.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	20	0.55528235	.	.	.
+CAE7235779.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991766	.	.	.
+CAE7235981.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.69291866	.	.	.
+CAE7236010.1 Trmt9b, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9990821	.	.	.
+CAE7236041.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.9987121	.	.	.
+CAE7236289.1 CCX1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99919826	.	.	.
+CAE7236298.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.9851658	.	.	.
+CAE7236877.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9991053	.	.	.
+CAE7237001.1 Ccdc38, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.95847386	.	.	.
+CAE7237060.1 SCPL22 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99913913	.	.	.
+CAE7237580.1 PLR1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.989265	.	.	.
+CAE7238314.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.5553723	.	.	.
+CAE7238665.1 Abcb10, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.5729981	.	.	.
+CAE7238686.1 GRM1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.998503	.	.	.
+CAE7238941.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.6150397	.	.	.
+CAE7239207.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	25	1.0	.	.	.
+CAE7239406.1 GORK, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99835426	.	.	.
+CAE7239806.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	7	0.6914189	.	.	.
+CAE7240791.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.9681302	.	.	.
+CAE7240836.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99853265	.	.	.
+CAE7241056.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.69880474	.	.	.
+CAE7241143.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99905336	.	.	.
+CAE7241176.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.77205825	.	.	.
+CAE7241822.1 CLPC1 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	27	0.694026	.	.	.
+CAE7241983.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991646	.	.	.
+CAE7242723.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	16	0.61775184	.	.	.
+CAE7242920.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99816567	.	.	.
+CAE7243542.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9987785	.	.	.
+CAE7243831.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9991711	.	.	.
+CAE7244292.1 slc36a4, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.6849931	.	.	.
+CAE7244589.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99911153	.	.	.
+CAE7245516.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.80846447	.	.	.
+CAE7245664.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.60204333	.	.	.
+CAE7245750.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.999133	.	.	.
+CAE7245926.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	23	1.0	.	.	.
+CAE7245941.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.8909662	.	.	.
+CAE7245968.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991808	.	.	.
+CAE7246214.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9973954	.	.	.
+CAE7246230.1 IAR1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.8291502	.	.	.
+CAE7246322.1 NHD1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	43	0.90421474	.	.	.
+CAE7246330.1 SmE [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.53723145	.	.	.
+CAE7246542.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991462	.	.	.
+CAE7247007.1 mut-7, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99887776	.	.	.
+CAE7247574.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9992256	.	.	.
+CAE7247619.1 abh1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9992055	.	.	.
+CAE7247634.1 Gbe1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9965084	.	.	.
+CAE7247691.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9989663	.	.	.
+CAE7247697.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.6321304	.	.	.
+CAE7247706.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9991685	.	.	.
+CAE7247824.1 FCPF [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99833703	.	.	.
+CAE7248032.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991606	.	.	.
+CAE7248614.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99843866	.	.	.
+CAE7248855.1 FCPF [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99654084	.	.	.
+CAE7249499.1 ANKRD17 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9988521	.	.	.
+CAE7249674.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.7068138	.	.	.
+CAE7249922.1 dnaJ [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99850285	.	.	.
+CAE7250088.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99912685	.	.	.
+CAE7250343.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991763	.	.	.
+CAE7250394.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99914104	.	.	.
+CAE7251366.1 cirA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.99193907	.	.	.
+CAE7251476.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9548915	.	.	.
+CAE7251630.1 DNAH12 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9989614	.	.	.
+CAE7251737.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.97126645	.	.	Note=Pilin
+CAE7251877.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9991737	.	.	.
+CAE7252863.1 DHH1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.999158	.	.	.
+CAE7253497.1 SEP2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991337	.	.	.
+CAE7253682.1 YUC9 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99904865	.	.	.
+CAE7253922.1 elmMI [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99494207	.	.	.
+CAE7254794.1 SHM4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9988773	.	.	.
+CAE7255351.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991727	.	.	.
+CAE7255476.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9985139	.	.	.
+CAE7255531.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9992132	.	.	.
+CAE7256192.1 ymfD [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.7535067	.	.	.
+CAE7256212.1 ROCK1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	64	0.49220356	.	.	.
+CAE7256327.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.5945528	.	.	.
+CAE7256391.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9991388	.	.	.
+CAE7256824.1 atpE [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	14	0.95229197	.	.	.
+CAE7257183.1 Tmtc4, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	20	0.5177999	.	.	.
+CAE7257187.1 Slc8a3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.6712414	.	.	.
+CAE7257199.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.7463996	.	.	.
+CAE7257503.1 rbcL, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.5560786	.	.	.
+CAE7257699.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9253619	.	.	.
+CAE7258053.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9991738	.	.	.
+CAE7259014.1 ctse-a, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9989958	.	.	.
+CAE7259591.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.999049	.	.	.
+CAE7259711.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9897899	.	.	.
+CAE7259731.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99923325	.	.	.
+CAE7259803.1 pleC [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.99862903	.	.	.
+CAE7260242.1 Fam135a [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9961372	.	.	.
+CAE7260529.1 secG, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9987268	.	.	.
+CAE7261452.1 DED1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991988	.	.	.
+CAE7261660.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99835134	.	.	.
+CAE7261833.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	33	0.7473355	.	.	.
+CAE7262400.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9976142	.	.	.
+CAE7262578.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99849707	.	.	.
+CAE7262916.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.7093089	.	.	.
+CAE7263056.1 Ccdc65 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.6077771	.	.	.
+CAE7264670.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.5582432	.	.	.
+CAE7265981.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99055165	.	.	.
+CAE7266477.1 SEP2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9985801	.	.	.
+CAE7267784.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9985823	.	.	.
+CAE7268759.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.99912345	.	.	.
+CAE7269326.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.98768723	.	.	.
+CAE7270536.1 CYP27A1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99917173	.	.	.
+CAE7272375.1 ROM3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.7407044	.	.	.
+CAE7273943.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	36	0.9541119	.	.	.
+CAE7274497.1 FUC1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.99874836	.	.	.
+CAE7275069.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	26	0.8681393	.	.	.
+CAE7275234.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.5790088	.	.	.
+CAE7276508.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.95362604	.	.	.
+CAE7276580.1 COX5B-1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99885625	.	.	.
+CAE7278172.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	24	0.9519638	.	.	.
+CAE7279077.1 SEP2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99727094	.	.	.
+CAE7279176.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9992183	.	.	.
+CAE7279683.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991917	.	.	.
+CAE7279738.1 carA2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99911237	.	.	.
+CAE7280886.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99907905	.	.	.
+CAE7281853.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9978199	.	.	.
+CAE7282712.1 atpE [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.999035	.	.	.
+CAE7283768.1 rsgI3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.998968	.	.	.
+CAE7285179.1 osm1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9671598	.	.	.
+CAE7285506.1 psaD, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	19	0.9297152	.	.	.
+CAE7286082.1 PPL1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.558388	.	.	.
+CAE7287254.1 ppsD [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.5532958	.	.	.
+CAE7287761.1 Galnt3 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	26	0.7137934	.	.	.
+CAE7287816.1 CEP1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.8537335	.	.	.
+CAE7288313.1 COL20A1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9992227	.	.	.
+CAE7292009.1 PSB27-1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.90943915	.	.	.
+CAE7292423.1 ANK1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9981698	.	.	.
+CAE7293660.1 RCH2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.9988821	.	.	.
+CAE7293883.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.4836651	.	.	.
+CAE7294451.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.60081303	.	.	.
+CAE7294571.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	18	0.84098506	.	.	.
+CAE7295487.1 NNT [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	27	0.9999794	.	.	.
+CAE7295913.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9489122	.	.	.
+CAE7297438.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99900556	.	.	.
+CAE7299687.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99879	.	.	.
+CAE7299724.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9887125	.	.	.
+CAE7300804.1 aarA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.97538394	.	.	.
+CAE7301711.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.999171	.	.	.
+CAE7303260.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.6698238	.	.	.
+CAE7304487.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.9964927	.	.	.
+CAE7305226.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	17	0.77208304	.	.	.
+CAE7306373.1 rbcL, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.5926645	.	.	.
+CAE7306621.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	15	0.53469014	.	.	.
+CAE7308578.1 IFI30 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99904513	.	.	.
+CAE7309181.1 CDH-1 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	13	0.8565968	.	.	.
+CAE7311471.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.968683	.	.	.
+CAE7311670.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	21	1.0	.	.	.
+CAE7311779.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	38	0.7060196	.	.	.
+CAE7311865.1 Pcdhb6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.997707	.	.	.
+CAE7311883.1 ppnN [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9957654	.	.	.
+CAE7312157.1 natA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9981459	.	.	.
+CAE7312347.1 rodZ [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	23	1.0	.	.	.
+CAE7312466.1 recJ [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	15	0.5312933	.	.	.
+CAE7312647.1 mlaA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9989709	.	.	.
+CAE7312707.1 nqrF [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.96025187	.	.	.
+CAE7313557.1 mauG [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	17	0.9998937	.	.	.
+CAE7314063.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	9	1.0	.	.	.
+CAE7314194.1 yneN [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	42	0.9927182	.	.	.
+CAE7314252.1 pbpG [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.99890655	.	.	.
+CAE7316006.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.8623216	.	.	.
+CAE7316543.1 phoN, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.52659476	.	.	.
+CAE7317598.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	40	0.58172065	.	.	.
+CAE7317824.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.506025	.	.	.
+CAE7317902.1 PNC1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.96406543	.	.	.
+CAE7318584.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99895984	.	.	.
+CAE7319281.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9948171	.	.	.
+CAE7319507.1 pncA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9632185	.	.	.
+CAE7320140.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.9334467	.	.	.
+CAE7321510.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99879766	.	.	.
+CAE7321708.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.52365494	.	.	.
+CAE7322243.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.98794186	.	.	.
+CAE7322487.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99903905	.	.	.
+CAE7323308.1 Dcaf13 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.96465474	.	.	.
+CAE7323349.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99907047	.	.	.
+CAE7324524.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99875057	.	.	.
+CAE7325217.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99914604	.	.	.
+CAE7325790.1 norA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991473	.	.	.
+CAE7326079.1 ankrd52 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9989736	.	.	.
+CAE7326458.1 ppaC, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.8428782	.	.	.
+CAE7326763.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99917334	.	.	.
+CAE7328246.1 BDH1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991873	.	.	.
+CAE7328475.1 est [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99893725	.	.	.
+CAE7328635.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	23	0.95621353	.	.	.
+CAE7330899.1 Slc38a7, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.5437238	.	.	.
+CAE7331474.1 CPK1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99821967	.	.	.
+CAE7331618.1 Slc35b2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.7763926	.	.	.
+CAE7331952.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.84258497	.	.	.
+CAE7332263.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99917537	.	.	.
+CAE7333370.1 dnj-1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.97514457	.	.	.
+CAE7334365.1 PAP22, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99895614	.	.	.
+CAE7334536.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99917513	.	.	.
+CAE7335350.1 Lamb1 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	11	0.90475863	.	.	.
+CAE7335536.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.6808483	.	.	.
+CAE7336835.1 PRKACB, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.5956465	.	.	.
+CAE7337033.1 TARBP1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9991537	.	.	.
+CAE7337395.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	45	0.5773414	.	.	.
+CAE7337398.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99923307	.	.	.
+CAE7337457.1 TMEM231 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.5791492	.	.	.
+CAE7337657.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9988613	.	.	.
+CAE7338132.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.7785288	.	.	.
+CAE7338302.1 COPT6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99795854	.	.	.
+CAE7338957.1 MPK4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99921906	.	.	.
+CAE7340334.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.5596151	.	.	.
+CAE7340592.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99903274	.	.	.
+CAE7341372.1 Cemip [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.99656975	.	.	.
+CAE7342068.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	40	0.6712418	.	.	.
+CAE7342304.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99919415	.	.	.
+CAE7342349.1 BP80, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9521791	.	.	.
+CAE7343601.1 cysA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.56020725	.	.	.
+CAE7343617.1 Pol [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.9989969	.	.	.
+CAE7344244.1 mdtC [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	33	0.9170192	.	.	.
+CAE7344262.1 tgt [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9986434	.	.	.
+CAE7344310.1 irpA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	49	0.9258957	.	.	.
+CAE7344369.1 deoA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9989525	.	.	.
+CAE7344893.1 ACSL4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9379485	.	.	.
+CAE7345041.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99909425	.	.	.
+CAE7346170.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	39	0.5617042	.	.	Note=TAT
+CAE7346471.1 glvI [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99913347	.	.	.
+CAE7347110.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9990134	.	.	.
+CAE7348561.1 TM9SF3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.99916726	.	.	.
+CAE7351799.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991147	.	.	.
+CAE7353404.1 rbcL, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.85303694	.	.	.
+CAE7354229.1 ACP5, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.6204103	.	.	.
+CAE7354376.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99917793	.	.	.
+CAE7354577.1 gas4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9985011	.	.	.
+CAE7355203.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.75208163	.	.	.
+CAE7356773.1 wxcX [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9987979	.	.	.
+CAE7356830.1 XTH1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9990956	.	.	.
+CAE7356840.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	12	0.99901116	.	.	.
+CAE7356849.1 ybaR [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.5193283	.	.	.
+CAE7357139.1 AOR [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.99778646	.	.	.
+CAE7357162.1 PSL4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9992341	.	.	.
+CAE7358442.1 nup98 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9986221	.	.	.
+CAE7358885.1 Cpa5, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990806	.	.	.
+CAE7360118.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99914473	.	.	.
+CAE7360333.1 SUMF2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.52745587	.	.	.
+CAE7361547.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.999039	.	.	.
+CAE7361927.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.99911296	.	.	.
+CAE7361968.1 KLKB1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991419	.	.	.
+CAE7362037.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9987669	.	.	.
+CAE7362076.1 prfA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99887276	.	.	.
+CAE7362238.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	36	0.8806137	.	.	.
+CAE7363961.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9992362	.	.	.
+CAE7364229.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.7826747	.	.	.
+CAE7364906.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99917746	.	.	.
+CAE7365187.1 PDIL1-2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9989777	.	.	.
+CAE7365545.1 bPT2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.99651945	.	.	.
+CAE7366225.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99908113	.	.	.
+CAE7366394.1 PTCHD2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.8774348	.	.	.
+CAE7366735.1 NPC6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9987336	.	.	.
+CAE7367213.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.656241	.	.	.
+CAE7367250.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.5740563	.	.	.
+CAE7368822.1 GABBR2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9990631	.	.	.
+CAE7369132.1 FGA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.98802406	.	.	.
+CAE7369589.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.99894357	.	.	.
+CAE7369709.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9920253	.	.	.
+CAE7369971.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9990947	.	.	.
+CAE7373237.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99912924	.	.	.
+CAE7373251.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99916285	.	.	.
+CAE7373697.1 edem3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99832326	.	.	.
+CAE7374513.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99921197	.	.	.
+CAE7376233.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.998455	.	.	.
+CAE7376253.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99913466	.	.	.
+CAE7377266.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9990599	.	.	.
+CAE7379434.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.61106944	.	.	.
+CAE7380715.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.6478493	.	.	.
+CAE7381663.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9990896	.	.	.
+CAE7382572.1 AMY1.6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9989753	.	.	.
+CAE7383015.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.7232991	.	.	.
+CAE7383406.1 LIP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9988191	.	.	.
+CAE7384356.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.3640935	.	.	Note=TAT
+CAE7385860.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9956901	.	.	.
+CAE7386502.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9988446	.	.	.
+CAE7386784.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.9411985	.	.	.
+CAE7387279.1 Arsk [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99863625	.	.	.
+CAE7389489.1 IIV3-029R [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99896497	.	.	.
+CAE7391049.1 CPK8 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991908	.	.	.
+CAE7391297.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9984307	.	.	.
+CAE7391963.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.9991804	.	.	.
+CAE7392001.1 QSOX1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.6965892	.	.	.
+CAE7392133.1 lia1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9786039	.	.	.
+CAE7392822.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991522	.	.	.
+CAE7394099.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99885017	.	.	.
+CAE7394248.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.99904245	.	.	.
+CAE7394964.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9992275	.	.	.
+CAE7395008.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9989888	.	.	.
+CAE7395146.1 Gnf1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99625295	.	.	.
+CAE7396970.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9987296	.	.	.
+CAE7398002.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9991412	.	.	.
+CAE7398417.1 NSUN2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.8862428	.	.	.
+CAE7400423.1 eipr1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	42	0.88552284	.	.	.
+CAE7401891.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.54610896	.	.	.
+CAE7401957.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99880326	.	.	.
+CAE7403012.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.9990603	.	.	.
+CAE7403426.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99918914	.	.	.
+CAE7403954.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.5830772	.	.	.
+CAE7404342.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.6010503	.	.	.
+CAE7405420.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.53362525	.	.	.
+CAE7407498.1 Creg1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.7121907	.	.	.
+CAE7409177.1 proP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.534165	.	.	.
+CAE7409878.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9988329	.	.	.
+CAE7412456.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9990949	.	.	.
+CAE7412737.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99909425	.	.	.
+CAE7413951.1 SPON1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.60270697	.	.	.
+CAE7415794.1 NLRC3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9956612	.	.	.
+CAE7416274.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9991586	.	.	.
+CAE7419612.1 MSH6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9990658	.	.	.
+CAE7420697.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	43	0.5469474	.	.	.
+CAE7421407.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.8948939	.	.	.
+CAE7423185.1 amt-3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9991097	.	.	.
+CAE7423927.1 qua-1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99909	.	.	.
+CAE7424082.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.9130215	.	.	.
+CAE7424301.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	25	0.4601357	.	.	Note=TAT
+CAE7424505.1 PDE9A [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	38	0.987154	.	.	.
+CAE7428335.1 DNMT3A, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.6757396	.	.	.
+CAE7428942.1 tmem145 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99721587	.	.	.
+CAE7432049.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.7550354	.	.	.
+CAE7432412.1 ATG18A, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9991372	.	.	.
+CAE7434710.1 KHSRP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9991212	.	.	.
+CAE7435977.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99920684	.	.	.
+CAE7436105.1 leuA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99922913	.	.	.
+CAE7436456.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.8851594	.	.	.
+CAE7437863.1 RIB2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	33	0.5408593	.	.	.
+CAE7437877.1 Ctsz [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99893516	.	.	.
+CAE7439250.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9992127	.	.	.
+CAE7439301.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99824446	.	.	.
+CAE7439677.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.52799946	.	.	.
+CAE7442216.1 tmem87a [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9892156	.	.	.
+CAE7442227.1 HET-E1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991731	.	.	.
+CAE7442248.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991352	.	.	.
+CAE7443905.1 rimK [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99905735	.	.	.
+CAE7443954.1 yejF [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99917644	.	.	.
+CAE7446575.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99916685	.	.	.
+CAE7447066.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	18	0.9656136	.	.	.
+CAE7451369.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.8339117	.	.	.
+CAE7452179.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	27	0.60535544	.	.	.
+CAE7453282.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99749583	.	.	.
+CAE7453816.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.5832841	.	.	.
+CAE7454420.1 grpE [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9988566	.	.	.
+CAE7456377.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9990736	.	.	.
+CAE7456451.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9992188	.	.	.
+CAE7457971.1 CALS12 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99915135	.	.	.
+CAE7458008.1 Hexb [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.596685	.	.	.
+CAE7458601.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.7499688	.	.	.
+CAE7458871.1 queC [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	3	0.8307564	.	.	.
+CAE7459047.1 lptD [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.99777144	.	.	.
+CAE7459067.1 mdtE [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.99885434	.	.	.
+CAE7459307.1 epsE [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	10	1.0	.	.	.
+CAE7459348.1 envC [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9950835	.	.	.
+CAE7459463.1 gst3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9985224	.	.	.
+CAE7459787.1 fabV [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9990722	.	.	.
+CAE7459943.1 helA, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.9257561	.	.	.
+CAE7459972.1 ygcG [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99912065	.	.	.
+CAE7460573.1 petJ [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	19	0.77518207	.	.	.
+CAE7460624.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.85677284	.	.	.
+CAE7461090.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991939	.	.	.
+CAE7461339.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.84862775	.	.	.
+CAE7461643.1 gyrA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9991652	.	.	.
+CAE7463487.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9989797	.	.	.
+CAE7465257.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.95630795	.	.	.
+CAE7465341.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9989329	.	.	.
+CAE7465364.1 ADK2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99340737	.	.	.
+CAE7465621.1 tkt [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.72315776	.	.	.
+CAE7465799.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9986518	.	.	.
+CAE7466418.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9990739	.	.	.
+CAE7466429.1 DNAJA2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.81088495	.	.	.
+CAE7467832.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	44	0.82744634	.	.	Note=TAT
+CAE7469120.1 tea1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9988856	.	.	.
+CAE7469199.1 CKL3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.95008415	.	.	.
+CAE7469216.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991549	.	.	.
+CAE7469253.1 FCPA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.78597933	.	.	.
+CAE7470276.1 ANKRD17 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99802387	.	.	.
+CAE7470981.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9991827	.	.	.
+CAE7471313.1 pstS [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991346	.	.	.
+CAE7471510.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	36	0.6142224	.	.	Note=TAT
+CAE7474823.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99906033	.	.	.
+CAE7475890.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99896336	.	.	.
+CAE7477285.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.9983129	.	.	.
+CAE7478065.1 petC, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	33	0.5043405	.	.	.
+CAE7479374.1 LOC106165176 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9991328	.	.	.
+CAE7480706.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99890184	.	.	.
+CAE7481293.1 CPK1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99904025	.	.	.
+CAE7481311.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.999006	.	.	.
+CAE7481573.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.999063	.	.	.
+CAE7481816.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9991968	.	.	.
+CAE7482220.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.9854342	.	.	.
+CAE7482772.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9991289	.	.	.
+CAE7484953.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.995328	.	.	.
+CAE7485491.1 PEPKR2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9968703	.	.	.
+CAE7485709.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99917686	.	.	.
+CAE7486066.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.98552567	.	.	.
+CAE7486165.1 BIG2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.81299967	.	.	.
+CAE7486268.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9991808	.	.	.
+CAE7487605.1 Peg3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9988927	.	.	.
+CAE7489913.1 ghrB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9940636	.	.	.
+CAE7490122.1 FCPF [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.61180955	.	.	.
+CAE7492528.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9989875	.	.	.
+CAE7492842.1 doa10, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.724413	.	.	.
+CAE7493510.1 dnaJ [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	45	0.6221504	.	.	.
+CAE7493558.1 licD, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9752435	.	.	.
+CAE7494198.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99901474	.	.	.
+CAE7497372.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991514	.	.	.
+CAE7498151.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99217975	.	.	.
+CAE7498982.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.8706889	.	.	.
+CAE7499033.1 HERC5, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.5107666	.	.	.
+CAE7501209.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99919105	.	.	.
+CAE7502471.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9964631	.	.	.
+CAE7503119.1 YBEY [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9991497	.	.	.
+CAE7503472.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99916226	.	.	.
+CAE7503815.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.9959451	.	.	.
+CAE7504877.1 psiQ, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991843	.	.	.
+CAE7504943.1 nipblb [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99862593	.	.	.
+CAE7506067.1 ddx42 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9486937	.	.	.
+CAE7507570.1 Sema5b [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.999065	.	.	.
+CAE7507656.1 kif19 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.64595157	.	.	.
+CAE7508890.1 ANKRD17 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9989747	.	.	.
+CAE7509606.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991165	.	.	.
+CAE7509866.1 nas-39 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9983717	.	.	.
+CAE7510199.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.7183367	.	.	.
+CAE7511634.1 Calm4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.5686278	.	.	.
+CAE7511769.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.68773985	.	.	.
+CAE7511786.1 ASPH [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9974183	.	.	.
+CAE7511873.1 ISPD [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99907434	.	.	.
+CAE7512227.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9971063	.	.	.
+CAE7513259.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.99916655	.	.	.
+CAE7513486.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9726907	.	.	.
+CAE7514141.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	33	0.99362355	.	.	.
+CAE7514272.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.5163167	.	.	.
+CAE7515560.1 gcy-35 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99921674	.	.	.
+CAE7515926.1 cpz [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.999146	.	.	.
+CAE7516166.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9990857	.	.	.
+CAE7518134.1 ACP5, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99910855	.	.	.
+CAE7518522.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.508883	.	.	.
+CAE7518899.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.538734	.	.	.
+CAE7519002.1 CBWD5, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991819	.	.	.
+CAE7519443.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9989629	.	.	.
+CAE7519715.1 colgalt1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.92456216	.	.	.
+CAE7522413.1 mkkA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9985862	.	.	.
+CAE7523760.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99913585	.	.	.
+CAE7523776.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	36	0.54494345	.	.	.
+CAE7525330.1 CRYD, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99898666	.	.	.
+CAE7526675.1 CBP3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9989773	.	.	.
+CAE7527082.1 melA, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991229	.	.	.
+CAE7528591.1 URH1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99911577	.	.	.
+CAE7528917.1 HERC4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99888366	.	.	.
+CAE7529939.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9014838	.	.	.
+CAE7530554.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9991175	.	.	.
+CAE7530830.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	39	0.6454474	.	.	.
+CAE7530973.1 LCP2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.992078	.	.	.
+CAE7531835.1 GST1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.8583741	.	.	.
+CAE7532228.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9990609	.	.	.
+CAE7532713.1 yvdD [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9986341	.	.	.
+CAE7532849.1 clpC [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99914455	.	.	.
+CAE7532865.1 clpC [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9991017	.	.	.
+CAE7533276.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.72183746	.	.	.
+CAE7533291.1 MPHOSPH10 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	40	0.61405176	.	.	.
+CAE7533367.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9989822	.	.	.
+CAE7533451.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.9999675	.	.	Note=TAT
+CAE7533626.1 CTSB, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9991941	.	.	.
+CAE7533952.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.64851546	.	.	.
+CAE7534280.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9989268	.	.	.
+CAE7534666.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.79663867	.	.	.
+CAE7534919.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9975894	.	.	.
+CAE7535305.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99908435	.	.	.
+CAE7536389.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99919474	.	.	.
+CAE7537208.1 SEP2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99863005	.	.	.
+CAE7540259.1 xpot [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9992012	.	.	.
+CAE7541312.1 ANK1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.6796374	.	.	.
+CAE7541440.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99806935	.	.	.
+CAE7541550.1 Tmem43 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9978585	.	.	.
+CAE7541582.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991237	.	.	.
+CAE7543598.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	23	0.6958497	.	.	.
+CAE7544004.1 ACBP5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9992088	.	.	.
+CAE7544097.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.999179	.	.	.
+CAE7544365.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99903923	.	.	.
+CAE7544621.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99866706	.	.	.
+CAE7544662.1 LAMP1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.5682338	.	.	.
+CAE7544734.1 Cel [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.998985	.	.	.
+CAE7544891.1 MDN1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	41	0.8964108	.	.	.
+CAE7548154.1 CAT9 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.54071486	.	.	.
+CAE7548655.1 ANKRD50 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9984779	.	.	.
+CAE7549696.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99919754	.	.	.
+CAE7549815.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99910563	.	.	.
+CAE7550505.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	16	0.9048718	.	.	.
+CAE7551047.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99885875	.	.	.
+CAE7551610.1 rskn-1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.8694152	.	.	.
+CAE7551636.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991622	.	.	.
+CAE7553367.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.99766713	.	.	.
+CAE7554347.1 CPK16 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99917954	.	.	.
+CAE7555386.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.7140131	.	.	.
+CAE7555402.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9990664	.	.	.
+CAE7555499.1 Acp5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9990714	.	.	.
+CAE7556019.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9136113	.	.	.
+CAE7556473.1 DNAJ1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99928707	.	.	.
+CAE7557045.1 rib-1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.7018516	.	.	.
+CAE7557074.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.6060449	.	.	.
+CAE7557196.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99879843	.	.	.
+CAE7557743.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9990059	.	.	.
+CAE7557755.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.78100413	.	.	.
+CAE7557875.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99924594	.	.	.
+CAE7558877.1 cbg-1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99914765	.	.	.
+CAE7559677.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.99887675	.	.	.
+CAE7559781.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.99885625	.	.	.
+CAE7560125.1 NAA25 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99909467	.	.	.
+CAE7560368.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99910736	.	.	.
+CAE7561214.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99897367	.	.	.
+CAE7561775.1 ARSK [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99919504	.	.	.
+CAE7562052.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990627	.	.	.
+CAE7562350.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.93095535	.	.	.
+CAE7563574.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.66742015	.	.	.
+CAE7564212.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9989637	.	.	.
+CAE7564516.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9990769	.	.	.
+CAE7565518.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9991949	.	.	.
+CAE7565662.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9074191	.	.	.
+CAE7565930.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9990912	.	.	.
+CAE7566774.1 gpt [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.996515	.	.	.
+CAE7566925.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9988572	.	.	.
+CAE7567439.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9990013	.	.	.
+CAE7567463.1 KTR2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99484307	.	.	.
+CAE7569264.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.7406071	.	.	.
+CAE7569398.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	18	0.71395665	.	.	.
+CAE7571069.1 gpr180 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9983785	.	.	.
+CAE7572086.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.99909186	.	.	.
+CAE7572699.1 FH14, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.6541535	.	.	.
+CAE7574347.1 SEP2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99840516	.	.	.
+CAE7574361.1 SEP2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991187	.	.	.
+CAE7574378.1 SEP2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9591262	.	.	.
+CAE7577084.1 frr [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99699026	.	.	.
+CAE7579058.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9991551	.	.	.
+CAE7581282.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	36	0.54890573	.	.	.
+CAE7582387.1 SLC8A1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.68935776	.	.	.
+CAE7585238.1 LHC Ib-21 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.7442399	.	.	.
+CAE7585477.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	20	0.991743	.	.	.
+CAE7585496.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9989742	.	.	.
+CAE7585797.1 gpmB, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9987528	.	.	.
+CAE7587206.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99912727	.	.	.
+CAE7587399.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991604	.	.	.
+CAE7588785.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	14	0.8538643	.	.	.
+CAE7590166.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9990051	.	.	.
+CAE7590384.1 melC2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.97456354	.	.	Note=TAT
+CAE7594153.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99916834	.	.	.
+CAE7594731.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9990941	.	.	.
+CAE7596148.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.59402287	.	.	.
+CAE7596565.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9990929	.	.	.
+CAE7597058.1 Mga, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9958039	.	.	.
+CAE7597177.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	11	0.5475855	.	.	.
+CAE7598659.1 DNAJB8 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.7503804	.	.	.
+CAE7598675.1 RBT4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9990975	.	.	.
+CAE7598978.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9992211	.	.	.
+CAE7599193.1 Ankrd52 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99876964	.	.	.
+CAE7600984.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.63152933	.	.	.
+CAE7602304.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9382733	.	.	.
+CAE7602399.1 FCPF [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9975106	.	.	.
+CAE7604797.1 KIF3A [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.999174	.	.	.
+CAE7605792.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.9990699	.	.	.
+CAE7606347.1 GIP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.5251021	.	.	.
+CAE7607574.1 Ren1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.99919283	.	.	.
+CAE7611237.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9991412	.	.	.
+CAE7611819.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.9950919	.	.	.
+CAE7612365.1 cpt [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9989498	.	.	.
+CAE7614691.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.99594885	.	.	.
+CAE7616154.1 MAP1D, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	15	0.9726594	.	.	.
+CAE7616428.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99108803	.	.	.
+CAE7616632.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9691682	.	.	.
+CAE7617580.1 Gstm5, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.99792707	.	.	.
+CAE7618166.1 ftsH [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.99868166	.	.	.
+CAE7618182.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99916255	.	.	.
+CAE7619365.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.53400666	.	.	.
+CAE7626020.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9985717	.	.	.
+CAE7626256.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99907887	.	.	.
+CAE7628670.1 RNF148 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.6421168	.	.	.
+CAE7629545.1 BGLU32 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99916697	.	.	.
+CAE7630268.1 bcr [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.826288	.	.	.
+CAE7632303.1 Pol [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9971551	.	.	.
+CAE7633103.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99808604	.	.	.
+CAE7633924.1 TIL [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.5518885	.	.	.
+CAE7633942.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9952142	.	.	.
+CAE7635048.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	12	1.0	.	.	.
+CAE7635084.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.5036768	.	.	.
+CAE7635785.1 yhdW [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.5435761	.	.	.
+CAE7635843.1 fklB [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	38	0.8036575	.	.	.
+CAE7636036.1 rhlG [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	19	0.8242611	.	.	.
+CAE7636452.1 CATSPER1 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.69556016	.	.	.
+CAE7636818.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.9992514	.	.	.
+CAE7637128.1 RCN3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.999085	.	.	.
+CAE7637978.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99923146	.	.	.
+CAE7638414.1 MFAP1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.67836094	.	.	.
+CAE7638746.1 PAPL, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	37	0.61243767	.	.	.
+CAE7639102.1 RPS6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991869	.	.	.
+CAE7639827.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	45	0.65315133	.	.	.
+CAE7639971.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	33	0.58604604	.	.	.
+CAE7640539.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99861807	.	.	.
+CAE7641429.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.999131	.	.	.
+CAE7641535.1 Gabbr1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99854165	.	.	.
+CAE7642204.1 PYK [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	33	0.7107216	.	.	Note=TAT
+CAE7642223.1 PYK [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.9153857	.	.	.
+CAE7642647.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.9989756	.	.	.
+CAE7642745.1 amdA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99922085	.	.	.
+CAE7643237.1 Lipase [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.6913782	.	.	.
+CAE7644545.1 PAP8 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9990233	.	.	.
+CAE7644824.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99916893	.	.	.
+CAE7645439.1 nrfI [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9026174	.	.	.
+CAE7645505.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.9990651	.	.	.
+CAE7646371.1 magoh, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9941214	.	.	.
+CAE7647975.1 NSUN2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.998224	.	.	.
+CAE7648332.1 K10B2.2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.99897105	.	.	.
+CAE7648346.1 CTSA, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.99506587	.	.	.
+CAE7648787.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991956	.	.	.
+CAE7650910.1 LRRC15 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9991693	.	.	.
+CAE7650925.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990814	.	.	.
+CAE7651446.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	16	0.99994236	.	.	.
+CAE7651672.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99909735	.	.	.
+CAE7651807.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.8951943	.	.	Note=TAT
+CAE7652806.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.6627343	.	.	.
+CAE7653022.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.92749023	.	.	.
+CAE7653228.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99909294	.	.	.
+CAE7653285.1 Erp29 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99912375	.	.	.
+CAE7654376.1 bamB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99888253	.	.	.
+CAE7654843.1 rlmJ [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9992024	.	.	.
+CAE7655161.1 BCHE [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991779	.	.	.
+CAE7655334.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.99820954	.	.	.
+CAE7655473.1 FCPA, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.8387232	.	.	.
+CAE7655521.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.52138925	.	.	.
+CAE7655724.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9987741	.	.	.
+CAE7656072.1 gyaR [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	17	0.87160766	.	.	.
+CAE7656124.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99899924	.	.	.
+CAE7656332.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.6922272	.	.	.
+CAE7656601.1 HERC3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.999151	.	.	.
+CAE7657073.1 Kcnh7 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9911673	.	.	.
+CAE7657810.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9988963	.	.	.
+CAE7657923.1 Cnga3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99910164	.	.	.
+CAE7658191.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99850225	.	.	.
+CAE7658290.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9990501	.	.	.
+CAE7658388.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99634457	.	.	.
+CAE7658953.1 FBP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	33	0.92407423	.	.	.
+CAE7659446.1 ANKRD50 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99917114	.	.	.
+CAE7659481.1 truA1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9818694	.	.	.
+CAE7659795.1 egl1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.98391086	.	.	.
+CAE7659831.1 pyrABCN [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9990471	.	.	.
+CAE7660761.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991506	.	.	.
+CAE7660876.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99913156	.	.	.
+CAE7661149.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.5201518	.	.	.
+CAE7661720.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.99905616	.	.	.
+CAE7661740.1 GUT1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.7046961	.	.	.
+CAE7661769.1 RE2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.7709606	.	.	.
+CAE7662154.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991774	.	.	.
+CAE7662216.1 CATHB2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9987905	.	.	.
+CAE7662685.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99834657	.	.	.
+CAE7664347.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9992005	.	.	.
+CAE7664532.1 tmem87a [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99899685	.	.	.
+CAE7665992.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9394115	.	.	.
+CAE7666282.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9991748	.	.	.
+CAE7666773.1 acr-7 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99794924	.	.	.
+CAE7667339.1 DTX46, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.9932965	.	.	.
+CAE7667771.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.89033526	.	.	.
+CAE7667978.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9984724	.	.	.
+CAE7669227.1 svop [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	38	0.7297779	.	.	.
+CAE7670875.1 ACY3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991555	.	.	.
+CAE7671298.1 pim2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.8811582	.	.	.
+CAE7672614.1 MTERF5 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	25	0.5003609	.	.	.
+CAE7673627.1 eca [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9991826	.	.	.
+CAE7673877.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.71827924	.	.	.
+CAE7674308.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.8978533	.	.	.
+CAE7674338.1 plyC [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	47	0.6901593	.	.	.
+CAE7674395.1 xyn10D-fae1A [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	29	0.9986534	.	.	.
+CAE7674459.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.99103403	.	.	.
+CAE7674683.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9800885	.	.	.
+CAE7674731.1 DDHD2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9987433	.	.	.
+CAE7674916.1 PGA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9876107	.	.	.
+CAE7677100.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9987496	.	.	.
+CAE7678342.1 KCNH6, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.96526116	.	.	.
+CAE7679655.1 Mettl7b [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991475	.	.	.
+CAE7679828.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	18	0.5150877	.	.	.
+CAE7680689.1 ygjK [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.98341984	.	.	.
+CAE7682415.1 TMN7 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99916726	.	.	.
+CAE7682521.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990101	.	.	.
+CAE7684618.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9980758	.	.	.
+CAE7684902.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990896	.	.	.
+CAE7685140.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99914366	.	.	.
+CAE7687065.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.5988866	.	.	.
+CAE7688051.1 HFA1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9982337	.	.	.
+CAE7688904.1 AMT1-1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9966218	.	.	.
+CAE7688933.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9991337	.	.	.
+CAE7689292.1 LCAT1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.9991769	.	.	.
+CAE7689376.1 setd3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.98278385	.	.	.
+CAE7689596.1 AMY1.6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.998974	.	.	.
+CAE7692120.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9991733	.	.	.
+CAE7692841.1 SIDT1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9991874	.	.	.
+CAE7692871.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.61719126	.	.	.
+CAE7694972.1 rpl12 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.95038897	.	.	.
+CAE7695169.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9836303	.	.	.
+CAE7695431.1 BXL5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9989927	.	.	.
+CAE7695920.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99917376	.	.	.
+CAE7696213.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99690276	.	.	.
+CAE7696383.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	36	0.6844773	.	.	.
+CAE7696924.1 AVT4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	39	0.68642056	.	.	.
+CAE7698129.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.998826	.	.	.
+CAE7698148.1 P4HB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.8267773	.	.	.
+CAE7698328.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.78226304	.	.	.
+CAE7698399.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.5001434	.	.	.
+CAE7699433.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99896044	.	.	.
+CAE7699562.1 Sugct [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99900657	.	.	.
+CAE7699587.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.95892376	.	.	.
+CAE7700335.1 rnf181 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9843588	.	.	.
+CAE7700387.1 PAPP5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	14	0.9989041	.	.	.
+CAE7700445.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	39	0.9700478	.	.	.
+CAE7700920.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9989872	.	.	.
+CAE7701166.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.9991612	.	.	.
+CAE7701329.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.99897736	.	.	.
+CAE7702555.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99826014	.	.	.
+CAE7702903.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.71266097	.	.	.
+CAE7703335.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	42	0.9120381	.	.	.
+CAE7703837.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99896884	.	.	.
+CAE7704820.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.5440741	.	.	.
+CAE7705142.1 Cyb5d2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99874187	.	.	.
+CAE7705421.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.85517484	.	.	.
+CAE7705724.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	35	0.7131502	.	.	.
+CAE7706179.1 CTSE [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99883175	.	.	.
+CAE7706285.1 EPD2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9979206	.	.	.
+CAE7706485.1 galc [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99906194	.	.	.
+CAE7707187.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9982355	.	.	.
+CAE7707366.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9988344	.	.	.
+CAE7707883.1 Cemip [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.99701214	.	.	.
+CAE7708011.1 ACP5 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9991385	.	.	.
+CAE7708120.1 Ank3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9987484	.	.	.
+CAE7708414.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9950592	.	.	.
+CAE7710092.1 DD3-3 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99883133	.	.	.
+CAE7710136.1 ANK2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9988174	.	.	.
+CAE7710167.1 Tnks2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99915063	.	.	.
+CAE7710336.1 BGL1A [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.7447008	.	.	.
+CAE7710969.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99889714	.	.	.
+CAE7711154.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9987913	.	.	.
+CAE7712250.1 Jmjd8 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.33551508	.	.	.
+CAE7712262.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	19	0.996887	.	.	.
+CAE7712436.1 eprA1, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	15	0.94158906	.	.	.
+CAE7712651.1 ASPH [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.9987244	.	.	.
+CAE7713020.1 gnt1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9479742	.	.	.
+CAE7713257.1 wdr75 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99918854	.	.	.
+CAE7713944.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99920255	.	.	.
+CAE7714725.1 DEGS1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9991358	.	.	.
+CAE7715417.1 HPSE [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991084	.	.	.
+CAE7716055.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9977928	.	.	.
+CAE7716069.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9989367	.	.	.
+CAE7717215.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99914956	.	.	.
+CAE7717815.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99902326	.	.	.
+CAE7718900.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9989307	.	.	.
+CAE7719322.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99914086	.	.	.
+CAE7719421.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.6988143	.	.	.
+CAE7719676.1 Smyd3, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	24	0.6817844	.	.	.
+CAE7720147.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	17	0.5885534	.	.	.
+CAE7720958.1 SLC4A4, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.6262913	.	.	.
+CAE7721534.1 aslA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9604021	.	.	.
+CAE7722446.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990525	.	.	.
+CAE7723015.1 GONST4, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	37	0.6669793	.	.	.
+CAE7723696.1 Gcsh [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99917096	.	.	.
+CAE7723781.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99918675	.	.	.
+CAE7724142.1 XCP2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9992021	.	.	.
+CAE7724262.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.516608	.	.	.
+CAE7724809.1 GAA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9989966	.	.	.
+CAE7724977.1 Arsb [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9992048	.	.	.
+CAE7725474.1 KCNJ8 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.651353	.	.	.
+CAE7725977.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9991184	.	.	.
+CAE7726178.1 ANKRD17 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.999093	.	.	.
+CAE7727719.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9990136	.	.	.
+CAE7728076.1 ADA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9182085	.	.	.
+CAE7728684.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9982417	.	.	.
+CAE7729846.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	31	0.9439679	.	.	.
+CAE7730191.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9990546	.	.	.
+CAE7730277.1 bamB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.999047	.	.	.
+CAE7730292.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	26	0.9940867	.	.	.
+CAE7731253.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.74676305	.	.	.
+CAE7731273.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.92929643	.	.	.
+CAE7731824.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99905324	.	.	.
+CAE7732411.1 TLP1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9972724	.	.	.
+CAE7732752.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	36	0.8248706	.	.	.
+CAE7732786.1 ALKBH8, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	38	0.9052761	.	.	.
+CAE7733133.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99902123	.	.	.
+CAE7733505.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.8713031	.	.	.
+CAE7733521.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9987028	.	.	.
+CAE7734183.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9169205	.	.	.
+CAE7734414.1 MIP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	15	0.9990279	.	.	.
+CAE7735850.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99903953	.	.	.
+CAE7736114.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.94600827	.	.	.
+CAE7736183.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9990414	.	.	.
+CAE7736774.1 pkgB, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	56	0.49468875	.	.	.
+CAE7737280.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.64863366	.	.	.
+CAE7737792.1 gup1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9984957	.	.	.
+CAE7739256.1 PRN1 [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	20	0.797136	.	.	.
+CAE7739294.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.69774395	.	.	.
+CAE7741040.1 Mfsd10, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9238263	.	.	.
+CAE7742087.1 PGA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99830633	.	.	.
+CAE7742102.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.99903435	.	.	.
+CAE7742229.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99896973	.	.	.
+CAE7742354.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991175	.	.	.
+CAE7742720.1 Arsb [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991478	.	.	.
+CAE7743361.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9992531	.	.	.
+CAE7743669.1 Lrrc45 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.9987151	.	.	.
+CAE7743719.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990899	.	.	.
+CAE7744351.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.999092	.	.	.
+CAE7745530.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99898565	.	.	.
+CAE7745971.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9990859	.	.	.
+CAE7746009.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9990559	.	.	.
+CAE7746060.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.99783516	.	.	.
+CAE7746218.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.999049	.	.	.
+CAE7748670.1 RPI3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.5395292	.	.	.
+CAE7749219.1 Lgmn [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99896204	.	.	.
+CAE7749558.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.8349042	.	.	.
+CAE7750202.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.99853724	.	.	.
+CAE7750291.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.999165	.	.	.
+CAE7750497.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991249	.	.	.
+CAE7750872.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9990293	.	.	.
+CAE7751385.1 Spag6, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991701	.	.	.
+CAE7751647.1 FUBP3, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.765298	.	.	.
+CAE7751933.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.98292387	.	.	.
+CAE7752456.1 CEQORH [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.52333194	.	.	.
+CAE7752552.1 Rdl, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9969526	.	.	.
+CAE7752892.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9990419	.	.	.
+CAE7753006.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99897283	.	.	.
+CAE7753057.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.99923295	.	.	.
+CAE7753140.1 Ctsz [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99901205	.	.	.
+CAE7753178.1 FOXRED2, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99841905	.	.	.
+CAE7753913.1 VPS10 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990242	.	.	.
+CAE7754244.1 BIP4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99918836	.	.	.
+CAE7754392.1 TSPO [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	34	0.58513296	.	.	.
+CAE7754655.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9485093	.	.	.
+CAE7755103.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9982152	.	.	.
+CAE7755257.1 dVPE, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9988094	.	.	.
+CAE7755401.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	30	0.99350077	.	.	.
+CAE7755573.1 TFAM, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.69345486	.	.	.
+CAE7756439.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.8895586	.	.	.
+CAE7756792.1 rpsA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.51379997	.	.	.
+CAE7757557.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9990829	.	.	.
+CAE7758163.1 TARBP1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	32	0.99881625	.	.	.
+CAE7758180.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991102	.	.	.
+CAE7758196.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991102	.	.	.
+CAE7758412.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99220926	.	.	.
+CAE7758521.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.6273691	.	.	.
+CAE7759825.1 MCT7 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99295306	.	.	.
+CAE7760360.1 dVPE, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9985854	.	.	.
+CAE7760645.1 Capn15 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.4566685	.	.	.
+CAE7760966.1 SLC8A1, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9991984	.	.	.
+CAE7761088.1 nipblb [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.999146	.	.	.
+CAE7761248.1 gpmB, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.998688	.	.	.
+CAE7762509.1 GRXC6 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.53251284	.	.	.
+CAE7762676.1 AMPP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	24	0.8515916	.	.	.
+CAE7763011.1 ANR [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9990902	.	.	.
+CAE7764224.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99900603	.	.	.
+CAE7764269.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	12	0.9974479	.	.	.
+CAE7764559.1 SKIV2L2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9989433	.	.	.
+CAE7765488.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	28	0.9975443	.	.	.
+CAE7765698.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9956197	.	.	.
+CAE7765711.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	13	0.77765167	.	.	.
+CAE7765782.1 P4HB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.99919105	.	.	.
+CAE7767511.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	20	0.998342	.	.	.
+CAE7768855.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9986925	.	.	.
+CAE7770175.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.9991578	.	.	.
+CAE7771333.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.9990598	.	.	.
+CAE7771354.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.68103254	.	.	.
+CAE7772230.1 cbhB [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.9992041	.	.	.
+CAE7772361.1 CPK2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	25	0.9991239	.	.	.
+CAE7773119.1 ESTA [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9989937	.	.	.
+CAE7773739.1 ML2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	27	0.9359169	.	.	.
+CAE7774239.1 RAB6A, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.9987267	.	.	.
+CAE7774428.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99914575	.	.	.
+CAE7774439.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.99919164	.	.	.
+CAE7774954.1 CEL6A [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.9990871	.	.	.
+CAE7775223.1 GIP [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	18	0.99917924	.	.	.
+CAE7775621.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	20	0.50443584	.	.	.
+CAE7777495.1 Sbno2 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.99897814	.	.	.
+CAE7778439.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	22	0.95897067	.	.	.
+CAE7778646.1 egl-4 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.9984848	.	.	.
+CAE7778745.1 KDM1B [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	38	0.8399975	.	.	.
+CAE7779893.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	lipoprotein_signal_peptide	1	17	0.52544755	.	.	.
+CAE7780912.1 HMCN1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.99899226	.	.	.
+CAE7781396.1 SYT1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	23	0.99823374	.	.	.
+CAE7781546.1 cah [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	17	0.99549824	.	.	.
+CAE7781730.1 SPATA5L1 [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	19	0.8851004	.	.	.
+CAE7781849.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	16	0.9987521	.	.	.
+CAE7781858.1 unnamed protein product [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.99782413	.	.	.
+CAE7783373.1 unnamed protein product, partial [Symbiodinium pilosum]	SignalP-6.0	signal_peptide	1	21	0.9992058	.	.	.

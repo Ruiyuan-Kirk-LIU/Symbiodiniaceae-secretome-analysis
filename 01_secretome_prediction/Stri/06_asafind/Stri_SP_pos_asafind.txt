@@ -1,0 +1,1458 @@
+Identifier	TargetP-2.0	ASAFind cleavage position	ASAFind cleavage site sequence	ASAFind/TargetP-2.0 cleavage site offset	ASAFind 20aa score, default scoring table with small sample correction	ASAFind 2.0 Prediction, score threshold = 0.3100298026055153, with FWYL check
+CAE6909963.1	SP	19	AFG-LGE	-2	0.114426245	Plastid, low confidence
+CAE6910251.1	SP	21	ALA-QGE	-2	0.108552800	Not plastid, signal peptide identified
+CAE6911531.1	SP	22	ALN-FRP	2	0.742503724	Plastid, low confidence
+CAE6912716.1	SP	36	ARA-AMR	2	0.145227662	Not plastid, signal peptide identified
+CAE6914213.1	SP	17	LVA-AEP	-1	0.194663611	Not plastid, signal peptide identified
+CAE6916886.1	SP	21	VAA-HRI	0	0.173983110	Not plastid, signal peptide identified
+CAE6917503.1	SP	22	VQA-DKD	0	0.052421064	Not plastid, signal peptide identified
+CAE6917572.1	SP	29	PEP-KTR	-2	0.199876317	Not plastid, signal peptide identified
+CAE6918805.1	SP	20	PSS-GVR	-1	0.142275065	Not plastid, signal peptide identified
+CAE6921723.1	SP	15	VLC-WGS	-2	0.128704927	Plastid, low confidence
+CAE6921744.1	SP	21	ALA-SDV	0	0.103638749	Not plastid, signal peptide identified
+CAE6921925.1	SP	17	ASA-ESV	-2	0.116873131	Not plastid, signal peptide identified
+CAE6922283.1	SP	20	SLA-PAP	1	0.259991293	Not plastid, signal peptide identified
+CAE6922456.1	SP	25	QGR-FQA	1	0.634221779	Plastid, low confidence
+CAE6922548.1	SP	17	AGA-TSP	0	0.252116140	Not plastid, signal peptide identified
+CAE6922687.1	SP	24	VQA-VCN	0	0.119661392	Not plastid, signal peptide identified
+CAE6922758.1	SP	19	CQA-ASL	0	0.167618817	Not plastid, signal peptide identified
+CAE6922791.1	SP	24	AVA-TSA	0	0.161490700	Not plastid, signal peptide identified
+CAE6923488.1	SP	19	AFA-FTS	0	0.684627050	Plastid, high confidence
+CAE6924034.1	SP	18	ASA-ANM	0	0.106004584	Not plastid, signal peptide identified
+CAE6924572.1	SP	22	SSG-QVS	0	0.199220622	Not plastid, signal peptide identified
+CAE6925040.1	SP	22	GDA-CEE	2	0.101187453	Not plastid, signal peptide identified
+CAE6925060.1	SP	20	THC-DVC	0	0.119135323	Not plastid, signal peptide identified
+CAE6926434.1	SP	22	ARA-TCP	0	0.225230350	Not plastid, signal peptide identified
+CAE6926701.1	SP	22	AVR-QQV	-1	0.151657709	Not plastid, signal peptide identified
+CAE6927456.1	SP	30	IQA-RDP	0	0.193744847	Not plastid, signal peptide identified
+CAE6927646.1	SP	24	AAA-AEP	1	0.225265919	Not plastid, signal peptide identified
+CAE6928016.1	SP	24	DKA-ATK	0	0.200221452	Not plastid, signal peptide identified
+CAE6929759.1	SP	18	VMA-NSC	0	0.192078049	Not plastid, signal peptide identified
+CAE6930518.1	SP	18	SLA-QEI	0	0.125487605	Not plastid, signal peptide identified
+CAE6931684.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE6932281.1	SP	18	VWA-TCP	0	0.213616704	Not plastid, signal peptide identified
+CAE6932447.1	SP	18	AAA-VNC	0	0.082097712	Not plastid, signal peptide identified
+CAE6933495.1	SP	24	VSG-YKV	0	0.168564410	Plastid, low confidence
+CAE6933787.1	SP	17	LAA-ADP	-1	0.235050066	Not plastid, signal peptide identified
+CAE6934574.1	SP	16	ALA-ATE	-2	0.199017630	Not plastid, signal peptide identified
+CAE6935090.1	SP	22	ADA-KLD	0	0.077421985	Not plastid, signal peptide identified
+CAE6936021.1	SP	17	VLA-EGA	-2	0.101031411	Not plastid, signal peptide identified
+CAE6936123.1	SP	23	AGA-ATI	0	0.165761428	Not plastid, signal peptide identified
+CAE6937367.1	SP	15	GVA-VGD	-2	0.112277335	Not plastid, signal peptide identified
+CAE6938854.1	SP	42	CCA-GMP	-1	0.280156282	Not plastid, signal peptide identified
+CAE6940058.1	SP	19	AEA-CNK	0	0.123923031	Not plastid, signal peptide identified
+CAE6940088.1	SP	24	CLS-FKL	0	0.645931816	Plastid, high confidence
+CAE6940905.1	SP	17	CSG-ESL	0	0.124935135	Not plastid, signal peptide identified
+CAE6941086.1	SP	20	AEA-SCM	0	0.104621903	Not plastid, signal peptide identified
+CAE6942626.1	SP	20	LGA-ESL	-2	0.191295882	Not plastid, signal peptide identified
+CAE6942652.1	SP	30	HTA-GGL	1	0.181676662	Not plastid, signal peptide identified
+CAE6943017.1	SP	14	GCA-YGL	-2	0.134403960	Plastid, low confidence
+CAE6944004.1	SP	25	AKV-RSL	-2	0.167524659	Not plastid, signal peptide identified
+CAE6944169.1	SP	23	GSD-SCP	2	0.256285258	Not plastid, signal peptide identified
+CAE6945524.1	SP	15	ALA-VSS	-2	0.184423677	Not plastid, signal peptide identified
+CAE6947437.1	SP	20	VVG-CLD	-1	0.076705891	Not plastid, signal peptide identified
+CAE6947599.1	SP	17	QRG-HSR	-2	0.196573814	Not plastid, signal peptide identified
+CAE6948330.1	SP	16	FLA-SRE	0	0.119678161	Not plastid, signal peptide identified
+CAE6948345.1	SP	34	VSA-QNC	0	0.112118243	Not plastid, signal peptide identified
+CAE6948425.1	SP	18	GSA-WSH	-2	0.161248589	Plastid, low confidence
+CAE6948439.1	SP	19	TLS-HRL	0	0.108243237	Not plastid, signal peptide identified
+CAE6948772.1	SP	19	VSG-MRN	0	0.100549165	Not plastid, signal peptide identified
+CAE6948788.1	SP	17	TTA-LPE	0	0.161347209	Plastid, low confidence
+CAE6951418.1	SP	23	CKG-NQS	0	0.138463110	Not plastid, signal peptide identified
+CAE6952149.1	SP	19	APA-RAK	-2	0.180450323	Not plastid, signal peptide identified
+CAE6952167.1	SP	24	ARS-FRP	2	0.691219010	Plastid, low confidence
+CAE6952693.1	SP	21	AGG-FEV	0	0.630267175	Plastid, high confidence
+CAE6953226.1	SP	23	AEA-SIV	0	0.133657652	Not plastid, signal peptide identified
+CAE6953401.1	SP	23	VTA-TEE	0	0.151514872	Not plastid, signal peptide identified
+CAE6955338.1	SP	24	INA-LPK	0	0.106270527	Plastid, low confidence
+CAE6955382.1	SP	18	SPA-CLE	-2	0.152929641	Not plastid, signal peptide identified
+CAE6957014.1	SP	21	AWA-DTP	0	0.232475450	Not plastid, signal peptide identified
+CAE6957033.1	SP	33	LRA-SSR	-2	0.135374194	Not plastid, signal peptide identified
+CAE6957414.1	SP	14	CGA-FAE	-2	0.638778830	Plastid, low confidence
+CAE6958260.1	SP	18	HCA-RSQ	-2	0.103754145	Not plastid, signal peptide identified
+CAE6958596.1	SP	21	SKS-DTP	2	0.272133887	Not plastid, signal peptide identified
+CAE6958607.1	SP	21	SKS-DTP	2	0.272133887	Not plastid, signal peptide identified
+CAE6958695.1	SP	20	RSK-SDP	-1	0.249549997	Not plastid, signal peptide identified
+CAE6960241.1	SP	35	PSA-CEE	-1	0.109597568	Not plastid, signal peptide identified
+CAE6960404.1	SP	17	ASA-VSA	2	0.167757017	Not plastid, signal peptide identified
+CAE6961129.1	SP	20	TEG-MRP	0	0.213637866	Not plastid, signal peptide identified
+CAE6961769.1	SP	18	AAA-QND	0	0.095196952	Not plastid, signal peptide identified
+CAE6962126.1	SP	19	TVA-GSL	-1	0.178410958	Not plastid, signal peptide identified
+CAE6962939.1	SP	23	SVQ-MVT	2	0.168261893	Not plastid, signal peptide identified
+CAE6963283.1	SP	19	SEA-GDN	0	0.103581045	Not plastid, signal peptide identified
+CAE6963359.1	SP	20	SGA-WSS	-2	0.209222958	Plastid, low confidence
+CAE6963408.1	SP	19	VQA-ELT	0	0.131063686	Not plastid, signal peptide identified
+CAE6964587.1	SP	30	ELA-QVQ	1	0.150425488	Not plastid, signal peptide identified
+CAE6965158.1	SP	15	ALV-DSL	-2	0.149030104	Not plastid, signal peptide identified
+CAE6965333.1	SP	16	CAA-QQP	0	0.245355367	Not plastid, signal peptide identified
+CAE6966540.1	SP	25	VRA-HAQ	0	0.189529652	Not plastid, signal peptide identified
+CAE6966549.1	SP	22	ASA-QQD	0	0.111518018	Not plastid, signal peptide identified
+CAE6966687.1	SP	20	VAG-FDL	0	0.630899865	Plastid, high confidence
+CAE6966900.1	SP	21	AGA-FFV	0	0.643476166	Plastid, high confidence
+CAE6967296.1	SP	25	HRA-ERP	0	0.198165122	Not plastid, signal peptide identified
+CAE6967642.1	SP	28	MHG-QMH	0	0.118672063	Not plastid, signal peptide identified
+CAE6968743.1	SP	27	AGA-AQE	1	0.102185642	Not plastid, signal peptide identified
+CAE6969955.1	SP	27	TSA-TGS	0	0.214542468	Not plastid, signal peptide identified
+CAE6970212.1	SP	25	VEA-WGA	-2	0.175830993	Plastid, low confidence
+CAE6970416.1	SP	18	LQA-QQA	0	0.114181747	Not plastid, signal peptide identified
+CAE6971180.1	SP	17	CLA-LPD	0	0.092818629	Plastid, low confidence
+CAE6971309.1	SP	20	GHA-RSE	0	0.110775162	Not plastid, signal peptide identified
+CAE6971314.1	SP	28	AKA-SNA	0	0.127462121	Not plastid, signal peptide identified
+CAE6971330.1	SP	19	AVA-GDE	-1	0.137863045	Not plastid, signal peptide identified
+CAE6971543.1	SP	36	QLA-WAT	-2	0.182765872	Plastid, low confidence
+CAE6971889.1	SP	36	PVA-GKP	-1	0.211132905	Not plastid, signal peptide identified
+CAE6971914.1	SP	19	AVA-GQQ	-1	0.109101570	Not plastid, signal peptide identified
+CAE6972135.1	SP	33	AEA-QAL	0	0.171837988	Not plastid, signal peptide identified
+CAE6972329.1	SP	27	SCD-FAC	2	0.651808667	Plastid, low confidence
+CAE6972519.1	SP	19	HVA-EGD	-2	0.125807889	Not plastid, signal peptide identified
+CAE6972629.1	SP	17	SAG-FDL	0	0.644500876	Plastid, high confidence
+CAE6972866.1	SP	20	AVQ-CST	-1	0.184966983	Not plastid, signal peptide identified
+CAE6973066.1	SP	17	GSA-QDS	0	0.118876185	Not plastid, signal peptide identified
+CAE6973493.1	SP	22	RSK-GDP	1	0.181554526	Not plastid, signal peptide identified
+CAE6973579.1	SP	27	QCA-RPR	1	0.123794578	Not plastid, signal peptide identified
+CAE7026823.1	SP	19	AQA-QGG	0	0.082800234	Not plastid, signal peptide identified
+CAE7027259.1	SP	17	ASA-VAM	-2	0.148995993	Not plastid, signal peptide identified
+CAE7027555.1	SP	22	ASA-WRQ	2	0.148090230	Plastid, low confidence
+CAE7027575.1	SP	24	AAA-QQV	0	0.131922487	Not plastid, signal peptide identified
+CAE7027899.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7028448.1	SP	28	GRA-FQA	0	0.677610002	Plastid, high confidence
+CAE7028460.1	SP	18	SGA-YNP	0	0.259940413	Plastid, low confidence
+CAE7028503.1	SP	19	GDE-FLS	2	0.646077503	Plastid, low confidence
+CAE7028713.1	SP	18	TSG-KKR	0	0.090006792	Not plastid, signal peptide identified
+CAE7029031.1	SP	32	ATA-FVV	0	0.700566402	Plastid, high confidence
+CAE7029179.1	SP	23	VGA-LLE	0	0.095656519	Plastid, low confidence
+CAE7030821.1	SP	30	ALQ-GCI	-1	0.120063515	Not plastid, signal peptide identified
+CAE7030883.1	SP	16	TSG-EVA	0	0.206384583	Not plastid, signal peptide identified
+CAE7030910.1	SP	18	GGA-LDL	1	0.155328701	Plastid, low confidence
+CAE7031031.1	SP	33	AGA-SAK	-2	0.184720028	Not plastid, signal peptide identified
+CAE7031113.1	SP	37	CEA-VRS	0	0.139994862	Not plastid, signal peptide identified
+CAE7031140.1	SP	18	VET-TLP	0	0.216917763	Not plastid, signal peptide identified
+CAE7031253.1	SP	20	VLG-FQE	0	0.603973343	Plastid, high confidence
+CAE7031701.1	SP	21	GQA-GRV	0	0.098898452	Not plastid, signal peptide identified
+CAE7031810.1	SP	32	CHA-HGE	-2	0.146709961	Not plastid, signal peptide identified
+CAE7031928.1	SP	17	GTA-LEE	0	0.120366880	Plastid, low confidence
+CAE7032273.1	SP	26	TAA-PKK	1	0.082141409	Not plastid, signal peptide identified
+CAE7032322.1	SP	22	HPA-GCN	-2	0.134359535	Not plastid, signal peptide identified
+CAE7032475.1	SP	19	ALA-VDP	0	0.176660694	Not plastid, signal peptide identified
+CAE7032756.1	SP	22	SLA-FKL	0	0.656008695	Plastid, high confidence
+CAE7032903.1	SP	19	GAA-SQD	-1	0.135535156	Not plastid, signal peptide identified
+CAE7032933.1	SP	24	CSN-FLM	2	0.603556915	Plastid, low confidence
+CAE7033115.1	SP	22	ACA-EDT	2	0.135681248	Not plastid, signal peptide identified
+CAE7033189.1	SP	25	TAA-DGL	0	0.146018691	Not plastid, signal peptide identified
+CAE7033600.1	SP	19	AWA-LQQ	0	0.135682294	Plastid, low confidence
+CAE7034193.1	SP	17	LAS-FPV	1	0.634985552	Plastid, low confidence
+CAE7034210.1	SP	19	AGA-FGE	-2	0.577700289	Plastid, low confidence
+CAE7034524.1	SP	18	VLS-HSY	0	0.190482927	Not plastid, signal peptide identified
+CAE7034680.1	SP	27	IQA-FAA	0	0.667744165	Plastid, high confidence
+CAE7034834.1	SP	19	SGA-TVA	1	0.181139006	Not plastid, signal peptide identified
+CAE7034947.1	SP	36	MAA-MAS	-2	0.234318770	Not plastid, signal peptide identified
+CAE7034970.1	SP	25	HQV-FGK	-2	0.618311588	Plastid, low confidence
+CAE7035068.1	SP	25	AYA-MKL	0	0.158035396	Not plastid, signal peptide identified
+CAE7035091.1	SP	27	SHA-ARP	0	0.269184135	Not plastid, signal peptide identified
+CAE7035238.1	SP	14	AAA-QAS	-2	0.133494300	Not plastid, signal peptide identified
+CAE7035541.1	SP	20	SNA-FLN	0	0.594438831	Plastid, high confidence
+CAE7035785.1	SP	21	RVC-GVP	-1	0.245005869	Not plastid, signal peptide identified
+CAE7035813.1	SP	22	HWA-AEP	0	0.189874208	Not plastid, signal peptide identified
+CAE7035842.1	SP	20	AGA-IEE	0	0.098046589	Not plastid, signal peptide identified
+CAE7035854.1	SP	27	ARA-GNA	0	0.127919397	Not plastid, signal peptide identified
+CAE7036038.1	SP	18	VRA-IVL	0	0.152918290	Not plastid, signal peptide identified
+CAE7036226.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7036291.1	SP	25	AGS-FQF	1	0.632045531	Plastid, low confidence
+CAE7036456.1	SP	20	ALA-TVS	0	0.174332934	Not plastid, signal peptide identified
+CAE7036939.1	SP	20	CVA-SRS	0	0.136706468	Not plastid, signal peptide identified
+CAE7036969.1	SP	18	TFA-QGV	-2	0.126456418	Not plastid, signal peptide identified
+CAE7037092.1	SP	17	KPA-SGD	-2	0.124876802	Not plastid, signal peptide identified
+CAE7037097.1	SP	17	KPA-SGD	-2	0.138267152	Not plastid, signal peptide identified
+CAE7037102.1	SP	20	CQA-SLS	0	0.116446679	Not plastid, signal peptide identified
+CAE7037292.1	SP	14	GIA-VGE	-2	0.085921684	Not plastid, signal peptide identified
+CAE7037661.1	SP	14	VAA-ASN	-1	0.143973506	Not plastid, signal peptide identified
+CAE7037781.1	SP	22	GFV-FSS	-2	0.695929045	Plastid, low confidence
+CAE7039165.1	SP	18	VRA-GPD	0	0.096739770	Not plastid, signal peptide identified
+CAE7040240.1	SP	30	DAA-GDT	-1	0.149748894	Not plastid, signal peptide identified
+CAE7040625.1	SP	26	AWA-EKQ	0	0.115039966	Not plastid, signal peptide identified
+CAE7040690.1	SP	20	AIA-ITT	0	0.220892681	Not plastid, signal peptide identified
+CAE7041258.1	SP	24	GDA-REA	2	0.134956369	Not plastid, signal peptide identified
+CAE7041524.1	SP	19	AVA-RPS	0	0.143508445	Not plastid, signal peptide identified
+CAE7042083.1	SP	18	SRA-VDV	0	0.109265025	Not plastid, signal peptide identified
+CAE7042151.1	SP	18	ATT-CEE	-1	0.156940579	Not plastid, signal peptide identified
+CAE7042161.1	SP	18	ARA-GCT	0	0.121295715	Not plastid, signal peptide identified
+CAE7192886.1	SP	28	AGA-LDA	0	0.105295092	Plastid, low confidence
+CAE7194131.1	SP	29	SAA-GEA	1	0.183837356	Not plastid, signal peptide identified
+CAE7194931.1	SP	23	GCG-KDA	1	0.119481004	Not plastid, signal peptide identified
+CAE7194936.1	SP	23	ATA-APG	0	0.162920688	Not plastid, signal peptide identified
+CAE7194969.1	SP	26	GGC-FDR	1	0.599911858	Plastid, low confidence
+CAE7195540.1	SP	22	VEA-HEK	0	0.081975779	Not plastid, signal peptide identified
+CAE7195571.1	SP	16	AGA-AAR	-2	0.137700105	Not plastid, signal peptide identified
+CAE7195966.1	SP	19	SGA-RER	0	0.121154672	Not plastid, signal peptide identified
+CAE7196601.1	SP	17	AGA-NHW	0	0.104606462	Not plastid, signal peptide identified
+CAE7196607.1	SP	20	DHA-EEA	0	0.110706611	Not plastid, signal peptide identified
+CAE7196764.1	SP	19	EGA-ALR	1	0.137394535	Not plastid, signal peptide identified
+CAE7196977.1	SP	25	LRG-LTN	0	0.228360407	Plastid, low confidence
+CAE7196987.1	SP	42	VHG-RLS	0	0.120816603	Not plastid, signal peptide identified
+CAE7197301.1	SP	19	SWS-ERG	0	0.098809116	Not plastid, signal peptide identified
+CAE7197304.1	SP	27	TSM-RSE	1	0.124001366	Not plastid, signal peptide identified
+CAE7197693.1	SP	15	TAA-GAM	-2	0.150283886	Not plastid, signal peptide identified
+CAE7198604.1	SP	23	GSC-FVS	1	0.645449718	Plastid, low confidence
+CAE7198626.1	SP	15	AVA-AGH	-2	0.117266229	Not plastid, signal peptide identified
+CAE7198852.1	SP	18	SHG-LDL	0	0.107477504	Plastid, low confidence
+CAE7199034.1	SP	23	IAA-AQP	-1	0.284223630	Not plastid, signal peptide identified
+CAE7200099.1	SP	28	VIG-LRT	0	0.138665343	Plastid, low confidence
+CAE7200431.1	SP	16	IAA-DVN	0	0.142806696	Not plastid, signal peptide identified
+CAE7201542.1	SP	16	VGA-LPQ	0	0.135067107	Plastid, low confidence
+CAE7202325.1	SP	22	SGA-PPA	1	0.092147567	Not plastid, signal peptide identified
+CAE7202653.1	SP	19	VLA-DGE	0	0.087343858	Not plastid, signal peptide identified
+CAE7203299.1	SP	16	AMA-YGN	-2	0.133024472	Plastid, low confidence
+CAE7203477.1	SP	25	GGA-ERA	0	0.092994925	Not plastid, signal peptide identified
+CAE7203563.1	SP	18	SLA-EPE	0	0.092324544	Not plastid, signal peptide identified
+CAE7203729.1	SP	28	GGG-WGQ	1	0.139820058	Plastid, low confidence
+CAE7203866.1	SP	24	RTR-FLA	1	0.568319797	Plastid, low confidence
+CAE7204069.1	SP	19	VDA-SSY	0	0.101385646	Not plastid, signal peptide identified
+CAE7204091.1	SP	33	PPV-FAQ	-2	0.638149839	Plastid, low confidence
+CAE7204136.1	SP	25	GLP-FRC	2	0.594592223	Plastid, low confidence
+CAE7204593.1	SP	18	LCA-AEP	-1	0.235265017	Not plastid, signal peptide identified
+CAE7204664.1	SP	20	AAA-YGR	-2	0.145862885	Plastid, low confidence
+CAE7204756.1	SP	16	TSA-LRS	0	0.178556116	Plastid, low confidence
+CAE7204779.1	SP	23	CVA-DDT	0	0.144362491	Not plastid, signal peptide identified
+CAE7204785.1	SP	17	SAE-FLG	1	0.580242792	Plastid, low confidence
+CAE7204815.1	SP	20	SSA-LRD	0	0.080010325	Plastid, low confidence
+CAE7206278.1	SP	22	GAL-FMP	1	0.736990935	Plastid, low confidence
+CAE7206280.1	SP	22	GAL-FMP	1	0.736990935	Plastid, low confidence
+CAE7206293.1	SP	25	GAG-FGG	-2	0.593216771	Plastid, low confidence
+CAE7206462.1	SP	22	GRK-FHS	2	0.639299462	Plastid, low confidence
+CAE7206792.1	SP	28	ATA-GTY	0	0.116939598	Not plastid, signal peptide identified
+CAE7207048.1	SP	32	TGK-HVE	1	0.176966002	Not plastid, signal peptide identified
+CAE7207619.1	SP	20	ARR-FAQ	2	0.619506587	Plastid, low confidence
+CAE7208064.1	SP	16	GCA-VCK	-2	0.135699004	Not plastid, signal peptide identified
+CAE7208351.1	SP	14	TLA-VAS	-2	0.225544887	Not plastid, signal peptide identified
+CAE7208448.1	SP	26	VWA-AVS	0	0.164184903	Not plastid, signal peptide identified
+CAE7208479.1	SP	33	ENA-DCS	-2	0.097251659	Not plastid, signal peptide identified
+CAE7208637.1	SP	24	SGA-RLR	2	0.091290614	Not plastid, signal peptide identified
+CAE7209124.1	SP	22	PDA-TCL	-2	0.161011316	Not plastid, signal peptide identified
+CAE7209427.1	SP	17	TYS-WGE	-2	0.085619890	Plastid, low confidence
+CAE7209655.1	SP	23	IKA-RGV	-2	0.099641895	Not plastid, signal peptide identified
+CAE7210300.1	SP	18	SHA-EKA	0	0.090663914	Not plastid, signal peptide identified
+CAE7210353.1	SP	24	SAA-CAG	1	0.197376593	Not plastid, signal peptide identified
+CAE7210656.1	SP	24	VQA-EDP	0	0.244283577	Not plastid, signal peptide identified
+CAE7210820.1	SP	24	AKA-VAS	-2	0.180201840	Not plastid, signal peptide identified
+CAE7211265.1	SP	18	SLA-HWL	0	0.145829438	Not plastid, signal peptide identified
+CAE7211617.1	SP	25	TPA-AGL	-2	0.166237149	Not plastid, signal peptide identified
+CAE7211970.1	SP	22	AQA-DEP	0	0.222177364	Not plastid, signal peptide identified
+CAE7212150.1	SP	26	WAA-RIQ	1	0.139499633	Not plastid, signal peptide identified
+CAE7212180.1	SP	18	SWA-EER	0	0.095689780	Not plastid, signal peptide identified
+CAE7213125.1	SP	19	ADA-DAP	0	0.247707233	Not plastid, signal peptide identified
+CAE7213363.1	SP	15	ACA-AVR	-1	0.152759868	Not plastid, signal peptide identified
+CAE7214195.1	SP	20	AVA-HYR	0	0.093975991	Not plastid, signal peptide identified
+CAE7214270.1	SP	35	SCG-FGE	-2	0.604208243	Plastid, low confidence
+CAE7214307.1	SP	22	VRA-TGG	0	0.137958944	Not plastid, signal peptide identified
+CAE7215002.1	SP	21	QWA-VQQ	0	0.113564440	Not plastid, signal peptide identified
+CAE7215045.1	SP	23	AHA-SLP	0	0.207578562	Not plastid, signal peptide identified
+CAE7215142.1	SP	18	SQA-SGI	-2	0.094236505	Not plastid, signal peptide identified
+CAE7215640.1	SP	20	FQA-FVS	0	0.727855310	Plastid, high confidence
+CAE7216259.1	SP	23	DSA-GAP	-1	0.255688182	Not plastid, signal peptide identified
+CAE7217186.1	SP	36	TEA-LPH	0	0.160247183	Plastid, low confidence
+CAE7217422.1	SP	18	AIE-GKL	-1	0.121783486	Not plastid, signal peptide identified
+CAE7217591.1	SP	19	SSA-QQA	0	0.116366608	Not plastid, signal peptide identified
+CAE7218079.1	SP	24	GTE-FVD	2	0.617671984	Plastid, low confidence
+CAE7218389.1	SP	22	AGA-GDT	0	0.153897053	Not plastid, signal peptide identified
+CAE7218668.1	SP	22	ACA-RGE	-2	0.107175314	Not plastid, signal peptide identified
+CAE7218929.1	SP	19	AHA-WNK	0	0.113834500	Plastid, low confidence
+CAE7219264.1	SP	26	SAA-PDS	1	0.100706362	Not plastid, signal peptide identified
+CAE7219493.1	SP	22	HPA-GCN	-2	0.106860967	Not plastid, signal peptide identified
+CAE7219791.1	SP	24	TAA-GGK	1	0.137609889	Not plastid, signal peptide identified
+CAE7219803.1	SP	32	GHG-IQP	0	0.251761905	Not plastid, signal peptide identified
+CAE7219894.1	SP	18	SEG-SSL	0	0.188482046	Not plastid, signal peptide identified
+CAE7219903.1	SP	17	VTA-FSQ	-2	0.619580485	Plastid, low confidence
+CAE7220371.1	SP	24	AAA-MKL	0	0.125906212	Not plastid, signal peptide identified
+CAE7220450.1	SP	21	VPG-RTS	-2	0.159444512	Not plastid, signal peptide identified
+CAE7220459.1	SP	23	TSA-SEV	0	0.126533278	Not plastid, signal peptide identified
+CAE7220553.1	SP	18	SQA-STI	0	0.151138056	Not plastid, signal peptide identified
+CAE7220896.1	SP	18	TTA-TGE	-2	0.069547645	Not plastid, signal peptide identified
+CAE7221162.1	SP	21	VCG-FSC	0	0.656769660	Plastid, high confidence
+CAE7221278.1	SP	18	GVA-LGN	-2	0.133867977	Plastid, low confidence
+CAE7221327.1	SP	23	TFG-NGN	-2	0.091123651	Not plastid, signal peptide identified
+CAE7221968.1	SP	22	AAA-EST	0	0.147203682	Not plastid, signal peptide identified
+CAE7221984.1	SP	17	LGA-LGE	-2	0.128562701	Plastid, low confidence
+CAE7222003.1	SP	21	ASA-LRV	0	0.085291580	Plastid, low confidence
+CAE7222175.1	SP	17	SSA-VNV	0	0.102925440	Not plastid, signal peptide identified
+CAE7222352.1	SP	23	GLD-FEG	2	0.589837978	Plastid, low confidence
+CAE7222423.1	SP	19	AGA-HKP	0	0.191413272	Not plastid, signal peptide identified
+CAE7222491.1	SP	22	VSA-FKH	0	0.567756161	Plastid, high confidence
+CAE7222778.1	SP	16	VSS-IRD	0	0.083284808	Not plastid, signal peptide identified
+CAE7223364.1	SP	15	AVC-EGS	-2	0.138226754	Not plastid, signal peptide identified
+CAE7223672.1	SP	29	ALE-CSP	-1	0.309471945	Not plastid, signal peptide identified
+CAE7224174.1	SP	21	CCA-QQP	1	0.269836717	Not plastid, signal peptide identified
+CAE7224243.1	SP	19	GVG-GTM	-1	0.149840959	Not plastid, signal peptide identified
+CAE7224373.1	SP	25	VWE-SLP	-1	0.233055600	Not plastid, signal peptide identified
+CAE7224403.1	SP	20	VLG-LRP	0	0.212717561	Plastid, low confidence
+CAE7224426.1	SP	14	ALA-GSS	-2	0.168587240	Not plastid, signal peptide identified
+CAE7224439.1	SP	23	AYA-KPL	0	0.159071598	Not plastid, signal peptide identified
+CAE7224756.1	SP	30	SPA-FSL	-2	0.640273040	Plastid, low confidence
+CAE7225214.1	SP	17	PSA-SSR	-2	0.178111206	Not plastid, signal peptide identified
+CAE7225547.1	SP	17	ALA-DGP	0	0.204293255	Not plastid, signal peptide identified
+CAE7225553.1	SP	17	AVA-LRE	0	0.102247079	Plastid, low confidence
+CAE7225819.1	SP	24	SGA-KQI	0	0.128068090	Not plastid, signal peptide identified
+CAE7226154.1	SP	27	TVV-DTS	2	0.216224531	Not plastid, signal peptide identified
+CAE7226157.1	SP	24	IDG-VRT	0	0.149366078	Not plastid, signal peptide identified
+CAE7226403.1	SP	20	TGS-YKA	1	0.121775067	Plastid, low confidence
+CAE7226501.1	SP	23	LAA-GDE	-1	0.077085529	Not plastid, signal peptide identified
+CAE7226614.1	SP	26	AVA-SSQ	-2	0.187255226	Not plastid, signal peptide identified
+CAE7227239.1	SP	16	VDA-HQV	0	0.124996374	Not plastid, signal peptide identified
+CAE7227438.1	SP	19	VAA-QSS	0	0.156399700	Not plastid, signal peptide identified
+CAE7227441.1	SP	26	LVE-GSP	-1	0.222794082	Not plastid, signal peptide identified
+CAE7227460.1	SP	16	CAA-GQE	-1	0.127814519	Not plastid, signal peptide identified
+CAE7227814.1	SP	22	GHG-RLP	0	0.229487621	Not plastid, signal peptide identified
+CAE7228074.1	SP	18	VLS-QTL	0	0.155038876	Not plastid, signal peptide identified
+CAE7228088.1	SP	19	PSA-VCL	-2	0.122641554	Not plastid, signal peptide identified
+CAE7228737.1	SP	23	SNL-ADP	2	0.235508273	Not plastid, signal peptide identified
+CAE7228882.1	SP	24	AYG-FPG	0	0.585272438	Plastid, high confidence
+CAE7229290.1	SP	23	VNA-ISW	0	0.148315198	Not plastid, signal peptide identified
+CAE7229336.1	SP	20	LGS-GKP	-1	0.230303807	Not plastid, signal peptide identified
+CAE7229645.1	SP	15	RYA-TGD	-2	0.111312675	Not plastid, signal peptide identified
+CAE7229741.1	SP	26	SHA-YLA	2	0.140564428	Plastid, low confidence
+CAE7229984.1	SP	21	TDA-ATI	0	0.167054203	Not plastid, signal peptide identified
+CAE7230116.1	SP	27	LRS-FAA	-2	0.702466460	Plastid, low confidence
+CAE7230205.1	SP	15	ILA-QGS	-2	0.115148735	Not plastid, signal peptide identified
+CAE7230281.1	SP	27	IWA-DPT	0	0.146168150	Not plastid, signal peptide identified
+CAE7230553.1	SP	17	ELA-IGH	-2	0.101987482	Not plastid, signal peptide identified
+CAE7231302.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7231331.1	SP	20	STA-VST	-2	0.142950109	Not plastid, signal peptide identified
+CAE7231509.1	SP	21	STA-SRI	0	0.108845794	Not plastid, signal peptide identified
+CAE7231890.1	SP	33	GQA-QTG	0	0.194623375	Not plastid, signal peptide identified
+CAE7231971.1	SP	26	SSN-RGL	1	0.160849310	Not plastid, signal peptide identified
+CAE7232402.1	SP	25	SSA-PQE	1	0.106949754	Not plastid, signal peptide identified
+CAE7232489.1	SP	22	TRA-VRE	0	0.107342812	Not plastid, signal peptide identified
+CAE7232588.1	SP	27	VKG-GVA	0	0.137685310	Not plastid, signal peptide identified
+CAE7232599.1	SP	20	LAA-LAT	-2	0.162569302	Plastid, low confidence
+CAE7232839.1	SP	21	RSA-DLG	1	0.104789688	Not plastid, signal peptide identified
+CAE7233065.1	SP	23	VLA-VAP	0	0.262578753	Not plastid, signal peptide identified
+CAE7233398.1	SP	19	VSG-LDC	0	0.114303626	Plastid, low confidence
+CAE7233725.1	SP	29	GGA-SKL	0	0.134952285	Not plastid, signal peptide identified
+CAE7233822.1	SP	20	VDG-CKS	0	0.120318081	Not plastid, signal peptide identified
+CAE7234069.1	SP	22	TAA-EDE	1	0.090734362	Not plastid, signal peptide identified
+CAE7234155.1	SP	21	LHA-NGY	-2	0.074676291	Not plastid, signal peptide identified
+CAE7234233.1	SP	20	VLA-AEQ	0	0.102575279	Not plastid, signal peptide identified
+CAE7234389.1	SP	23	AVR-PSR	-1	0.123063649	Not plastid, signal peptide identified
+CAE7234611.1	SP	27	APA-DQV	-2	0.131208635	Not plastid, signal peptide identified
+CAE7235410.1	SP	25	VGG-TNP	0	0.265648572	Not plastid, signal peptide identified
+CAE7235433.1	SP	19	VRA-EAL	-2	0.202264590	Not plastid, signal peptide identified
+CAE7235478.1	SP	25	SCG-DRT	1	0.149531374	Not plastid, signal peptide identified
+CAE7235669.1	SP	22	AAA-GKM	0	0.121374966	Not plastid, signal peptide identified
+CAE7235782.1	SP	23	ADA-ELP	0	0.246301717	Not plastid, signal peptide identified
+CAE7235903.1	SP	17	ANA-FEV	0	0.579840735	Plastid, high confidence
+CAE7236103.1	SP	15	GAA-SSW	-2	0.104343607	Not plastid, signal peptide identified
+CAE7236211.1	SP	17	ARA-DDK	0	0.113560449	Not plastid, signal peptide identified
+CAE7236410.1	SP	16	VLA-EED	0	0.086843238	Not plastid, signal peptide identified
+CAE7236665.1	SP	21	PSS-YCP	0	0.218789089	Plastid, low confidence
+CAE7236978.1	SP	22	AAA-EKV	0	0.129318199	Not plastid, signal peptide identified
+CAE7237158.1	SP	23	SRG-NTT	0	0.230376674	Not plastid, signal peptide identified
+CAE7237191.1	SP	20	VNA-EEL	0	0.121547396	Not plastid, signal peptide identified
+CAE7237195.1	SP	29	CLA-VEG	2	0.104044485	Not plastid, signal peptide identified
+CAE7237202.1	SP	16	VSG-QSI	-2	0.180275243	Not plastid, signal peptide identified
+CAE7237502.1	SP	20	VRG-DDP	0	0.291721146	Not plastid, signal peptide identified
+CAE7237549.1	SP	27	TQG-SCL	0	0.148552445	Not plastid, signal peptide identified
+CAE7237743.1	SP	18	AGA-WQW	0	0.153424708	Plastid, low confidence
+CAE7237749.1	SP	19	GVA-SIR	-1	0.125767862	Not plastid, signal peptide identified
+CAE7238901.1	SP	25	ADV-FPV	2	0.595027882	Plastid, low confidence
+CAE7238967.1	SP	20	ALA-GTG	0	0.154840472	Not plastid, signal peptide identified
+CAE7239165.1	SP	20	ESA-FLK	1	0.612324563	Plastid, low confidence
+CAE7239356.1	SP	28	SAA-FSS	1	0.711146158	Plastid, low confidence
+CAE7239376.1	SP	19	TRC-LLL	0	0.163944797	Plastid, low confidence
+CAE7239452.1	SP	21	AVA-FKA	0	0.598875586	Plastid, high confidence
+CAE7239619.1	SP	23	SAA-PVR	-1	0.122390576	Not plastid, signal peptide identified
+CAE7239763.1	SP	27	SEA-LSS	-2	0.210790968	Plastid, low confidence
+CAE7239873.1	SP	21	GSA-RSS	-2	0.184328605	Not plastid, signal peptide identified
+CAE7239900.1	SP	17	ALA-TGL	-2	0.136369302	Not plastid, signal peptide identified
+CAE7239943.1	SP	18	VSA-GSS	0	0.167332405	Not plastid, signal peptide identified
+CAE7239947.1	SP	24	LRG-GDL	0	0.102687249	Not plastid, signal peptide identified
+CAE7240250.1	SP	17	ATA-LPD	0	0.161347209	Plastid, low confidence
+CAE7240280.1	SP	21	QDA-SGY	-2	0.092338732	Not plastid, signal peptide identified
+CAE7240302.1	SP	23	ADS-FPV	0	0.593024134	Plastid, high confidence
+CAE7240691.1	SP	18	AIA-SAL	-2	0.202128219	Not plastid, signal peptide identified
+CAE7241122.1	SP	20	LAA-SWP	-1	0.228548361	Not plastid, signal peptide identified
+CAE7241234.1	SP	18	AQA-AAK	-2	0.137302590	Not plastid, signal peptide identified
+CAE7241790.1	SP	23	AGC-GCE	-2	0.099830884	Not plastid, signal peptide identified
+CAE7242149.1	SP	19	SLA-GIP	0	0.276984412	Not plastid, signal peptide identified
+CAE7242259.1	SP	21	GGG-ESC	-2	0.146117808	Not plastid, signal peptide identified
+CAE7242352.1	SP	21	LVA-LGG	-2	0.109482966	Plastid, low confidence
+CAE7242436.1	SP	23	GSA-NTS	0	0.218182829	Not plastid, signal peptide identified
+CAE7242708.1	SP	24	VRA-VIS	0	0.160101812	Not plastid, signal peptide identified
+CAE7242733.1	SP	22	VWS-YKL	0	0.169602776	Plastid, low confidence
+CAE7243117.1	SP	19	LGA-GHE	-1	0.096857093	Not plastid, signal peptide identified
+CAE7243251.1	SP	25	TQA-AVS	0	0.140460222	Not plastid, signal peptide identified
+CAE7243305.1	SP	33	CGG-KVY	0	0.133986322	Not plastid, signal peptide identified
+CAE7243399.1	SP	16	GQA-SQE	0	0.125242703	Not plastid, signal peptide identified
+CAE7243434.1	SP	23	GYA-TKT	0	0.145733510	Not plastid, signal peptide identified
+CAE7243591.1	SP	29	TAS-FSL	1	0.671145690	Plastid, low confidence
+CAE7243685.1	SP	25	PRA-ERD	0	0.159571718	Not plastid, signal peptide identified
+CAE7243705.1	SP	18	CMR-QTH	2	0.143572350	Not plastid, signal peptide identified
+CAE7243770.1	SP	27	GVA-NVG	0	0.185576114	Not plastid, signal peptide identified
+CAE7243896.1	SP	21	AVA-EEV	0	0.116075639	Not plastid, signal peptide identified
+CAE7244143.1	SP	24	VRG-DRE	0	0.157594201	Not plastid, signal peptide identified
+CAE7244202.1	SP	26	GCA-DDQ	0	0.178141054	Not plastid, signal peptide identified
+CAE7244868.1	SP	29	SHA-FFS	0	0.648500739	Plastid, high confidence
+CAE7245101.1	SP	26	AEV-FTH	2	0.605800962	Plastid, low confidence
+CAE7245245.1	SP	18	AAE-FYE	1	0.634993518	Plastid, low confidence
+CAE7245622.1	SP	34	ARA-LLG	0	0.138448426	Plastid, low confidence
+CAE7245875.1	SP	16	AVA-RSA	-2	0.157734523	Not plastid, signal peptide identified
+CAE7245955.1	SP	19	AGA-AKI	-1	0.168524486	Not plastid, signal peptide identified
+CAE7246043.1	SP	19	STA-DEL	0	0.090831125	Not plastid, signal peptide identified
+CAE7246422.1	SP	29	LGA-LAN	1	0.167407750	Plastid, low confidence
+CAE7246916.1	SP	21	YMA-ANT	-1	0.157235007	Not plastid, signal peptide identified
+CAE7248148.1	SP	24	LAA-PTR	1	0.190175780	Not plastid, signal peptide identified
+CAE7248173.1	SP	19	SCG-YHP	0	0.237426652	Plastid, low confidence
+CAE7248333.1	SP	20	AVA-VPD	0	0.090778678	Not plastid, signal peptide identified
+CAE7248382.1	SP	17	VLA-ATA	0	0.120586904	Not plastid, signal peptide identified
+CAE7248882.1	SP	17	PAA-TCG	-2	0.110534915	Not plastid, signal peptide identified
+CAE7249435.1	SP	18	CSG-QVE	0	0.143764378	Not plastid, signal peptide identified
+CAE7249469.1	SP	15	VLA-AAS	-2	0.138440189	Not plastid, signal peptide identified
+CAE7249472.1	SP	15	VLA-AAS	-2	0.138440189	Not plastid, signal peptide identified
+CAE7249484.1	SP	23	KGG-GEP	1	0.200011835	Not plastid, signal peptide identified
+CAE7249598.1	SP	23	VPA-REG	0	0.087604578	Not plastid, signal peptide identified
+CAE7250039.1	SP	25	VLS-SSS	0	0.187206887	Not plastid, signal peptide identified
+CAE7250304.1	SP	16	VLA-EED	0	0.086843238	Not plastid, signal peptide identified
+CAE7250315.1	SP	25	ASA-ARH	0	0.093008992	Not plastid, signal peptide identified
+CAE7250321.1	SP	25	ASA-ARH	0	0.092123328	Not plastid, signal peptide identified
+CAE7250329.1	SP	24	VWA-DPE	0	0.095167419	Not plastid, signal peptide identified
+CAE7250928.1	SP	16	ALG-FLS	0	0.609415658	Plastid, high confidence
+CAE7251055.1	SP	33	GLS-FKL	0	0.641270986	Plastid, high confidence
+CAE7251275.1	SP	17	VVA-QEV	0	0.080105054	Not plastid, signal peptide identified
+CAE7251318.1	SP	24	AGA-ESR	1	0.162062810	Not plastid, signal peptide identified
+CAE7251320.1	SP	21	REA-CMP	0	0.232482985	Not plastid, signal peptide identified
+CAE7251382.1	SP	15	ATA-VGD	-2	0.076875462	Not plastid, signal peptide identified
+CAE7251688.1	SP	21	TVA-TKD	0	0.117615312	Not plastid, signal peptide identified
+CAE7251800.1	SP	18	VSG-EIP	0	0.229256298	Not plastid, signal peptide identified
+CAE7251859.1	SP	31	VRA-WTL	0	0.178332853	Plastid, low confidence
+CAE7251988.1	SP	26	GSA-GSS	-1	0.182825906	Not plastid, signal peptide identified
+CAE7252282.1	SP	23	SSA-AEP	0	0.236205201	Not plastid, signal peptide identified
+CAE7252491.1	SP	20	VEA-VTS	0	0.139943381	Not plastid, signal peptide identified
+CAE7252874.1	SP	37	SAV-FTR	2	0.654047341	Plastid, low confidence
+CAE7252927.1	SP	16	AAA-VSP	0	0.254921793	Not plastid, signal peptide identified
+CAE7252981.1	SP	26	VSA-WTL	-2	0.232944483	Plastid, low confidence
+CAE7252986.1	SP	23	RSS-EGP	1	0.239826302	Not plastid, signal peptide identified
+CAE7253020.1	SP	19	PSA-CDE	-1	0.093672511	Not plastid, signal peptide identified
+CAE7253197.1	SP	25	NWA-SVP	0	0.314292504	Not plastid, signal peptide identified
+CAE7253200.1	SP	23	CLA-QRK	0	0.099039664	Not plastid, signal peptide identified
+CAE7253290.1	SP	18	ACA-DGP	0	0.215706240	Not plastid, signal peptide identified
+CAE7254166.1	SP	17	ASA-AAQ	-2	0.131564785	Not plastid, signal peptide identified
+CAE7254280.1	SP	26	ASA-LSC	0	0.119470966	Plastid, low confidence
+CAE7254299.1	SP	20	RSA-NSC	1	0.168351642	Not plastid, signal peptide identified
+CAE7254304.1	SP	18	AAA-QDD	0	0.112410755	Not plastid, signal peptide identified
+CAE7254336.1	SP	45	RCA-FAG	-2	0.702534094	Plastid, low confidence
+CAE7254462.1	SP	26	LSA-VNP	1	0.237163971	Not plastid, signal peptide identified
+CAE7254503.1	SP	20	SSA-VLR	1	0.135725573	Not plastid, signal peptide identified
+CAE7254722.1	SP	21	AGA-IRH	0	0.140751735	Not plastid, signal peptide identified
+CAE7254766.1	SP	37	GQS-KRP	2	0.218684384	Not plastid, signal peptide identified
+CAE7254802.1	SP	20	SQA-GES	0	0.150726885	Not plastid, signal peptide identified
+CAE7255107.1	SP	17	LSA-GLE	-1	0.120949008	Not plastid, signal peptide identified
+CAE7255160.1	SP	29	CHS-LSL	0	0.192056790	Plastid, low confidence
+CAE7255332.1	SP	27	GGA-CDL	1	0.106963473	Not plastid, signal peptide identified
+CAE7255581.1	SP	24	TSA-QQV	1	0.205127986	Not plastid, signal peptide identified
+CAE7256048.1	SP	15	ANA-DQL	0	0.121692892	Not plastid, signal peptide identified
+CAE7256167.1	SP	23	ADA-AAD	2	0.154927766	Not plastid, signal peptide identified
+CAE7256257.1	SP	19	FEA-SPV	0	0.183686566	Not plastid, signal peptide identified
+CAE7256282.1	SP	19	LGA-EVR	1	0.118077798	Not plastid, signal peptide identified
+CAE7256573.1	SP	25	SSA-YKL	0	0.141681302	Plastid, low confidence
+CAE7257282.1	SP	21	IAA-SCL	0	0.119551827	Not plastid, signal peptide identified
+CAE7257492.1	SP	23	AVA-DAS	-2	0.186848659	Not plastid, signal peptide identified
+CAE7257573.1	SP	21	IHG-VLL	0	0.123705467	Not plastid, signal peptide identified
+CAE7257827.1	SP	20	AVA-AEP	-1	0.234954670	Not plastid, signal peptide identified
+CAE7258154.1	SP	18	SAA-GSE	-2	0.123736224	Not plastid, signal peptide identified
+CAE7258227.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7258235.1	SP	20	AAA-HGP	0	0.241121048	Not plastid, signal peptide identified
+CAE7258489.1	SP	18	VEA-QQP	0	0.178575809	Not plastid, signal peptide identified
+CAE7258767.1	SP	28	AAG-FDP	1	0.725231998	Plastid, low confidence
+CAE7259858.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7260727.1	SP	21	AVA-EEV	0	0.154088082	Not plastid, signal peptide identified
+CAE7261019.1	SP	33	VGA-FKL	0	0.663911564	Plastid, high confidence
+CAE7261672.1	SP	33	VDG-MEA	0	0.067579166	Not plastid, signal peptide identified
+CAE7264126.1	SP	34	ARA-LLG	0	0.134985824	Plastid, low confidence
+CAE7264525.1	SP	18	IHA-VKT	0	0.150075192	Not plastid, signal peptide identified
+CAE7264693.1	SP	23	NAG-FLH	1	0.621960899	Plastid, low confidence
+CAE7264705.1	SP	23	STG-LLQ	2	0.140177159	Plastid, low confidence
+CAE7264874.1	SP	18	SSA-KLR	1	0.145640179	Not plastid, signal peptide identified
+CAE7265043.1	SP	20	VGQ-QQT	-1	0.157461631	Not plastid, signal peptide identified
+CAE7265259.1	SP	19	ASA-GCD	-2	0.112497915	Not plastid, signal peptide identified
+CAE7265366.1	SP	24	AHA-SQG	0	0.082330336	Not plastid, signal peptide identified
+CAE7265527.1	SP	20	AYA-EGE	0	0.150544403	Not plastid, signal peptide identified
+CAE7265589.1	SP	24	CWA-ETG	0	0.165135540	Not plastid, signal peptide identified
+CAE7267381.1	SP	24	VGG-LRE	0	0.108401836	Plastid, low confidence
+CAE7268015.1	SP	32	THA-VSI	0	0.182941069	Not plastid, signal peptide identified
+CAE7268255.1	SP	20	ARA-FDQ	0	0.605648992	Plastid, high confidence
+CAE7268288.1	SP	30	SRV-FSS	-2	0.621734382	Plastid, low confidence
+CAE7268804.1	SP	18	LSS-DID	1	0.123632542	Not plastid, signal peptide identified
+CAE7268850.1	SP	22	SRA-YYE	0	0.102206986	Plastid, low confidence
+CAE7268906.1	SP	21	CSA-RRS	0	0.125473185	Not plastid, signal peptide identified
+CAE7269415.1	SP	20	SCH-IQP	1	0.232981614	Not plastid, signal peptide identified
+CAE7269917.1	SP	27	VSS-LRT	0	0.138725980	Plastid, low confidence
+CAE7270367.1	SP	29	QGA-LDS	1	0.121378157	Plastid, low confidence
+CAE7272166.1	SP	20	SGD-FVY	1	0.667076908	Plastid, low confidence
+CAE7272291.1	SP	23	SRS-QRD	0	0.086614637	Not plastid, signal peptide identified
+CAE7272929.1	SP	23	AWA-RPP	0	0.183049503	Not plastid, signal peptide identified
+CAE7274438.1	SP	20	LGS-QAE	1	0.146684491	Not plastid, signal peptide identified
+CAE7274938.1	SP	27	VLA-TKE	0	0.112117062	Not plastid, signal peptide identified
+CAE7275350.1	SP	20	CQC-FKM	0	0.569566224	Plastid, high confidence
+CAE7275837.1	SP	20	SGA-SLK	0	0.116422630	Not plastid, signal peptide identified
+CAE7277569.1	SP	25	EAA-KAT	1	0.245591096	Not plastid, signal peptide identified
+CAE7277760.1	SP	22	GLA-AGN	-2	0.076929333	Not plastid, signal peptide identified
+CAE7277883.1	SP	18	RVA-LTD	-2	0.172671689	Plastid, low confidence
+CAE7277897.1	SP	29	EAL-FPW	1	0.637433141	Plastid, low confidence
+CAE7278064.1	SP	16	ISA-ENA	0	0.152513229	Not plastid, signal peptide identified
+CAE7280882.1	SP	32	GFA-GSR	-2	0.163069903	Not plastid, signal peptide identified
+CAE7281203.1	SP	25	PTW-GRP	-1	0.296815887	Not plastid, signal peptide identified
+CAE7281298.1	SP	31	GRC-STR	0	0.143865506	Not plastid, signal peptide identified
+CAE7282086.1	SP	14	LPA-FAG	-2	0.671990814	Plastid, low confidence
+CAE7282807.1	SP	17	VLA-SGR	0	0.107648040	Not plastid, signal peptide identified
+CAE7284187.1	SP	18	CTS-FRF	0	0.562992171	Plastid, high confidence
+CAE7286128.1	SP	30	GWS-FAS	-2	0.708002097	Plastid, low confidence
+CAE7286688.1	SP	19	PVA-LGK	-2	0.116831591	Plastid, low confidence
+CAE7287168.1	SP	26	AVA-LHC	0	0.131445596	Plastid, low confidence
+CAE7288753.1	SP	21	ASA-EDA	0	0.104579862	Not plastid, signal peptide identified
+CAE7288768.1	SP	18	SVA-VDD	0	0.134035494	Not plastid, signal peptide identified
+CAE7290463.1	SP	17	AAY-FPV	2	0.592494302	Plastid, low confidence
+CAE7291520.1	SP	23	ASA-WDE	0	0.147349479	Plastid, low confidence
+CAE7291570.1	SP	21	VRA-WGE	0	0.109543647	Plastid, low confidence
+CAE7292763.1	SP	19	SRA-EEY	0	0.093897982	Not plastid, signal peptide identified
+CAE7293085.1	SP	17	AVA-SAE	-2	0.134731314	Not plastid, signal peptide identified
+CAE7294964.1	SP	17	LSA-VPR	1	0.120731099	Not plastid, signal peptide identified
+CAE7295038.1	SP	21	AAA-MKL	0	0.161997951	Not plastid, signal peptide identified
+CAE7295098.1	SP	24	SAA-YVP	1	0.321351220	Plastid, low confidence
+CAE7296059.1	SP	16	AGH-GMI	-1	0.118034631	Not plastid, signal peptide identified
+CAE7296157.1	SP	14	ALA-AAS	-2	0.155506525	Not plastid, signal peptide identified
+CAE7296676.1	SP	18	TLA-SPD	0	0.138976937	Not plastid, signal peptide identified
+CAE7296874.1	SP	21	CDA-YKR	0	0.085622463	Plastid, low confidence
+CAE7298066.1	SP	18	TAA-VRK	0	0.093335425	Not plastid, signal peptide identified
+CAE7298638.1	SP	20	IDG-HDS	0	0.141531976	Not plastid, signal peptide identified
+CAE7300435.1	SP	23	VQS-CTN	0	0.183250706	Not plastid, signal peptide identified
+CAE7301840.1	SP	26	VLG-LRR	0	0.130951459	Plastid, low confidence
+CAE7302017.1	SP	20	TCA-EDA	1	0.069287009	Not plastid, signal peptide identified
+CAE7302054.1	SP	15	VAA-EDE	0	0.095621363	Not plastid, signal peptide identified
+CAE7302106.1	SP	33	SIA-LDC	0	0.095428261	Plastid, low confidence
+CAE7303451.1	SP	19	VDA-TCE	0	0.112654989	Not plastid, signal peptide identified
+CAE7303707.1	SP	19	MAA-LTS	1	0.145360819	Plastid, low confidence
+CAE7303737.1	SP	21	ASA-FRD	0	0.628401385	Plastid, high confidence
+CAE7305397.1	SP	24	SWT-FKL	0	0.644390116	Plastid, high confidence
+CAE7305403.1	SP	25	LNG-EHL	0	0.126186496	Not plastid, signal peptide identified
+CAE7305531.1	SP	19	ANA-CNV	0	0.146048589	Not plastid, signal peptide identified
+CAE7306999.1	SP	24	WGA-PAF	1	0.189976936	Not plastid, signal peptide identified
+CAE7307202.1	SP	20	CTA-VSP	0	0.275511344	Not plastid, signal peptide identified
+CAE7307458.1	SP	25	FPA-GSQ	-2	0.157890011	Not plastid, signal peptide identified
+CAE7307791.1	SP	22	PHA-ESP	0	0.235302422	Not plastid, signal peptide identified
+CAE7308311.1	SP	20	FPA-DQI	-2	0.113191878	Not plastid, signal peptide identified
+CAE7308615.1	SP	20	VPA-TSQ	-2	0.150674121	Not plastid, signal peptide identified
+CAE7308978.1	SP	22	VSA-GPL	0	0.148549164	Not plastid, signal peptide identified
+CAE7309756.1	SP	26	CGC-DTS	0	0.240068432	Not plastid, signal peptide identified
+CAE7310174.1	SP	22	WSD-FVG	1	0.653821889	Plastid, low confidence
+CAE7310600.1	SP	22	TSS-EDI	0	0.152268984	Not plastid, signal peptide identified
+CAE7310617.1	SP	22	TSS-EDI	0	0.152268984	Not plastid, signal peptide identified
+CAE7310725.1	SP	19	TLD-DAN	2	0.159495532	Not plastid, signal peptide identified
+CAE7310880.1	SP	20	AAG-QCD	-2	0.095998819	Not plastid, signal peptide identified
+CAE7310967.1	SP	15	AVE-SEP	-1	0.212541741	Not plastid, signal peptide identified
+CAE7310985.1	SP	19	CIA-QKG	0	0.126133693	Not plastid, signal peptide identified
+CAE7311255.1	SP	15	ACA-RNT	0	0.121033756	Not plastid, signal peptide identified
+CAE7312133.1	SP	21	VDG-MEA	0	0.067579166	Not plastid, signal peptide identified
+CAE7313614.1	SP	32	TLA-FKT	0	0.661149066	Plastid, high confidence
+CAE7313632.1	SP	31	VGS-FKL	0	0.650283957	Plastid, high confidence
+CAE7315111.1	SP	18	CVA-IPV	0	0.107398171	Not plastid, signal peptide identified
+CAE7315167.1	SP	28	TAA-ACN	2	0.130225490	Not plastid, signal peptide identified
+CAE7315237.1	SP	20	SDL-KGP	0	0.214157751	Not plastid, signal peptide identified
+CAE7316679.1	SP	18	AAA-LAP	0	0.257370764	Plastid, low confidence
+CAE7317637.1	SP	28	KCA-SGL	-2	0.111277381	Not plastid, signal peptide identified
+CAE7320390.1	SP	29	VQA-YKL	0	0.161659817	Plastid, low confidence
+CAE7322262.1	SP	21	GRA-SES	0	0.186514488	Not plastid, signal peptide identified
+CAE7322856.1	SP	22	QSA-LGS	-2	0.158195866	Plastid, low confidence
+CAE7323445.1	SP	28	TLS-QTD	0	0.112444978	Not plastid, signal peptide identified
+CAE7324545.1	SP	26	AGA-ELQ	0	0.125001585	Not plastid, signal peptide identified
+CAE7324684.1	SP	27	APA-FSM	-2	0.615355075	Plastid, low confidence
+CAE7325020.1	SP	29	VEC-VRP	0	0.224235637	Not plastid, signal peptide identified
+CAE7325335.1	SP	19	PSA-LEH	-1	0.141335978	Plastid, low confidence
+CAE7326263.1	SP	22	TTA-LTD	0	0.182631841	Plastid, low confidence
+CAE7326359.1	SP	20	ATA-EPV	0	0.116723196	Not plastid, signal peptide identified
+CAE7326803.1	SP	18	AQA-EAP	0	0.259054271	Not plastid, signal peptide identified
+CAE7326823.1	SP	34	AVA-RPP	0	0.224207121	Not plastid, signal peptide identified
+CAE7328702.1	SP	22	VSA-SET	0	0.108722614	Not plastid, signal peptide identified
+CAE7329193.1	SP	33	TGA-LNS	0	0.153853799	Plastid, low confidence
+CAE7330001.1	SP	22	SPA-STE	-2	0.199574725	Not plastid, signal peptide identified
+CAE7330091.1	SP	16	ALA-FAS	-2	0.682860887	Plastid, low confidence
+CAE7330239.1	SP	18	VAA-EAD	-2	0.176536541	Not plastid, signal peptide identified
+CAE7331992.1	SP	35	AAA-GAG	2	0.160358914	Not plastid, signal peptide identified
+CAE7332858.1	SP	21	ASA-HPE	0	0.145718179	Not plastid, signal peptide identified
+CAE7333318.1	SP	20	ASA-NRL	0	0.115543429	Not plastid, signal peptide identified
+CAE7334183.1	SP	23	DSA-GAP	-1	0.255688182	Not plastid, signal peptide identified
+CAE7336224.1	SP	24	SAA-PGK	-1	0.115942768	Not plastid, signal peptide identified
+CAE7336336.1	SP	16	LAA-LGM	-2	0.102413479	Plastid, low confidence
+CAE7336473.1	SP	16	GLA-NPS	0	0.131812371	Not plastid, signal peptide identified
+CAE7337107.1	SP	22	VIG-LRK	0	0.100517800	Plastid, low confidence
+CAE7337121.1	SP	21	VSG-HRV	0	0.084163587	Not plastid, signal peptide identified
+CAE7338321.1	SP	21	GVA-REG	0	0.113687917	Not plastid, signal peptide identified
+CAE7340137.1	SP	34	ARA-LLG	0	0.157724733	Plastid, low confidence
+CAE7340409.1	SP	21	VEG-NYN	0	0.130341972	Not plastid, signal peptide identified
+CAE7340462.1	SP	41	VWA-DCP	0	0.257664878	Not plastid, signal peptide identified
+CAE7340990.1	SP	28	VEA-TPC	0	0.084728898	Not plastid, signal peptide identified
+CAE7341078.1	SP	19	TVA-LRP	0	0.220724632	Plastid, low confidence
+CAE7341242.1	SP	36	CSS-VAS	2	0.170205516	Not plastid, signal peptide identified
+CAE7344051.1	SP	16	GLA-GDH	0	0.109713999	Not plastid, signal peptide identified
+CAE7345438.1	SP	18	ASA-AQL	0	0.170985652	Not plastid, signal peptide identified
+CAE7345726.1	SP	18	RGA-VGQ	-2	0.127220117	Not plastid, signal peptide identified
+CAE7345738.1	SP	21	SHA-RLL	0	0.126761089	Not plastid, signal peptide identified
+CAE7346030.1	SP	33	TGA-LNS	0	0.136118648	Plastid, low confidence
+CAE7346388.1	SP	20	SGD-FVY	1	0.667076908	Plastid, low confidence
+CAE7346722.1	SP	17	SSA-FVP	0	0.798655685	Plastid, high confidence
+CAE7346774.1	SP	37	ARA-LLG	0	0.140432058	Plastid, low confidence
+CAE7348196.1	SP	39	CSA-LRH	0	0.111184443	Plastid, low confidence
+CAE7348891.1	SP	17	AVA-NAA	-2	0.198997751	Not plastid, signal peptide identified
+CAE7349164.1	SP	23	GCA-GDI	-1	0.118009042	Not plastid, signal peptide identified
+CAE7349703.1	SP	20	APA-MKT	0	0.203971390	Not plastid, signal peptide identified
+CAE7350169.1	SP	21	WAA-WAS	-2	0.194924871	Plastid, low confidence
+CAE7350272.1	SP	30	VSS-TKE	-1	0.134243078	Not plastid, signal peptide identified
+CAE7351154.1	SP	34	VGL-SLP	1	0.215134062	Not plastid, signal peptide identified
+CAE7351185.1	SP	23	LNL-LRL	2	0.164198212	Plastid, low confidence
+CAE7351922.1	SP	24	QVH-SQP	-1	0.286770877	Not plastid, signal peptide identified
+CAE7352304.1	SP	25	GHA-GEG	0	0.142499336	Not plastid, signal peptide identified
+CAE7353124.1	SP	29	VGA-GGS	0	0.126478491	Not plastid, signal peptide identified
+CAE7355170.1	SP	25	AVA-DAN	-2	0.152728959	Not plastid, signal peptide identified
+CAE7356112.1	SP	20	AAG-QCD	-2	0.094810455	Not plastid, signal peptide identified
+CAE7356118.1	SP	19	PVA-GQC	-1	0.113092340	Not plastid, signal peptide identified
+CAE7356481.1	SP	18	VRA-GPD	0	0.107721918	Not plastid, signal peptide identified
+CAE7356541.1	SP	22	AAA-SRS	0	0.164872013	Not plastid, signal peptide identified
+CAE7356586.1	SP	17	AEA-VRK	0	0.102401534	Not plastid, signal peptide identified
+CAE7357374.1	SP	21	LSA-KDG	1	0.074022913	Not plastid, signal peptide identified
+CAE7357439.1	SP	19	VGQ-GRT	-1	0.190173385	Not plastid, signal peptide identified
+CAE7357488.1	SP	23	SDA-VRT	0	0.151326253	Not plastid, signal peptide identified
+CAE7358086.1	SP	18	GLA-SGQ	-2	0.096482754	Not plastid, signal peptide identified
+CAE7358390.1	SP	37	ADA-ALS	0	0.104711556	Not plastid, signal peptide identified
+CAE7358403.1	SP	19	SLA-EDP	0	0.242742002	Not plastid, signal peptide identified
+CAE7358629.1	SP	18	VDG-TRV	0	0.145749994	Not plastid, signal peptide identified
+CAE7358674.1	SP	30	ATA-SEA	0	0.119171306	Not plastid, signal peptide identified
+CAE7359044.1	SP	28	VGA-STG	1	0.199341806	Not plastid, signal peptide identified
+CAE7359914.1	SP	29	SLG-FAS	0	0.635745764	Plastid, high confidence
+CAE7360550.1	SP	17	TWA-SLP	0	0.204581011	Not plastid, signal peptide identified
+CAE7361403.1	SP	21	VAA-HRI	0	0.157483415	Not plastid, signal peptide identified
+CAE7361411.1	SP	20	AEA-DEV	0	0.110376137	Not plastid, signal peptide identified
+CAE7362648.1	SP	24	VRG-DRE	0	0.157594201	Not plastid, signal peptide identified
+CAE7363333.1	SP	20	QAA-DSF	1	0.141678555	Not plastid, signal peptide identified
+CAE7363369.1	SP	16	CAA-VRE	0	0.101852951	Not plastid, signal peptide identified
+CAE7363477.1	SP	21	SSA-QCA	-2	0.135541560	Not plastid, signal peptide identified
+CAE7363495.1	SP	17	VLA-HRL	0	0.145606561	Not plastid, signal peptide identified
+CAE7363519.1	SP	16	VQA-GER	0	0.086868064	Not plastid, signal peptide identified
+CAE7364713.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7364783.1	SP	20	ACA-DKL	0	0.124183105	Not plastid, signal peptide identified
+CAE7364943.1	SP	20	NLG-DLC	0	0.093983735	Not plastid, signal peptide identified
+CAE7365031.1	SP	19	VVA-GQS	-1	0.116627334	Not plastid, signal peptide identified
+CAE7365848.1	SP	21	CCA-MRN	0	0.131015527	Not plastid, signal peptide identified
+CAE7366006.1	SP	21	SQA-MCG	0	0.090441099	Not plastid, signal peptide identified
+CAE7366214.1	SP	18	VAA-ADP	-1	0.244746499	Not plastid, signal peptide identified
+CAE7367760.1	SP	21	AVA-EEV	0	0.116075639	Not plastid, signal peptide identified
+CAE7367976.1	SP	28	STV-TVP	1	0.234175901	Not plastid, signal peptide identified
+CAE7368668.1	SP	24	TSA-AVA	0	0.136073660	Not plastid, signal peptide identified
+CAE7369299.1	SP	18	CQG-RSC	0	0.159861166	Not plastid, signal peptide identified
+CAE7372310.1	SP	20	ASA-LLL	0	0.131978663	Plastid, low confidence
+CAE7374505.1	SP	23	TVA-HSC	0	0.189333176	Not plastid, signal peptide identified
+CAE7374647.1	SP	20	VSA-QLS	0	0.163762162	Not plastid, signal peptide identified
+CAE7374844.1	SP	16	GHA-ESA	-2	0.134424307	Not plastid, signal peptide identified
+CAE7374860.1	SP	17	CLG-FAE	-2	0.668005787	Plastid, low confidence
+CAE7375707.1	SP	21	RGA-RVD	1	0.110318533	Not plastid, signal peptide identified
+CAE7375845.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7376228.1	SP	18	CLA-CGV	-2	0.098381633	Not plastid, signal peptide identified
+CAE7376319.1	SP	16	VLA-FFP	0	0.729098869	Plastid, high confidence
+CAE7376374.1	SP	25	KGA-DVG	1	0.160297929	Not plastid, signal peptide identified
+CAE7380420.1	SP	22	TVA-VSS	0	0.153655033	Not plastid, signal peptide identified
+CAE7380722.1	SP	28	LCD-RAP	1	0.274729399	Not plastid, signal peptide identified
+CAE7381231.1	SP	27	GCA-DGG	-2	0.131554520	Not plastid, signal peptide identified
+CAE7382528.1	SP	24	VDM-RQP	0	0.236638746	Not plastid, signal peptide identified
+CAE7383587.1	SP	33	TGA-LNS	0	0.140252251	Plastid, low confidence
+CAE7383621.1	SP	23	SSG-DTL	0	0.150676687	Not plastid, signal peptide identified
+CAE7383750.1	SP	20	LCA-ASK	-1	0.162297375	Not plastid, signal peptide identified
+CAE7383806.1	SP	16	LVS-SEP	-1	0.234328833	Not plastid, signal peptide identified
+CAE7384625.1	SP	26	HFA-LGQ	-2	0.088320208	Plastid, low confidence
+CAE7387738.1	SP	15	SRA-WGA	-2	0.178990137	Plastid, low confidence
+CAE7389363.1	SP	22	AQT-FST	2	0.676032004	Plastid, low confidence
+CAE7389545.1	SP	17	ARA-QTC	0	0.166440550	Not plastid, signal peptide identified
+CAE7389554.1	SP	17	ARA-QTC	0	0.141339108	Not plastid, signal peptide identified
+CAE7389573.1	SP	21	TCE-NTQ	1	0.142284102	Not plastid, signal peptide identified
+CAE7390482.1	SP	23	LNL-LKV	2	0.157261899	Plastid, low confidence
+CAE7390499.1	SP	30	GYS-FEL	2	0.596893823	Plastid, low confidence
+CAE7390771.1	SP	20	CIL-HSP	2	0.271315643	Not plastid, signal peptide identified
+CAE7393119.1	SP	21	GEG-RIY	2	0.113370723	Not plastid, signal peptide identified
+CAE7393955.1	SP	20	VGA-DES	0	0.124413354	Not plastid, signal peptide identified
+CAE7394601.1	SP	18	GMA-NTM	-2	0.157216139	Not plastid, signal peptide identified
+CAE7394676.1	SP	24	AAA-SVL	0	0.186745195	Not plastid, signal peptide identified
+CAE7394943.1	SP	18	PLA-PCL	-2	0.139178099	Not plastid, signal peptide identified
+CAE7395704.1	SP	20	CDA-GLV	0	0.128620414	Not plastid, signal peptide identified
+CAE7395920.1	SP	14	ATA-AAE	-2	0.168421361	Not plastid, signal peptide identified
+CAE7398567.1	SP	17	VSL-KVS	1	0.196893230	Not plastid, signal peptide identified
+CAE7398971.1	SP	24	YSA-ADP	-1	0.218945238	Not plastid, signal peptide identified
+CAE7400094.1	SP	14	AAA-RAE	-2	0.149446995	Not plastid, signal peptide identified
+CAE7400116.1	SP	31	GLA-SLR	0	0.116520479	Not plastid, signal peptide identified
+CAE7400444.1	SP	25	DCG-QCP	1	0.228757368	Not plastid, signal peptide identified
+CAE7402414.1	SP	21	LTA-GRG	-1	0.172770236	Not plastid, signal peptide identified
+CAE7403113.1	SP	24	VSA-FKV	0	0.620268556	Plastid, high confidence
+CAE7403587.1	SP	26	KCA-RPA	1	0.111250603	Not plastid, signal peptide identified
+CAE7403815.1	SP	19	ASA-RGS	-2	0.199528966	Not plastid, signal peptide identified
+CAE7404034.1	SP	18	LVA-SLQ	-1	0.142198751	Not plastid, signal peptide identified
+CAE7404964.1	SP	24	GNQ-FSA	2	0.630941854	Plastid, low confidence
+CAE7405153.1	SP	22	GDA-VRQ	0	0.145282919	Not plastid, signal peptide identified
+CAE7405173.1	SP	22	GDA-VRQ	0	0.115821672	Not plastid, signal peptide identified
+CAE7405498.1	SP	17	AGA-MKC	0	0.147288046	Not plastid, signal peptide identified
+CAE7406312.1	SP	23	TDK-PQP	2	0.256974244	Not plastid, signal peptide identified
+CAE7406330.1	SP	23	TDK-TQP	2	0.248007633	Not plastid, signal peptide identified
+CAE7408358.1	SP	14	SCS-GSL	-1	0.163152866	Not plastid, signal peptide identified
+CAE7408396.1	SP	34	RVA-VSD	-2	0.168362314	Not plastid, signal peptide identified
+CAE7409522.1	SP	14	ALA-SAE	-2	0.129716596	Not plastid, signal peptide identified
+CAE7410506.1	SP	20	ATA-IDA	0	0.115109719	Not plastid, signal peptide identified
+CAE7410559.1	SP	28	PLA-SGS	-2	0.205705313	Not plastid, signal peptide identified
+CAE7410742.1	SP	21	SSA-PRE	1	0.065375337	Not plastid, signal peptide identified
+CAE7413242.1	SP	23	SEA-QEA	2	0.095956356	Not plastid, signal peptide identified
+CAE7414629.1	SP	17	EVA-SWR	-1	0.142857486	Not plastid, signal peptide identified
+CAE7416447.1	SP	20	LTA-WTL	-2	0.229291712	Plastid, low confidence
+CAE7417455.1	SP	20	LPA-TSL	-2	0.170871626	Not plastid, signal peptide identified
+CAE7419046.1	SP	25	CEA-GYS	0	0.127272239	Not plastid, signal peptide identified
+CAE7419542.1	SP	21	VRA-STL	0	0.154609272	Not plastid, signal peptide identified
+CAE7420968.1	SP	14	ARA-LAE	-2	0.164143157	Plastid, low confidence
+CAE7421878.1	SP	18	QAS-FMA	1	0.585487090	Plastid, low confidence
+CAE7423897.1	SP	21	TAA-ESC	0	0.144334369	Not plastid, signal peptide identified
+CAE7424070.1	SP	18	SHA-NRL	0	0.108397594	Not plastid, signal peptide identified
+CAE7424266.1	SP	30	SHA-WTL	0	0.219441050	Plastid, low confidence
+CAE7424443.1	SP	32	SAA-LTL	0	0.182561458	Plastid, low confidence
+CAE7425332.1	SP	16	ISA-ASP	-1	0.242362718	Not plastid, signal peptide identified
+CAE7425388.1	SP	17	QTA-RGH	-2	0.098748036	Not plastid, signal peptide identified
+CAE7429813.1	SP	18	ATA-TVP	0	0.248207817	Not plastid, signal peptide identified
+CAE7429894.1	SP	18	AGA-LRP	0	0.207598194	Plastid, low confidence
+CAE7432391.1	SP	17	AVA-QVN	0	0.179480796	Not plastid, signal peptide identified
+CAE7433271.1	SP	16	PVA-SYK	-1	0.111855031	Not plastid, signal peptide identified
+CAE7434419.1	SP	24	WLA-LAD	-2	0.215714368	Plastid, low confidence
+CAE7435508.1	SP	18	VMG-QCP	0	0.241406737	Not plastid, signal peptide identified
+CAE7435549.1	SP	18	VMG-QCP	0	0.241406737	Not plastid, signal peptide identified
+CAE7438219.1	SP	26	CAA-QGA	0	0.136915701	Not plastid, signal peptide identified
+CAE7439321.1	SP	24	QAA-EGG	1	0.099211326	Not plastid, signal peptide identified
+CAE7442590.1	SP	18	AHA-LQG	0	0.185173754	Plastid, low confidence
+CAE7443455.1	SP	22	AKA-MRG	0	0.179619702	Not plastid, signal peptide identified
+CAE7444412.1	SP	20	ESA-KGL	1	0.174862901	Not plastid, signal peptide identified
+CAE7445824.1	SP	25	YEA-TCV	0	0.128166287	Not plastid, signal peptide identified
+CAE7446847.1	SP	16	VRS-QST	-2	0.127176719	Not plastid, signal peptide identified
+CAE7446917.1	SP	17	AAA-DLP	0	0.237194965	Not plastid, signal peptide identified
+CAE7447763.1	SP	21	RAA-GAT	-1	0.203411661	Not plastid, signal peptide identified
+CAE7448080.1	SP	21	GKA-ETW	2	0.152962060	Not plastid, signal peptide identified
+CAE7449429.1	SP	19	GEA-SSP	0	0.194822918	Not plastid, signal peptide identified
+CAE7450642.1	SP	18	SLA-TTT	0	0.246518320	Not plastid, signal peptide identified
+CAE7451056.1	SP	16	ALA-LAD	-2	0.166322452	Plastid, low confidence
+CAE7451222.1	SP	26	AQA-SPV	0	0.083403012	Not plastid, signal peptide identified
+CAE7453124.1	SP	15	TAA-GAM	-2	0.150283886	Not plastid, signal peptide identified
+CAE7453807.1	SP	21	HEA-DLD	0	0.091820507	Not plastid, signal peptide identified
+CAE7454725.1	SP	22	HAA-VVL	1	0.174305983	Not plastid, signal peptide identified
+CAE7455625.1	SP	20	PVA-RGQ	-2	0.144547116	Not plastid, signal peptide identified
+CAE7455675.1	SP	19	AAA-GAV	-2	0.151571878	Not plastid, signal peptide identified
+CAE7456991.1	SP	25	RQA-KPS	1	0.132179820	Not plastid, signal peptide identified
+CAE7458035.1	SP	16	KLA-EGT	-2	0.125644565	Not plastid, signal peptide identified
+CAE7458770.1	SP	22	QGA-EPG	1	0.095827554	Not plastid, signal peptide identified
+CAE7459605.1	SP	21	LTA-SEP	-1	0.218936408	Not plastid, signal peptide identified
+CAE7459681.1	SP	19	AHA-ASV	0	0.120417300	Not plastid, signal peptide identified
+CAE7460086.1	SP	21	TQQ-HYY	0	0.077177888	Not plastid, signal peptide identified
+CAE7460141.1	SP	33	GIA-LPQ	2	0.164051524	Plastid, low confidence
+CAE7460708.1	SP	19	VVS-ETI	0	0.117602241	Not plastid, signal peptide identified
+CAE7461504.1	SP	25	AAA-ACA	2	0.145619200	Not plastid, signal peptide identified
+CAE7461613.1	SP	19	VEA-VRL	0	0.154914427	Not plastid, signal peptide identified
+CAE7461667.1	SP	15	GAA-GLQ	-1	0.115432946	Not plastid, signal peptide identified
+CAE7463609.1	SP	22	ATA-DGT	0	0.180837699	Not plastid, signal peptide identified
+CAE7463707.1	SP	26	HRA-FAL	-2	0.713865597	Plastid, low confidence
+CAE7465458.1	SP	24	GHS-WEP	0	0.199892219	Plastid, low confidence
+CAE7468260.1	SP	16	LGA-LGE	-2	0.115433429	Plastid, low confidence
+CAE7469389.1	SP	25	TSA-CTT	1	0.185433387	Not plastid, signal peptide identified
+CAE7469399.1	SP	22	FEA-SSR	0	0.144515926	Not plastid, signal peptide identified
+CAE7472109.1	SP	21	PLS-CTE	-1	0.167856722	Not plastid, signal peptide identified
+CAE7472137.1	SP	27	AMT-FKV	0	0.665869499	Plastid, high confidence
+CAE7472152.1	SP	18	CYK-FAV	2	0.609587673	Plastid, low confidence
+CAE7472925.1	SP	22	CIR-RQD	2	0.138043796	Not plastid, signal peptide identified
+CAE7472984.1	SP	23	VPA-DGL	-2	0.121123549	Not plastid, signal peptide identified
+CAE7473031.1	SP	28	ACI-GQE	-1	0.118083245	Not plastid, signal peptide identified
+CAE7474081.1	SP	19	SCA-DEP	1	0.191229482	Not plastid, signal peptide identified
+CAE7474442.1	SP	22	VSG-IEP	0	0.251075339	Not plastid, signal peptide identified
+CAE7474548.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7475340.1	SP	22	VNC-NKL	0	0.166707061	Not plastid, signal peptide identified
+CAE7476032.1	SP	19	ASA-EEK	0	0.073005667	Not plastid, signal peptide identified
+CAE7476983.1	SP	18	PVA-GKM	-1	0.126302414	Not plastid, signal peptide identified
+CAE7477894.1	SP	17	LSA-TGK	-2	0.098107146	Not plastid, signal peptide identified
+CAE7477984.1	SP	21	AVA-WGA	-2	0.111730271	Plastid, low confidence
+CAE7480485.1	SP	27	GKS-EEV	0	0.149030117	Not plastid, signal peptide identified
+CAE7481318.1	SP	29	FVT-CQP	-1	0.250886505	Not plastid, signal peptide identified
+CAE7481963.1	SP	21	AGA-SAS	-2	0.217994092	Not plastid, signal peptide identified
+CAE7482028.1	SP	29	CDA-TKA	2	0.094970197	Not plastid, signal peptide identified
+CAE7483763.1	SP	18	IRS-QNS	0	0.146613218	Not plastid, signal peptide identified
+CAE7484780.1	SP	25	VLS-QDA	0	0.106869264	Not plastid, signal peptide identified
+CAE7484992.1	SP	28	VHA-ADS	0	0.167027506	Not plastid, signal peptide identified
+CAE7485227.1	SP	25	SSA-NME	0	0.097136391	Not plastid, signal peptide identified
+CAE7485438.1	SP	34	VEA-QDL	0	0.132475605	Not plastid, signal peptide identified
+CAE7486412.1	SP	23	ANA-AGQ	2	0.138050624	Not plastid, signal peptide identified
+CAE7487844.1	SP	24	TLA-MAD	-2	0.181675699	Not plastid, signal peptide identified
+CAE7490039.1	SP	19	SAD-FSS	1	0.658290288	Plastid, low confidence
+CAE7490926.1	SP	20	GSA-EMP	0	0.263187793	Not plastid, signal peptide identified
+CAE7491724.1	SP	27	PTA-STR	-2	0.193297992	Not plastid, signal peptide identified
+CAE7492852.1	SP	28	VGA-STG	1	0.199341806	Not plastid, signal peptide identified
+CAE7493362.1	SP	21	SAA-DSC	0	0.106355096	Not plastid, signal peptide identified
+CAE7493597.1	SP	23	CNS-ERP	0	0.177811393	Not plastid, signal peptide identified
+CAE7493941.1	SP	20	AVA-TAE	-2	0.177436164	Not plastid, signal peptide identified
+CAE7494221.1	SP	21	TYA-QED	0	0.123439835	Not plastid, signal peptide identified
+CAE7494879.1	SP	24	LGK-DTP	1	0.264122837	Not plastid, signal peptide identified
+CAE7494912.1	SP	16	VAA-DSE	0	0.209202939	Not plastid, signal peptide identified
+CAE7495010.1	SP	16	AHA-TPW	0	0.136793929	Not plastid, signal peptide identified
+CAE7495872.1	SP	21	ASA-RLH	0	0.178881988	Not plastid, signal peptide identified
+CAE7496936.1	SP	18	TEG-SSG	0	0.186566501	Not plastid, signal peptide identified
+CAE7497076.1	SP	34	GPS-FTP	0	0.813636955	Plastid, high confidence
+CAE7497763.1	SP	16	PLA-VGE	-2	0.096365105	Not plastid, signal peptide identified
+CAE7497783.1	SP	16	PLA-EGG	-2	0.105912408	Not plastid, signal peptide identified
+CAE7499059.1	SP	19	GHK-LAV	2	0.188892113	Plastid, low confidence
+CAE7499704.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7500471.1	SP	20	AAA-ETL	0	0.146852294	Not plastid, signal peptide identified
+CAE7500539.1	SP	18	CTA-QEE	0	0.107423462	Not plastid, signal peptide identified
+CAE7501645.1	SP	16	VAA-ASD	-1	0.179893733	Not plastid, signal peptide identified
+CAE7502744.1	SP	19	AEA-SSN	0	0.173052197	Not plastid, signal peptide identified
+CAE7503029.1	SP	16	ALA-GAV	-2	0.183665441	Not plastid, signal peptide identified
+CAE7503058.1	SP	21	AAA-NAN	-2	0.152214176	Not plastid, signal peptide identified
+CAE7503182.1	SP	20	ASA-QIP	0	0.291524195	Not plastid, signal peptide identified
+CAE7504201.1	SP	33	TQA-YGG	-2	0.135776956	Plastid, low confidence
+CAE7507053.1	SP	36	HQA-LNI	1	0.095220113	Plastid, low confidence
+CAE7507068.1	SP	19	SQQ-HDC	2	0.121444124	Not plastid, signal peptide identified
+CAE7507906.1	SP	19	LPA-DSA	-2	0.172900337	Not plastid, signal peptide identified
+CAE7508064.1	SP	22	ALA-DTC	0	0.156710113	Not plastid, signal peptide identified
+CAE7508094.1	SP	19	GAA-DEG	0	0.144465504	Not plastid, signal peptide identified
+CAE7509181.1	SP	20	TLC-GCG	-2	0.093816860	Not plastid, signal peptide identified
+CAE7509845.1	SP	19	VAA-LDS	0	0.120797046	Plastid, low confidence
+CAE7510687.1	SP	22	RLA-WSE	-2	0.161906150	Plastid, low confidence
+CAE7512359.1	SP	19	VSG-DQG	0	0.112243675	Not plastid, signal peptide identified
+CAE7514332.1	SP	24	VQG-SYA	0	0.110528128	Not plastid, signal peptide identified
+CAE7515649.1	SP	19	SRA-TPL	0	0.130360098	Not plastid, signal peptide identified
+CAE7515684.1	SP	21	CVC-FKL	0	0.657576658	Plastid, high confidence
+CAE7515722.1	SP	17	VLA-KRP	0	0.212599982	Not plastid, signal peptide identified
+CAE7518203.1	SP	20	LCA-ATR	-1	0.141680290	Not plastid, signal peptide identified
+CAE7518216.1	SP	16	SCA-HSV	-2	0.120878665	Not plastid, signal peptide identified
+CAE7519022.1	SP	19	AVA-EEQ	0	0.151284050	Not plastid, signal peptide identified
+CAE7520095.1	SP	22	TLG-RDH	0	0.070539156	Not plastid, signal peptide identified
+CAE7520920.1	SP	21	IGS-FAK	-2	0.653559106	Plastid, low confidence
+CAE7521363.1	SP	15	LGS-GQP	-1	0.221869275	Not plastid, signal peptide identified
+CAE7523325.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7524738.1	SP	19	LPA-ECR	-2	0.127864059	Not plastid, signal peptide identified
+CAE7526737.1	SP	14	TSA-VQH	0	0.139936078	Not plastid, signal peptide identified
+CAE7528340.1	SP	17	VSA-VRP	0	0.194862734	Not plastid, signal peptide identified
+CAE7528485.1	SP	21	TQA-DVS	0	0.134735632	Not plastid, signal peptide identified
+CAE7528817.1	SP	15	ALA-SAA	-2	0.167648937	Not plastid, signal peptide identified
+CAE7531424.1	SP	16	LTA-AVP	-1	0.255630623	Not plastid, signal peptide identified
+CAE7531449.1	SP	20	VHS-IRS	0	0.168476782	Not plastid, signal peptide identified
+CAE7531732.1	SP	30	AAA-EVR	0	0.210411489	Not plastid, signal peptide identified
+CAE7531965.1	SP	18	ADE-FLS	2	0.658608498	Plastid, low confidence
+CAE7532575.1	SP	19	AYK-FQA	2	0.616851308	Plastid, low confidence
+CAE7532845.1	SP	29	THA-DNT	0	0.091701271	Not plastid, signal peptide identified
+CAE7533697.1	SP	38	ARA-ATA	0	0.153725136	Not plastid, signal peptide identified
+CAE7535062.1	SP	21	FGA-SDN	-1	0.168658765	Not plastid, signal peptide identified
+CAE7538374.1	SP	19	AWA-GIT	0	0.116467234	Not plastid, signal peptide identified
+CAE7538600.1	SP	19	ASA-ICS	0	0.128696709	Not plastid, signal peptide identified
+CAE7539398.1	SP	19	GQA-VNP	0	0.249322810	Not plastid, signal peptide identified
+CAE7539413.1	SP	20	VHG-QSL	0	0.166281373	Not plastid, signal peptide identified
+CAE7540408.1	SP	19	GIA-QGS	-2	0.165659537	Not plastid, signal peptide identified
+CAE7541176.1	SP	19	SRA-GGH	0	0.114492305	Not plastid, signal peptide identified
+CAE7541536.1	SP	31	GSG-GES	2	0.145120899	Not plastid, signal peptide identified
+CAE7541868.1	SP	23	SAM-FKK	1	0.585249481	Plastid, low confidence
+CAE7542087.1	SP	21	TDG-SSV	0	0.153730727	Not plastid, signal peptide identified
+CAE7542397.1	SP	22	AVA-ESE	0	0.142522110	Not plastid, signal peptide identified
+CAE7542657.1	SP	24	ASA-VPL	0	0.094171273	Not plastid, signal peptide identified
+CAE7542683.1	SP	23	YPA-TSV	-2	0.127953719	Not plastid, signal peptide identified
+CAE7543597.1	SP	23	VAC-LGL	-2	0.123125754	Plastid, low confidence
+CAE7544479.1	SP	23	YPA-TSV	-2	0.138046189	Not plastid, signal peptide identified
+CAE7544515.1	SP	37	LAA-GAT	-1	0.173913428	Not plastid, signal peptide identified
+CAE7546298.1	SP	25	NKS-ESC	1	0.165327136	Not plastid, signal peptide identified
+CAE7548606.1	SP	18	ASA-VCA	0	0.105595379	Not plastid, signal peptide identified
+CAE7548672.1	SP	20	PVP-CKP	-1	0.203055912	Not plastid, signal peptide identified
+CAE7548815.1	SP	19	VAA-KRR	0	0.140168102	Not plastid, signal peptide identified
+CAE7548985.1	SP	19	VSA-VQL	0	0.131017790	Not plastid, signal peptide identified
+CAE7548995.1	SP	22	CLG-HVG	0	0.153505914	Not plastid, signal peptide identified
+CAE7549243.1	SP	18	VAA-MCP	0	0.176878649	Not plastid, signal peptide identified
+CAE7549263.1	SP	26	VDA-VTC	0	0.100606996	Not plastid, signal peptide identified
+CAE7549277.1	SP	18	VAA-MCP	0	0.176878649	Not plastid, signal peptide identified
+CAE7549288.1	SP	26	VDA-VTC	0	0.102977288	Not plastid, signal peptide identified
+CAE7549936.1	SP	16	VAA-RSD	-2	0.125084098	Not plastid, signal peptide identified
+CAE7549951.1	SP	31	LTA-QPP	0	0.232092422	Not plastid, signal peptide identified
+CAE7550778.1	SP	23	VSA-DCL	0	0.167189228	Not plastid, signal peptide identified
+CAE7551043.1	SP	28	VHA-ESQ	0	0.114428515	Not plastid, signal peptide identified
+CAE7551663.1	SP	22	GLG-CQP	0	0.247542725	Not plastid, signal peptide identified
+CAE7552521.1	SP	18	RPA-QCG	-2	0.106156279	Not plastid, signal peptide identified
+CAE7553045.1	SP	17	ASP-FEP	2	0.667417285	Plastid, low confidence
+CAE7553240.1	SP	39	VGD-CLP	1	0.198948173	Not plastid, signal peptide identified
+CAE7553715.1	SP	22	VVS-ERA	0	0.125133578	Not plastid, signal peptide identified
+CAE7554142.1	SP	24	IRG-RLD	0	0.075544569	Not plastid, signal peptide identified
+CAE7555128.1	SP	16	VLA-EEE	0	0.087157211	Not plastid, signal peptide identified
+CAE7555252.1	SP	26	ASH-MER	-1	0.077341658	Not plastid, signal peptide identified
+CAE7557327.1	SP	25	SEA-TGA	2	0.092901835	Not plastid, signal peptide identified
+CAE7558821.1	SP	21	ATA-VAV	-2	0.170306573	Not plastid, signal peptide identified
+CAE7559029.1	SP	18	ASA-FAR	-2	0.663539258	Plastid, low confidence
+CAE7559042.1	SP	17	VSA-APR	0	0.146326463	Not plastid, signal peptide identified
+CAE7559227.1	SP	24	SGA-LPP	1	0.190926992	Plastid, low confidence
+CAE7560304.1	SP	20	HVA-AEP	-1	0.210089807	Not plastid, signal peptide identified
+CAE7562703.1	SP	25	ASA-QIQ	0	0.132639455	Not plastid, signal peptide identified
+CAE7563203.1	SP	16	AGA-QLV	0	0.082649023	Not plastid, signal peptide identified
+CAE7563803.1	SP	31	LAA-RTW	1	0.128317848	Not plastid, signal peptide identified
+CAE7564263.1	SP	26	GQA-YVL	0	0.164311885	Plastid, low confidence
+CAE7564521.1	SP	19	AVA-SDL	-1	0.139447774	Not plastid, signal peptide identified
+CAE7564624.1	SP	17	GLA-KEL	0	0.112750592	Not plastid, signal peptide identified
+CAE7564833.1	SP	28	GQA-PPS	2	0.155536265	Not plastid, signal peptide identified
+CAE7564870.1	SP	14	TRA-YGQ	-2	0.094232830	Plastid, low confidence
+CAE7564912.1	SP	22	AKA-YKL	0	0.177087648	Plastid, low confidence
+CAE7565397.1	SP	16	ALA-DSN	-2	0.176957704	Not plastid, signal peptide identified
+CAE7565596.1	SP	16	AIV-DGT	-2	0.132447271	Not plastid, signal peptide identified
+CAE7565605.1	SP	16	AFA-DGS	-2	0.145090777	Not plastid, signal peptide identified
+CAE7566663.1	SP	22	WAA-RVE	1	0.123020001	Not plastid, signal peptide identified
+CAE7568219.1	SP	19	AAA-AKP	0	0.230499920	Not plastid, signal peptide identified
+CAE7569408.1	SP	17	TAA-QVN	0	0.217772912	Not plastid, signal peptide identified
+CAE7569835.1	SP	19	QPS-LSE	-2	0.125633539	Plastid, low confidence
+CAE7570595.1	SP	16	DGA-QVQ	1	0.150313973	Not plastid, signal peptide identified
+CAE7571045.1	SP	19	AAA-ETD	0	0.189403148	Not plastid, signal peptide identified
+CAE7571706.1	SP	22	GDA-GCA	2	0.163058866	Not plastid, signal peptide identified
+CAE7571716.1	SP	22	GDA-GCA	2	0.163058866	Not plastid, signal peptide identified
+CAE7571779.1	SP	22	VSG-EVV	0	0.189238106	Not plastid, signal peptide identified
+CAE7572423.1	SP	17	VHG-KEL	0	0.126663136	Not plastid, signal peptide identified
+CAE7573077.1	SP	20	AYK-FRD	2	0.614174904	Plastid, low confidence
+CAE7573293.1	SP	22	SSA-KTS	1	0.189125326	Not plastid, signal peptide identified
+CAE7573832.1	SP	20	ALL-RGE	-2	0.151686022	Not plastid, signal peptide identified
+CAE7574943.1	SP	20	GLA-DGL	-2	0.088294411	Not plastid, signal peptide identified
+CAE7575035.1	SP	25	PRL-GNP	-1	0.268936643	Not plastid, signal peptide identified
+CAE7575902.1	SP	17	PLV-FAS	-2	0.678989327	Plastid, low confidence
+CAE7577005.1	SP	19	VVC-TDQ	0	0.113293532	Not plastid, signal peptide identified
+CAE7577142.1	SP	19	TQA-AKL	0	0.098479483	Not plastid, signal peptide identified
+CAE7577211.1	SP	22	AAA-DQD	1	0.143565883	Not plastid, signal peptide identified
+CAE7579380.1	SP	24	EGV-FPT	1	0.639781792	Plastid, low confidence
+CAE7580291.1	SP	16	WAA-GKR	-1	0.173495265	Not plastid, signal peptide identified
+CAE7581061.1	SP	24	SVA-EPE	0	0.083743897	Not plastid, signal peptide identified
+CAE7582671.1	SP	20	SLA-DVA	0	0.131734337	Not plastid, signal peptide identified
+CAE7585032.1	SP	27	GCD-DIL	2	0.154598370	Not plastid, signal peptide identified
+CAE7585860.1	SP	29	PEP-KTR	-2	0.199876317	Not plastid, signal peptide identified
+CAE7586957.1	SP	23	ITA-LRE	0	0.138240029	Plastid, low confidence
+CAE7588579.1	SP	21	GEA-VRQ	0	0.093707999	Not plastid, signal peptide identified
+CAE7588672.1	SP	20	PYA-RAA	-2	0.184238123	Not plastid, signal peptide identified
+CAE7588877.1	SP	20	VRS-ERL	0	0.103364728	Not plastid, signal peptide identified
+CAE7590729.1	SP	22	VLA-ARR	0	0.129523998	Not plastid, signal peptide identified
+CAE7592038.1	SP	23	TDS-DSN	0	0.096599096	Not plastid, signal peptide identified
+CAE7592098.1	SP	20	VSG-ETW	0	0.105133155	Not plastid, signal peptide identified
+CAE7592155.1	SP	20	MPA-GAL	-2	0.223151453	Not plastid, signal peptide identified
+CAE7592303.1	SP	18	LSA-HLR	1	0.161907990	Not plastid, signal peptide identified
+CAE7592424.1	SP	15	ASA-SSP	0	0.250206850	Not plastid, signal peptide identified
+CAE7592609.1	SP	18	GKK-QLP	2	0.207776127	Not plastid, signal peptide identified
+CAE7594163.1	SP	18	GTA-DTT	0	0.166619156	Not plastid, signal peptide identified
+CAE7595982.1	SP	28	CRA-VTL	0	0.189399863	Not plastid, signal peptide identified
+CAE7599476.1	SP	23	ELA-FGA	-2	0.621067534	Plastid, low confidence
+CAE7599623.1	SP	16	LEA-APP	0	0.200286851	Not plastid, signal peptide identified
+CAE7599638.1	SP	15	AGA-SEV	0	0.144425029	Not plastid, signal peptide identified
+CAE7599903.1	SP	18	VAA-NEP	0	0.260190487	Not plastid, signal peptide identified
+CAE7600105.1	SP	21	GDG-GAE	2	0.162421602	Not plastid, signal peptide identified
+CAE7600291.1	SP	18	ACA-GNT	0	0.141807546	Not plastid, signal peptide identified
+CAE7600675.1	SP	26	TPA-WSL	-2	0.128966770	Plastid, low confidence
+CAE7601190.1	SP	19	VEA-RHL	0	0.119334820	Not plastid, signal peptide identified
+CAE7602588.1	SP	18	VDS-RGD	-2	0.075575792	Not plastid, signal peptide identified
+CAE7603166.1	SP	25	GEA-DCS	2	0.096578177	Not plastid, signal peptide identified
+CAE7605299.1	SP	19	TGA-QCD	-2	0.112782715	Not plastid, signal peptide identified
+CAE7605556.1	SP	21	AQA-DED	0	0.111539260	Not plastid, signal peptide identified
+CAE7608830.1	SP	40	LTM-FTA	2	0.695822146	Plastid, low confidence
+CAE7610469.1	SP	21	ADA-TCL	0	0.124224846	Not plastid, signal peptide identified
+CAE7610789.1	SP	20	TTA-HRN	0	0.083927915	Not plastid, signal peptide identified
+CAE7611599.1	SP	20	VSA-FDR	0	0.584827885	Plastid, high confidence
+CAE7612647.1	SP	20	HTA-SGR	-2	0.116237692	Not plastid, signal peptide identified
+CAE7612858.1	SP	25	LMS-NTV	0	0.159479414	Not plastid, signal peptide identified
+CAE7613634.1	SP	18	IRA-MDG	0	0.115070529	Not plastid, signal peptide identified
+CAE7613865.1	SP	26	AGA-ESC	0	0.170555527	Not plastid, signal peptide identified
+CAE7613892.1	SP	23	LAA-CDT	-1	0.154246054	Not plastid, signal peptide identified
+CAE7617083.1	SP	23	LLA-QEP	0	0.256570856	Not plastid, signal peptide identified
+CAE7617448.1	SP	19	VSA-AVP	0	0.271054873	Not plastid, signal peptide identified
+CAE7619086.1	SP	22	AAA-VWP	0	0.245210591	Not plastid, signal peptide identified
+CAE7620167.1	SP	18	LVA-CGS	-1	0.124520475	Not plastid, signal peptide identified
+CAE7620195.1	SP	35	PVA-GDK	-1	0.150689867	Not plastid, signal peptide identified
+CAE7620227.1	SP	17	CQA-IED	0	0.075495031	Not plastid, signal peptide identified
+CAE7621895.1	SP	22	GLG-FGG	0	0.620466304	Plastid, high confidence
+CAE7621946.1	SP	17	ATA-AQT	0	0.155969670	Not plastid, signal peptide identified
+CAE7622859.1	SP	15	VLA-EED	0	0.098953537	Not plastid, signal peptide identified
+CAE7623995.1	SP	19	SGA-VDV	0	0.101548780	Not plastid, signal peptide identified
+CAE7624866.1	SP	19	VQA-TRI	0	0.084602217	Not plastid, signal peptide identified
+CAE7624897.1	SP	27	TGQ-GVD	-1	0.178876653	Not plastid, signal peptide identified
+CAE7625159.1	SP	19	VQA-TRI	0	0.088552347	Not plastid, signal peptide identified
+CAE7627290.1	SP	30	CAA-EIR	0	0.105594641	Not plastid, signal peptide identified
+CAE7628744.1	SP	14	MLA-GAS	-2	0.251282548	Not plastid, signal peptide identified
+CAE7628919.1	SP	17	ALA-EIC	0	0.099316050	Not plastid, signal peptide identified
+CAE7629224.1	SP	17	AAA-GGL	-2	0.084788215	Not plastid, signal peptide identified
+CAE7629270.1	SP	19	VHT-FKM	0	0.590631563	Plastid, high confidence
+CAE7629982.1	SP	16	SAR-FAY	1	0.614071452	Plastid, low confidence
+CAE7631074.1	SP	18	ALA-EAA	-2	0.185288268	Not plastid, signal peptide identified
+CAE7631260.1	SP	29	GSA-LKG	1	0.116872924	Plastid, low confidence
+CAE7633302.1	SP	16	PSA-VSI	-2	0.130294085	Not plastid, signal peptide identified
+CAE7633689.1	SP	14	CVA-DSW	-2	0.143505909	Not plastid, signal peptide identified
+CAE7634757.1	SP	46	ADA-AGQ	0	0.087728679	Not plastid, signal peptide identified
+CAE7635341.1	SP	23	GSQ-VTP	2	0.245714615	Not plastid, signal peptide identified
+CAE7636646.1	SP	15	ISA-EPS	0	0.092057178	Not plastid, signal peptide identified
+CAE7636809.1	SP	22	CGA-GTA	-2	0.175066158	Not plastid, signal peptide identified
+CAE7637297.1	SP	19	VSA-DVE	0	0.159414734	Not plastid, signal peptide identified
+CAE7637317.1	SP	14	ASA-SAV	-2	0.145633916	Not plastid, signal peptide identified
+CAE7638993.1	SP	16	VSA-AEP	0	0.196285209	Not plastid, signal peptide identified
+CAE7639534.1	SP	15	CEA-LTT	0	0.202207070	Plastid, low confidence
+CAE7639613.1	SP	23	VRA-QPD	0	0.092773495	Not plastid, signal peptide identified
+CAE7639755.1	SP	19	SCA-LIH	0	0.156077720	Plastid, low confidence
+CAE7640990.1	SP	17	HAA-FCP	1	0.693486050	Plastid, low confidence
+CAE7641746.1	SP	16	ALA-IRD	0	0.123301240	Not plastid, signal peptide identified
+CAE7641956.1	SP	24	ISA-DIK	0	0.074285430	Not plastid, signal peptide identified
+CAE7642097.1	SP	17	VAA-HSG	-2	0.140369619	Not plastid, signal peptide identified
+CAE7642482.1	SP	20	VKA-SSQ	0	0.141630250	Not plastid, signal peptide identified
+CAE7642572.1	SP	15	AVA-QAS	-2	0.125626983	Not plastid, signal peptide identified
+CAE7643180.1	SP	21	VVS-HGR	-2	0.086972965	Not plastid, signal peptide identified
+CAE7643345.1	SP	26	LSA-DVC	1	0.108508616	Not plastid, signal peptide identified
+CAE7643382.1	SP	19	VLG-QIQ	0	0.142183647	Not plastid, signal peptide identified
+CAE7643912.1	SP	21	TEG-VRS	0	0.089417839	Not plastid, signal peptide identified
+CAE7644151.1	SP	24	CHA-CEA	0	0.116230294	Not plastid, signal peptide identified
+CAE7645354.1	SP	18	SQA-SMI	0	0.093544624	Not plastid, signal peptide identified
+CAE7645496.1	SP	32	SLG-YVQ	0	0.161897239	Plastid, low confidence
+CAE7646837.1	SP	26	RVA-WAQ	-2	0.185192059	Plastid, low confidence
+CAE7649682.1	SP	18	VLA-ATP	0	0.247621599	Not plastid, signal peptide identified
+CAE7650202.1	SP	26	LGG-SMP	1	0.249693906	Not plastid, signal peptide identified
+CAE7650524.1	SP	24	RQA-QDV	0	0.151305593	Not plastid, signal peptide identified
+CAE7650687.1	SP	24	WSQ-SAP	1	0.290543891	Not plastid, signal peptide identified
+CAE7651385.1	SP	18	RCA-SGQ	-2	0.070478502	Not plastid, signal peptide identified
+CAE7651811.1	SP	23	LAA-ENQ	1	0.095985514	Not plastid, signal peptide identified
+CAE7652337.1	SP	26	VQG-EWD	0	0.086992301	Not plastid, signal peptide identified
+CAE7653268.1	SP	18	VHG-GEC	0	0.109591901	Not plastid, signal peptide identified
+CAE7654427.1	SP	16	AVA-ETC	-2	0.185053402	Not plastid, signal peptide identified
+CAE7655749.1	SP	19	VCA-LSI	0	0.150101685	Plastid, low confidence
+CAE7655946.1	SP	39	ASA-WAD	-2	0.170323948	Plastid, low confidence
+CAE7656593.1	SP	22	VAA-GAS	0	0.130750230	Not plastid, signal peptide identified
+CAE7657856.1	SP	18	LGV-FAA	-2	0.668465233	Plastid, low confidence
+CAE7657866.1	SP	18	LGV-FAA	-2	0.662397712	Plastid, low confidence
+CAE7658218.1	SP	20	ADA-MLG	0	0.110183463	Not plastid, signal peptide identified
+CAE7658542.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7658614.1	SP	17	AAP-QCD	-2	0.103383018	Not plastid, signal peptide identified
+CAE7659071.1	SP	25	VHG-RPP	0	0.235918768	Not plastid, signal peptide identified
+CAE7659610.1	SP	21	QAA-ASP	1	0.307604003	Not plastid, signal peptide identified
+CAE7660033.1	SP	15	VTG-VSI	0	0.115698646	Not plastid, signal peptide identified
+CAE7660080.1	SP	21	AEQ-FAL	2	0.644597761	Plastid, low confidence
+CAE7660446.1	SP	27	SVA-ASV	2	0.113387287	Not plastid, signal peptide identified
+CAE7660585.1	SP	22	SAA-FGK	-2	0.622115191	Plastid, low confidence
+CAE7662092.1	SP	24	VAA-KHD	0	0.118195124	Not plastid, signal peptide identified
+CAE7662460.1	SP	16	ITA-RGQ	-2	0.071601872	Not plastid, signal peptide identified
+CAE7662469.1	SP	16	ITA-RGQ	-2	0.071601872	Not plastid, signal peptide identified
+CAE7663096.1	SP	21	TYA-DEI	0	0.101404686	Not plastid, signal peptide identified
+CAE7663291.1	SP	22	ILA-ERS	0	0.135632034	Not plastid, signal peptide identified
+CAE7663869.1	SP	27	SGA-EGQ	1	0.114152313	Not plastid, signal peptide identified
+CAE7664390.1	SP	20	TQA-DVP	0	0.223393384	Not plastid, signal peptide identified
+CAE7664413.1	SP	16	TLV-FGG	-2	0.616511590	Plastid, low confidence
+CAE7664439.1	SP	14	GVA-VGD	-2	0.117970024	Not plastid, signal peptide identified
+CAE7666950.1	SP	21	SSN-FSC	2	0.622151669	Plastid, low confidence
+CAE7667722.1	SP	20	ECS-DAC	1	0.153955112	Not plastid, signal peptide identified
+CAE7669028.1	SP	22	TPA-TAC	-2	0.186438493	Not plastid, signal peptide identified
+CAE7669088.1	SP	21	GAD-FPS	2	0.646633934	Plastid, low confidence
+CAE7669165.1	SP	15	AVA-AGQ	-2	0.089084514	Not plastid, signal peptide identified
+CAE7669316.1	SP	27	AVK-FTP	2	0.758229629	Plastid, low confidence
+CAE7669441.1	SP	18	ARA-DGE	0	0.109656062	Not plastid, signal peptide identified
+CAE7669551.1	SP	31	GKS-SDP	0	0.197410270	Not plastid, signal peptide identified
+CAE7670554.1	SP	20	SLP-DGP	0	0.205395117	Not plastid, signal peptide identified
+CAE7670567.1	SP	19	AGA-APA	0	0.137109856	Not plastid, signal peptide identified
+CAE7671137.1	SP	19	ALA-KRP	0	0.158918288	Not plastid, signal peptide identified
+CAE7671678.1	SP	19	VVA-QDC	0	0.115479659	Not plastid, signal peptide identified
+CAE7673356.1	SP	26	SVS-DTP	0	0.282824855	Not plastid, signal peptide identified
+CAE7674180.1	SP	20	RPA-PLS	1	0.132101221	Not plastid, signal peptide identified
+CAE7676448.1	SP	19	VRG-WEA	0	0.204696668	Plastid, low confidence
+CAE7678670.1	SP	21	GEA-SDS	0	0.115402875	Not plastid, signal peptide identified
+CAE7678723.1	SP	22	TLS-FVN	0	0.657965823	Plastid, high confidence
+CAE7678776.1	SP	23	ALA-QNT	0	0.121609651	Not plastid, signal peptide identified
+CAE7680732.1	SP	21	GNA-LGA	-2	0.138797071	Plastid, low confidence
+CAE7681631.1	SP	24	GDD-DQP	2	0.234633884	Not plastid, signal peptide identified
+CAE7681677.1	SP	15	CLA-SPS	0	0.139086865	Not plastid, signal peptide identified
+CAE7682322.1	SP	17	APA-AAA	-2	0.170362514	Not plastid, signal peptide identified
+CAE7682551.1	SP	21	VMS-ETA	0	0.135155841	Not plastid, signal peptide identified
+CAE7682566.1	SP	15	AVA-AAP	-1	0.310238387	Not plastid, signal peptide identified
+CAE7683453.1	SP	26	AQA-DKG	0	0.133283837	Not plastid, signal peptide identified
+CAE7683682.1	SP	21	VES-LQH	0	0.167064436	Plastid, low confidence
+CAE7684302.1	SP	20	ILA-KAE	-2	0.141744724	Not plastid, signal peptide identified
+CAE7684812.1	SP	22	NGA-RVF	1	0.181016049	Not plastid, signal peptide identified
+CAE7684883.1	SP	21	THA-CNV	0	0.126929704	Not plastid, signal peptide identified
+CAE7684953.1	SP	26	ARA-GST	0	0.232687393	Not plastid, signal peptide identified
+CAE7685189.1	SP	18	ATA-FSE	-2	0.594839341	Plastid, low confidence
+CAE7686321.1	SP	18	ALA-EVP	0	0.277290183	Not plastid, signal peptide identified
+CAE7686538.1	SP	22	VWA-VIP	0	0.242267499	Not plastid, signal peptide identified
+CAE7688013.1	SP	29	MCA-SLP	1	0.207324297	Not plastid, signal peptide identified
+CAE7688047.1	SP	18	SRA-SED	0	0.093641154	Not plastid, signal peptide identified
+CAE7689142.1	SP	20	GAA-VGG	-2	0.090155854	Not plastid, signal peptide identified
+CAE7689220.1	SP	16	ASS-FKL	0	0.628082188	Plastid, high confidence
+CAE7689648.1	SP	22	RPA-SEP	1	0.237815475	Not plastid, signal peptide identified
+CAE7689778.1	SP	21	LAA-PKT	1	0.164568371	Not plastid, signal peptide identified
+CAE7692213.1	SP	21	AIR-SDS	-1	0.154594208	Not plastid, signal peptide identified
+CAE7692373.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7692421.1	SP	17	VHG-LDN	0	0.077029582	Plastid, low confidence
+CAE7693314.1	SP	19	PVA-GDD	-1	0.164705758	Not plastid, signal peptide identified
+CAE7693395.1	SP	31	CEG-HAD	2	0.111414316	Not plastid, signal peptide identified
+CAE7694848.1	SP	19	VEA-EET	0	0.122506641	Not plastid, signal peptide identified
+CAE7695115.1	SP	21	YQA-ESK	-2	0.180802084	Not plastid, signal peptide identified
+CAE7695895.1	SP	17	ARA-HDS	0	0.156736907	Not plastid, signal peptide identified
+CAE7697132.1	SP	19	ARA-EMQ	0	0.107063366	Not plastid, signal peptide identified
+CAE7698503.1	SP	22	ISE-FEG	1	0.602465619	Plastid, low confidence
+CAE7698524.1	SP	16	ADA-HAS	-2	0.163699011	Not plastid, signal peptide identified
+CAE7699175.1	SP	17	VLA-DEA	0	0.156970570	Not plastid, signal peptide identified
+CAE7699872.1	SP	28	ADA-IYL	0	0.124823731	Not plastid, signal peptide identified
+CAE7700090.1	SP	24	RGA-DVP	1	0.245675764	Not plastid, signal peptide identified
+CAE7700965.1	SP	16	QAA-AGP	-1	0.269038215	Not plastid, signal peptide identified
+CAE7700977.1	SP	16	QAA-AGP	-1	0.269038215	Not plastid, signal peptide identified
+CAE7701346.1	SP	20	AEA-SYP	0	0.249682413	Not plastid, signal peptide identified
+CAE7702237.1	SP	19	CWA-EES	0	0.122585170	Not plastid, signal peptide identified
+CAE7702253.1	SP	20	VGA-VPA	0	0.101837075	Not plastid, signal peptide identified
+CAE7702723.1	SP	23	VRA-QSE	0	0.202285990	Not plastid, signal peptide identified
+CAE7702736.1	SP	24	VLA-EEA	0	0.115674212	Not plastid, signal peptide identified
+CAE7703578.1	SP	31	TGA-PAP	1	0.305510035	Not plastid, signal peptide identified
+CAE7703824.1	SP	19	SSA-GRR	-1	0.100178058	Not plastid, signal peptide identified
+CAE7705297.1	SP	23	IGA-SQA	0	0.147426856	Not plastid, signal peptide identified
+CAE7706086.1	SP	30	LQA-KSA	0	0.197467008	Not plastid, signal peptide identified
+CAE7707394.1	SP	25	AVA-EAS	-2	0.177516740	Not plastid, signal peptide identified
+CAE7707657.1	SP	29	ARA-AWG	0	0.097378423	Not plastid, signal peptide identified
+CAE7707671.1	SP	29	ARA-AWG	0	0.097378423	Not plastid, signal peptide identified
+CAE7708520.1	SP	15	VDA-KLL	0	0.162115786	Not plastid, signal peptide identified
+CAE7709458.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7709576.1	SP	28	TQA-TEA	0	0.102358199	Not plastid, signal peptide identified
+CAE7710722.1	SP	23	VLA-YST	-2	0.206934842	Plastid, low confidence
+CAE7710902.1	SP	26	SAA-VDG	2	0.085864301	Not plastid, signal peptide identified
+CAE7711566.1	SP	20	AVS-DSV	-2	0.152846529	Not plastid, signal peptide identified
+CAE7711580.1	SP	20	RGA-KQA	1	0.153289277	Not plastid, signal peptide identified
+CAE7711635.1	SP	14	SLA-RGM	-2	0.143082015	Not plastid, signal peptide identified
+CAE7711659.1	SP	14	GLA-RGM	-2	0.143082015	Not plastid, signal peptide identified
+CAE7713047.1	SP	20	GQA-SLD	0	0.087807854	Not plastid, signal peptide identified
+CAE7713073.1	SP	18	PAA-GDL	-1	0.126550794	Not plastid, signal peptide identified
+CAE7713174.1	SP	20	VSA-DSD	0	0.136288011	Not plastid, signal peptide identified
+CAE7713292.1	SP	20	VGG-VER	0	0.127805011	Not plastid, signal peptide identified
+CAE7713940.1	SP	14	GLA-WGM	-2	0.109036356	Plastid, low confidence
+CAE7714341.1	SP	19	IRA-GGH	0	0.114492305	Not plastid, signal peptide identified
+CAE7714373.1	SP	19	IRA-GGH	0	0.114492305	Not plastid, signal peptide identified
+CAE7715373.1	SP	22	STA-FHL	0	0.587038938	Plastid, high confidence
+CAE7716856.1	SP	20	GEA-VSN	0	0.144887923	Not plastid, signal peptide identified
+CAE7717098.1	SP	26	ATA-DSD	0	0.111912734	Not plastid, signal peptide identified
+CAE7718177.1	SP	18	SPA-GSK	-2	0.132411338	Not plastid, signal peptide identified
+CAE7718546.1	SP	23	QGS-IDS	1	0.120451952	Not plastid, signal peptide identified
+CAE7718564.1	SP	29	ASQ-GTV	-1	0.157501782	Not plastid, signal peptide identified
+CAE7719009.1	SP	21	TAA-RRE	1	0.106442122	Not plastid, signal peptide identified
+CAE7719338.1	SP	14	VAA-DID	0	0.104544299	Not plastid, signal peptide identified
+CAE7719601.1	SP	17	ARA-QNW	0	0.102675748	Not plastid, signal peptide identified
+CAE7720295.1	SP	19	RGA-DLL	1	0.099097793	Not plastid, signal peptide identified
+CAE7720354.1	SP	31	IVA-TSS	0	0.195339854	Not plastid, signal peptide identified
+CAE7720691.1	SP	20	STA-SPA	0	0.114277452	Not plastid, signal peptide identified
+CAE7720892.1	SP	25	VRG-KET	0	0.149510027	Not plastid, signal peptide identified
+CAE7721198.1	SP	15	AVA-ADY	-1	0.093623941	Not plastid, signal peptide identified
+CAE7721319.1	SP	25	GPS-FAA	-2	0.650389923	Plastid, low confidence
+CAE7725047.1	SP	19	SCI-GEP	-1	0.209573133	Not plastid, signal peptide identified
+CAE7726100.1	SP	31	SGC-GAP	1	0.291941035	Not plastid, signal peptide identified
+CAE7726435.1	SP	22	AEA-VED	2	0.078783342	Not plastid, signal peptide identified
+CAE7727325.1	SP	17	QQI-GTH	-2	0.129508785	Not plastid, signal peptide identified
+CAE7728305.1	SP	20	CSA-YGA	-2	0.117445364	Plastid, low confidence
+CAE7728780.1	SP	20	AIT-FKT	2	0.627795582	Plastid, low confidence
+CAE7728959.1	SP	24	VWA-TDC	0	0.118372518	Not plastid, signal peptide identified
+CAE7729024.1	SP	20	AAA-DVA	0	0.163221806	Not plastid, signal peptide identified
+CAE7729053.1	SP	26	TAA-PKK	1	0.085229249	Not plastid, signal peptide identified
+CAE7729163.1	SP	21	VAA-HLE	0	0.143629064	Not plastid, signal peptide identified
+CAE7730235.1	SP	25	KGT-FAG	-2	0.704082396	Plastid, low confidence
+CAE7731610.1	SP	17	VGA-QNA	-2	0.121975105	Not plastid, signal peptide identified
+CAE7733168.1	SP	20	STA-LAQ	-2	0.187015926	Plastid, low confidence
+CAE7734315.1	SP	24	AAA-WSV	0	0.207997658	Plastid, low confidence
+CAE7734757.1	SP	15	QQA-VGL	-2	0.158833131	Not plastid, signal peptide identified
+CAE7734913.1	SP	21	ADC-FHK	2	0.572421339	Plastid, low confidence
+CAE7735491.1	SP	18	VSA-SPE	0	0.083018788	Not plastid, signal peptide identified
+CAE7735503.1	SP	18	VSA-SPE	0	0.083018788	Not plastid, signal peptide identified
+CAE7735655.1	SP	20	PVA-GVR	-1	0.149181782	Not plastid, signal peptide identified
+CAE7735777.1	SP	21	CLA-ASC	0	0.117076744	Not plastid, signal peptide identified
+CAE7737446.1	SP	22	SWA-KRP	0	0.222562424	Not plastid, signal peptide identified
+CAE7738210.1	SP	22	HSA-FGA	-2	0.644742309	Plastid, low confidence
+CAE7738405.1	SP	16	AHA-LAT	-2	0.217559787	Plastid, low confidence
+CAE7738469.1	SP	20	GEA-ASE	0	0.134564986	Not plastid, signal peptide identified
+CAE7738588.1	SP	27	SMA-MED	0	0.128458246	Not plastid, signal peptide identified
+CAE7739410.1	SP	24	VPA-RAG	-2	0.171762862	Not plastid, signal peptide identified
+CAE7740165.1	SP	24	VQA-SAA	-2	0.193784075	Not plastid, signal peptide identified
+CAE7740854.1	SP	19	SET-TEP	0	0.243130481	Not plastid, signal peptide identified
+CAE7743007.1	SP	18	TVA-VPL	0	0.148371888	Not plastid, signal peptide identified
+CAE7743177.1	SP	37	ALA-ADV	0	0.112470029	Not plastid, signal peptide identified
+CAE7744296.1	SP	29	AQA-DDL	0	0.136459363	Not plastid, signal peptide identified
+CAE7744313.1	SP	18	ASA-LSA	-2	0.137624574	Plastid, low confidence
+CAE7744331.1	SP	33	AGA-FDC	2	0.592477980	Plastid, low confidence
+CAE7744533.1	SP	22	PTA-KPC	-2	0.077615230	Not plastid, signal peptide identified
+CAE7744879.1	SP	23	AGS-FQF	1	0.657008754	Plastid, low confidence
+CAE7744965.1	SP	22	SAA-PAA	1	0.173883063	Not plastid, signal peptide identified
+CAE7744981.1	SP	21	ASA-ATA	0	0.187674854	Not plastid, signal peptide identified
+CAE7745431.1	SP	29	AEA-SRV	0	0.105663111	Not plastid, signal peptide identified
+CAE7746273.1	SP	18	AAA-END	0	0.095196952	Not plastid, signal peptide identified
+CAE7746978.1	SP	16	AGA-ASP	0	0.249424050	Not plastid, signal peptide identified
+CAE7748766.1	SP	14	SLA-STV	-2	0.109107501	Not plastid, signal peptide identified
+CAE7748970.1	SP	26	VRG-VHP	0	0.211097488	Not plastid, signal peptide identified
+CAE7749709.1	SP	24	VSA-EKS	0	0.092151235	Not plastid, signal peptide identified
+CAE7750437.1	SP	21	ALA-EET	0	0.174839598	Not plastid, signal peptide identified
+CAE7750826.1	SP	15	SGA-MGL	-2	0.119888231	Not plastid, signal peptide identified
+CAE7751102.1	SP	22	ACA-VRE	0	0.092699117	Not plastid, signal peptide identified
+CAE7751338.1	SP	27	ASD-FLG	2	0.604609413	Plastid, low confidence
+CAE7751946.1	SP	19	GVA-HGL	-2	0.116389536	Not plastid, signal peptide identified
+CAE7752248.1	SP	20	LSA-GID	1	0.108200801	Not plastid, signal peptide identified
+CAE7752416.1	SP	18	CIA-QTV	0	0.195924205	Not plastid, signal peptide identified
+CAE7752761.1	SP	17	AAA-QVN	0	0.198135204	Not plastid, signal peptide identified
+CAE7752920.1	SP	21	LVA-RGQ	-2	0.107668943	Not plastid, signal peptide identified
+CAE7753037.1	SP	19	CRA-DCV	0	0.120291356	Not plastid, signal peptide identified
+CAE7754438.1	SP	30	VNG-GTT	0	0.184205195	Not plastid, signal peptide identified
+CAE7754995.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7755041.1	SP	27	TMA-QIT	0	0.119796604	Not plastid, signal peptide identified
+CAE7755299.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7755738.1	SP	22	AMA-QSV	0	0.175277900	Not plastid, signal peptide identified
+CAE7755893.1	SP	24	PVA-IAQ	-2	0.228943163	Not plastid, signal peptide identified
+CAE7755936.1	SP	26	AQP-FGV	2	0.639053457	Plastid, low confidence
+CAE7756576.1	SP	23	ATA-GQH	0	0.120663294	Not plastid, signal peptide identified
+CAE7756752.1	SP	17	VLA-QPD	0	0.138171337	Not plastid, signal peptide identified
+CAE7756839.1	SP	17	VLA-QNY	0	0.095259621	Not plastid, signal peptide identified
+CAE7757444.1	SP	20	ISA-STL	0	0.170319997	Not plastid, signal peptide identified
+CAE7757523.1	SP	25	SNA-QAQ	0	0.112245000	Not plastid, signal peptide identified
+CAE7758087.1	SP	27	AAA-GEA	0	0.144680536	Not plastid, signal peptide identified
+CAE7758165.1	SP	19	AGA-NAQ	-2	0.134414930	Not plastid, signal peptide identified
+CAE7758422.1	SP	24	TPA-HAT	-2	0.187580204	Not plastid, signal peptide identified
+CAE7759043.1	SP	24	ALV-GCG	-2	0.167254181	Not plastid, signal peptide identified
+CAE7759190.1	SP	20	PLA-LGG	-2	0.127824339	Plastid, low confidence
+CAE7759252.1	noTP	NA	NA	NA	NA	TargetP-2.0: noTP
+CAE7759309.1	SP	34	AIA-QSD	0	0.158941216	Not plastid, signal peptide identified
+CAE7759455.1	SP	24	LAG-FTS	1	0.725649055	Plastid, low confidence
+CAE7759515.1	SP	23	VIA-QDA	0	0.051545369	Not plastid, signal peptide identified
+CAE7759636.1	SP	36	AQA-FQT	0	0.616704101	Plastid, high confidence
+CAE7759804.1	SP	18	TSA-IAQ	-2	0.169090440	Not plastid, signal peptide identified
+CAE7759815.1	SP	25	SGA-FAQ	-2	0.662264704	Plastid, low confidence
+CAE7759828.1	SP	29	ASA-QSC	0	0.179104830	Not plastid, signal peptide identified
+CAE7759971.1	SP	19	TTS-FAG	-2	0.668419753	Plastid, low confidence
+CAE7759997.1	SP	24	ALA-GGP	0	0.229528996	Not plastid, signal peptide identified
+CAE7760278.1	SP	30	TIA-GDS	0	0.146220373	Not plastid, signal peptide identified
+CAE7760289.1	SP	27	TNA-FAG	-2	0.696402677	Plastid, low confidence
+CAE7760300.1	SP	19	AVA-QPL	0	0.133704097	Not plastid, signal peptide identified
+CAE7760311.1	SP	20	AQA-QLT	0	0.190913701	Not plastid, signal peptide identified
+CAE7760589.1	SP	25	TSA-QTG	1	0.158890808	Not plastid, signal peptide identified
+CAE7760813.1	SP	22	GLA-QTS	0	0.176676867	Not plastid, signal peptide identified
+CAE7760952.1	SP	21	MSL-FAQ	-2	0.644213937	Plastid, low confidence
+CAE7760993.1	SP	30	AIA-LAS	2	0.223518241	Plastid, low confidence
+CAE7761831.1	SP	16	GHA-FRY	0	0.570872049	Plastid, high confidence
+CAE7761860.1	SP	21	PNA-EEA	0	0.121927482	Not plastid, signal peptide identified
+CAE7762255.1	SP	20	VHS-VRS	0	0.150054281	Not plastid, signal peptide identified
+CAE7763593.1	SP	22	AAA-SAS	0	0.155756500	Not plastid, signal peptide identified
+CAE7763838.1	SP	19	VVA-TPC	0	0.102522582	Not plastid, signal peptide identified
+CAE7764313.1	SP	18	AAA-NGQ	-2	0.106550492	Not plastid, signal peptide identified
+CAE7764333.1	SP	19	HGA-RPS	1	0.144791755	Not plastid, signal peptide identified
+CAE7764827.1	SP	20	PGA-WSK	-2	0.169472693	Plastid, low confidence
+CAE7764983.1	SP	22	VPA-ETT	-2	0.199997798	Not plastid, signal peptide identified
+CAE7765089.1	SP	32	ASA-AEQ	0	0.112197546	Not plastid, signal peptide identified
+CAE7765530.1	SP	20	IGA-DCV	1	0.112881414	Not plastid, signal peptide identified
+CAE7765788.1	SP	29	SPA-VQT	1	0.157938782	Not plastid, signal peptide identified
+CAE7766638.1	SP	19	IQA-TRT	0	0.114606100	Not plastid, signal peptide identified
+CAE7767313.1	SP	18	GLA-GVG	0	0.152549980	Not plastid, signal peptide identified
+CAE7767787.1	SP	24	TAA-DVE	0	0.143319456	Not plastid, signal peptide identified
+CAE7767915.1	SP	25	VEA-DCK	0	0.115316467	Not plastid, signal peptide identified
+CAE7768437.1	SP	17	AQA-ALE	0	0.170699232	Not plastid, signal peptide identified
+CAE7768764.1	SP	20	GGA-TRH	0	0.115454722	Not plastid, signal peptide identified
+CAE7770838.1	SP	20	SSG-FSS	-2	0.715041062	Plastid, low confidence
+CAE7770939.1	SP	16	AQA-ASQ	-2	0.179386539	Not plastid, signal peptide identified
+CAE7771237.1	SP	23	NIS-CLD	-1	0.142334283	Not plastid, signal peptide identified
+CAE7772001.1	SP	18	TES-VDI	0	0.104670481	Not plastid, signal peptide identified
+CAE7772742.1	SP	22	AHT-ESV	-2	0.164415835	Not plastid, signal peptide identified
+CAE7773138.1	SP	16	SEA-QPQ	0	0.129711170	Not plastid, signal peptide identified
+CAE7774633.1	SP	30	TRA-GSN	0	0.202715031	Not plastid, signal peptide identified
+CAE7775449.1	SP	20	MAQ-FLP	1	0.710519430	Plastid, low confidence
+CAE7775460.1	SP	26	TLP-DTS	0	0.145936866	Not plastid, signal peptide identified
+CAE7775792.1	SP	29	TQA-VPG	0	0.145199922	Not plastid, signal peptide identified
+CAE7776634.1	SP	19	SGA-SGR	-2	0.116134420	Not plastid, signal peptide identified
+CAE7776836.1	SP	23	AVA-LEG	0	0.087907336	Plastid, low confidence
+CAE7777145.1	SP	21	SGA-ARP	0	0.219080907	Not plastid, signal peptide identified
+CAE7777556.1	SP	24	AVA-VDA	2	0.170264091	Not plastid, signal peptide identified
+CAE7778049.1	SP	24	GDA-VYD	0	0.091630163	Not plastid, signal peptide identified
+CAE7778229.1	SP	18	SWS-FKV	0	0.649580726	Plastid, high confidence
+CAE7778263.1	SP	32	ALA-FKT	0	0.656408482	Plastid, high confidence
+CAE7779160.1	SP	15	ASA-HKP	0	0.180557645	Not plastid, signal peptide identified
+CAE7779393.1	SP	33	ANA-AWG	0	0.124880840	Not plastid, signal peptide identified
+CAE7779443.1	SP	21	GLA-FKV	0	0.557551569	Plastid, high confidence
+CAE7779544.1	SP	17	SNG-QWS	0	0.141822373	Not plastid, signal peptide identified
+CAE7779794.1	SP	24	ALS-FRS	0	0.650207603	Plastid, high confidence
+CAE7780353.1	SP	21	VAA-LKT	0	0.181531180	Plastid, low confidence
+CAE7780644.1	SP	20	DTS-RLP	1	0.198306395	Not plastid, signal peptide identified
+CAE7780796.1	SP	17	VVA-SQE	-1	0.127990353	Not plastid, signal peptide identified
+CAE7780907.1	SP	30	SAA-PGL	1	0.129710076	Not plastid, signal peptide identified
+CAE7781001.1	SP	26	ARA-GKL	0	0.141195417	Not plastid, signal peptide identified
+CAE7781096.1	SP	20	ALI-FEN	2	0.597834153	Plastid, low confidence
+CAE7782291.1	SP	23	GQL-FYD	2	0.613017963	Plastid, low confidence
+CAE7782583.1	SP	17	IIG-ERA	0	0.114780306	Not plastid, signal peptide identified
+CAE7783709.1	SP	17	TDA-ASR	-2	0.192902399	Not plastid, signal peptide identified
+CAE7783804.1	SP	24	CAA-LGA	-2	0.157298997	Plastid, low confidence
+CAE7784239.1	SP	17	PRV-FAY	-2	0.699244204	Plastid, low confidence
+CAE7784525.1	SP	23	RLS-LDR	1	0.121018278	Plastid, low confidence
+CAE7784843.1	SP	24	CAA-DSC	0	0.164583368	Not plastid, signal peptide identified
+CAE7785380.1	SP	20	QVA-GLV	-1	0.137965682	Not plastid, signal peptide identified
+CAE7786086.1	SP	30	GQA-GFV	2	0.122863689	Not plastid, signal peptide identified
+CAE7787191.1	SP	16	GRA-VKL	0	0.155164549	Not plastid, signal peptide identified
+CAE7787272.1	SP	23	VSA-QNI	0	0.183175343	Not plastid, signal peptide identified
+CAE7788116.1	SP	28	DVA-EPL	-2	0.099487713	Not plastid, signal peptide identified
+CAE7789441.1	SP	30	GRA-LPP	0	0.221217168	Plastid, low confidence
+CAE7792009.1	SP	15	LLA-ATE	-2	0.111602449	Not plastid, signal peptide identified
+CAE7792166.1	SP	28	SLA-VQP	0	0.230587873	Not plastid, signal peptide identified
+CAE7792717.1	SP	26	PPA-KPE	-2	0.091817169	Not plastid, signal peptide identified
+CAE7792934.1	SP	26	LGD-DEP	1	0.221615160	Not plastid, signal peptide identified
+CAE7793055.1	SP	24	CEA-QFV	2	0.101079592	Not plastid, signal peptide identified
+CAE7794903.1	SP	18	VLA-MKT	0	0.146125196	Not plastid, signal peptide identified
+CAE7796254.1	SP	19	PAA-TSQ	-2	0.128981350	Not plastid, signal peptide identified
+CAE7796496.1	SP	21	TLA-MAD	-2	0.181675699	Not plastid, signal peptide identified
+CAE7796719.1	SP	20	VQA-DKP	0	0.226265389	Not plastid, signal peptide identified
+CAE7796731.1	SP	14	WGA-EAL	-2	0.204429697	Not plastid, signal peptide identified
+CAE7797201.1	SP	20	SLA-MKT	0	0.147886765	Not plastid, signal peptide identified
+CAE7797266.1	SP	20	ASG-HGQ	-2	0.128156558	Not plastid, signal peptide identified
+CAE7798059.1	SP	27	SKG-SVL	0	0.134327329	Not plastid, signal peptide identified
+CAE7798416.1	SP	18	ASL-RGE	-2	0.103922317	Not plastid, signal peptide identified
+CAE7799894.1	SP	36	GRC-NSR	-2	0.165735665	Not plastid, signal peptide identified
+CAE7800168.1	SP	28	CRA-NEL	0	0.131649440	Not plastid, signal peptide identified
+CAE7800261.1	SP	21	SDG-NVP	0	0.287702966	Not plastid, signal peptide identified
+CAE7800355.1	SP	18	ATA-AGK	-2	0.073897735	Not plastid, signal peptide identified
+CAE7800377.1	SP	26	APS-FAG	-2	0.688397283	Plastid, low confidence
+CAE7800411.1	SP	21	AWA-EAR	0	0.163585371	Not plastid, signal peptide identified
+CAE7800454.1	SP	19	VDA-ALT	0	0.107546457	Not plastid, signal peptide identified
+CAE7800799.1	SP	24	SYR-FVE	2	0.617302340	Plastid, low confidence
+CAE7801922.1	SP	18	AEA-GLK	0	0.153636913	Not plastid, signal peptide identified
+CAE7802571.1	SP	19	AEA-GQL	0	0.184315160	Not plastid, signal peptide identified
+CAE7804097.1	SP	17	VAA-DED	0	0.124600328	Not plastid, signal peptide identified
+CAE7804107.1	SP	22	SDS-QHM	0	0.156758260	Not plastid, signal peptide identified
+CAE7804243.1	SP	21	AAA-DMA	0	0.140773983	Not plastid, signal peptide identified
+CAE7804275.1	SP	25	AAA-EPA	0	0.126186961	Not plastid, signal peptide identified
+CAE7804843.1	SP	21	LSL-EAP	1	0.273593084	Not plastid, signal peptide identified
+CAE7805015.1	SP	19	WGA-HVH	1	0.120113733	Not plastid, signal peptide identified
+CAE7805251.1	SP	17	RLA-SCE	-2	0.119721410	Not plastid, signal peptide identified
+CAE7805270.1	SP	24	SGY-FEL	2	0.660146381	Plastid, low confidence
+CAE7805451.1	SP	20	AQA-HQG	0	0.147340062	Not plastid, signal peptide identified
+CAE7805577.1	SP	17	VVA-SQE	-1	0.124902513	Not plastid, signal peptide identified
+CAE7806626.1	SP	24	WLA-CSV	-2	0.163684761	Not plastid, signal peptide identified
+CAE7806654.1	SP	23	PPK-FSA	-2	0.656511122	Plastid, low confidence
+CAE7807114.1	SP	32	SEG-FSG	0	0.645300134	Plastid, high confidence
+CAE7807238.1	SP	25	VGA-EER	0	0.080434601	Not plastid, signal peptide identified
+CAE7807692.1	SP	21	PKA-PCV	-2	0.078495961	Not plastid, signal peptide identified
+CAE7807884.1	SP	38	AEA-AEA	2	0.104996719	Not plastid, signal peptide identified
+CAE7809086.1	SP	29	LPA-SAP	-2	0.274541670	Not plastid, signal peptide identified
+CAE7809203.1	SP	29	GRS-DCP	0	0.210822694	Not plastid, signal peptide identified
+CAE7810002.1	SP	20	VLA-DTG	0	0.130009526	Not plastid, signal peptide identified
+CAE7810321.1	SP	19	LVY-SGP	-1	0.250119318	Not plastid, signal peptide identified
+CAE7810371.1	SP	20	CPG-GEC	0	0.077462179	Not plastid, signal peptide identified
+CAE7811169.1	SP	23	AEA-VRS	0	0.136601554	Not plastid, signal peptide identified
+CAE7811179.1	SP	22	ACA-EGT	0	0.139486751	Not plastid, signal peptide identified
+CAE7811228.1	SP	22	TQA-AQG	0	0.103357541	Not plastid, signal peptide identified
+CAE7812367.1	SP	22	AVR-PSR	-1	0.107248013	Not plastid, signal peptide identified
+CAE7812540.1	SP	18	QAA-KIY	1	0.156821468	Not plastid, signal peptide identified
+CAE7812608.1	SP	18	ANA-LAS	-2	0.221243584	Plastid, low confidence
+CAE7812682.1	SP	26	IAA-DCV	0	0.130963463	Not plastid, signal peptide identified
+CAE7812767.1	SP	16	ALA-QKP	0	0.218787414	Not plastid, signal peptide identified
+CAE7812856.1	SP	34	ARA-LLG	0	0.139324782	Plastid, low confidence
+CAE7813253.1	SP	17	ALA-TSE	-2	0.124058699	Not plastid, signal peptide identified
+CAE7813481.1	SP	20	RGA-GTH	-1	0.190118331	Not plastid, signal peptide identified
+CAE7813493.1	SP	15	TGR-CDP	-1	0.196249542	Not plastid, signal peptide identified
+CAE7813729.1	SP	19	VYA-QPA	0	0.105048518	Not plastid, signal peptide identified
+CAE7814164.1	SP	26	PEA-VPQ	2	0.134639076	Not plastid, signal peptide identified
+CAE7814758.1	SP	16	ASA-FRL	0	0.613590391	Plastid, high confidence
+CAE7815631.1	SP	17	TIA-AAK	-2	0.168743834	Not plastid, signal peptide identified
+CAE7817421.1	SP	28	TGE-DAG	1	0.189422498	Not plastid, signal peptide identified
+CAE7817511.1	SP	23	FVD-GLP	-1	0.285904807	Not plastid, signal peptide identified
+CAE7817777.1	SP	23	ASA-GPD	0	0.134979395	Not plastid, signal peptide identified
+CAE7818584.1	SP	21	SSE-DAR	1	0.147407950	Not plastid, signal peptide identified
+CAE7818695.1	SP	19	AEA-SEA	0	0.107926527	Not plastid, signal peptide identified
+CAE7818704.1	SP	19	AEA-SEA	0	0.107926527	Not plastid, signal peptide identified
+CAE7819244.1	SP	18	CSA-ITW	0	0.169773396	Not plastid, signal peptide identified
+CAE7819699.1	SP	21	SES-LDD	2	0.141191052	Plastid, low confidence
+CAE7819883.1	SP	14	TVA-SSR	-2	0.102925311	Not plastid, signal peptide identified
+CAE7820630.1	SP	25	HQA-SCS	-2	0.096875825	Not plastid, signal peptide identified
+CAE7820681.1	SP	35	GQG-FGG	2	0.619252628	Plastid, low confidence
+CAE7822062.1	SP	29	GQP-FEL	2	0.626190544	Plastid, low confidence
+CAE7822289.1	SP	31	TCA-FAA	-2	0.664846925	Plastid, low confidence
+CAE7823866.1	SP	17	AAA-QVN	0	0.229805151	Not plastid, signal peptide identified
+CAE7824338.1	SP	20	GDA-CLA	2	0.088555085	Not plastid, signal peptide identified
+CAE7824370.1	SP	17	AAA-GTI	0	0.191909593	Not plastid, signal peptide identified
+CAE7824500.1	SP	16	GLA-LPE	0	0.104071173	Plastid, low confidence
+CAE7825064.1	SP	15	KVL-GEP	-1	0.207719222	Not plastid, signal peptide identified
+CAE7825404.1	SP	26	ATA-FVQ	2	0.739603312	Plastid, low confidence
+CAE7825544.1	SP	23	TGA-DDP	0	0.196697071	Not plastid, signal peptide identified
+CAE7826383.1	SP	21	VVA-FTL	0	0.648492314	Plastid, high confidence
+CAE7826482.1	SP	21	VLK-GTE	-1	0.125919063	Not plastid, signal peptide identified
+CAE7827843.1	SP	21	ALA-GRA	0	0.093989369	Not plastid, signal peptide identified
+CAE7827908.1	SP	17	AAA-ITL	0	0.198159807	Not plastid, signal peptide identified
+CAE7828163.1	SP	37	GGA-DDR	0	0.099470460	Not plastid, signal peptide identified
+CAE7828442.1	SP	26	ILG-RRG	0	0.150005512	Not plastid, signal peptide identified
+CAE7828450.1	SP	23	VSG-DRT	0	0.123953998	Not plastid, signal peptide identified
+CAE7828568.1	SP	17	LVA-SNC	-1	0.121715511	Not plastid, signal peptide identified
+CAE7828870.1	SP	32	LSA-FPT	0	0.676126238	Plastid, high confidence
+CAE7829215.1	SP	21	GRA-HSV	0	0.155861618	Not plastid, signal peptide identified
+CAE7829394.1	SP	28	DLQ-FED	-1	0.652291533	Plastid, low confidence
+CAE7829407.1	SP	21	GSA-EKM	0	0.137184874	Not plastid, signal peptide identified
+CAE7829487.1	SP	27	AMK-FTQ	2	0.677159800	Plastid, low confidence
+CAE7829949.1	SP	22	LQG-CKN	-1	0.116050604	Not plastid, signal peptide identified
+CAE7830082.1	SP	23	TCN-EAQ	1	0.234498270	Not plastid, signal peptide identified
+CAE7830167.1	SP	19	AAG-HGQ	-2	0.150630857	Not plastid, signal peptide identified
+CAE7830259.1	SP	20	ILA-TQQ	0	0.137623081	Not plastid, signal peptide identified
+CAE7830480.1	SP	18	VAA-DEP	0	0.207081149	Not plastid, signal peptide identified
+CAE7830514.1	SP	23	SGA-ESC	1	0.185836260	Not plastid, signal peptide identified
+CAE7830521.1	SP	23	SGA-ESC	1	0.185836260	Not plastid, signal peptide identified
+CAE7830542.1	SP	23	SGA-ESC	1	0.185836260	Not plastid, signal peptide identified
+CAE7830549.1	SP	23	SGA-ESC	1	0.185836260	Not plastid, signal peptide identified
+CAE7830756.1	SP	33	VKG-GVN	0	0.159301112	Not plastid, signal peptide identified
+CAE7830859.1	SP	22	GCG-NDP	0	0.189569455	Not plastid, signal peptide identified
+CAE7830866.1	SP	23	VVC-QVS	0	0.154149674	Not plastid, signal peptide identified
+CAE7830898.1	SP	19	CIA-DVP	0	0.208808573	Not plastid, signal peptide identified
+CAE7831188.1	SP	14	AVA-TAD	-2	0.171032070	Not plastid, signal peptide identified
+CAE7831323.1	SP	20	TAA-AAP	-1	0.270451661	Not plastid, signal peptide identified
+CAE7831516.1	SP	17	ALA-IRQ	0	0.139012718	Not plastid, signal peptide identified
+CAE7831744.1	SP	23	QHA-RDI	0	0.087731660	Not plastid, signal peptide identified
+CAE7831758.1	SP	14	FVG-FTQ	-2	0.629677546	Plastid, low confidence
+CAE7831761.1	SP	17	AVA-AIS	0	0.124462745	Not plastid, signal peptide identified
+CAE7831763.1	SP	18	VRG-ERP	0	0.242909733	Not plastid, signal peptide identified
+CAE7831780.1	SP	22	LLQ-SHP	-1	0.203140929	Not plastid, signal peptide identified
+CAE7832029.1	SP	21	GLK-FSD	2	0.585008887	Plastid, low confidence
+CAE7832063.1	SP	23	VSC-DDS	0	0.124665987	Not plastid, signal peptide identified
+CAE7832323.1	SP	20	VEA-VRP	0	0.177844486	Not plastid, signal peptide identified
+CAE7832327.1	SP	22	HGE-RAE	1	0.173835907	Not plastid, signal peptide identified
+CAE7832405.1	SP	15	QLA-EGT	-2	0.139654663	Not plastid, signal peptide identified
+CAE7832855.1	SP	24	AGA-ECI	0	0.117844205	Not plastid, signal peptide identified
+CAE7832886.1	SP	17	QGC-EEP	1	0.243870070	Not plastid, signal peptide identified
+CAE7833187.1	SP	17	VPA-SGL	-2	0.096460818	Not plastid, signal peptide identified
+CAE7833204.1	SP	19	PLA-HGW	-2	0.077275405	Not plastid, signal peptide identified
+CAE7833312.1	SP	19	CGA-QID	0	0.077392896	Not plastid, signal peptide identified
+CAE7833469.1	SP	16	AQA-QIE	0	0.161066792	Not plastid, signal peptide identified
+CAE7833599.1	SP	20	GLA-THI	0	0.100416900	Not plastid, signal peptide identified
+CAE7833691.1	SP	26	CEA-LGG	2	0.155050484	Plastid, low confidence
+CAE7833845.1	SP	35	ATS-TSL	-2	0.159501425	Not plastid, signal peptide identified
+CAE7834026.1	SP	15	ASA-LEP	0	0.228467745	Plastid, low confidence
+CAE7834107.1	SP	35	VSA-STA	0	0.165188297	Not plastid, signal peptide identified
+CAE7834256.1	SP	25	ALQ-GCD	-2	0.146530171	Not plastid, signal peptide identified
+CAE7834702.1	SP	29	AAA-QEL	1	0.134882885	Not plastid, signal peptide identified
+CAE7835065.1	SP	26	CGC-DTS	0	0.240068432	Not plastid, signal peptide identified
+CAE7835133.1	SP	19	IHS-RLI	0	0.092125600	Not plastid, signal peptide identified
+CAE7835190.1	SP	28	HCS-DEE	1	0.083239867	Not plastid, signal peptide identified
+CAE7835384.1	SP	20	VTA-SGS	-2	0.147212839	Not plastid, signal peptide identified
+CAE7835399.1	SP	19	AEA-SEA	0	0.107926527	Not plastid, signal peptide identified
+CAE7835505.1	SP	17	GIA-SGS	-2	0.095610600	Not plastid, signal peptide identified
+CAE7835518.1	SP	55	ATA-DVT	0	0.184995768	Not plastid, signal peptide identified
+CAE7835536.1	SP	19	VQG-QSL	0	0.160660640	Not plastid, signal peptide identified
+CAE7835679.1	SP	21	TEA-LPD	0	0.117228125	Plastid, low confidence
+CAE7835962.1	SP	19	VVQ-GTR	-1	0.196551372	Not plastid, signal peptide identified
+CAE7836226.1	SP	28	SRA-SDA	0	0.132455806	Not plastid, signal peptide identified
+CAE7836250.1	SP	21	RGG-NVL	1	0.150208447	Not plastid, signal peptide identified
+CAE7836268.1	SP	19	VAA-AIP	-1	0.227303422	Not plastid, signal peptide identified
+CAE7836611.1	SP	17	AVR-QQD	-1	0.096083843	Not plastid, signal peptide identified
+CAE7836716.1	SP	26	AVK-FTQ	2	0.665067947	Plastid, low confidence
+CAE7836820.1	SP	21	NTA-EIP	1	0.235442280	Not plastid, signal peptide identified
+CAE7837007.1	SP	22	VQA-DMY	0	0.114261717	Not plastid, signal peptide identified
+CAE7837179.1	SP	16	GHA-ESA	-2	0.134424307	Not plastid, signal peptide identified
+CAE7837299.1	SP	19	GQG-DCQ	0	0.103683215	Not plastid, signal peptide identified
+CAE7837332.1	SP	25	ASN-CST	-1	0.177335800	Not plastid, signal peptide identified
+CAE7837661.1	SP	19	CTA-HGA	-2	0.110380144	Not plastid, signal peptide identified
+CAE7838113.1	SP	23	VRT-DSL	0	0.143280180	Not plastid, signal peptide identified
+CAE7838182.1	SP	21	AYA-AES	0	0.119348592	Not plastid, signal peptide identified
+CAE7838417.1	SP	25	EGA-VTR	1	0.145026760	Not plastid, signal peptide identified
+CAE7838458.1	SP	21	PVA-PPP	2	0.233239724	Not plastid, signal peptide identified
+CAE7838519.1	SP	19	PLA-LRS	0	0.128486330	Plastid, low confidence
+CAE7838567.1	SP	28	GQA-LMP	2	0.236241766	Plastid, low confidence
+CAE7838767.1	SP	21	VCS-YTG	0	0.137778979	Plastid, low confidence
+CAE7838872.1	SP	19	TAA-KLS	1	0.226824329	Not plastid, signal peptide identified
+CAE7838895.1	SP	16	GLA-DAS	-2	0.168128113	Not plastid, signal peptide identified
+CAE7838898.1	SP	16	GLA-DAS	-2	0.168128113	Not plastid, signal peptide identified
+CAE7838989.1	SP	17	SAA-LRE	0	0.120447963	Plastid, low confidence
+CAE7839093.1	SP	18	CLG-LSG	0	0.143845165	Plastid, low confidence
+CAE7839114.1	SP	21	LNA-SRV	0	0.115115691	Not plastid, signal peptide identified
+CAE7839131.1	SP	22	AQR-FED	2	0.604152088	Plastid, low confidence
+CAE7839821.1	SP	18	ISA-QRE	0	0.096926791	Not plastid, signal peptide identified
+CAE7840000.1	SP	22	SLA-DES	0	0.171103626	Not plastid, signal peptide identified
+CAE7840294.1	SP	21	RAA-LGQ	-2	0.118240238	Plastid, low confidence
+CAE7840443.1	SP	15	AAA-DGI	-2	0.098985464	Not plastid, signal peptide identified
+CAE7840445.1	SP	17	AVV-DCE	-2	0.105848506	Not plastid, signal peptide identified
+CAE7840524.1	SP	18	AVG-HGD	-2	0.104280474	Not plastid, signal peptide identified
+CAE7840546.1	SP	42	AGG-FVS	2	0.666865690	Plastid, low confidence
+CAE7840905.1	SP	26	DAG-FTC	1	0.641330648	Plastid, low confidence

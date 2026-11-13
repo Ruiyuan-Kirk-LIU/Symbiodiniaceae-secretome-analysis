@@ -1,0 +1,17 @@
+step	count
+nr99_proteome	41779
+Secretome (+)_after_SP_split	2957
+Secretome (+)_after_DeepLoc	1704
+Secretome (+)_after_TM_filter	1461
+Secretome (+)_after_TP_filter	1457
+Secretome (+)_after_ASAFind_filter	1118
+Secretome (+)_final_secretome	1109
+Secretome (-)_after_SP_split	38822
+Secretome (-)_after_DeepLoc	2228
+Secretome (-)_after_TM_filter	1883
+Secretome (-)_after_TP_filter	1852
+Secretome (-)_after_ASAFind_filter	278
+Secretome (-)_final_secretome	277
+Secretome (+)_after_GPI_filter	1066
+Secretome (+)_final_without_GPI	1066
+Secretome (-)_final_without_GPI	277

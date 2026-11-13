@@ -106,7 +106,7 @@ Large files are **not** stored in this repository:
 | Data | Location |
 |---|---|
 | Input proteomes (7 strains) | See [`data/README.md`](data/README.md) |
-| LC-MS/MS exoproteome raw data | <!-- TODO: PRIDE / jPOST accession --> |
+
 
 `data/processed/` contains the small summary tables needed to regenerate every figure without rerunning the HPC steps. Key files:
 
