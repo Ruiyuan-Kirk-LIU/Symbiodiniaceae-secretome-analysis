@@ -111,6 +111,7 @@ Large files are **not** stored in this repository:
 |---|---|
 | Input proteomes (7 strains) | See [`data/README.md`](data/README.md), accessions in [Strains](#Strains) |
 | Functional annotation of Symbiodiniaceae proteome | Liu, Y. et al. (2026) “Functional annotation of Symbiodiniaceae proteome”. Zenodo. Available at: [https://doi.org/10.5281/zenodo.24190496](https://doi.org/10.5281/zenodo.24190496). |
+| LC-MS/MS raw files | ProteomeXchange [PXD087538](https://proteomecentral.proteomexchange.org/ui?pxid=PXD087538) via the iProX partner repository [IPX0021250000](https://www.iprox.cn/page/project.html?id=IPX0021250000) |
 
 
 `data/processed/` contains the small summary tables needed to regenerate every figure without rerunning the HPC steps. Key files:
